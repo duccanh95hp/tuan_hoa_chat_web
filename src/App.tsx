@@ -1,25 +1,33 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { Suspense } from "react";
+import "./App.css";
+import { ThemeSettingsProvider } from "./shared/contexts/ThemeSettings";
+import { AppProvider } from "./shared/contexts/AppProvider";
+import { LayoutPage } from "./ui/layouts/LayoutPage";
+import { Router } from "./router";
+import { FullScreenOverlay } from "./shared/components/FullScreenOverlay";
+import { LoadingScreen } from "./shared/components";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <ThemeSettingsProvider
+      defaultSettings={{
+        themeMode: "light",
+      }}
+    >
+      <AppProvider>
+        <LayoutPage>
+          <Suspense
+            fallback={
+              <FullScreenOverlay>
+                <LoadingScreen />
+              </FullScreenOverlay>
+            }
+          >
+            <Router />
+          </Suspense>
+        </LayoutPage>
+      </AppProvider>
+    </ThemeSettingsProvider>
   );
 }
 
