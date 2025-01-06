@@ -7,11 +7,11 @@ import {
   StyledPageWapper,
 } from "../../layouts/styles";
 import { MenuList } from "../../layouts/function/Sidebar";
-import { Menu, MenuProps } from "antd";
+import { Menu, MenuProps, Pagination } from "antd";
 import { ItemType, MenuItemType } from "antd/es/menu/interface";
-import { DATA_DETAIL, NEWS as NEWS_DATA } from "../../../core/data/home";
 import { NewsProductItem } from "./news-product-item/NewsProductItem";
-import { NewsDetail } from "./detail";
+import { NEWS_DATA_PAGE } from "../../../core/data/news";
+import { useState } from "react";
 
 const StyledNewsWapper = styled("div", {
   display: "flex",
@@ -61,8 +61,20 @@ const StyledNewsProductWapper = styled("div", {
   },
 });
 
+const StyledPagingWapper = styled("div", {
+  display: "flex",
+  justifyContent: "center",
+});
+
 const News = () => {
   const menuLeftNews = MenuList[0] as MenuProps;
+
+  const [currentPage, setCurrentPage] = useState<number>(1);
+  const currentData = NEWS_DATA_PAGE.slice(
+    (currentPage - 1) * 12,
+    currentPage * 12
+  );
+
   return (
     <StyledPageWapper>
       <StyledNewsWapper>
@@ -93,9 +105,9 @@ const News = () => {
         </StyledNewsLeft>
 
         <StyledNewsRight>
-          {/* <StyledCollapse style={{ width: "unset" }}>TIN TỨC</StyledCollapse>
+          <StyledCollapse style={{ width: "unset" }}>TIN TỨC</StyledCollapse>
           <StyledNewsProductWapper>
-            {NEWS_DATA.map((product, index) => (
+            {currentData.map((product, index) => (
               <NewsProductItem
                 key={index}
                 content={product.content}
@@ -103,8 +115,16 @@ const News = () => {
                 icon={product.icon}
               />
             ))}
-          </StyledNewsProductWapper> */}
-          <NewsDetail />
+          </StyledNewsProductWapper>
+          <StyledPagingWapper>
+            <Pagination
+              current={currentPage}
+              defaultCurrent={1}
+              defaultPageSize={12}
+              total={NEWS_DATA_PAGE.length}
+              onChange={(page) => setCurrentPage(page)}
+            />
+          </StyledPagingWapper>
         </StyledNewsRight>
       </StyledNewsWapper>
     </StyledPageWapper>

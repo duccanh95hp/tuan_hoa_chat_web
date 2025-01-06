@@ -34,6 +34,11 @@ export const Router = () => {
       element: <News />,
       children: [],
     },
+    {
+      path: PATH.product,
+      element: <Products />,
+      children: [],
+    },
   ]);
   return router;
 };
@@ -44,3 +49,4 @@ const Contact = React.lazy(() => import("../ui/page/Contact"));
 const Library = React.lazy(() => import("../ui/page/Library"));
 const Introduce = React.lazy(() => import("../ui/page/Introduce"));
 const News = React.lazy(() => import("../ui/page/News"));
+const Products = React.lazy(() => import("../ui/page/Products"));

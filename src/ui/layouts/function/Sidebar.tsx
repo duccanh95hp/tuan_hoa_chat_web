@@ -7,6 +7,7 @@ import useClickOutside from "../../../shared/hooks/useClickOutside";
 import { useEffect, useRef, useState } from "react";
 import { MenuSidebar } from "../styles";
 import { IconCloseSidebar } from "../../../shared/assets/icons/IconCloseSidebar";
+import { getLabelByKey } from "../../../shared/utils/getLabelByKey";
 
 const StyledSidebar = styled("div", {
   height: "100%",
@@ -83,7 +84,7 @@ const StyledSidebarHeader = styled("div", {
   },
 });
 
-type MenuItem = Required<MenuProps>["items"][number];
+export type MenuItem = Required<MenuProps>["items"][number];
 
 export const MenuList: MenuItem[] = [
   {
@@ -92,79 +93,79 @@ export const MenuList: MenuItem[] = [
     label: "DANH MỤC SẢN PHẨM",
     icon: <UnorderedListOutlined style={{ color: "white" }} />,
     children: [
-      { key: "/san-pham/hoa-chat-xu-ly-nuoc", label: "Hóa Chất Xử Lý Nước" },
+      { key: "/san-pham?hoa-chat-xu-ly-nuoc", label: "Hóa Chất Xử Lý Nước" },
       {
-        key: "/san-pham/hoa-chat-co-ban",
+        key: "/san-pham?hoa-chat-co-ban",
         label: "Hóa Chất Cơ Bản",
         children: [
           {
-            key: "/san-pham/hoa-chat-det-nhom",
+            key: "/san-pham?hoa-chat-det-nhom",
             label: "Hóa Chất Ngành Dệt Nhuộm",
           },
-          { key: "/san-pham/hoa-chat-xi-ma", label: "Hóa Chất Ngành Xi Mạ" },
+          { key: "/san-pham?hoa-chat-xi-ma", label: "Hóa Chất Ngành Xi Mạ" },
           {
-            key: "/san-pham/hoa-chat-khai-khoang",
+            key: "/san-pham?hoa-chat-khai-khoang",
             label: "Hóa Chất Ngành Khai Khoáng",
           },
           {
-            key: "/san-pham/hoa-chat-da-giay",
+            key: "/san-pham?hoa-chat-da-giay",
             label: "Hóa Chất Ngành Da Giày",
           },
-          { key: "/san-pham/hoa-chat-giay", label: "Hóa Chất Ngành Giấy" },
+          { key: "/san-pham?hoa-chat-giay", label: "Hóa Chất Ngành Giấy" },
           {
-            key: "/san-pham/hoa-chat-thuc-pham",
+            key: "/san-pham?hoa-chat-thuc-pham",
             label: "Hóa Chất Ngành Thực Phẩm",
           },
           {
-            key: "/san-pham/hoa-chat-thuc-an-chan-nuoi",
+            key: "/san-pham?hoa-chat-thuc-an-chan-nuoi",
             label: "Hóa Chất Ngành Thức Ăn Chăn Nuôi",
           },
           {
-            key: "/san-pham/hoa-chat-my-pham",
+            key: "/san-pham?hoa-chat-my-pham",
             label: "Hóa Chất Ngành Dược - Mỹ Phẩm",
           },
-          { key: "/san-pham/hoa-chat-son", label: "Hóa Chất Ngành Sơn" },
+          { key: "/san-pham?hoa-chat-son", label: "Hóa Chất Ngành Sơn" },
           {
-            key: "/san-pham/hoa-chat-dien-tu",
+            key: "/san-pham?hoa-chat-dien-tu",
             label: "Hóa Chất Ngành Điện Tử",
           },
           {
-            key: "/san-pham/hoa-chat-tay-rua",
+            key: "/san-pham?hoa-chat-tay-rua",
             label: "Hóa Chất Ngành Tẩy Rửa",
           },
         ],
       },
-      { key: "/san-pham/dung-moi-cong-nghiep", label: "Dung Môi Công Nghiệp" },
+      { key: "/san-pham?dung-moi-cong-nghiep", label: "Dung Môi Công Nghiệp" },
       {
-        key: "/san-pham/hoa-chat-thi-nghiem",
+        key: "/san-pham?hoa-chat-thi-nghiem",
         label: "Hóa Chất Thí Nghiệm",
         children: [
           {
-            key: "/san-pham/chat-chuan",
+            key: "/san-pham?chat-chuan",
             label: "Chất Chuẩn",
           },
-          { key: "/san-pham/dung-moi", label: "Dung Môi" },
+          { key: "/san-pham?dung-moi", label: "Dung Môi" },
           {
-            key: "/san-pham/acid-bazo",
+            key: "/san-pham?acid-bazo",
             label: "Acid và Bazo",
           },
           {
-            key: "/san-pham/muoi",
+            key: "/san-pham?muoi",
             label: "Muối",
           },
-          { key: "/san-pham/chi-thi", label: "Chỉ Thị" },
+          { key: "/san-pham?chi-thi", label: "Chỉ Thị" },
           {
-            key: "/san-pham/thuoc-thu",
+            key: "/san-pham?thuoc-thu",
             label: "Thuốc Thử",
           },
         ],
       },
       {
-        key: "/san-pham/vat-tu-va-thiet-bi-cong-nghiep",
+        key: "/san-pham?vat-tu-va-thiet-bi-cong-nghiep",
         label: "Vật Tư Và Thiết Bị Công Nghiệp",
       },
       {
-        key: "/san-pham/thiet-bi-phong-thi-nghiem",
+        key: "/san-pham?thiet-bi-phong-thi-nghiem",
         label: "Thiết Bị Phòng Thí Nghiệm",
       },
     ],

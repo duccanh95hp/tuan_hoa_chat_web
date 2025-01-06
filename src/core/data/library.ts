@@ -48,17 +48,17 @@ import Img42 from "../../shared/assets/img-library/anh42.jpg";
 export const LIBRARY = [
   {
     key: 1,
-    file: "/pdf/Profile-VNHACO.pdf",
+    file: "/pdf/ProfileVn.pdf",
     img: ImgProfileVn,
   },
   {
     key: 2,
-    file: "/pdf/Profile-VNHACO-Tieng-Anh.pdf",
+    file: "/pdf/ProfileEng.pdf",
     img: ImgProfileEng,
   },
   {
     key: 3,
-    file: "/pdf/Profile-VNHACO-Tieng-Trung.pdf",
+    file: "/pdf/ProfileChina.pdf",
     img: ImgProfileChina,
   },
 ];

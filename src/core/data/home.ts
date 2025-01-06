@@ -4,10 +4,10 @@ import ImgIndustrialChemicals from "../../shared/assets/img-home/dungmoicongnghi
 import ImgChemicalTest from "../../shared/assets/img-home/hoachatthinghiem.jpg";
 import ImgIndustrialSuppliesEquipment from "../../shared/assets/img-home/vattuthietbicongnghiep.png";
 import ImgLaboratoryEquipment from "../../shared/assets/img-home/thietbiphongthinghiem.png";
-import Ic1 from "../../shared/assets/img-home/ic1.png";
-import Ic2 from "../../shared/assets/img-home/ic2.png";
-import Ic3 from "../../shared/assets/img-home/ic3.png";
-import Ic4 from "../../shared/assets/img-home/ic4.png";
+import Ic1 from "../../shared/assets/icons/ic1.png";
+import Ic2 from "../../shared/assets/icons/ic2.png";
+import Ic3 from "../../shared/assets/icons/ic3.png";
+import Ic4 from "../../shared/assets/icons/ic4.png";
 import ImgNew1 from "../../shared/assets/img-home/phan-ung-mau-biure.jpg";
 import ImgNew2 from "../../shared/assets/img-home/graphite-1-3.jpg";
 import ImgNew3 from "../../shared/assets/img-home/polyamide-2.jpg";
