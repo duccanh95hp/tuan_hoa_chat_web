@@ -23,8 +23,11 @@ const MenuStyle = styled("div", {
   alignItems: "center",
   background: "white",
   justifyContent: "space-between",
-  "@media (max-width: 1050px)": {
-    padding: "0 5%",
+  "@media (max-width: 1400px)": {
+    padding: "0 24px",
+  },
+  "@media (max-width: 765px)": {
+    padding: "0 16px",
   },
 });
 
@@ -76,8 +79,11 @@ const LayoutHeader = styled("div", {
   padding: "6px 15%",
   display: "flex",
   justifyContent: "space-between",
+  "@media (max-width: 1400px)": {
+    padding: "0 24px",
+  },
   "@media (max-width: 768px)": {
-    padding: "0 5%",
+    padding: "0 16px",
   },
 });
 

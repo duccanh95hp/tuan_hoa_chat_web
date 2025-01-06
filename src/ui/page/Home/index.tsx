@@ -37,7 +37,7 @@ const StyledIntroview = styled("div", {
   gap: "12px",
   flexWrap: "wrap",
   "@media (max-width: 765px)": {
-    padding: "10px 5%",
+    padding: "10px 16px",
   },
   ".introview_item": {
     flex: "1",
@@ -107,7 +107,7 @@ const StyledWapper = styled("div", {
   flexWrap: "wrap",
   background: "white",
   "@media (max-width: 1050px)": {
-    padding: "5%",
+    padding: "24px",
   },
 });
 

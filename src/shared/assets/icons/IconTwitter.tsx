@@ -1,6 +1,6 @@
 import { memo } from "react";
 
-export const IconTwtiter = memo(() => (
+export const IconTwitter = memo(() => (
   <svg
     fill="#010175"
     width="16px"

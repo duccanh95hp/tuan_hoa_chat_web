@@ -1,10 +1,13 @@
-import { IconFaceBook } from "../../shared/assets/icons";
-import { IconTwtiter } from "../../shared/assets/icons/IconTwtiter";
-import { YoutobeIcon } from "../../shared/assets/icons/YoutobeIcon";
+import {
+  IconFaceBook,
+  IconTwitter,
+  YoutobeIcon,
+} from "../../shared/assets/icons";
 import { styled } from "../../shared/styles";
 import IconVn from "../../shared/assets/icons/ic_VN.png";
 import IconEng from "../../shared/assets/icons/icon_EN.png";
 import IconChina from "../../shared/assets/icons/ic_TQ.png";
+import { Button, Tooltip } from "antd";
 
 const LayoutContactStyled = styled("div", {
   fontSize: "12px",
@@ -30,13 +33,49 @@ const LayoutContactStyled = styled("div", {
   },
 });
 
+const StyledBtnHover = styled(Button, {
+  border: "none",
+  padding: "unset",
+  "&:focus-visible": {
+    outline: "unset !important",
+  },
+});
+
 export const HeaderData = () => {
   return (
     <LayoutContactStyled>
       <div className="left">
-        <IconFaceBook />
-        <IconTwtiter />
-        <YoutobeIcon />
+        <Tooltip
+          trigger="hover"
+          placement="bottomLeft"
+          title={"Follow on Facebook"}
+        >
+          <StyledBtnHover
+            onClick={() =>
+              window.open("https://www.facebook.com/canh.uc.808320", "_black")
+            }
+          >
+            <IconFaceBook />
+          </StyledBtnHover>
+        </Tooltip>
+        <Tooltip
+          trigger="hover"
+          placement="bottomLeft"
+          title={"Follow on Twitter"}
+        >
+          <StyledBtnHover>
+            <IconTwitter />
+          </StyledBtnHover>
+        </Tooltip>
+        <Tooltip
+          trigger="hover"
+          placement="bottomLeft"
+          title={"Follow on Youtobe"}
+        >
+          <StyledBtnHover>
+            <YoutobeIcon />
+          </StyledBtnHover>
+        </Tooltip>
       </div>
       <div className="right">
         <img src={IconVn} alt="icon-vn" />

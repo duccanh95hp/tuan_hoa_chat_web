@@ -11,13 +11,13 @@ export const IconCloseSidebar = memo(() => (
     <path
       d="M19 5L5 19"
       stroke="#808080"
-      stroke-width="2"
+      strokeWidth="2"
       stroke-linecap="round"
     />
     <path
       d="M5 5L19 19"
       stroke="#808080"
-      stroke-width="2"
+      strokeWidth="2"
       stroke-linecap="round"
     />
   </svg>

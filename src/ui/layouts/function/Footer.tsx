@@ -18,6 +18,9 @@ const StyledFooterWapper = styled("div", {
     padding: "24px 10%",
     fontFamily: "times new roman",
     color: "#1f2a37",
+    "@media (max-width: 1450px)": {
+      padding: "24px 5%",
+    },
   },
   ".copy_right": {
     color: "white",

@@ -10,3 +10,5 @@ export * from "./WareHouse";
 export * from "./AddressIcon";
 export * from "./IconMenu";
 export * from "./IconFaceBook";
+export * from "./IconTwitter";
+export * from "./YoutobeIcon";

@@ -8,4 +8,4 @@ export const breakpoints = {
   "2xl": 1440,
 };
 
-export const MOBIE_WIDTH = 900;
+export const MOBIE_WIDTH = 1000;

@@ -55,7 +55,7 @@ export const ProductItemSmall = ({ img, title, pirce }: TProductItemSmall) => {
   );
 };
 
-const StyledProductItem = styled("div", {
+export const StyledProductItem = styled("div", {
   display: "flex",
   gap: "10px",
   flexDirection: "column",

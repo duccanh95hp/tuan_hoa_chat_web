@@ -22,6 +22,7 @@ const StyledFooterContact = styled("div", {
   position: "fixed",
   bottom: "50px",
   left: "-12px",
+  zIndex: 1000,
 });
 
 export const LayoutPage = ({ children }: { children: ReactNode }) => {

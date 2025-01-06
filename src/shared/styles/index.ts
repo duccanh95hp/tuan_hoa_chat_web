@@ -68,6 +68,12 @@ export const {
       lineHeight: "16px",
       color: "$black111",
     }),
+    lineClamp: (value: number) => ({
+      display: "-webkit-box",
+      "-webkit-box-orient": "vertical",
+      overflow: "hidden",
+      "-webkit-line-clamp": value,
+    }),
   },
   // prefix: PREFIX_CLASS_NAME, config name class css
 });

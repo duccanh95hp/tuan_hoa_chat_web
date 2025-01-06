@@ -68,8 +68,6 @@ const Introduce = () => {
     setActive(isActive);
   }, [search]);
 
-  console.log(search);
-
   return (
     <StyledPageWapper>
       <StyledIntroduceWapper>

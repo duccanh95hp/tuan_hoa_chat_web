@@ -1,4 +1,4 @@
-import { Button } from "antd";
+import { Button, Menu } from "antd";
 import { styled } from "../../shared/styles";
 
 export const StyledPageWapper = styled("div", {
@@ -8,7 +8,7 @@ export const StyledPageWapper = styled("div", {
     padding: "24px",
   },
   "@media (max-width: 1050px)": {
-    padding: "5%",
+    padding: "16px",
   },
 });
 
@@ -146,7 +146,58 @@ export const MenuSidebar = styled("div", {
       borderBottomColor: "#1190e4 !important",
     },
   },
+  "@media (max-width: 1400px)": {
+    padding: "0 24px",
+  },
   "@media (max-width: 1050px)": {
-    padding: "0",
+    padding: "0 24px",
+    background: "white !important",
+    alignItems: "start",
+  },
+});
+
+export const StyledMenuAntdLeft = styled("div", {
+  ".ant-menu": {
+    border: "1px dotted #34469d !important",
+    borderRadius: "0 0 5px 5px",
+    borderTop: "none !important",
+    ".ant-menu-item": {
+      fontSize: "14px",
+      fontWeight: "600",
+      paddingLeft: "12px !important",
+      borderTop: "1px dotted #34469d !important",
+      borderRadius: "unset",
+      "&:hover": {
+        color: "#2980b9 !important",
+        background: "unset !important",
+      },
+      // color: "#2980b9",
+      "&:first-child": {
+        borderTop: "unset !important",
+      },
+    },
+    ".ant-menu-item-selected": {
+      color: "#2980b9",
+      background: "unset",
+    },
+    ".ant-menu-submenu-selected": {
+      ".ant-menu-submenu-title": {
+        color: "#2980b9",
+      },
+    },
+    ".ant-menu-submenu-title": {
+      fontSize: "14px",
+      fontWeight: "600",
+      borderTop: "1px dotted #34469d !important",
+      paddingLeft: "12px !important",
+      borderRadius: "unset",
+      "&:hover": {
+        color: "#2980b9 !important",
+        background: "unset !important",
+      },
+    },
+  },
+  ".ant-menu-sub": {
+    borderBottom: "unset !important",
   },
 });

@@ -4,7 +4,7 @@ import { keyframes, styled } from "../../../shared/styles";
 import { UnorderedListOutlined } from "@ant-design/icons";
 import { Menu, MenuProps } from "antd";
 import useClickOutside from "../../../shared/hooks/useClickOutside";
-import { useRef } from "react";
+import { useEffect, useRef, useState } from "react";
 import { MenuSidebar } from "../styles";
 import { IconCloseSidebar } from "../../../shared/assets/icons/IconCloseSidebar";
 
@@ -12,30 +12,47 @@ const StyledSidebar = styled("div", {
   height: "100%",
   width: "100%",
   position: "fixed",
-  background: "white",
   zIndex: 100,
   top: 0,
+  left: 0,
+  display: "flex",
   boxShadow: "0px 0px 3px 0px #cdcdcd",
-  padding: "38px 0px",
-  transform: "translateX(-100%)", // Initial off-screen position
-  transition: "transform 0.3s ease-in-out", // Smooth slide effect
+  transform: "translateX(-100%)",
+  transition: "transform 0.3s ease-in-out, opacity 0.3s ease-in-out",
   "&.open": {
-    transform: "translateX(0)", // Slide into view
+    transform: "translateX(0)",
   },
-  ".menu_sidebar": {
-    marginTop: "12px",
-    ".ant-menu": {
-      border: "none !important",
+  ".side_container": {
+    width: "40%",
+    height: "100%",
+    background: "white",
+    padding: "38px 0px",
+    opacity: "1",
+    "@media (max-width: 765px)": {
+      width: "100%",
     },
-    ".ant-menu-submenu-title": {
-      background: "#fa6e4f !important",
-      color: "white",
+    ".menu_sidebar": {
+      overflowY: "auto",
+      height: "90%",
+      marginTop: "12px",
+      ".ant-menu": {
+        border: "none",
+      },
     },
   },
 });
 
+const StyledSidebarRight = styled("div", {
+  opacity: "0.6",
+  background: "#0b0b0b",
+  width: "100%",
+  "@media (max-width: 765px)": {
+    width: "unset",
+  },
+});
+
 const moveAnimation = keyframes({
-  "0%": { top: "30px" },
+  "0%": { top: "40px" },
   "100%": { top: "12px" },
 });
 
@@ -44,8 +61,26 @@ const StyledSidebarHeader = styled("div", {
   position: "absolute",
   top: "12px",
   right: "12px",
-  animation: `${moveAnimation} 1s 1`,
-  animationDelay: "1s",
+  zIndex: "1000",
+  animation: `${moveAnimation} 1s 1 forwards`,
+  animationDelay: "1s hidden",
+  variants: {
+    isOpen: {
+      true: {
+        opacity: "1",
+      },
+      false: {
+        opacity: "0",
+      },
+    },
+  },
+  "@media (min-width: 765px)": {
+    svg: {
+      path: {
+        stroke: "white",
+      },
+    },
+  },
 });
 
 type MenuItem = Required<MenuProps>["items"][number];
@@ -57,14 +92,14 @@ export const MenuList: MenuItem[] = [
     label: "DANH MỤC SẢN PHẨM",
     icon: <UnorderedListOutlined style={{ color: "white" }} />,
     children: [
-      { key: "/san-pham/hoa-chat-xu-ly-nuoc", label: "HÓA CHẤT XỬ LÝ NƯỚC" },
+      { key: "/san-pham/hoa-chat-xu-ly-nuoc", label: "Hóa Chất Xử Lý Nước" },
       {
         key: "/san-pham/hoa-chat-co-ban",
-        label: "HÓA CHẤT CƠ BẢN",
+        label: "Hóa Chất Cơ Bản",
         children: [
           {
             key: "/san-pham/hoa-chat-det-nhom",
-            label: "Hóa Chất Ngành Dệt Nhộm",
+            label: "Hóa Chất Ngành Dệt Nhuộm",
           },
           { key: "/san-pham/hoa-chat-xi-ma", label: "Hóa Chất Ngành Xi Mạ" },
           {
@@ -99,15 +134,38 @@ export const MenuList: MenuItem[] = [
           },
         ],
       },
-      { key: "/san-pham/dung-moi-cong-nghiep", label: "DUNG MÔI CÔNG NGHIỆP" },
-      { key: "/san-pham/hoa-chat-thi-nghiem", label: "HÓA CHẤT THÍ NGHIỆM" },
+      { key: "/san-pham/dung-moi-cong-nghiep", label: "Dung Môi Công Nghiệp" },
+      {
+        key: "/san-pham/hoa-chat-thi-nghiem",
+        label: "Hóa Chất Thí Nghiệm",
+        children: [
+          {
+            key: "/san-pham/chat-chuan",
+            label: "Chất Chuẩn",
+          },
+          { key: "/san-pham/dung-moi", label: "Dung Môi" },
+          {
+            key: "/san-pham/acid-bazo",
+            label: "Acid và Bazo",
+          },
+          {
+            key: "/san-pham/muoi",
+            label: "Muối",
+          },
+          { key: "/san-pham/chi-thi", label: "Chỉ Thị" },
+          {
+            key: "/san-pham/thuoc-thu",
+            label: "Thuốc Thử",
+          },
+        ],
+      },
       {
         key: "/san-pham/vat-tu-va-thiet-bi-cong-nghiep",
-        label: "VẬT TƯ VÀ THIẾT BỊ CÔNG NGHIỆP",
+        label: "Vật Tư Và Thiết Bị Công Nghiệp",
       },
       {
         key: "/san-pham/thiet-bi-phong-thi-nghiem",
-        label: "THIẾT BỊ PHÒNG THÍ NGHIỆM",
+        label: "Thiết Bị Phòng Thí Nghiệm",
       },
     ],
   },
@@ -122,7 +180,7 @@ export const MenuList: MenuItem[] = [
 export const Sidebar = () => {
   const ref = useRef(null);
   const { collapsed, updateAppProps } = useAppProvider();
-  const { navigate } = useRouter();
+  const { navigate, location } = useRouter();
 
   const onChangePage = (e: any) => {
     navigate(e.key);
@@ -137,20 +195,37 @@ export const Sidebar = () => {
     }
   });
 
+  const { pathname } = location;
+  const [defaultPath, setDefaultPath] = useState<string>(pathname);
+
+  useEffect(() => {
+    if (pathname) {
+      setDefaultPath(pathname);
+    }
+  }, [pathname]);
+
   return (
     <StyledSidebar ref={ref} className={collapsed ? "open" : ""}>
-      <StyledSidebarHeader onClick={() => updateAppProps({ collapsed: false })}>
-        <IconCloseSidebar />
-      </StyledSidebarHeader>
-      <MenuSidebar className="menu_sidebar">
-        <Menu
-          mode="inline"
-          theme="light"
-          defaultSelectedKeys={["/"]}
-          items={MenuList}
-          onClick={onChangePage}
-        />
-      </MenuSidebar>
+      <div className="side_container">
+        {collapsed && (
+          <StyledSidebarHeader
+            isOpen={collapsed}
+            onClick={() => updateAppProps({ collapsed: false })}
+          >
+            <IconCloseSidebar />
+          </StyledSidebarHeader>
+        )}
+        <MenuSidebar className="menu_sidebar">
+          <Menu
+            mode="inline"
+            theme="light"
+            defaultSelectedKeys={[defaultPath]}
+            items={MenuList}
+            onClick={onChangePage}
+          />
+        </MenuSidebar>
+      </div>
+      <StyledSidebarRight />
     </StyledSidebar>
   );
 };

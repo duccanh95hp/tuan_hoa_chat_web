@@ -79,7 +79,7 @@ export const IntroduceStep = () => {
           <p>
             &nbsp;&nbsp;
             <span className="text-bold">
-              Công ty TNHH VN Haco – Trọng Tuấn Chemical
+              Công ty TNHH VN – Trọng Tuấn Chemical
             </span>{" "}
             tự hào là doanh nghiệp chuyên phân phối Hóa chất – Thiết bị từ các
             hãng nổi tiếng trên thế giới đáp ứng được nhu cầu đa dạng của khách
@@ -168,6 +168,7 @@ export const IntroduceStep = () => {
       <StyledIntroduceProd>
         {INTRODUCE_PRODUCT.map((product) => (
           <ProductItem
+            key={product.key}
             img={product.img}
             title={product.title}
             pirce={product.pirce}

@@ -21,6 +21,14 @@ const { styled } = createStitches({
       gap: "16px",
     },
   },
+  utils: {
+    lineClamp: (value: number) => ({
+      display: "-webkit-box",
+      "-webkit-box-orient": "vertical",
+      overflow: "hidden",
+      "-webkit-line-clamp": value,
+    }),
+  },
 });
 
 export const StyledSliderContainer = styled("div", {
@@ -66,6 +74,7 @@ export const StyledWapperItem = styled("div", {
   },
   ".content": {
     textAlign: "start",
+    lineClamp: 3,
   },
   "@media (max-width: 1050px)": {
     flex: "0 0 48%", // For smaller screens, show 2 items (each takes 1/2 width)
@@ -80,7 +89,7 @@ export const StyledWapperItem = styled("div", {
       true: {
         flex: "0 0 100%", // Mỗi item chiếm đúng 1/4 chiều rộng của slider
         maxWidth: "100%",
-        height: '100%',
+        height: "100%",
         "@media (max-width: 765px)": {
           flex: "0 0 100%",
           maxWidth: "100%",

@@ -49,7 +49,7 @@ const BaseRing = styled("div", {
   width: "110px",
   height: "65px",
   cursor: "pointer",
-  zIndex: 11,
+  zIndex: 9999,
   backfaceVisibility: "hidden",
   transform: "translateZ(0)",
   transition: "visibility 0.5s",
@@ -150,6 +150,7 @@ const ImgCircle = styled("div", {
   },
 
   "& .pps-btn-img img": {
+    marginTop: '5px',
     width: "45px",
     height: "45px",
     "@media (max-width: 765px)": {
@@ -172,7 +173,7 @@ const HotlineBar = styled("div", {
   padding: "0 10px",
   cursor: "pointer",
   transition: "all 0.8s",
-  zIndex: 9,
+  zIndex: 20,
   boxShadow: "0 14px 28px rgb(0 0 0 / 25%), 0 10px 10px rgb(0 0 0 / 10%)",
 
   "& a": {
