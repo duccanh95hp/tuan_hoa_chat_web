@@ -5,6 +5,7 @@ import {
   StyledCollapse,
   StyledMenuAntdLeft,
   StyledPageWapper,
+  StyledPagingWapper,
 } from "../../layouts/styles";
 import { MenuList } from "../../layouts/function/Sidebar";
 import { Menu, MenuProps, Pagination } from "antd";
@@ -59,11 +60,6 @@ const StyledNewsProductWapper = styled("div", {
     gap: "10px auto",
     justifyContent: "start",
   },
-});
-
-const StyledPagingWapper = styled("div", {
-  display: "flex",
-  justifyContent: "center",
 });
 
 const News = () => {

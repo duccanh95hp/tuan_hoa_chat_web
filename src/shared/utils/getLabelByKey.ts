@@ -1,3 +1,8 @@
+import { TProductValueList } from "../types";
+import { PRODUCT_TYPE_6 } from "../../core/data/product-type6";
+import { PRODUCT_TYPE_1 } from "../../core/data/products";
+import { PRODUCT_TYPE_5 } from "../../core/data/product-type5";
+
 export const getLabelByKey = (
   key: string,
   menuList: any[]
@@ -18,4 +23,24 @@ export const getLabelByKey = (
 
 export const removeFirstCharacter = (str: string): string => {
   return str.slice(1); // Remove the first character
+};
+
+export const getProductKeyArray = (label: string): string[] => {
+  if (label === TProductValueList.PRODUCT_TYPE_6) {
+    return Array.isArray(PRODUCT_TYPE_6)
+      ? (PRODUCT_TYPE_6 as any[])
+      : [PRODUCT_TYPE_6];
+  }
+  if (label === TProductValueList.PRODUCT_TYPE_1) {
+    return Array.isArray(PRODUCT_TYPE_1)
+      ? (PRODUCT_TYPE_1 as any[])
+      : [PRODUCT_TYPE_1];
+  }
+  if (label === TProductValueList.PRODUCT_TYPE_5) {
+    return Array.isArray(PRODUCT_TYPE_5)
+      ? (PRODUCT_TYPE_5 as any[])
+      : [PRODUCT_TYPE_5];
+  }
+  
+  return [];
 };

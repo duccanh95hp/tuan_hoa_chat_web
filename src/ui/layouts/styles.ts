@@ -80,7 +80,7 @@ export const StyledIntroduceProd = styled("div", {
   flexWrap: "wrap",
   marginTop: "18px",
   gap: "12px",
-  justifyContent: "space-between",
+  justifyContent: "flex-start",
   alignItems: "center",
 });
 
@@ -200,4 +200,9 @@ export const StyledMenuAntdLeft = styled("div", {
   ".ant-menu-sub": {
     borderBottom: "unset !important",
   },
+});
+
+export const StyledPagingWapper = styled("div", {
+  display: "flex",
+  justifyContent: "center",
 });

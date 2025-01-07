@@ -1,15 +1,20 @@
-import { Breadcrumb } from "antd";
+import { Breadcrumb, Pagination } from "antd";
 import {
   StyledCollapse,
   StyledIntroduceProd,
   StyledPageWapper,
+  StyledPagingWapper,
 } from "../../layouts/styles";
 import { useRouter } from "../../../shared/hooks/useRouter";
-import { getLabelByKey } from "../../../shared/utils/getLabelByKey";
+import {
+  getLabelByKey,
+  getProductKeyArray,
+} from "../../../shared/utils/getLabelByKey";
 import { MenuList } from "../../layouts/function/Sidebar";
 import { styled } from "../../../shared/styles";
 import { PRODUCT_TYPE_1 } from "../../../core/data/products";
-import { ProductItem } from "../../../shared/components/ProductItem";
+import { ProductItem } from "./product-item";
+import { useEffect, useState } from "react";
 
 const StyledProductsWapper = styled("div", {
   marginTop: "24px",
@@ -18,6 +23,15 @@ const StyledProductsWapper = styled("div", {
 const Products = () => {
   const { location, search } = useRouter();
   const label = getLabelByKey(`${location.pathname}${search}`, MenuList);
+  const [currentPage, setCurrentPage] = useState<number>(1);
+  const [currentData, setCurrentData] = useState<any[]>([]);
+  const currentFilter = getProductKeyArray(label ?? "");
+
+  useEffect(() => {
+    setCurrentData(
+      currentFilter.slice((currentPage - 1) * 20, currentPage * 20)
+    );
+  }, [currentFilter, currentPage, label]);
 
   return (
     <StyledPageWapper>
@@ -41,7 +55,7 @@ const Products = () => {
       </StyledProductsWapper>
 
       <StyledIntroduceProd>
-        {PRODUCT_TYPE_1.map((product) => (
+        {currentData.map((product) => (
           <ProductItem
             key={product.key}
             img={product.img}
@@ -50,6 +64,22 @@ const Products = () => {
           />
         ))}
       </StyledIntroduceProd>
+      {currentFilter?.length > 20 && (
+        <StyledPagingWapper
+          style={{
+            marginTop: "16px",
+          }}
+        >
+          <Pagination
+            current={currentPage}
+            defaultCurrent={1}
+            defaultPageSize={20}
+            total={currentFilter.length}
+            onChange={(page) => setCurrentPage(page)}
+            showSizeChanger={false}
+          />
+        </StyledPagingWapper>
+      )}
     </StyledPageWapper>
   );
 };

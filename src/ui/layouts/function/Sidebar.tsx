@@ -163,6 +163,12 @@ export const MenuList: MenuItem[] = [
       {
         key: "/san-pham?vat-tu-va-thiet-bi-cong-nghiep",
         label: "Vật Tư Và Thiết Bị Công Nghiệp",
+        children: [
+          {
+            key: "/san-pham?vat-tu-xu-ly-nuoc",
+            label: "Vật tư xử lý nước",
+          },
+        ],
       },
       {
         key: "/san-pham?thiet-bi-phong-thi-nghiem",
