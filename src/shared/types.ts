@@ -59,7 +59,8 @@ export type TranslateFn = (s: string) => string;
 export const TProductValueList = {
   PRODUCT_TYPE_1: "Hóa Chất Xử Lý Nước",
   PRODUCT_TYPE_6: "Thiết Bị Phòng Thí Nghiệm",
-  PRODUCT_TYPE_5: 'Vật tư xử lý nước'
+  PRODUCT_TYPE_5: "Vật tư xử lý nước",
+  PRODUCT_TYPE_3: "Dung Môi Công Nghiệp",
 };
 
 export type TProductTypeList = {

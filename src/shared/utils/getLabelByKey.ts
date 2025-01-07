@@ -1,7 +1,8 @@
 import { TProductValueList } from "../types";
 import { PRODUCT_TYPE_6 } from "../../core/data/product-type6";
-import { PRODUCT_TYPE_1 } from "../../core/data/products";
+import { PRODUCT_TYPE_1 } from "../../core/data/product-type1";
 import { PRODUCT_TYPE_5 } from "../../core/data/product-type5";
+import { PRODUCT_TYPE_3 } from "../../core/data/product-type3";
 
 export const getLabelByKey = (
   key: string,
@@ -40,6 +41,11 @@ export const getProductKeyArray = (label: string): string[] => {
     return Array.isArray(PRODUCT_TYPE_5)
       ? (PRODUCT_TYPE_5 as any[])
       : [PRODUCT_TYPE_5];
+  }
+  if (label === TProductValueList.PRODUCT_TYPE_3) {
+    return Array.isArray(PRODUCT_TYPE_3)
+      ? (PRODUCT_TYPE_3 as any[])
+      : [PRODUCT_TYPE_3];
   }
   
   return [];

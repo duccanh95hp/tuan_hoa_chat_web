@@ -12,7 +12,6 @@ import {
 } from "../../../shared/utils/getLabelByKey";
 import { MenuList } from "../../layouts/function/Sidebar";
 import { styled } from "../../../shared/styles";
-import { PRODUCT_TYPE_1 } from "../../../core/data/products";
 import { ProductItem } from "./product-item";
 import { useEffect, useState } from "react";
 

@@ -7,7 +7,6 @@ import useClickOutside from "../../../shared/hooks/useClickOutside";
 import { useEffect, useRef, useState } from "react";
 import { MenuSidebar } from "../styles";
 import { IconCloseSidebar } from "../../../shared/assets/icons/IconCloseSidebar";
-import { getLabelByKey } from "../../../shared/utils/getLabelByKey";
 
 const StyledSidebar = styled("div", {
   height: "100%",

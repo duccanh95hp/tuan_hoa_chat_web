@@ -1,4 +1,4 @@
-import { Button, Menu } from "antd";
+import { Button } from "antd";
 import { styled } from "../../shared/styles";
 
 export const StyledPageWapper = styled("div", {
