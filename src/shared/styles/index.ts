@@ -74,6 +74,9 @@ export const {
       overflow: "hidden",
       "-webkit-line-clamp": value,
     }),
+    setHeight: (value: string) => ({
+      height: value,
+    }),
   },
   // prefix: PREFIX_CLASS_NAME, config name class css
 });

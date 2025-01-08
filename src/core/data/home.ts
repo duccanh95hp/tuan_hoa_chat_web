@@ -150,9 +150,8 @@ export const NEWS = [
   },
 ];
 
-export const DATA_DETAIL = `<div class="entry-content single-page">
-
-	<h2 id="mcetoc_1iev3k5nd0"><strong>1. Sodium Hexametaphosphate là gì?</strong></h2>
+export const DATA_DETAIL = `<div class="entry-content single-page" style="overflow: hidden">
+<h2 id="mcetoc_1iev3k5nd0"><strong>1. Sodium Hexametaphosphate là gì?</strong></h2>
 <p>Sodium Hexametaphosphate (SHMP) là một hợp chất hóa học thuộc nhóm polyphosphat với công thức hóa học (NaPO3)6​. SHMP là một chất rắn không màu hoặc trắng, dễ hòa tan trong nước và thường được sử dụng trong nhiều ngành công nghiệp nhờ tính chất hóa học đa dụng của nó.</p>
 <h2 id="mcetoc_1iev3k93t1"><strong>2. Tính chất lý hóa</strong></h2>
 <h3 id="mcetoc_1iev3kc7d2"><strong>2.1. Đặc tính vật lý</strong></h3>
@@ -177,13 +176,13 @@ export const DATA_DETAIL = `<div class="entry-content single-page">
 <p><strong>Giữ ẩm:&nbsp;</strong>SHMP được sử dụng để duy trì độ ẩm trong thực phẩm chế biến như thịt, cá, và hải sản, giúp sản phẩm không bị khô và giữ được độ mềm mại.</p>
 <p><strong>Bảo quản:&nbsp;</strong>Nhờ khả năng ngăn chặn sự phát triển của vi khuẩn và nấm mốc, SHMP giúp kéo dài thời gian bảo quản thực phẩm.</p>
 <p><strong>Chất điều chỉnh độ axit:&nbsp;</strong>Trong các sản phẩm nước giải khát và đồ hộp, SHMP giúp kiểm soát độ pH, duy trì hương vị ổn định.</p>
-<figure class="sudo-media-item" data-id="14264"><img class="lazy-load-active" decoding="async" src="https://hacochem.com.vn/wp-content/uploads/2024/12/cong-nghiep-thuc-pham-1.jpg" data-src="https://hacochem.com.vn/wp-content/uploads/2024/12/cong-nghiep-thuc-pham-1.jpg" alt="cong-nghiep-thuc-pham"></figure>
+<img class="lazy-load-active" decoding="async" src="https://hacochem.com.vn/wp-content/uploads/2024/12/cong-nghiep-thuc-pham-1.jpg" data-src="https://hacochem.com.vn/wp-content/uploads/2024/12/cong-nghiep-thuc-pham-1.jpg" alt="cong-nghiep-thuc-pham">
 <h3 id="mcetoc_1iev3lq4l6"><strong>3.2. Công nghiệp xử lý nước</strong></h3>
 <p>Sodium Hexametaphosphate là một thành phần quan trọng trong xử lý nước công nghiệp, bao gồm:</p>
 <p><strong>Làm mềm nước:&nbsp;</strong>SHMP ngăn cản sự hình thành của cặn khoáng chất như canxi và magiê trong hệ thống ống dẫn, giúp cải thiện hiệu quả xử lý nước.</p>
 <p><strong>Kiểm soát cáu cặn:&nbsp;</strong>Trong các hệ thống nồi hơi và làm mát, SHMP được sử dụng để ngăn chặn sự tích tụ của cặn bẩn và cáu cặn, kéo dài tuổi thọ thiết bị.</p>
 <p><strong>Ứng dụng trong ngành sản xuất giấy và dệt may:&nbsp;</strong>SHMP hỗ trợ kiểm soát sự hình thành của cặn lắng trong các quy trình sử dụng nước lớn như sản xuất giấy và xử lý vải.</p>
-<figure class="sudo-media-item" data-id="14265"><img class="lazy-load-active" decoding="async" src="https://hacochem.com.vn/wp-content/uploads/2024/12/cong-nghiep-xu-ly-nuoc-1.jpg" data-src="https://hacochem.com.vn/wp-content/uploads/2024/12/cong-nghiep-xu-ly-nuoc-1.jpg" alt="cong-nghiep-xu-ly-nuoc"></figure>
+<img class="lazy-load-active" decoding="async" src="https://hacochem.com.vn/wp-content/uploads/2024/12/cong-nghiep-xu-ly-nuoc-1.jpg" data-src="https://hacochem.com.vn/wp-content/uploads/2024/12/cong-nghiep-xu-ly-nuoc-1.jpg" alt="cong-nghiep-xu-ly-nuoc">
 <h3 id="mcetoc_1iev3m1u57"><strong>3.3. Công nghiệp hóa chất</strong></h3>
 <p>Trong ngành hóa chất, Sodium Hexametaphosphate là một chất phụ gia quan trọng:</p>
 <p><strong>Thành phần trong chất tẩy rửa:&nbsp;</strong>SHMP giúp làm mềm nước, tăng cường hiệu quả của các chất tẩy rửa bằng cách ngăn chặn sự kết tủa của các ion kim loại.</p>
@@ -192,7 +191,7 @@ export const DATA_DETAIL = `<div class="entry-content single-page">
 <h3 id="mcetoc_1iev3m9n58"><strong>3.4. Mỹ phẩm và dược phẩm</strong></h3>
 <p><strong>Kem đánh răng:&nbsp;</strong>Sodium Hexametaphosphate đóng vai trò như một chất chống mảng bám răng hiệu quả, giúp ngăn ngừa hình thành cao răng.</p>
 <p><strong>Mỹ phẩm:&nbsp;</strong>SHMP được sử dụng như một chất ổn định, giúp duy trì tính đồng nhất và tăng cường chất lượng sản phẩm mỹ phẩm.</p>
-<figure class="sudo-media-item" data-id="14266"><img class="lazy-load-active" decoding="async" src="https://hacochem.com.vn/wp-content/uploads/2024/12/my-pham-1.jpg" data-src="https://hacochem.com.vn/wp-content/uploads/2024/12/my-pham-1.jpg" alt="my-pham"></figure>
+<img class="lazy-load-active" decoding="async" src="https://hacochem.com.vn/wp-content/uploads/2024/12/my-pham-1.jpg" data-src="https://hacochem.com.vn/wp-content/uploads/2024/12/my-pham-1.jpg" alt="my-pham">
 <h3 id="mcetoc_1iev3mfcd9"><strong>3.5. Gốm sứ và xây dựng</strong></h3>
 <p><strong>Gốm sứ:&nbsp;</strong>Trong ngành sản xuất gốm sứ, SHMP được sử dụng để phân tán các hạt gốm, giúp cải thiện độ mịn và độ bền của sản phẩm.</p>
 <p><strong>Vật liệu xây dựng:&nbsp;</strong>SHMP được dùng để cải thiện khả năng phân tán trong các loại xi măng và vật liệu trát, làm tăng độ bền và độ đồng nhất.</p>
@@ -211,44 +210,4 @@ export const DATA_DETAIL = `<div class="entry-content single-page">
 <p>Sodium Hexametaphosphate là một hợp chất đa dụng, đóng vai trò quan trọng trong nhiều ngành công nghiệp.</p>
 <p>Tuy nhiên, việc sử dụng SHMP cần được kiểm soát cẩn thận để đảm bảo an toàn và bảo vệ môi trường.</p>
 <p>Khi áp dụng SHMP vào sản xuất hoặc xử lý, doanh nghiệp nên tuân thủ các quy định an toàn và tiêu chuẩn quốc tế để tối ưu hóa lợi ích mà hợp chất này mang lại.</p>
-<p><strong>THÔNG TIN LIÊN HỆ HACOCHEM:&nbsp;</strong></p>
-<div id="col-1543088998" class="col medium-3 small-12 large-3">
-<div class="col-inner">
-<div id="text-3609329476" class="text text__ft">
-<p><strong><a>Chi Nhánh Hồ Chí Minh</a></strong></p>
-<p><i class="fas fa-map-marker-alt"></i>&nbsp;VPGD : 55/2 Phan Đình Phùng, Phường Tân Thành, Quận Tân Phú, TP Hồ Chí Minh<br>
-<i class="dashicons dashicons-store"></i>&nbsp;Kho: KCN Hải Sơn, Đức Hòa, tỉnh Long An<br>
-<i class="dashicons dashicons-phone"></i>&nbsp;Hotline: 0362.056.569<br>
-<i class="dashicons dashicons-email-alt"></i>&nbsp;Email: thuylinh@hacochem.com.vn</p>
-</div>
-</div>
-</div>
-<div id="col-491744844" class="col medium-3 small-12 large-3">
-<div class="col-inner">
-<div id="text-795375380" class="text text__ft">
-<p><strong><a>Chi Nhánh Thanh Hóa</a></strong></p>
-<p><i class="fas fa-map-marker-alt"></i>&nbsp;VPGD : Khu du lịch sinh thái hồ Kim Quy, phường Hàm Rồng, TP Thanh Hóa, Tỉnh Thanh Hóa<br>
-<i class="dashicons dashicons-store"></i>&nbsp;Kho: Phường Đông Hải, TP Thanh Hóa, Tỉnh Thanh Hóa<br>
-<i class="dashicons dashicons-phone"></i>&nbsp;Hotline: 0963.999.610<br>
-<i class="dashicons dashicons-email-alt"></i>&nbsp;Email: thanhhai01@hacochem.com.vn</p>
-</div>
-</div>
-</div>
-<div id="col-740868955" class="col medium-3 small-12 large-3">
-<div class="col-inner">
-<div id="text-3788118981" class="text text__ft">
-<p><strong><a>Chi Nhánh Hà Nội</a></strong></p>
-<p><i class="fas fa-map-marker-alt"></i>&nbsp;VPGD: 13-14D1 đường Hồng Quang, Đại Kim, Hoàng Mai, Hà Nội<br>
-<i class="dashicons dashicons-store"></i>&nbsp;Kho 1: Dục Tú, Đông Anh, Hà Nội<br>
-<i class="dashicons dashicons-store"></i>&nbsp;Kho 2: 15 Đoanh Xá, Đông Hải 1, Hải An, Hải Phòng<br>
-<i class="dashicons dashicons-phone"></i>&nbsp;Hotline: 093.2323.391<br>
-<i class="dashicons dashicons-email-alt"></i>&nbsp;Email: duykhanh01@hacochem.com.vn</p>
-<p>Hotline:&nbsp;<a href="http://0932323391/">0932323391</a></p>
-<p>Email:&nbsp;<a href="https://hacochem.com.vn/san-pham/sodium-hydroxide-99-naoh-xut-hat-dai-loan-25kg-bao/sale@hacochem.com.vn">sale@hacochem.com.vn</a></p>
-<p>Website:&nbsp;<a href="https://hacochem.com.vn/">hacochem.com.vn</a></p>
-</div>
-</div>
-</div>
-
-	
-	<div class="blog-share text-center"><div class="is-divider medium"></div><div class="social-icons share-icons share-row relative"><a href="whatsapp://send?text=Sodium%20Hexametaphosphate%20l%C3%A0%20g%C3%AC%3F%20%E1%BB%A8ng%20d%E1%BB%A5ng%20quan%20tr%E1%BB%8Dng%20trong%20c%C3%B4ng%20nghi%E1%BB%87p - https://hacochem.com.vn/sodium-hexametaphosphate-la-gi-ung-dung-quan-trong-trong-cong-nghiep/" data-action="share/whatsapp/share" class="icon button circle is-outline tooltip whatsapp show-for-medium" title="Share on WhatsApp" aria-label="Share on WhatsApp"><i class="icon-whatsapp"></i></a><a href="https://www.facebook.com/sharer.php?u=https://hacochem.com.vn/sodium-hexametaphosphate-la-gi-ung-dung-quan-trong-trong-cong-nghiep/" data-label="Facebook" onclick="window.open(this.href,this.title,'width=500,height=500,top=300px,left=300px');  return false;" rel="noopener noreferrer nofollow" target="_blank" class="icon button circle is-outline tooltip facebook" title="Share on Facebook" aria-label="Share on Facebook"><i class="icon-facebook"></i></a><a href="https://twitter.com/share?url=https://hacochem.com.vn/sodium-hexametaphosphate-la-gi-ung-dung-quan-trong-trong-cong-nghiep/" onclick="window.open(this.href,this.title,'width=500,height=500,top=300px,left=300px');  return false;" rel="noopener noreferrer nofollow" target="_blank" class="icon button circle is-outline tooltip twitter" title="Share on Twitter" aria-label="Share on Twitter"><i class="icon-twitter"></i></a><a href="mailto:enteryour@addresshere.com?subject=Sodium%20Hexametaphosphate%20l%C3%A0%20g%C3%AC%3F%20%E1%BB%A8ng%20d%E1%BB%A5ng%20quan%20tr%E1%BB%8Dng%20trong%20c%C3%B4ng%20nghi%E1%BB%87p&amp;body=Check%20this%20out:%20https://hacochem.com.vn/sodium-hexametaphosphate-la-gi-ung-dung-quan-trong-trong-cong-nghiep/" rel="nofollow" class="icon button circle is-outline tooltip email tooltipstered" aria-label="Email to a Friend"><i class="icon-envelop"></i></a><a href="https://pinterest.com/pin/create/button/?url=https://hacochem.com.vn/sodium-hexametaphosphate-la-gi-ung-dung-quan-trong-trong-cong-nghiep/&amp;media=https://hacochem.com.vn/wp-content/uploads/2024/12/cong-nghiep-san-xuat-giay-1.jpg&amp;description=Sodium%20Hexametaphosphate%20l%C3%A0%20g%C3%AC%3F%20%E1%BB%A8ng%20d%E1%BB%A5ng%20quan%20tr%E1%BB%8Dng%20trong%20c%C3%B4ng%20nghi%E1%BB%87p" onclick="window.open(this.href,this.title,'width=500,height=500,top=300px,left=300px');  return false;" rel="noopener noreferrer nofollow" target="_blank" class="icon button circle is-outline tooltip pinterest" title="Pin on Pinterest" aria-label="Pin on Pinterest"><i class="icon-pinterest"></i></a><a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://hacochem.com.vn/sodium-hexametaphosphate-la-gi-ung-dung-quan-trong-trong-cong-nghiep/&amp;title=Sodium%20Hexametaphosphate%20l%C3%A0%20g%C3%AC%3F%20%E1%BB%A8ng%20d%E1%BB%A5ng%20quan%20tr%E1%BB%8Dng%20trong%20c%C3%B4ng%20nghi%E1%BB%87p" onclick="window.open(this.href,this.title,'width=500,height=500,top=300px,left=300px');  return false;" rel="noopener noreferrer nofollow" target="_blank" class="icon button circle is-outline tooltip linkedin" title="Share on LinkedIn" aria-label="Share on LinkedIn"><i class="icon-linkedin"></i></a></div></div></div>`;
+<div class="blog-share text-center"><div class="is-divider medium"></div><div class="social-icons share-icons share-row relative"><a href="whatsapp://send?text=Sodium%20Hexametaphosphate%20l%C3%A0%20g%C3%AC%3F%20%E1%BB%A8ng%20d%E1%BB%A5ng%20quan%20tr%E1%BB%8Dng%20trong%20c%C3%B4ng%20nghi%E1%BB%87p - https://hacochem.com.vn/sodium-hexametaphosphate-la-gi-ung-dung-quan-trong-trong-cong-nghiep/" data-action="share/whatsapp/share" class="icon button circle is-outline tooltip whatsapp show-for-medium" title="Share on WhatsApp" aria-label="Share on WhatsApp"><i class="icon-whatsapp"></i></a><a href="https://www.facebook.com/sharer.php?u=https://hacochem.com.vn/sodium-hexametaphosphate-la-gi-ung-dung-quan-trong-trong-cong-nghiep/" data-label="Facebook" onclick="window.open(this.href,this.title,'width=500,height=500,top=300px,left=300px');  return false;" rel="noopener noreferrer nofollow" target="_blank" class="icon button circle is-outline tooltip facebook" title="Share on Facebook" aria-label="Share on Facebook"><i class="icon-facebook"></i></a><a href="https://twitter.com/share?url=https://hacochem.com.vn/sodium-hexametaphosphate-la-gi-ung-dung-quan-trong-trong-cong-nghiep/" onclick="window.open(this.href,this.title,'width=500,height=500,top=300px,left=300px');  return false;" rel="noopener noreferrer nofollow" target="_blank" class="icon button circle is-outline tooltip twitter" title="Share on Twitter" aria-label="Share on Twitter"><i class="icon-twitter"></i></a><a href="mailto:enteryour@addresshere.com?subject=Sodium%20Hexametaphosphate%20l%C3%A0%20g%C3%AC%3F%20%E1%BB%A8ng%20d%E1%BB%A5ng%20quan%20tr%E1%BB%8Dng%20trong%20c%C3%B4ng%20nghi%E1%BB%87p&amp;body=Check%20this%20out:%20https://hacochem.com.vn/sodium-hexametaphosphate-la-gi-ung-dung-quan-trong-trong-cong-nghiep/" rel="nofollow" class="icon button circle is-outline tooltip email tooltipstered" aria-label="Email to a Friend"><i class="icon-envelop"></i></a><a href="https://pinterest.com/pin/create/button/?url=https://hacochem.com.vn/sodium-hexametaphosphate-la-gi-ung-dung-quan-trong-trong-cong-nghiep/&amp;media=https://hacochem.com.vn/wp-content/uploads/2024/12/cong-nghiep-san-xuat-giay-1.jpg&amp;description=Sodium%20Hexametaphosphate%20l%C3%A0%20g%C3%AC%3F%20%E1%BB%A8ng%20d%E1%BB%A5ng%20quan%20tr%E1%BB%8Dng%20trong%20c%C3%B4ng%20nghi%E1%BB%87p" onclick="window.open(this.href,this.title,'width=500,height=500,top=300px,left=300px');  return false;" rel="noopener noreferrer nofollow" target="_blank" class="icon button circle is-outline tooltip pinterest" title="Pin on Pinterest" aria-label="Pin on Pinterest"><i class="icon-pinterest"></i></a><a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://hacochem.com.vn/sodium-hexametaphosphate-la-gi-ung-dung-quan-trong-trong-cong-nghiep/&amp;title=Sodium%20Hexametaphosphate%20l%C3%A0%20g%C3%AC%3F%20%E1%BB%A8ng%20d%E1%BB%A5ng%20quan%20tr%E1%BB%8Dng%20trong%20c%C3%B4ng%20nghi%E1%BB%87p" onclick="window.open(this.href,this.title,'width=500,height=500,top=300px,left=300px');  return false;" rel="noopener noreferrer nofollow" target="_blank" class="icon button circle is-outline tooltip linkedin" title="Share on LinkedIn" aria-label="Share on LinkedIn"><i class="icon-linkedin"></i></a></div></div></div>`;

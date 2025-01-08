@@ -13,6 +13,8 @@ import { ItemType, MenuItemType } from "antd/es/menu/interface";
 import { NewsProductItem } from "./news-product-item/NewsProductItem";
 import { NEWS_DATA_PAGE } from "../../../core/data/news";
 import { useState } from "react";
+import { useRouter } from "../../../shared/hooks/useRouter";
+import { NewsDetail } from "./detail";
 
 const StyledNewsWapper = styled("div", {
   display: "flex",
@@ -46,6 +48,10 @@ const StyledNewsLeft = styled("div", {
 const StyledNewsRight = styled("div", {
   flex: "2",
   width: "100%",
+  ".title": {
+    fontSize: "24px",
+    fontFamily: "sans-serif",
+  },
 });
 
 const StyledNewsProductWapper = styled("div", {
@@ -70,6 +76,13 @@ const News = () => {
     (currentPage - 1) * 12,
     currentPage * 12
   );
+
+  const { search } = useRouter();
+  const isDetail = decodeURIComponent(search);
+  const titleDetail = isDetail.replace("?detail=", "");
+  const data_src = NEWS_DATA_PAGE.find(
+    (news) => news.title === titleDetail
+  )?.data;
 
   return (
     <StyledPageWapper>
@@ -101,26 +114,38 @@ const News = () => {
         </StyledNewsLeft>
 
         <StyledNewsRight>
-          <StyledCollapse style={{ width: "unset" }}>TIN TỨC</StyledCollapse>
-          <StyledNewsProductWapper>
-            {currentData.map((product, index) => (
-              <NewsProductItem
-                key={index}
-                content={product.content}
-                title={product.title}
-                icon={product.icon}
-              />
-            ))}
-          </StyledNewsProductWapper>
-          <StyledPagingWapper>
-            <Pagination
-              current={currentPage}
-              defaultCurrent={1}
-              defaultPageSize={12}
-              total={NEWS_DATA_PAGE.length}
-              onChange={(page) => setCurrentPage(page)}
-            />
-          </StyledPagingWapper>
+          {isDetail ? (
+            <>
+              <strong className="title">{titleDetail}</strong>
+              <NewsDetail data={data_src} title={titleDetail}/>
+            </>
+          ) : (
+            <>
+              <StyledCollapse style={{ width: "unset" }}>
+                TIN TỨC
+              </StyledCollapse>
+              <StyledNewsProductWapper>
+                {currentData.map((product, index) => (
+                  <NewsProductItem
+                    key={index}
+                    path={product.key}
+                    content={product.content}
+                    title={product.title}
+                    icon={product.icon}
+                  />
+                ))}
+              </StyledNewsProductWapper>
+              <StyledPagingWapper>
+                <Pagination
+                  current={currentPage}
+                  defaultCurrent={1}
+                  defaultPageSize={12}
+                  total={NEWS_DATA_PAGE.length}
+                  onChange={(page) => setCurrentPage(page)}
+                />
+              </StyledPagingWapper>
+            </>
+          )}
         </StyledNewsRight>
       </StyledNewsWapper>
     </StyledPageWapper>
