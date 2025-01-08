@@ -205,4 +205,5 @@ export const StyledMenuAntdLeft = styled("div", {
 export const StyledPagingWapper = styled("div", {
   display: "flex",
   justifyContent: "center",
+  marginTop: '12px'
 });

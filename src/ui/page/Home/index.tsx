@@ -7,6 +7,7 @@ import ImgIntroview from "../../../shared/assets/img-home/back_switcher-1.jpg";
 import CountUp from "../../../shared/utils/CountNumberUp";
 import SliderComponents from "../../../shared/components/Slider";
 import { HeadingPage } from "../../layouts/function/HeadingPage";
+import { useEffect, useLayoutEffect } from "react";
 
 const StyledBackground = styled("div", {
   color: "black",
@@ -112,6 +113,18 @@ const StyledWapper = styled("div", {
 });
 
 const Home = () => {
+  useEffect(() => {
+    const handleScroll = () => {
+      console.log(window.scrollY, 'scrolling');
+    };
+  
+    window.addEventListener('scroll', handleScroll);
+  
+    // Cleanup function to remove the event listener
+    return () => {
+      window.removeEventListener('scroll', handleScroll);
+    };
+  }, []);
   return (
     <>
       <StyledBackground>
