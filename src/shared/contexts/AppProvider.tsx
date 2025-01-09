@@ -19,6 +19,7 @@ export type TAppProps = {
   loginError: boolean;
   isSigup: boolean;
   signupError: boolean;
+  collapsedSearch: boolean;
 };
 
 export const initialProps: TAppProps = {
@@ -30,6 +31,7 @@ export const initialProps: TAppProps = {
   loginError: false,
   isSigup: false,
   signupError: false,
+  collapsedSearch: false,
 };
 
 export type TAppUpdateProps = TAppProps & {

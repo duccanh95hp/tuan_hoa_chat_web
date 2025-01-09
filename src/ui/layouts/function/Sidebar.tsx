@@ -186,7 +186,7 @@ export const MenuList: MenuItem[] = [
 export const Sidebar = () => {
   const ref = useRef(null);
   const { collapsed, updateAppProps } = useAppProvider();
-  const { navigate, location } = useRouter();
+  const { navigate, location, search } = useRouter();
 
   const onChangePage = (e: any) => {
     navigate(e.key);
@@ -206,9 +206,13 @@ export const Sidebar = () => {
 
   useEffect(() => {
     if (pathname) {
-      setDefaultPath(pathname);
+      if (search) {
+        setDefaultPath(`${pathname}${search}`);
+      } else {
+        setDefaultPath(pathname);
+      }
     }
-  }, [pathname]);
+  }, [pathname, search]);
 
   return (
     <StyledSidebar ref={ref} className={collapsed ? "open" : ""}>
@@ -226,6 +230,7 @@ export const Sidebar = () => {
             mode="inline"
             theme="light"
             defaultSelectedKeys={[defaultPath]}
+            selectedKeys={[defaultPath]}
             items={MenuList}
             onClick={onChangePage}
           />

@@ -8,8 +8,6 @@ import { FullScreenOverlay } from "./shared/components/FullScreenOverlay";
 import { LoadingScreen } from "./shared/components";
 
 function App() {
-  console.log(window.screenY, 'check');
-  
   return (
     <ThemeSettingsProvider
       defaultSettings={{

@@ -106,6 +106,27 @@ export const MenuSidebar = styled("div", {
   justifyContent: "space-between",
   alignItems: "center",
   background: "#2980b9 !important",
+  ".ant-menu-submenu": {
+    ".ant-menu-item": {
+      ".ant-menu-title-content": {
+        fontWeight: "600",
+        textTransform: "uppercase",
+      },
+    },
+  },
+  ".ant-menu-item": {
+      ".ant-menu-title-content": {
+        fontWeight: "600",
+        textTransform: "uppercase",
+      },
+    },
+  '.ant-menu-submenu-title': {
+    fontWeight: "600",
+    '.ant-menu-title-content': {
+      fontWeight: "600",
+      textTransform: "uppercase",
+    }
+  },
   ".ant-menu-overflow": {
     width: "100%",
     fontSize: "15px",
@@ -116,12 +137,16 @@ export const MenuSidebar = styled("div", {
       border: "none !important",
     },
     ".ant-menu-title-content": {
+      textTransform: "uppercase",
       color: "white !important",
+      fontWeight: "600",
     },
     ".ant-menu-title-content:hover": {
+      textTransform: "uppercase",
       color: "#fff400 !important",
     },
     ".ant-menu-item-selected::after": {
+      textTransform: "uppercase",
       borderBottomColor: "#1190e4 !important",
     },
     ".ant-menu-item:hover::after": {
@@ -130,11 +155,14 @@ export const MenuSidebar = styled("div", {
     ".ant-menu-submenu": {
       backgroundColor: "#1190e4 !important",
       ".ant-menu-title-content": {
+        textTransform: "uppercase",
         color: "white !important",
       },
     },
     ".ant-menu-item-selected": {
+      textTransform: "uppercase",
       ".ant-menu-title-content": {
+        textTransform: "uppercase",
         color: "#fff400 !important",
       },
     },
@@ -205,5 +233,5 @@ export const StyledMenuAntdLeft = styled("div", {
 export const StyledPagingWapper = styled("div", {
   display: "flex",
   justifyContent: "center",
-  marginTop: '12px'
+  marginTop: "12px",
 });

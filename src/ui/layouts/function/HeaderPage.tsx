@@ -109,7 +109,7 @@ type THeaderPage = {
 
 export const HeaderPage = ({ header }: THeaderPage) => {
   const { onChange } = useHandleSearch();
-  const { navigate, location } = useRouter();
+  const { navigate, location, search } = useRouter();
   const { updateAppProps } = useAppProvider();
   const { isMobie } = useMedia();
   const { pathname } = location;
@@ -122,9 +122,13 @@ export const HeaderPage = ({ header }: THeaderPage) => {
 
   useEffect(() => {
     if (pathname) {
-      setDefaultPath(pathname);
+      if (search) {
+        setDefaultPath(`${pathname}${search}`);
+      } else {
+        setDefaultPath(pathname);
+      }
     }
-  }, [pathname]);
+  }, [pathname, search]);
 
   return (
     <PageHeader>
@@ -145,7 +149,9 @@ export const HeaderPage = ({ header }: THeaderPage) => {
               <img src={ImgLogo} alt="logo" />
               <span className="">TRỌNG TUẤN CHEMICALS</span>
             </div>
-            <StyledBoxIconMenu>
+            <StyledBoxIconMenu
+              onClick={() => updateAppProps({ collapsedSearch: true })}
+            >
               <SearchIcon />
             </StyledBoxIconMenu>
           </StyledHeaderBox>

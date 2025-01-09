@@ -8,7 +8,7 @@ const StyledButtonScrollTop = styled("div", {
   display: "flex",
   height: "40px",
   width: "40px",
-  right: "14px",
+  right: "34px",
   bottom: "28px",
   justifyContent: "center",
   cursor: "pointer",
