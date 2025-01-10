@@ -24,7 +24,7 @@ const StyledSearchLayout = styled("div", {
     transform: "translateX(0)", // Sidebar di chuyển vào màn hình
   },
   ".side_container": {
-    width: "40%",
+    width: "100%",
     height: "100%",
     background: "black",
     padding: "38px 0px",
@@ -39,15 +39,6 @@ const StyledSearchLayout = styled("div", {
         border: "none",
       },
     },
-  },
-});
-
-const StyledSidebarRight = styled("div", {
-  opacity: "0.6",
-  background: "#0b0b0b",
-  width: "100%",
-  "@media (max-width: 765px)": {
-    width: "unset",
   },
 });
 
@@ -88,8 +79,8 @@ const StyledContainerSearchWrapper = styled("div", {
   height: "100%",
   display: "flex",
   flexDirection: "column",
-  padding: "0 6%",
-  marginTop: "40%",
+  padding: "0 24px",
+  marginTop: "200px",
   opacity: "1",
   ".ant-input": {
     height: "48px",
@@ -128,7 +119,6 @@ export const SearchLayout = () => {
         setIsVisible(false);
       }
     } catch (error) {
-    } finally {
     }
   };
 
@@ -157,16 +147,15 @@ export const SearchLayout = () => {
             />
           </StyledContainerSearchWrapper>
         </div>
-        <StyledSidebarRight />
       </StyledSearchLayout>
-      {isVisible && (
+      {isVisible && collapsedSearch && (
         <Menu
           style={{
             maxHeight: "500px",
             opacity: 1,
             position: "fixed",
             zIndex: 99999,
-            top: "28%",
+            top: "289px",
             borderRadius: "16px",
             width: "-webkit-fill-available",
             margin: "0 24px",
@@ -176,11 +165,13 @@ export const SearchLayout = () => {
           {dataSearch?.map((item: any, index: number) => (
             <Menu.Item
               key={index}
+              onChange={() => console.log("detail")}
               onClick={() => {
-                console.log(item.title, "item");
-
-                navigate(item.title);
+                console.log("detail");
+                navigate(`/san-pham?${encodeURIComponent(item.title)}`);
                 setIsVisible(false);
+                setValueSearch("");
+                onSearch("");
               }}
             >
               <div>{item.title}</div>

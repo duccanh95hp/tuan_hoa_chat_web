@@ -27,9 +27,11 @@ const Products = () => {
   const currentFilter = getProductKeyArray(label ?? "");
 
   useEffect(() => {
-    setCurrentData(
-      currentFilter.slice((currentPage - 1) * 20, currentPage * 20)
-    );
+    if (currentFilter.length > 0) {
+      setCurrentData(
+        currentFilter.slice((currentPage - 1) * 20, currentPage * 20)
+      );
+    }
   }, [currentFilter, currentPage, label]);
 
   return (

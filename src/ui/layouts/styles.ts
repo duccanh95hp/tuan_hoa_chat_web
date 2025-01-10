@@ -186,14 +186,13 @@ export const MenuSidebar = styled("div", {
 
 export const StyledMenuAntdLeft = styled("div", {
   ".ant-menu": {
-    border: "1px dotted #34469d !important",
     borderRadius: "0 0 5px 5px",
     borderTop: "none !important",
     ".ant-menu-item": {
       fontSize: "14px",
       fontWeight: "600",
       paddingLeft: "12px !important",
-      borderTop: "1px dotted #34469d !important",
+      // borderTop: "1px dotted #34469d !important",
       borderRadius: "unset",
       "&:hover": {
         color: "#2980b9 !important",
@@ -216,7 +215,7 @@ export const StyledMenuAntdLeft = styled("div", {
     ".ant-menu-submenu-title": {
       fontSize: "14px",
       fontWeight: "600",
-      borderTop: "1px dotted #34469d !important",
+      // borderTop: "1px dotted #34469d !important",
       paddingLeft: "12px !important",
       borderRadius: "unset",
       "&:hover": {

@@ -7,8 +7,6 @@ export const useSearchLayout = () => {
 
   const [dataSearch, setDataSearch] = useState<any[]>([]);
   const onSearch = (valueSearch: string) => {
-    console.log(valueSearch, "check valueSearch");
-
     const searchArr = defaultDataSearch.filter((data) => {
       return data.title.includes(valueSearch);
     });

@@ -1,3 +1,5 @@
+import { PATH } from "../../../../router/path";
+import { useRouter } from "../../../../shared/hooks/useRouter";
 import { styled } from "../../../../shared/styles";
 
 const StyledProductItemWapper = styled("div", {
@@ -46,8 +48,13 @@ type TProductItem = {
 };
 
 export const ProductItem = ({ img, title, pirce }: TProductItem) => {
+  const { navigate } = useRouter();
   return (
-    <StyledProductItemWapper>
+    <StyledProductItemWapper
+      onClick={() => {
+        navigate(`${PATH.product_detail}?${encodeURIComponent(title)}`);
+      }}
+    >
       <img src={img} alt={title} />
       <div className="content">
         <div className="title">{title}</div>

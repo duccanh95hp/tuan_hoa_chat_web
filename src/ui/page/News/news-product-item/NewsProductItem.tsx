@@ -3,9 +3,9 @@ import { useRouter } from "../../../../shared/hooks/useRouter";
 import { styled } from "../../../../shared/styles";
 
 const StyledNewsItem = styled(StyledProductItem, {
-  flex: "0 0 32%",
+  flex: "0 0 32% !important",
   // flex: 'unset',
-  maxWidth: "32%",
+  maxWidth: "32% !important",
   cursor: "pointer",
   color: "#0A0A0A",
   "@media (max-width: 765px)": {

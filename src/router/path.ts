@@ -6,4 +6,5 @@ export const PATH = {
   contact: '/lien-he',
   recruitment: '/tuyen-dung',
   product: '/san-pham',
+  product_detail: '/san-pham/detail'
 };
