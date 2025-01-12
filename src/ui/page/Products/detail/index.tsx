@@ -118,10 +118,10 @@ const StyledBtn = styled("div", {
 const ProductDetail = () => {
   const { search } = useRouter();
   const defaultDataProduct: any[] = [
-    ...PRODUCT_TYPE_3,
     ...PRODUCT_TYPE_1,
-    PRODUCT_TYPE_5,
-    PRODUCT_TYPE_6,
+    ...PRODUCT_TYPE_3,
+    ...PRODUCT_TYPE_5,
+    ...PRODUCT_TYPE_6,
   ];
 
   const dataDetail = defaultDataProduct.find(
