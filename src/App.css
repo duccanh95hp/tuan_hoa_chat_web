@@ -4,14 +4,18 @@ body {
 }
 
 .ant-menu-submenu {
-  border-bottom: 1px dashed;
   border-radius: unset !important;
   .ant-menu-title-content {
     font-weight: 600 !important;
     text-transform: uppercase;
   }
+  .ant-menu-submenu-vertical {
+    border-bottom: 1px dashed;
+    border-radius: unset !important;
+  }
 
   @media (max-width: 1050px) {
+    border-bottom: 1px dashed;
     svg {
       color: black;
     }
@@ -23,4 +27,8 @@ body {
   &:last-child {
     border-bottom: unset;
   }
+}
+
+.ant-dropdown-menu-vertical {
+  height: 500px;
 }

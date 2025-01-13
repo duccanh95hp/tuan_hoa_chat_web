@@ -13,7 +13,7 @@ import {
 import { MenuList } from "../../layouts/function/Sidebar";
 import { styled } from "../../../shared/styles";
 import { ProductItem } from "./product-item";
-import { useEffect, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 
 const StyledProductsWapper = styled("div", {
   marginTop: "24px",
@@ -24,14 +24,12 @@ const Products = () => {
   const label = getLabelByKey(`${location.pathname}${search}`, MenuList);
   const [currentPage, setCurrentPage] = useState<number>(1);
   const [currentData, setCurrentData] = useState<any[]>([]);
-  const currentFilter = getProductKeyArray(label ?? "");
+  const currentFilter = useMemo(() => getProductKeyArray(label ?? ""), [label]);
 
   useEffect(() => {
-    if (currentFilter.length > 0) {
-      setCurrentData(
-        currentFilter.slice((currentPage - 1) * 20, currentPage * 20)
-      );
-    }
+    setCurrentData(
+      currentFilter.slice((currentPage - 1) * 20, currentPage * 20)
+    );
   }, [currentFilter, currentPage, label]);
 
   return (

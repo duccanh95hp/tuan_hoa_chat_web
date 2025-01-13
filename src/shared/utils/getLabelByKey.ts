@@ -3,6 +3,8 @@ import { PRODUCT_TYPE_6 } from "../../core/data/product-type6";
 import { PRODUCT_TYPE_1 } from "../../core/data/product-type1";
 import { PRODUCT_TYPE_5 } from "../../core/data/product-type5";
 import { PRODUCT_TYPE_3 } from "../../core/data/product-type3";
+import { PRODUCT_TYPE_4 } from "../../core/data/product-type4";
+import { TEXTILE_DYEING } from "../../core/data/product-type2";
 
 export const getLabelByKey = (
   key: string,
@@ -27,26 +29,44 @@ export const removeFirstCharacter = (str: string): string => {
 };
 
 export const getProductKeyArray = (label: string): string[] => {
-  if (label === TProductValueList.PRODUCT_TYPE_6) {
-    return Array.isArray(PRODUCT_TYPE_6)
-      ? (PRODUCT_TYPE_6 as any[])
-      : [PRODUCT_TYPE_6];
+  const productMap: Record<string, any> = {
+    [TProductValueList.PRODUCT_TYPE_1]: PRODUCT_TYPE_1,
+    [TProductValueList.PRODUCT_TYPE_3]: PRODUCT_TYPE_3,
+    [TProductValueList.PRODUCT_TYPE_5]: PRODUCT_TYPE_5,
+    [TProductValueList.PRODUCT_TYPE_6]: PRODUCT_TYPE_6,
+    [TProductValueList.TEXTILE_DYEING]: TEXTILE_DYEING,
+    // [TProductValueList.PLATING]: PLATING,
+    // [TProductValueList.EXTRACTIVE]: EXTRACTIVE,
+    // [TProductValueList.SHOE_LEATHER]: SHOE_LEATHER,
+    // [TProductValueList.PAPER]: PAPER,
+    // [TProductValueList.FOOD]: FOOD,
+    // [TProductValueList.ANIMAL_FEED]: ANIMAL_FEED,
+    // [TProductValueList.PHARMACEUTICAL]: PHARMACEUTICAL,
+    // [TProductValueList.PAINT]: PAINT,
+    // [TProductValueList.ELECTRONICS]: ELECTRONICS,
+    // [TProductValueList.CLEANING]: CLEANING,
+  };
+
+  if (productMap[label]) {
+    return Array.isArray(productMap[label])
+      ? productMap[label]
+      : [productMap[label]];
   }
-  if (label === TProductValueList.PRODUCT_TYPE_1) {
-    return Array.isArray(PRODUCT_TYPE_1)
-      ? (PRODUCT_TYPE_1 as any[])
-      : [PRODUCT_TYPE_1];
+
+  const filteredTypes = [
+    TProductValueList.STANDARD,
+    TProductValueList.SOLVENT,
+    TProductValueList.ACID_BAZO,
+    TProductValueList.SALT,
+    TProductValueList.DIRECTIVE,
+    TProductValueList.REAGENT,
+  ];
+
+  if (filteredTypes.includes(label)) {
+    return Array.isArray(PRODUCT_TYPE_4)
+      ? (PRODUCT_TYPE_4.filter((item) => item.type === label) as any[])
+      : [PRODUCT_TYPE_4];
   }
-  if (label === TProductValueList.PRODUCT_TYPE_5) {
-    return Array.isArray(PRODUCT_TYPE_5)
-      ? (PRODUCT_TYPE_5 as any[])
-      : [PRODUCT_TYPE_5];
-  }
-  if (label === TProductValueList.PRODUCT_TYPE_3) {
-    return Array.isArray(PRODUCT_TYPE_3)
-      ? (PRODUCT_TYPE_3 as any[])
-      : [PRODUCT_TYPE_3];
-  }
-  
+
   return [];
 };

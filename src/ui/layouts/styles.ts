@@ -82,6 +82,9 @@ export const StyledIntroduceProd = styled("div", {
   gap: "12px",
   justifyContent: "flex-start",
   alignItems: "center",
+  "@media (max-width: 800px)": {
+    justifyContent: "space-between",
+  },
 });
 
 export const StyledBtn = styled(Button, {
@@ -147,10 +150,10 @@ export const MenuSidebar = styled("div", {
     },
     ".ant-menu-item-selected::after": {
       textTransform: "uppercase",
-      borderBottomColor: "#1190e4 !important",
+      // borderBottomColor: "#1190e4 !important",
     },
     ".ant-menu-item:hover::after": {
-      borderBottomColor: "#1190e4 !important",
+      // borderBottomColor: "#1190e4 !important",
     },
     ".ant-menu-submenu": {
       backgroundColor: "#1190e4 !important",
@@ -173,6 +176,9 @@ export const MenuSidebar = styled("div", {
     ".ant-menu-submenu-selected::after": {
       borderBottomColor: "#1190e4 !important",
     },
+  },
+  ".ant-dropdown-menu": {
+    maxHeight: '500px !important'
   },
   "@media (max-width: 1400px)": {
     padding: "0 24px",

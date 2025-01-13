@@ -61,13 +61,29 @@ export const TProductValueList = {
   PRODUCT_TYPE_6: "Thiết Bị Phòng Thí Nghiệm",
   PRODUCT_TYPE_5: "Vật tư xử lý nước",
   PRODUCT_TYPE_3: "Dung Môi Công Nghiệp",
+  STANDARD: "Chất Chuẩn",
+  SOLVENT: "Dung Môi",
+  ACID_BAZO: "Acid và Bazo",
+  SALT: "Muối",
+  DIRECTIVE: "Chỉ Thị",
+  REAGENT: "Thuốc Thử",
+  TEXTILE_DYEING: "Hóa Chất Ngành Dệt Nhuộm",
+  PLATING: "Hóa Chất Ngành Xi Mạ",
+  EXTRACTIVE: "Hóa Chất Ngành Khai Khoáng",
+  SHOE_LEATHER: "Hóa Chất Ngành Da Giày",
+  PAPER: "Hóa Chất Ngành Giấy",
+  FOOD: "Hóa Chất Ngành Thực Phẩm",
+  ANIMAL_FEED: "Hóa Chất Ngành Thức Ăn Chăn Nuôi",
+  PHARMACEUTICAL: "Hóa Chất Ngành Dược - Mỹ Phẩm",
+  PAINT: "Hóa Chất Ngành Sơn",
+  ELECTRONICS: "Hóa Chất Ngành Điện Tử",
+  CLEANING: "Hóa Chất Ngành Tẩy Rửa",
 };
 
 export type TProductTypeList = {
   PRODUCT_TYPE_1: "PRODUCT_TYPE_1";
   PRODUCT_TYPE_2: "PRODUCT_TYPE_2";
   PRODUCT_TYPE_3: "PRODUCT_TYPE_3";
-  PRODUCT_TYPE_4: "PRODUCT_TYPE_4";
   PRODUCT_TYPE_5: "PRODUCT_TYPE_5";
   PRODUCT_TYPE_6: "PRODUCT_TYPE_6";
 };

@@ -14,14 +14,22 @@ const StyledProductItemWapper = styled("div", {
   borderRadius: "10px",
   alignItems: "center",
   textAlign: "center",
-  // height: "270px",
+  cursor: "pointer",
+  overflow: "hidden",
+  "&:hover": {
+    transform: "scale(1.05)", // Phóng to ảnh 10%
+    transition: "transform 0.3s ease", // Thêm hiệu ứng mượt mà
+    color: "#006db3",
+  },
   "@media (max-width: 765px)": {
-    flex: "0 0 42%", // For smaller screens, show 2 items (each takes 1/2 width)
-    maxWidth: "42%",
+    flex: "0 0 44%", // For smaller screens, show 2 items (each takes 1/2 width)
+    maxWidth: "44%",
   },
   img: {
     width: "100%",
     height: "100%",
+    transition:
+      "filter .6s, opacity .6s, transform .6s, box-shadow .3s, -webkit-filter .6s, -webkit-transform .6s, -webkit-box-shadow .3s",
   },
   ".content": {
     fontSize: "14px",

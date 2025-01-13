@@ -82,8 +82,12 @@ import Img81 from "../../shared/assets/img-product/type1/anh81.jpg";
 import Img82 from "../../shared/assets/img-product/type1/anh82.png";
 import Img83 from "../../shared/assets/img-product/type1/anh83.png";
 import Img84 from "../../shared/assets/img-product/type1/anh84.png";
+import Img86 from "../../shared/assets/img-product/type1/anh86.jpg";
+import Img87 from "../../shared/assets/img-product/type1/anh87.png";
+import Img88 from "../../shared/assets/img-product/type1/anh88.jpg";
+import Img89 from "../../shared/assets/img-product/type1/anh89.png";
 
-export const PRODUCT_TYPE_1 = [
+export const TEXTILE_DYEING = [
   {
     key: 1,
     type: "Hóa chất cơ bản",
@@ -1087,18 +1091,6 @@ export const PRODUCT_TYPE_1 = [
 `,
   },
   {
-    key: 8,
-    type: "Hóa chất xử lý nước",
-    title: "Ammonium chloride NH4Cl 99,5%",
-    price: 0,
-    img: Img8,
-    data_info: `
-    `,
-    data_info_bottom: `<span class="posted_in">Danh mục: Hóa Chất Xử Lý Nước</span>
-    `,
-    data_advanced: ``,
-  },
-  {
     key: 9,
     type: "Hóa chất cơ bản",
     title: "Ammonium Chloride NH4Cl 99,5%, Trung Quốc, 25kg/bao",
@@ -1206,25 +1198,21 @@ export const PRODUCT_TYPE_1 = [
 `,
   },
   {
-    key: 10,
-    type: "Chưa phân loại",
-    title: "Ammonium sulfate (NH4)2SO4, Nhật Bản, 50kg/bao",
+    key: 85,
+    type: "Hóa chất xử lý nước",
+    title: "Ammonium sulfate (NH4)2SO4,Trung Quốc, 50kg/bao",
     price: 0,
-    img: Img10,
+    img: Img8,
     data_info: `
-<p>Ammonium sulfate hay Amoni sunfat, phân SA nó còn được biết đến với tên gọi là đạm 1 lá có công thức hóa học là (NH4)2SO4, đây là một loại muối vô cơ mà dạng tinh thể hạt màu trắng, tan nhiều trong nước, dễ bị chảy nước. CAS: 7783-20-2, Xuất xứ: Nhật Bản, Trung Quốc, quy cách: 50 kg/bao. Là loại phân có chứa 21% nitơ và 24% lưu huỳnh ứng dụng chủ yếu trong nông nghiệp, chất bảo quản…</p>
+    <p>Ammonium sulfate hay Amoni sunfat, phân SA nó còn được biết đến với tên gọi là đạm 1 lá có công thức hóa học là (NH4)2SO4, đây là một loại muối vô cơ mà dạng tinh thể hạt màu trắng, tan nhiều trong nước, dễ bị chảy nước. CAS: 7783-20-2, Xuất xứ: Trung Quốc, quy cách: 50 kg/bao. Là loại phân có chứa 21% nitơ và 24% lưu huỳnh ứng dụng chủ yếu trong nông nghiệp, chất bảo quản…</p>
     `,
-    data_info_bottom: `
-        <span class="posted_in">Danh mục: Chưa phân loại, Hóa Chất Cơ Bản, Hóa chất ngành dược – mỹ phẩm, Hóa chất ngành thực phẩm, Hóa Chất Xử Lý Nước</span>
+    data_info_bottom: `<span class="posted_in">Danh mục: Hóa Chất Cơ Bản, Hóa chất ngành dệt nhuộm, Hóa chất ngành thực phẩm, Sản phẩm khác, Sản phẩm nổi bật</span>
     `,
-    data_advanced: `<div class="tab-panels">
+    data_advanced: `
+    <div class="tab-panels">
 							<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
 										
 
-<div class="title">
-<div class="content-title">Mô tả sản phẩm</div>
-</div>
-<div class="specifications css-content clear">
 <table style="width: 82.561%;">
 <tbody>
 <tr>
@@ -1245,7 +1233,7 @@ export const PRODUCT_TYPE_1 = [
 </tr>
 <tr>
 <td style="width: 38.8732%;"><strong>Xuất xứ:</strong></td>
-<td style="width: 309.577%;">Nhật Bản</td>
+<td style="width: 309.577%;">Trung Quốc</td>
 </tr>
 <tr>
 <td style="width: 38.8732%;"><strong>Quy cách:</strong></td>
@@ -1253,7 +1241,7 @@ export const PRODUCT_TYPE_1 = [
 </tr>
 </tbody>
 </table>
-<p>Amoni sunfat&nbsp;là một&nbsp;&nbsp;cũng được sử dụng phổ biến hiện nay, được ứng dụng đa dạng trong các ngành nghề bởi có những tính chất lý hóa nổi bật. Bài viết dưới sẽ chia sẻ một cách chi tiết thông tin về hóa chất này.</p>
+<p>Amoni sunfat&nbsp;là một&nbsp;hóa chất cơ bản&nbsp;cũng được sử dụng phổ biến hiện nay, được ứng dụng đa dạng trong các ngành nghề bởi có những tính chất lý hóa nổi bật. Bài viết dưới sẽ chia sẻ một cách chi tiết thông tin về hóa chất này.</p>
 <h2>1. Ammonium sulfate (NH4)2SO4 là gì?</h2>
 <div>
 <p>Amoni Sunfate&nbsp;là một hợp chất muối của gốc amoni và sunfat, nó có công thức hóa học là (NH4)2SO4. Đây là một chất tồn tại ở dạng hạt hút ẩm trắng mịn hoặc tinh thể.</p>
@@ -1263,7 +1251,6 @@ export const PRODUCT_TYPE_1 = [
 <h2 id="mcetoc_1f11lk5bk1">2. Cấu tạo phân tử của amoni sunfat như nào?</h2>
 <div></div>
 <div>Cấu tạo phân tử của Amoni sunfat (NH4)2SO4&nbsp;được biểu hiện dưới dạng hình ảnh như sau:</div>
-<div style="text-align: center;"><em>Cấu tạo phân tử của amoni sunfat</em></div>
 <h2 id="mcetoc_1f11lkger3">3. Những tính chất hóa lí của amoni sunfat</h2>
 <h3 id="mcetoc_1f11lkpr44">3.1. Tính chất vật lí đặc trưng của&nbsp;amoni sunfat (NH4)2SO4</h3>
 <div>
@@ -1274,7 +1261,6 @@ export const PRODUCT_TYPE_1 = [
 <li>Điểm nóng chảy: 235 đến 280 °C.</li>
 <li>Độ hòa tan trong nước: 70.6 g/100 g nước (0 °C) và 103.8 g/100 g nước (100 °C).</li>
 </ul>
-<p style="text-align: center;"><em>Tính chất vật lý đặc trưng của amoni sunfat (NH4)2SO4</em></p>
 </div>
 <h3 id="mcetoc_1f11llbir5">3.2. Đặc điểm, tính chất hóa học nổi bật của (NH4)2SO4</h3>
 <div>Sau đây là một số tính chất hóa học nổi bật của amonium sulfate:</div>
@@ -1331,13 +1317,10 @@ export const PRODUCT_TYPE_1 = [
 </div>
 <div>
 <h2 id="input_line_9">7. Mua amoni sunfat ở đâu tại Hà Nội, TP Hồ Chí Minh giá tốt nhất?</h2>
-<div>Để được báo giá Amoni sunfat cũng như tìm mua (NH4)2SO4 uy tín, chất lượng nhất hiện nay, bạn có thể liên hệ đến các chuyên viên của&nbsp;<strong>Công ty hóa chất TRỌNG TUẤN CHEMICAL</strong>&nbsp;để được tư vấn và hướng dẫn mua hàng tận tình nhất.</div>
+<div>Để được báo giá Amoni sunfat cũng như tìm mua (NH4)2SO4 uy tín, chất lượng nhất hiện nay, bạn có thể liên hệ đến các chuyên viên của&nbsp;<strong>Công ty hóa chất HacoChem</strong> để được tư vấn và hướng dẫn mua hàng tận tình nhất.</div>
 <div></div>
-<div style="text-align: center;"></div>
-<div style="text-align: center;"></div>
-<div style="text-align: center;"><em>Mua amoni sunfat ở đâu tại Hà Nội, TP Hồ Chí Minh</em></div>
 <div>
-					</div>`,
+</div>`,
   },
   {
     key: 11,
@@ -1437,8 +1420,312 @@ export const PRODUCT_TYPE_1 = [
 <p>– Cung cấp đầy đủ chứng từ, hóa đơn hàng hóa khi giao nhận hàng</p>
 <p>– Thủ tục thanh toán đơn giản, tiết kiệm thời gian công sức cho hệ thống khách hàng</p>
 <p>Quý khách hàng đang có nhu cầu mua Butyl acetate của <strong>TRỌNG TUẤN CHEMICAL</strong> hãy liên hệ ngay số Hotline <strong>0932323391</strong>&nbsp;hoặc truy cập trực tiếp website:&nbsp;<strong>TRỌNG TUẤN CHEMICAL.com.vn</strong>&nbsp;để được tư vấn và hỗ trợ trực tiếp từ hệ thống các chuyên viên.</p>
-							
-					</div>`,
+</div>`,
+  },
+  {
+    key: 86,
+    type: "Chưa phân loại",
+    title: "Butyl acetate C6H12O2, Trung Quốc ( MIXED ), 180kg/phuy",
+    price: 0,
+    img: Img86,
+    data_info: `<p><strong>Butyl acetate</strong>&nbsp;hay còn gọi là Butyl acetic ester, xăng thơm, dầu chuối công nghiệp. Đây là một trong những dung môi vô cùng quan trọng đối với sản xuất sơn nói riêng và các ngành công nghiệp khác nói chung. Vậy hóa chất này có những tính chất, vai trò như nào? chúng ta cùng tìm hiểu qua bài viết sau.</p>`,
+    data_info_bottom: `
+    <span class="posted_in">Danh mục: Dung Môi Công Nghiệp, Hóa chất ngành da giầy, Hóa chất ngành dệt nhuộm, Hóa chất ngành dược – mỹ phẩm, Hóa chất ngành sơn, Hóa chất ngành tẩy rửa, Hóa chất ngành xi mạ, Hóa Chất Thí Nghiệm, Sản phẩm khác, Sản phẩm nổi bật</span>
+`,
+    data_advanced: `<div class="tab-panels">
+							<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
+										
+
+<table style="border-collapse: collapse; width: 100%; height: 105px;">
+<tbody>
+<tr style="height: 21px;">
+<td style="width: 50%; height: 21px;"><strong>Tên sản phẩm</strong></td>
+<td style="width: 50%; height: 21px;">Butyl acetate</td>
+</tr>
+<tr style="height: 21px;">
+<td style="width: 50%; height: 21px;"><strong>Tên gọi khác</strong></td>
+<td style="width: 50%;">Butyl acetic ester, BAC</td>
+</tr>
+<tr style="height: 21px;">
+<td style="width: 50%; height: 21px;"><strong>Công thức hóa học</strong></td>
+<td style="width: 50%;">C<sub>6</sub>H<sub>12</sub>O<sub>2</sub></td>
+</tr>
+<tr style="height: 21px;">
+<td style="width: 50%; height: 21px;"><strong>Số CAS</strong></td>
+<td style="width: 50%;">123-86-4</td>
+</tr>
+<tr style="height: 21px;">
+<td style="width: 50%; height: 21px;"><strong>Xuất xứ</strong></td>
+<td style="width: 50%;">Trung Quốc</td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%; height: 135px;">
+<tbody>
+<tr style="height: 93px;">
+<td style="width: 50%; height: 93px;"><strong>Tính chất</strong></td>
+<td style="width: 50%; height: 93px;">Butyl acetic ester là một chất lỏng dễ cháy không màu và có mùi chuối, tan trong nước, dễ cháy. Do có mùi thơm đặc trưng hương chuối chín, nên trên thị trường butyl axetat thường được gọi là xăng thơm.</td>
+</tr>
+<tr style="height: 21px;">
+<td style="width: 50%; height: 21px;"><strong>Quy cách</strong></td>
+<td style="width: 50%; height: 21px;">180 kg/phuy hoặc 20 lít/can</td>
+</tr>
+<tr style="height: 21px;">
+<td style="width: 50%; height: 21px;"><strong>Bảo quản</strong></td>
+<td style="width: 50%; height: 21px;">Để nơi khô giáo, thoáng mát, tránh nguồn nhiệt</td>
+</tr>
+</tbody>
+</table>
+<h2 id="mcetoc_1gfpi7r4u0"><strong>1. Butyl acetate là gì?</strong></h2>
+<p><strong>Butyl acetate</strong>&nbsp;hay còn gọi là Butyl acetic ester, xăng thơm, dầu chuối công nghiệp. Đây là một trong những dung môi vô cùng quan trọng đối với sản xuất sơn nói riêng và các ngành công nghiệp khác nói chung. Vậy hóa chất này có những tính chất, vai trò như nào? chúng ta cùng tìm hiểu qua bài viết sau.</p>
+<h2 id="mcetoc_1gfpi8i0e1"><strong>2. Butyl acetate có những tính chất nào?</strong></h2>
+<p>– Ngoại quan: Là chất lỏng không màu, mùi este đặc trưng, trong suốt, có độ bay hơi trung bình, tan ít trong nước và tan nhiều trong các dung môi hữu cơ như: ancol, acetone, glycon ether…</p>
+<p>– Điểm nóng chảy: -74&nbsp;<sup>o</sup>C (199 K, -101°F)</p>
+<p>– Nhiệt độ sôi: 126 °C (399 K, 256°F)</p>
+<p>– Tỷ trọng hơi ở nhiệt độ 20oC và áp suất tiêu chuẩn: 4 (không khí=1)</p>
+<p>– Độ hòa tan trong nước: 0.7g/100ml (20&nbsp;<sup>o</sup>C)</p>
+<p>– Giới hạn nồng độ cháy, nổ: 7.6% (V) (% hỗn hợp với không khí)</p>
+<p>– Giới hạn nồng độ cháy, nổ dưới: 1.2% (V) ) (% hỗn hợp với không khí)</p>
+<p>– Khối lượng mol: 116.16 g/mol</p>
+<p>– Khối lượng riêng: 0.88 g/cm<sup>3</sup>, lỏng ở 15&nbsp;<sup>o</sup>C/59&nbsp;<sup>o</sup>F</p>
+<p>– Đặc biệt đây là chất lỏng dễ cháy cấp độ 3</p>
+<h2 id="mcetoc_1gg3u4oss0"><strong>3. Những ứng dụng quan trọng của Butyl acetate trong sản xuất</strong></h2>
+<p>Dung môi pha sơn là gì? Đó là câu hỏi không phải bất kỳ ai cũng hiểu được. Đó là các dung môi được sử dụng chuyên cho ngành công nghiệp sản xuất sơn, mực in. Vậy ngoài ra thì chúng còn có ứng dụng nào khác trong thực tiễn? Tại sao dung môi này lại được gọi là dầu chuối công nghiệp? chúng ta hãy cùng tìm hiểu.</p>
+<h3 id="mcetoc_1gg3u4uqu1"><strong>3.1 Ứng dụng trong ngành pha sơn</strong></h3>
+<p>Butyl acetate hay còn được gọi là dung môi pha sơn, chúng được sử dụng rộng rãi và phổ biến nhất trong ngành công nghiệp sản xuất sơn nhờ tính năng bay hơi nhanh điều này vô cùng thuận lợi cho quá trình làm khô, chống đục sơn đồng thời tạo hiệu ứng màu cam cho sơn. Dung môi này giúp sơn có độ bám dính cao, phủ đều, tạo độ căng bóng khi sơn.</p>
+<h3 id="mcetoc_1gfpia6bd2"><strong>3.2&nbsp; Ứng dụng nhiều trong ngành công nghiệp dược phẩm</strong></h3>
+<p>Ngành công nghiệp dược phẩm cũng thường sử dụng nó trong quá trình sản xuất penicillin nhờ hóa chất này có khả năng duy trì thẩm thấu rất tốt và nó cũng là chất dẫn thuốc, giúp cơ chế hấp thụ thuốc trong cơ thể tốt hơn.</p>
+<p>Ngoài ra Butyl acetate còn được kết hợp với dung môi N-butanol để làm tăng lên khả năng chống đục cho các hợp chất khác, tăng khả năng hòa tan và giảm độ nhớt.</p>
+<h3 id="mcetoc_1gg3u555m2"><strong>3.3&nbsp; Ứng dụng trong luyện kim, xi mạ</strong></h3>
+<p>Butyl acetate cũng là thành phần không thể thiếu trong các chất tẩy rửa bề mặt kim loại nhờ vào đặc tính hấp thụ nước thấp, khả năng chống lại sự thủy phân và có thể hòa tan tốt.</p>
+<h2 id="mcetoc_1gfpj0c2n3"><strong>4. Những lưu ý gì khi sử dụng Butyl acetate?</strong></h2>
+<p>Tương tự như những hóa chất khác, dung môi Butyl acetate tuy không gây độc cao, nguy hiểm tới sức khỏe. Nhưng hóa chất này cũng sẽ gây những tác động tiêu cực đến sức khỏe người sử dụng khi không trang bị kiến thức và đồ bảo hộ lao động đầy đủ. Vậy chúng ta cần chú ý một số vấn đề sau:</p>
+<p>– Tránh xa lửa, nguồn nhiệt khi sử dụng, bảo quản.</p>
+<p>– Đây là 1 chất dễ cháy cấp độ 3, nên khi sử dụng và bảo quản phải tránh xa lửa hoặc nguồn nhiệt cao. Bắt buộc phải tuân thủ nghiêm ngặt quy định an toàn và sử dụng hóa chất này.</p>
+<p>– Trang bị đồ bảo hộ đầy đủ.</p>
+<p>– Là dung môi kích ứng da, mắt khá mạnh. Nó sẽ gây đỏ mắt, chảy nước mắt và làm khô da, gây ngứa. Vì vậy khi tiếp xúc phải trang bị mắt kính, khẩu trang, quần áo bảo hộ chuyên dụng.</p>
+<h2 id="mcetoc_1gfpj0jb04"><strong>5. Mua Butyl Acetate ( Mixed ) ở đâu tại Việt Nam uy tín, chất lượng, giá rẻ?</strong></h2>
+<p style="text-align: center;"><em>Mua dung môi Butyl Acetate tại&nbsp;HACOCHEM!</em></p>
+<p><strong>HACOCHEM</strong>&nbsp;là đơn vị đi hàng đầu trong lĩnh vực nhập khẩu và phân phối các loại hóa chất công nghiệp trên cả nước đã được hệ thống khách hàng đánh giá cao về chất lượng, trong đó không thể không nhắc đến Butyl acetate. Đây là những lý do khiến&nbsp;<strong>HACOCHEM</strong>&nbsp;trở thành công ty được đánh giá cao và được tin tưởng lựa chọn:</p>
+<p>– Chất lượng sản phẩm luôn được đảm bảo và giá thành tốt nhất trên thị trường hiện nay</p>
+<p>– Hệ thống chuyên viên chuyên nghiệp với kiến thức sâu và luôn sẵn sàng hỗ trợ khách hàng 24/7</p>
+<p>– Nguồn gốc, xuất xứ hàng hóa rõ ràng, hàng chính hãng 100% và bảo hành theo nhà sản xuất đúng tiêu chuẩn</p>
+<p>– Cung cấp đầy đủ chứng từ, hóa đơn hàng hóa khi giao nhận hàng</p>
+<p>– Thủ tục thanh toán đơn giản, tiết kiệm thời gian công sức cho hệ thống khách hàng</p>
+<p>Quý khách hàng đang có nhu cầu mua Butyl acetate của&nbsp;<strong>HACOCHEM</strong>&nbsp;hãy liên hệ ngay số Hotline&nbsp;<strong>0932323391</strong>&nbsp;hoặc truy cập trực tiếp website:&nbsp;<strong>hacochem.com.vn</strong>&nbsp;để được tư vấn và hỗ trợ trực tiếp từ hệ thống các chuyên viên.</p>
+</div>`,
+  },
+  {
+    key: 87,
+    type: "Chưa phân loại",
+    title: "Butyl carbitol, C8H18O3 99%, Mỹ, 193 kg/phuy",
+    price: 0,
+    img: Img87,
+    data_info: `
+    <p>Butyl carbitol hay còn gọi là Diglycol monobutyl ether, Butyl digol, Butyl diglycol. Là một dung môi hữu cơ không màu, có mùi butyl nhẹ, tan tốt trong nước, aceton, etanol có công thức hóa học là C8H18O3. Là một hóa chất được sử dụng nhiều trong các ngành công nghiệp như sơn, tẩy rửa, in ấn, dệt nhuộm…</p>
+    `,
+    data_info_bottom: `
+    <span class="posted_in">Danh mục: Dung Môi Công Nghiệp, Hóa Chất Cơ Bản, Hóa chất ngành dệt nhuộm, Hóa chất ngành dược – mỹ phẩm, Hóa chất ngành sơn, Hóa chất ngành tẩy rửa</span>
+`,
+    data_advanced: `
+<div class="tab-panels">
+<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
+<p>Butyl carbitol</p>
+<table style="width: 97.4283%;">
+<tbody>
+<tr>
+<td style="width: 14.0054%;"><strong>Tên sản phẩm</strong></td>
+<td style="width: 83.0176%;">Butyl carbitol</td>
+</tr>
+<tr>
+<td style="width: 14.0054%;"><strong>Tên gọi khác</strong></td>
+<td style="width: 83.0176%;">Diglycol monobutyl ether, Butyl digol, Butyl diglycol</td>
+</tr>
+<tr>
+<td style="width: 14.0054%;"><strong>Công thức hóa học</strong></td>
+<td style="width: 83.0176%;">C<sub>8</sub>H<sub>18</sub>O<sub>3</sub></td>
+</tr>
+<tr>
+<td style="width: 14.0054%;"><strong>Số CAS</strong></td>
+<td style="width: 83.0176%;">112-34-5</td>
+</tr>
+<tr>
+<td style="width: 14.0054%;"><strong>Hàm lượng</strong></td>
+<td style="width: 83.0176%;">99%</td>
+</tr>
+<tr>
+<td style="width: 14.0054%;"><strong>Xuất xứ</strong></td>
+<td style="width: 83.0176%;">Mỹ, Trung Quốc</td>
+</tr>
+<tr>
+<td style="width: 14.0054%;"><strong>Tính chất</strong></td>
+<td style="width: 83.0176%;">– Butyl carbitol là một chất lỏng trung tính, không màu, trong suốt, nhiệt độ sôi cao, có thể trộn lẫn với nước và các dung môi hữu cơ như: methanol, acetone, diethylether.<p></p>
+<p>– Butyl carbitol có mùi rất nhẹ và tạo H<sub>2</sub>O<sub>2</sub>&nbsp;trong môi trường có O<sub>2&nbsp;</sub>không khí.</p></td>
+</tr>
+<tr>
+<td style="width: 14.0054%;"><strong>Ứng dụng&nbsp;</strong></td>
+<td style="width: 83.0176%;">–<strong>&nbsp;Công nghiệp sản xuất sơn:</strong><p></p>
+<p>+ Vì Butyl carbitol có độ bay hơi rất chậm nên nó được dùng làm chất tăng độ chảy cho sơn sấy được làm từ nhựa: ure, melanine, phenol hoặc nhựa epoxy. Tỉ lệ 1-3% Butyl carbitol, Butyl diglycol sẽ làm tăng độ bằng phẳng (dàn đều ) cho sơn.</p>
+<p>+ Butyl carbitol cũng được dùng trong sơn sấy hoà tan trong nước, tác dụng làm giảm hiện tượng màng sơn bị giộp hoặc phồng lên và làm tăng độ dàn đều cho màng sơn</p>
+<p>+ Dùng Butyl carbitol như chất kết hợp trong sơn nước dùng trong công nghiệp và kiến trúc, có tác dụng làm tăng độ chảy và làm dễ quyết cho sơn bóng.</p>
+<p><strong>– Sản xuất mực in:</strong></p>
+<p>+ Butyl carbitol là dung môi chính cho mực in lụa hệ dung môi</p>
+<p>+ Butyl carbitol là dung môi kết hợp nhựa và màu cho mực in hệ nước</p>
+<p><strong>– Các ứng dụng khác:</strong></p>
+<p>+ Butyl carbitol là chất kết hợp và là dung môi cho các chất tẩy gia dụng và công nghiệp, chất tẩy gỉ sét, chất tẩy những bề mặt cứng và chất khử trùng. Khả năng hoà tan chất dơ dầu mỡ rất tốt.</p>
+<p>+ Butyl carbitol là thành phần của chất tẩy dầu mỡ cho kim loại</p>
+<p>+ Butyl carbitol là nguyên liệu ban đầu trong sản xuất chất hoá dẻo, phản ứng với anhydride…</p></td>
+</tr>
+<tr>
+<td style="width: 14.0054%;"><strong>Quy cách</strong></td>
+<td style="width: 83.0176%;">193 kg/phuy</td>
+</tr>
+<tr>
+<td style="width: 14.0054%;"><strong>Bảo quản</strong></td>
+<td style="width: 83.0176%;">Để nơi khô giáo, thoáng mát, tránh xa nguồn lửa</td>
+</tr>
+</tbody>
+</table>
+<p>Butyl carbitol là dung môi hữu cơ không màu, có mùi butyl nhẹ. Đây là một hợp chất được sử dụng nhiều trong các ngành công nghiệp như sơn, tẩy rửa, in ấn, dệt nhuộm… Hãy cùng HACOCHEM tìm hiểu về hóa chất này qua bài viết dưới đây:</p>
+<h2 id="mcetoc_1h0rod29n0"><strong>1. Butyl carbitol là gì?</strong></h2>
+<p>Butyl carbitol hay còn gọi là Diglycol monobutyl ether, Butyl digol, Butyl diglycol. Là một dung môi hữu cơ không màu, có mùi butyl nhẹ, tan tốt trong nước, aceton, etanol có công thức hóa học là C<sub>8</sub>H<sub>18</sub>O<sub>3</sub>. Là một hóa chất được sử dụng nhiều trong các ngành công nghiệp như sơn, tẩy rửa, in ấn, dệt nhuộm…</p>
+<p>&nbsp;</p>
+<h2 id="mcetoc_1h0rodk7b1"><strong>2. Tính chất của Butyl carbitol</strong></h2>
+<p>– Butyl carbitol là dung môi có mùi nhẹ và tạo H<sub>2</sub>O<sub>2</sub>&nbsp;trong môi trường có O<sub>2</sub>&nbsp;không khí.</p>
+<p>– Butyl carbitol được dùng kết hợp với butyl cellosolve để giảm tốc độ bay hơi thấp hơn và tăng khả năng ưa nước cho dung môi.</p>
+<p>– Điểm sôi: 230,4 °C</p>
+<p>– Điểm nóng chảy: -68 °C</p>
+<p>– Tan trong ethanol, ethyl ether, acetone và hòa tan tốt trong nước</p>
+<p>– Phân hủy: Khi đun nóng để phân hủy nó phát ra khói cay và hơi khó chịu.</p>
+<p>– Trọng lượng phân tử: 162,22672 g/mol</p>
+<h2 id="mcetoc_1h0roe92m2"><strong>3. Ứng dụng quan trọng trong đời sống sản xuất</strong></h2>
+<p><strong>– Dung môi trong ngành sản xuất sơn:</strong></p>
+<p>+ Vì Butyl carbitol có độ bay hơi rất chậm nên nó được dùng làm chất tăng độ chảy cho sơn sấy được làm từ nhựa: ure, melanine, phenol hoặc nhựa epoxy.</p>
+<p>+ &nbsp;Butyl carbitol cũng được dùng trong sơn sấy hoà tan trong nước, tác dụng làm giảm hiện tượng màng sơn bị giộp hoặc phồng lên và làm tăng độ dàn đều cho màng sơn.</p>
+<p><strong>– Dung môi sản xuất mực in:</strong></p>
+<p>+ Butyl carbitol là dung môi chính cho mực in lụa hệ dung môi, ngoài ra nó còn được kết hợp với nhựa và màu cho mực in hệ nước. Sản xuất mực viết bi, mực dấu, nhuộm và in vải sợi…</p>
+<p><strong>–</strong>&nbsp;<strong>Dùng trong chất tẩy rửa công nghiệp:</strong>&nbsp;Là dung môi trong công nghiệp sản xuất các chất tẩy rửa, chất tẩy rỉ sét, tẩy dầu mỡ kim loại, chất tẩy rửa bề mặt và chất khử trùng.</p>
+<p><strong>– Trong sản xuất thuốc bảo vệ thực vật:</strong>&nbsp;Chúng được sử dụng như chất làm ổn định ban đầu, chất khử hoạt tính cho thuốc trừ sâu trong nông nghiệp.</p>
+<h2 id="mcetoc_1h0rog4f33"><strong>4. Mua hóa chất Butyl carbitol ở đâu uy tín?</strong></h2>
+<p>HACOCHEM là đơn vị đi đầu trong lĩnh vực nhập khẩu và phân phối các loại hóa chất công nghiệp trên cả nước đã được hệ thống khách hàng đánh giá cao về chất lượng, trong đó không thể không nhắc đến Butyl carbitol. Đây là những lý do khiến HACOCHEM trở thành công ty được đánh giá cao và được tin tưởng lựa chọn:</p>
+<p>– Chất lượng sản phẩm luôn được đảm bảo và giá thành tốt nhất trên thị trường hiện nay</p>
+<p>– Hệ thống chuyên viên chuyên nghiệp với kiến thức sâu và luôn sẵn sàng hỗ trợ khách hàng 24/7</p>
+<p>– Nguồn gốc, xuất xứ hàng hóa rõ ràng, hàng chính hãng 100% và bảo hành theo nhà sản xuất đúng tiêu chuẩn</p>
+<p>– Cung cấp đầy đủ chứng từ, hóa đơn hàng hóa khi giao nhận hàng</p>
+<p>– Thủ tục thanh toán đơn giản, tiết kiệm thời gian công sức cho hệ thống khách hàng</p>
+<p>Quý khách hàng đang có nhu cầu mua Butyl carbitol của HACOCHEM hãy liên hệ ngay số Hotline <strong>09.32.32.33.91</strong>&nbsp;hoặc truy cập trực tiếp website&nbsp;<strong>hacochem.com.vn</strong>&nbsp;để được tư vấn và hỗ trợ trực tiếp từ hệ thống các chuyên viên.</p>
+</div>`,
+  },
+  {
+    key: 88,
+    type: "Chưa phân loại",
+    title: "Butyl cellosolve solvent (BCS) C6H14O2, 185kg/phuy",
+    price: 0,
+    img: Img88,
+    data_info: `
+    <p>Butyl cellosolve solvent (BCS) là một chất lỏng không màu, có mùi nhẹ, có thể hòa tan nhiều loại nhựa tự nhiên và tổng hợp, tốc độ bay hơi tương đối chậm, tan hoàn toàn trong nước. CTHH: C6H14O2, CAS: 111-76-2, Xuất xứ: Đài Loan, Malaysia, quy cách: 185 kg/phuy. Butyl cellosolve solvent sử dụng nhiều trong dung môi trong sơn và chất phủ bề mặt, sản phẩm tẩy rửa và các loại mực, thành phần chính của một số chất chất tẩy rửa, xà phòng .</p>`,
+    data_info_bottom: `
+    <span class="posted_in">Danh mục: Dung Môi Công Nghiệp, Hóa chất ngành da giầy, Hóa chất ngành dệt nhuộm, Hóa chất ngành sơn, Hóa chất ngành tẩy rửa, Hóa chất ngành thực phẩm, Sản phẩm khác, Sản phẩm nổi bật</span>
+    `,
+    data_advanced: `
+    <div class="tab-panels">
+<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
+<div class="title">
+<div class="content-title">Mô tả sản phẩm</div>
+</div>
+<div class="specifications css-content clear">
+<table style="width: 96.4807%;">
+<tbody>
+<tr>
+<td style="width: 44.0549%;"><strong>Tên sản phẩm</strong></td>
+<td style="width: 272.027%;">Butyl cellosolve solvent (BCS)</td>
+</tr>
+<tr>
+<td style="width: 44.0549%;"><strong>Công thức hóa học</strong></td>
+<td style="width: 272.027%;">C<sub>6</sub>H<sub>14</sub>O<sub>2</sub></td>
+</tr>
+<tr>
+<td style="width: 44.0549%;"><strong>CAS</strong></td>
+<td style="width: 272.027%;">111-76-2</td>
+</tr>
+<tr>
+<td style="width: 44.0549%;"><strong>Xuất xứ</strong></td>
+<td style="width: 272.027%;">Đài Loan, Malaysia</td>
+</tr>
+<tr>
+<td style="width: 44.0549%;"><strong>Đóng gói</strong></td>
+<td style="width: 272.027%;">185 kg/phuy</td>
+</tr>
+<tr>
+<td style="width: 44.0549%;"><strong>Bảo quản</strong></td>
+<td style="width: 272.027%;">Nơi khô ráo, thoáng mát</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="css-content content-description">
+<p><strong>Butyl cellosolve solvent</strong> (BCS) là một dung môi công nghiệp phổ biến, được ứng dụng trong nhiều ngành công nghiệp đặc biệt trong sản xuất sơn, chất tẩy rửa,… Vậy hóa chất này có những tính chất và công dụng cụ thể như thế nào, cùng HacoChem tìm hiểu ngay trong bài viết dưới đây nhé!</p>
+<p><span style="font-size: 23.04px;">1. Butyl cellosolve solvent (BCS) là gì?</span></p>
+<p>Butyl cellosolve solvent (BCS)&nbsp;còn có tên gọi khác là Butyl glycol hoặc 2-Butoxyethanol. Đây là một loại dung môi hữu cơ có tốc độ bay hơi chậm, có đặc tính của chất hoạt động bề mặt với công thức hóa học là C<sub>6</sub>H<sub>14</sub>O<sub>2</sub>.</p>
+<p id="mcetoc_1fjn3sfht0" style="text-align: center;"><em>Butyl cellosolve solvent (BCS) C6H14O2</em></p>
+<h2 id="mcetoc_1f84nq9nv1">2. Tính chất hóa lý đặc trưng của&nbsp;Butyl cellosolve solvent (BCS)</h2>
+<p><strong>Dung môi công nghiệp</strong>&nbsp;Butyl cellosolve solvent có các tính chất đặc trưng bao gồm:</p>
+<ul>
+<li>Trạng thái tự nhiên: Tồn tại ở thể lỏng không màu, có mùi nhẹ, có độ nhớt thấp và có khả năng hoà tan nhiều loại nhựa tự nhiên, nhựa tổng hợp.</li>
+<li>BCS tan tốt&nbsp;trong nước và có tốc độ bay hơi khá chậm</li>
+<li>Nhiệt độ sôi của BCS là 171 ºC</li>
+<li>Khối lượng phân tử là 118.17 g/mol</li>
+<li>Tỉ trọng là 0.791g/cm<sup>3</sup></li>
+<li>Nhiệt độ đông đặc là -77 ºC</li>
+<li>Nhiệt độ sôi là 71 ºC</li>
+<li>Áp suất hơi ở 20 ºC là 0.1 kPa</li>
+<li>Độ nhớt ở 25 ºC là 2.9cp.</li>
+<li>Dễ bắt lửa.</li>
+</ul>
+<h2 id="mcetoc_1fjn6rrra1">3. Cách sản xuất dung môi Butyl Cellosolve Solvent</h2>
+<p>Trong công nghiệp, dung môi Butyl Cellosolve Solvent&nbsp;được sản xuất theo phương pháp monoethoxylation của butanol. Phương trình phản ứng xảy ra như sau:</p>
+<p>C<sub>2</sub>H<sub>4</sub>O + BuOH → BuOC<sub>2</sub>H<sub>4</sub>OH</p>
+<h2 id="mcetoc_1f84nqhpk2">4. Những ứng dụng quan trọng của&nbsp;Butyl Cellosolvent trong đời sống</h2>
+<p>Dung môi Butyl Cellsolvent được sử dụng trong nhiều lĩnh vực sản xuẩt. Có thể kể đến các ứng dụng dưới đây:</p>
+<h3 id="mcetoc_1gp4gp7f10"><strong>4.1 Sử dụng làm dung môi trong ngành công nghiệp sản xuất nhựa, sơn</strong></h3>
+<p>Butyl Cellosolve Solvent là loại&nbsp;dung môi pha sơn&nbsp;có nhiều tác dụng trong ngành công nghiệp sơn bề mặt vì nó có khả năng hòa tan nhiều loại nhựa tổng hợp. Nó hoạt động như một loại dung môi ức chế giúp tăng lưu lượng và độ lì, nhẵn của sơn. Với khả năng chống nước hiệu quả, BCS giúp chống lại hiện tượng mờ do tác động của môi trường ẩm ướt. Khi sử dụng với liều lượng 10%, BCS giúp vecni và sơn nhanh khô.</p>
+<h3 id="mcetoc_1gp4h6sav1"><strong>4.2 Sử dụng trong sản xuất chất tẩy rửa và vệ sinh</strong></h3>
+<p>Dung môi BCS là thành phần có trong một số loại hóa chất chất tẩy rửa, nước xà phòng, mỹ phẩm, được ứng dụng trong giải pháp giặt khô,… Nhờ vào khả năng bay hơi nhanh cùng với khả năng đánh bay các vết bẩn từ mực, sơn mà Butyl Cellosolve Solvent được xem là thành phần không thể thiếu trong các loại hóa chất tẩy rửa và vệ sinh.</p>
+<h3 id="mcetoc_1gp4hcr4o2"><strong>4.3 Trong công nghiệp chế biến thực phẩm</strong></h3>
+<p>BCS được dùng làm phụ gia thực phẩm trực tiếp và gián tiếp với vai trò là chất khử bọt, chất chống vi trùng, chất kết dính và chất ổn định.</p>
+<h3 id="mcetoc_1gp4hi0tv3"><strong>4.4 Sử dụng trong nhuộm và in hoa trên vải</strong></h3>
+<p>Trong ngành dệt nhuộm, dung môi BCS được dùng rộng rãi nhờ khả năng làm đều màu, ngăn chặn tạo các vết và đốm trên vải.</p>
+<h3 id="mcetoc_1gp4hmlbh4"><strong>4.5 Ứng dụng trong nghành công nghiệp dầu khí</strong></h3>
+<p>Trong ngành công nghiệp khai thác dầu mỏ, Butyl glycol được xem là một thành phần quan trọng của chất lỏng nứt, chất ổn định khoan, chất phân tán dầu trơn cho cả nứt thủy lực gốc nước và nứt thủy lực gốc dầu.</p>
+<h2 id="mcetoc_1f84o2h881">5. Các lưu ý khi sử dụng và bảo quản Butyl cellosolve solvent</h2>
+<p>Để đảm bảo an toàn khi sử dụng và bảo quản dung môi Butyl glycol (IBCS), người lao động cần chú ý các vấn đề sau:</p>
+<h3 id="mcetoc_1f84o2lpl2">5.1. Lưu ý khi sử dụng</h3>
+<p>Butyl cellosolve solvent là dung môi khá nguy hiểm vì nó gây ảnh hưởng xấu tới sức khỏe của người sử dụng nếu không được trang bị đầy đủ kiến thức cũng đồ bảo hộ lao động.</p>
+<p>– Đối với con người: loại dung môi này có thể gây kích ứng đến hệ hô hấp, họng, niêm mạc,… khi tiếp xúc trực tiếp. Các trường hợp nặng hơn có thể gây tình trạng hạ huyết áp, phù phổi, hôn mê. Tại Mỹ, khi làm việc với hóa chất này phải thông báo cho các cơ quan chức năng.</p>
+<p>– Đối với môi trường: BCS được xác định là chất có thể phân hủy vài ngày trong môi trường không khí và nó cũng đã được gỡ bỏ khỏi danh sách những chất gây ô nhiễm không khí nguy hiểm.</p>
+<p>Môi trường làm việc với hóa chất BCS nên đảm bảo được sự thông thoáng.</p>
+<h3 id="mcetoc_1fk1cmjuq0">5.2. Lưu ý khi bảo quản</h3>
+<p>Butyl cellosolve solvent là dung môi rất dễ cháy nên cần được bảo quản trong phuy, can đậy kín và tránh xa nơi có nguồn nhiệt cao, tránh sử dụng lửa cũng như các chất dễ gây cháy gần khu vực bảo quản dung môi.</p>
+<p><strong>5.3. Cách xử lý khi sự cố xảy ra</strong></p>
+<ul>
+<li aria-level="1">Khi tiếp xúc với da, tay, quần áo: thay ngay quần áo sạch, rửa sạch vùng tiếp xúc dưới vòi nước ít nhất 15 phút</li>
+<li aria-level="1">Vào mắt: nếu có đeo kính áp tròng thì cần tháo ra, xả nhẹ với nước sạch trong 15 phút, nghỉ ngơi và nghe tư vấn của bác sỹ</li>
+<li aria-level="1">Với đường hô hấp: rời đến khu vực thoáng khí, thở khí oxy nếu thấy khó thở và đến ngay gặp bác sỹ</li>
+<li aria-level="1">Tiếp xúc qua miệng: uống nhiều nước, nếu bệnh nhân ngất không được cho bất cứ vật gì vào họng cần đưa ngay đến gặp bác sỹ.</li>
+</ul>
+<h2 id="mcetoc_1fk1crvbg1">6.&nbsp;Địa chỉ bán dung môi Butyl cellosolve solvent&nbsp;đảm bảo uy tín, giá rẻ</h2>
+<p><strong>HACOCHEM</strong>&nbsp;là nhà phân phối các sản phẩm hóa chất cơ bản, hóa chất công nghiệp uy tín, đảm bảo chất lượng cũng như giá thành tốt nhất hiện nay. Sau hơn 08 năm thành lập và phát triển,&nbsp;<strong>HACOCHEM</strong>&nbsp;tự hào trở thành địa chỉ mua hàng được đông đảo quý khách hàng lựa chọn, tin yêu. Cùng với sự phát triển của internet,&nbsp;<strong>HACOCHEM</strong>&nbsp;cũng đã xây dựng website riêng&nbsp;<strong>hacochem.com.vn</strong>&nbsp;giúp quý khách hàng dễ dàng tìm hiểu thông tin về sản phẩm cũng như đặt mua trực tiếp ngay tại nhà.</p>
+<p><strong>HACOCHEM&nbsp;luôn phục vụ quý khách hàng theo những tiêu chí tốt nhất:</strong></p>
+<ul>
+<li>Giá thành cạnh tranh nhất, có nhiều ưu đãi khi mua với số lượng lớn.</li>
+<li>Các sản phẩm đều đảm bảo chất lượng, cam kết chính hãng 100%.</li>
+<li>Nhân viên bán hàng am hiểu sản phẩm, luôn sẵn sàng giải đáp bất kỳ thắc mắc nào của khách hàng.- Thời gian vận chuyển nhanh chóng.</li>
+<li>Thao tác mua hàng, thanh toán đơn giản, nhanh gọn.</li>
+</ul>
+<p>Nếu quý khách hàng đang có nhu cầu tìm mua hóa chất <strong><em>Butyl cellosolve</em></strong>&nbsp;chính hãng, vui lòng liên hệ số hotline&nbsp;<strong>0932323391&nbsp;</strong>để được tư vấn hỗ trợ và báo giá sớm nhất</p>
+</div>
+</div>
+    `,
   },
   {
     key: 12,
@@ -1453,9 +1740,7 @@ export const PRODUCT_TYPE_1 = [
 <span class="posted_in">Danh mục: Dung Môi Công Nghiệp, Hóa Chất Cơ Bản, Hóa chất ngành da giầy, Hóa chất ngành dệt nhuộm, Hóa chất ngành dược – mỹ phẩm, Hóa chất ngành điện tử, Hóa chất ngành giấy, Hóa chất ngành khai khoáng, Hóa chất ngành sơn, Hóa chất ngành tẩy rửa, Hóa chất ngành thức ăn chăn nuôi, Hóa chất ngành thực phẩm, Hóa chất ngành xi mạ, Hóa chất nhiệt điện, Hóa Chất Xử Lý Nước, Sản phẩm khác, Sản phẩm nổi bật</span>
     `,
     data_advanced: `<div class="tab-panels">
-							<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
-										
-
+<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
 <p class="titleSec"><strong>MÔ TẢ HÓA CHẤT</strong></p>
 <ul id="pills-tab" class="nav nav-pills" role="tablist"></ul>
 <div id="pills-tabContent" class="tab-content">
@@ -1722,271 +2007,138 @@ export const PRODUCT_TYPE_1 = [
 `,
   },
   {
-    key: 14,
-    type: "Hóa chất xử lý nước",
-    title: "Calcium nitrate 99% Ca(NO3)2",
-    price: 0,
-    img: Img14,
-    data_info: ``,
-    data_info_bottom: `
-         <span class="posted_in">Danh mục: Hóa Chất Xử Lý Nước</span>
-    `,
-    data_advanced: ``,
-  },
-  {
-    key: 15,
-    type: "Hóa chất cơ bản",
-    title: "CANXI CACBONAT CaCO3 VIỆT NAM, 50 KG/BAO",
-    price: 0,
-    img: Img15,
-    data_info: `
-<p>Calcium carbonate hay Canxi cacbonat, Bột đá. CTHH: CaCO3. CAS: 471-34-1. Xuất xứ: Việt Nam, Trung Quốc. Đóng gói: 50kg/bao. Ứng dụng trong nhiều nghành công nghiệp quan trọng như: Xây dựng, sơn, nhựa, xử lý môi trường…</p>
-    `,
-    data_info_bottom: `
-   <span class="posted_in">Danh mục: Hóa Chất Cơ Bản, Hóa chất ngành dược – mỹ phẩm, Hóa chất ngành sơn, Hóa Chất Xử Lý Nước, Sản phẩm khác</span>
-    `,
-    data_advanced: `<div class="tab-panels">
-							<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
-										
-
-<table style="border-collapse: collapse; width: 100%;">
-<tbody>
-<tr>
-<td style="width: 50%;"><strong>Tên sản phẩm</strong></td>
-<td style="width: 50%;">Canxi Cacbonat</td>
-</tr>
-<tr>
-<td style="width: 50%;"><strong>Tên gọi khác</strong></td>
-<td style="width: 50%;">Calcium carbonate hay bột đá</td>
-</tr>
-<tr>
-<td style="width: 50%;"><strong>Công thức hóa học</strong></td>
-<td style="width: 50%;">CaCO<sub>3</sub></td>
-</tr>
-<tr>
-<td style="width: 50%;"><strong>Hàm lượng</strong></td>
-<td style="width: 50%;">97,25%</td>
-</tr>
-<tr>
-<td style="width: 50%;"><strong>Xuất xứ</strong></td>
-<td style="width: 50%;">Việt Nam</td>
-</tr>
-<tr>
-<td style="width: 50%;"><strong>Đóng gói</strong></td>
-<td style="width: 50%;">50 kg/ bao</td>
-</tr>
-</tbody>
-</table>
-<ol>
-<li>
-<h2>Canxi Cacbonat là gì ?</h2>
-</li>
-</ol>
-<p>Canxi cacbonat là một hợp chất hóa học với công thức hóa học là CaCO3. Ước tính, khoảng 5% vỏ Trái Đất là một dạng nào đó của canxi cacbonat, chất này thường được tìm thấy dưới dạng đá (đá vôi, đá phấn, đá cẩm thạch …) ở khắp nơi trên thế giới, là thành phần chính trong mai/vỏ của các loài sò, ốc hoặc vỏ của ốc.Nó là nguyên nhân chính gây ra hiện tượng nước cứng.</p>
-<p>– Calcium carbonate : tinh thể mặt thoi trắng hoặc bột trắng, xuất hiện tự nhiên như canxit.<br>
-– Bột Calcium Carbonate (CaCO3): có dạng bột màu trắng, rất mịn được chế biến từ Caxi thiên nhiên có thành phần hoá học CaCO<sub>3</sub>: 97,25%; SiO<span style="font-size: 12px;">2</span>: 0,12%: Al<span style="font-size: 12px;">2</span>O<sub>3</sub>: 0,04%; MgCO<sub>3</sub>: 2,12%; Fe<span style="font-size: 12px;">2</span>O<sub>3</sub>: 0,03%.Các thành phần khác theo nhu cầu của khách hàng.</p>
-<h2 id="mcetoc_1g41p42rh0">2. Tính chất lý hóa của Canxi Cacbonat</h2>
-<h3 id="mcetoc_1g41p45fo1">2.1. Tính chất vật lý</h3>
-<ul>
-<li>Ngoại quan: Chất rắn dạng bột màu trắng, không tan trong nước</li>
-<li>Điểm nóng chảy: 825 °C (1,098 K)</li>
-<li>Là một thành phần cấu thành hoạt hóa trong vôi nông nghiệp. Chất này thường được tìm thấy dưới dạng đá ở khắp nơi trên thế giới, là thành phần chính trong mai/vỏ của các loài sò, ốc hoặc vỏ của ốc. Nó là nguyên nhân chính gây ra hiện tượng nước cứng.</li>
-</ul>
-<h3 id="mcetoc_1g41p4g2g2">2.2. Tính chất hóa học của đá vôi Canxi cacbonat</h3>
-<ul>
-<li>CaCO<sub>3</sub>&nbsp;mang đầy đủ tính chất hóa học của một loại muối</li>
-<li>CaCO<sub>3</sub>&nbsp;tác dụng với aixt mạnh tạo muối và giải phóng khí CO2</li>
-</ul>
-<p style="text-align: center;">CaCO<sub>3</sub>&nbsp;+ 2HCl → CaCl<sub>2</sub>&nbsp;+ H<sub>2</sub>O + CO<sub>2</sub></p>
-<ul>
-<li>CaCO<sub>3</sub> kém bền với nhiệt, bị nhiệt phân tạo vôi và khí CO2:</li>
-</ul>
-<p style="text-align: center;">CaCO<sub>3</sub>&nbsp;–<sup>to</sup>→ CaO + CO<sub>2</sub></p>
-<ul>
-<li>CaCO<sub>3</sub>&nbsp;tan kém trong nước</li>
-</ul>
-<p style="text-align: center;">CaCO<sub>3</sub>&nbsp;+ CO<sub>2</sub>&nbsp;+ H<sub>2</sub>O ⇆ Ca(HCO<sub>3</sub>)<sub>2</sub></p>
-<h2 id="mcetoc_1fan5mf2g8">3. Điều chế, sản xuất Canxi cacbonat như thế nào?</h2>
-<h3 id="mcetoc_1g41q9ojl0">3.1. CaCO₃ trong tự nhiên</h3>
-<p>CaCO₃&nbsp;được tìm thấy trong tự nhiên, tại các khoáng chất và đá sau:&nbsp;Aragonit,&nbsp;Calcite,&nbsp;Đá phấn,&nbsp;Đá vôi,&nbsp;Cẩm thạch&nbsp;hay đá hoa,&nbsp;Travertin.&nbsp;Vỏ trứng có tới 95% là calci carbonat.</p>
-<h3 id="mcetoc_1g41qalbr0">3.2. Sản xuất Canxi cacbonat trong công nghiệp</h3>
-<p>Đa số CaCO₃ được khai thác từ đá mỏ hoặc đá núi (thường là cẩm thạch). Hoặc cũng có thể được tạo ra bằng cách cho khí carbon dioxide chạy qua dung dịch calci hydroxide theo phương trình phản ứng như sau:</p>
-<p style="text-align: center;">Ca(OH)<sub>2</sub>&nbsp;+ CO<sub>2</sub>&nbsp;→ CaCO<sub>3</sub>↓ + H<sub>2</sub>O</p>
-<p>&nbsp;</p>
-<p style="text-align: center;"></p>
-<p style="text-align: center;"><em>Phương pháp điều chế&nbsp;Calcium carbonate</em></p>
-<h2 id="mcetoc_1fan5mvsib">4. Ứng dụng trong đời sống, sản xuất</h2>
-<h3 id="mcetoc_1fan5n4n7c">4.1. Ứng&nbsp;dụng của Cacbonat Canxi trong công nghiệp xây dựng</h3>
-<p>Một thành phần cấu thành đá xây, xi măng, đá nghiền…trong ngành xây dựng chính là đá vôi. Là phụ gia trong xi măng đảm bảo độ bền, chắc chắn và chịu lực chịu nhiệt cho sản phẩm.</p>
-<h3 id="mcetoc_1fan5o270d">4.2. Bột đá được sử dụng rộng rãi trong ngành sơn</h3>
-<p>Đá vôi được xem như chất độn chính. Độ mịn và phân bố kích thước hạt Canxi cacbonat ảnh hưởng đến độ chắn sáng của quá trình sơn phủ. Ngoài ra thì hợp chất này cũng có độ sáng cao, độ hấp thu dầu thấp, bền trong môi trường, khả năng mài mòn thấp, nâng cao tính năng chống ăn mòn môi trường và cải thiện độ nhớt sản phẩm</p>
-<p>Được sử dụng rất nhiều trong ngành sơn nước ( sơn trang trí), nó đóng góp tăng khả năng quang học của sơn và trọng lượng của sơn. Canxi cabonat có thể sử dụng đến 60% hàm lượng trong sản xuất sơn.</p>
-<h3 id="mcetoc_1fan5o7dge">4.3. Ứng dụng của Canxi cacbonat trong ngành nhựa</h3>
-<p>Thành phần quan trọng để sản xuất ra ống nhựa, khung cửa nhựa, dây cáp điện, màng nhựa đúc…nó giúp hình thành khung chắc chắn cho sản phẩm, tăng độ bám dính của màu trên sợi polymer trong quá trình gia màu.</p>
-<p style="text-align: center;"></p>
-<p style="text-align: center;"><em>Cacbonat canxi là thành phần quan trọng để sản xuất ống nhựa</em></p>
-<h3 id="mcetoc_1fan5v8uho">4.4. Canxi cacbonat được dùng trong Y tế</h3>
-<p>&nbsp;</p>
-<p>Nó cũng là thành phần trong một số thuốc chữa trị bệnh thiếu hụt canxi trong cơ thể.&nbsp;Nó cũng được sử dụng trong công nghiệp dược phẩm làm chất nền cho thuốc viên làm từ loại dược phẩm khác.&nbsp;Dưới đây là một số tác dụng quan trọng của cacbonat canxi trong y tế:</p>
-<p><strong>Chống trào ngược dạ dày-thực quản (GERD):</strong>&nbsp;Cacbonat canxi được sử dụng như một loại thuốc chống trào ngược dạ dày-thực quản. Nó hoạt động bằng cách trung hòa axit trong dạ dày và giúp giảm triệu chứng như ợ nóng và cháy rát thực quản.</p>
-<p><strong>Điều trị viêm loét dạ dày và tá tràng:</strong>&nbsp;Canxi cacbonat có tác dụng trung hòa axit dạ dày, giúp giảm sự tổn thương do axit dạ dày gây ra. Do đó, nó được sử dụng làm một thành phần trong một số loại thuốc điều trị viêm loét dạ dày và tá tràng.</p>
-<p><strong>Bổ sung canxi:</strong>&nbsp;Cacbonat canxi là một nguồn cung cấp canxi hữu hiệu. Nó được sử dụng để bổ sung canxi cho những người thiếu hụt canxi, nhất là trong trường hợp cần tăng cường sức khỏe xương và răng.</p>
-<p><strong>Phòng ngừa cơn co thắt cơ:</strong>&nbsp;Cacbonat canxi có thể giúp giảm cơn co thắt cơ do thiếu canxi trong cơ bắp. Việc bổ sung canxi có thể giúp duy trì hoạt động cơ bắp bình thường và giảm cơ cứng cỏi.</p>
-<p><strong>Chống axit uric và hỗ trợ giảm triệu chứng của bệnh gút:</strong>&nbsp;Một số nghiên cứu cho thấy CaCO₃ có khả năng trung hòa axit uric trong máu và giảm triệu chứng của bệnh gút.</p>
-<h3 id="mcetoc_1f55km1g54">4.5. Canxi cacbonat – Chất xử lí môi trường nước</h3>
-<p>Với vai trò là chất xử lý nước thì&nbsp;CaCO₃ góp phần quan trọng trong chăn nuôi thủy sản như:</p>
-<ul>
-<li>Hấp thu các khí độc tích tụ ở đáy ao như: NH<sub>3</sub>, H<sub>2</sub>S, CO<sub>2</sub>…và axít trong nước, giảm tỷ trọng kim loại nặng, độc hại trong ao nuôi.</li>
-<li>Phân huỷ xác tảo, các chất lơ lửng bẩn trong ao nuôi, giúp cân bằng môi trường nước, thông qua đó ổn định được PH của môi trường nước</li>
-<li>Ổn định màu nước, hạn chế có váng, làm sạch nước, tăng lượng oxy hoà tan (DO) trong nước.</li>
-</ul>
-<p style="text-align: center;"></p>
-<p style="text-align: center;"><em>CaCO<sub>3</sub>&nbsp;có vai trò quan trọng trong tiêu diệt nấm bệnh trên thủy sản</em></p>
-<h2 id="mcetoc_1fan5ou8of">5. Lưu ý khi sử dụng, bảo quản&nbsp;Canxi cacbonat an toàn</h2>
-<h3 id="mcetoc_1fan5qo6fl">5.1. Lưu ý khi bảo quản, lưu trữ</h3>
-<ul>
-<li>Canxi cacbonat cần phải lưu trữ cẩn thận, tránh gây ô nhiễm môi trường cũng như làm ảnh hưởng đến mọi người xung quanh.</li>
-<li>Hãy đặt chúng tại những nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp.</li>
-<li>Kho hóa chất cần phải tách riêng biệt để tránh trường hợp rò rỉ hoặc tràn đổ hóa chất gây ô nhiễm.</li>
-<li>Nhà kho trữ hóa chất phải nằm ở xa khu dân cư, tránh nguồn nước, nơi chứa nước sinh hoạt cho dân sinh hay trồng trọt vì sẽ làm ảnh hưởng nghiêm trọng đến sức khỏe.</li>
-</ul>
-<h3 id="mcetoc_1fan5qtvom">5.2. Lưu ý khi Sử dụng Canxi cacbonat</h3>
-<p>Khi tiếp xúc với hóa chất CaCO₃ nói riêng, các loại&nbsp;hóa chất cơ bản&nbsp;khác nói chung cần phải trang bị cho mình các công cụ sử dụng thích hợp, trang thiết bị bảo hộ đầy đủ.</p>
-<h2 id="mcetoc_1g78hvauh0">6. TRỌNG TUẤN CHEMICAL – Địa chỉ mua bột đá vôi Calcium carbonate uy tín, chất lượng</h2>
-<p style="text-align: center;">TRỌNG TUẤN CHEMICAL là đơn vị hàng đầu chuyên cung cấp các loại hóa chất công nghiệp, bột đá vôi Calcium carbonate uy tín được nhiều doanh nghiệp lựa chọn. Sản phẩm của chúng tôi có nguồn gốc xuất xứ rõ ràng, quy cách đóng gói đa dạng, phục vụ được nhiều nhu cầu sử dụng khác nhau trong sản xuất công nghiệp.</p>
-<h2 id="mcetoc_1g78i0olg1">7. Báo giá bột đá vôi Calcium carbonate</h2>
-<p>TRỌNG TUẤN CHEMICAL là một trong những đơn vị cung cấp bột đá vôi Canxi cacbonat hàng đầu tại Việt Nam, chúng tôi mang đến cho thị trường những sản phẩm chất lượng với giá thành hợp lý. Bột đá vôi được TRỌNG TUẤN CHEMICAL cung cấp với quy cách 25kg/bao, xuất xứ Việt Nam và Trung Quốc ứng dụng được trong nhiều ngành sản xuất công nghiệp.</p>
-<p>Ngoài ra, chúng tôi còn cung cấp đa dạng các loại hóa chất xử lý nước, dung môi công nghiệp, hóa chất cơ bản,… đảm bảo được các nhu cầu sử dụng trong các ngành công nghiệp tại Việt Nam.</p>
-<p>Quý khách cần biết thêm thông tin về bột đá vôi Calcium carbonate hãy liên hệ ngay cho chúng tôi theo số tổng đài : <strong>093.2323.391 </strong>hoặc có thể truy cập website TRỌNG TUẤN CHEMICAL</p>
-				</div>
-											<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--reviews panel entry-content " id="tab-reviews" role="tabpanel" aria-labelledby="tab-title-reviews">
-										<div id="reviews" class="woocommerce-Reviews row">`,
-  },
-  {
-    key: 16,
+    key: 89,
     type: "Chưa phân loại",
-    title: "Canxi nitrat Ca(NO3)2 99%, Trung Quốc, 25kg/bao",
+    title: "Carboxymethyl cellulose (C.M.C) mặn",
     price: 0,
-    img: Img16,
+    img: Img89,
     data_info: `
- <p>Calcium nitrate hay Canxi nitrat. CTHH: Ca(NO3)2. CAS: 13477-34-4. Hàm lượng: 99%. Xuất xứ: Trung Quốc. Đóng gói: 25kg/bao. Ngoại quan: Tinh thể màu trắng, hòa tan trong amoniac, hầu như không tan trong axit nitric. Dùng trong nguyên liệu phân bón, xử lý nước thải, phụ gia bê tông…</p>
+<p>Ammonium sulfate hay Amoni sunfat, phân SA nó còn được biết đến với tên gọi là đạm 1 lá có công thức hóa học là (NH4)2SO4, đây là một loại muối vô cơ mà dạng tinh thể hạt màu trắng, tan nhiều trong nước, dễ bị chảy nước. CAS: 7783-20-2, Xuất xứ: Nhật Bản, Trung Quốc, quy cách: 50 kg/bao. Là loại phân có chứa 21% nitơ và 24% lưu huỳnh ứng dụng chủ yếu trong nông nghiệp, chất bảo quản…</p>
     `,
     data_info_bottom: `
-<span class="posted_in">Danh mục: Chưa phân loại, Hóa Chất Cơ Bản, Hóa Chất Xử Lý Nước, Sản phẩm khác, Sản phẩm nổi bật</span>
+        <span class="posted_in">Danh mục: Chưa phân loại, Hóa Chất Cơ Bản, Hóa chất ngành dược – mỹ phẩm, Hóa chất ngành thực phẩm, Hóa Chất Xử Lý Nước</span>
     `,
     data_advanced: `<div class="tab-panels">
 							<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
 										
 
-<table style="width: 76.5558%;">
+<div class="title">
+<div class="content-title">Mô tả sản phẩm</div>
+</div>
+<div class="specifications css-content clear">
+<table style="width: 82.561%;">
 <tbody>
 <tr>
-<td style="width: 46.3183%;"><strong>Tên sản phẩm:</strong></td>
-<td style="width: 393.522%;">Calcium nitrate</td>
+<td style="width: 38.8732%;"><strong>Tên sản phẩm:</strong></td>
+<td style="width: 309.577%;">Ammonium sulfate</td>
 </tr>
 <tr>
-<td style="width: 46.3183%;"><strong>Tên gọi khác:</strong></td>
-<td style="width: 393.522%;">Canxi nitrat</td>
+<td style="width: 38.8732%;"><strong>Tên gọi khác:</strong></td>
+<td style="width: 309.577%;">Amoni sunfat, phân SA, đạm 1 lá</td>
 </tr>
 <tr>
-<td style="width: 46.3183%;"><strong>Công thức hóa học:</strong></td>
-<td style="width: 393.522%;">Ca(NO<sub>3</sub>)<sub>2</sub></td>
+<td style="width: 38.8732%;"><strong>Công thức hóa học:</strong></td>
+<td style="width: 309.577%;">(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub></td>
 </tr>
 <tr>
-<td style="width: 46.3183%;"><strong>CAS:</strong></td>
-<td style="width: 393.522%;">13477-34-4</td>
+<td style="width: 38.8732%;"><strong>CAS:</strong></td>
+<td style="width: 309.577%;">7783-20-2</td>
 </tr>
 <tr>
-<td style="width: 46.3183%;"><strong>Hàm lượng:</strong></td>
-<td style="width: 393.522%;">99%</td>
+<td style="width: 38.8732%;"><strong>Xuất xứ:</strong></td>
+<td style="width: 309.577%;">Nhật Bản</td>
 </tr>
 <tr>
-<td style="width: 46.3183%;"><strong>Xuất xứ:</strong></td>
-<td style="width: 393.522%;">Trung quốc</td>
-</tr>
-<tr>
-<td style="width: 46.3183%;"><strong>Đóng gói:</strong></td>
-<td style="width: 393.522%;">25kg/bao</td>
+<td style="width: 38.8732%;"><strong>Quy cách:</strong></td>
+<td style="width: 309.577%;">50kg/bao</td>
 </tr>
 </tbody>
 </table>
-<p>Canxi nitrat – Ca(NO3)2 là một hợp chất hóa học được sử dụng phổ biến trong xử lý nước thải, làm nguyên liệu sản xuất phân bón, chất phụ gia bê tông,… Sản phẩm hóa chất Calcium nitrate 99% Ca(NO3)2 hiện đang được TRỌNG TUẤN CHEMICAL phân phối trên toàn quốc với mức giá vô cùng hấp dẫn. Hãy theo dõi bào viết dưới đây để nắm được những thông tin cụ thể về sản phẩm hóa chất này!</p>
-<h2 id="mcetoc_1f6jdagcd0">1.&nbsp;Canxi nitrat là gì?</h2>
-<p>Canxi nitrat&nbsp;là hợp chất muối vô cơ được tạo thành dưới sự liên kết của 1 kim loại Ca<sup>2+</sup>&nbsp;và 2 nhóm NO<sub>3</sub><sup>2-</sup>&nbsp;có công thức hóa học là&nbsp;Ca(NO<sub>3</sub>)<sub>2</sub>.</p>
-<h2 id="mcetoc_1f6jdarm61">2. Những tính chất lý hóa nổi bật của&nbsp;Canxi nitrat</h2>
+<p>Amoni sunfat&nbsp;là một&nbsp;&nbsp;cũng được sử dụng phổ biến hiện nay, được ứng dụng đa dạng trong các ngành nghề bởi có những tính chất lý hóa nổi bật. Bài viết dưới sẽ chia sẻ một cách chi tiết thông tin về hóa chất này.</p>
+<h2>1. Ammonium sulfate (NH4)2SO4 là gì?</h2>
+<div>
+<p>Amoni Sunfate&nbsp;là một hợp chất muối của gốc amoni và sunfat, nó có công thức hóa học là (NH4)2SO4. Đây là một chất tồn tại ở dạng hạt hút ẩm trắng mịn hoặc tinh thể.</p>
+<p>Chúng còn được biết đến với nhiều tên gọi khác nhau như: Ammonium sulfate (2:1), Diammonium sulfate, muối sunfuric axit diammonium, đạm 1 lá.</p>
+<p>(NH4)2SO4 là sản phẩm mang đến nhiều ứng dụng nổi bật, trong đó không thể không nhắc đến là việc cung cấp một lượng lớn chất dinh dưỡng cho cây dưới dạng phân bón.</p>
+</div>
+<h2 id="mcetoc_1f11lk5bk1">2. Cấu tạo phân tử của amoni sunfat như nào?</h2>
+<div></div>
+<div>Cấu tạo phân tử của Amoni sunfat (NH4)2SO4&nbsp;được biểu hiện dưới dạng hình ảnh như sau:</div>
+<div style="text-align: center;"><em>Cấu tạo phân tử của amoni sunfat</em></div>
+<h2 id="mcetoc_1f11lkger3">3. Những tính chất hóa lí của amoni sunfat</h2>
+<h3 id="mcetoc_1f11lkpr44">3.1. Tính chất vật lí đặc trưng của&nbsp;amoni sunfat (NH4)2SO4</h3>
+<div>
 <ul>
-<li>Canxi nitrat&nbsp;là muối vô cơ dạng hạt tròn nhỏ không màu, hút ẩm mạnh từ không khí và thường thấy ở dạng ngậm 3 phân tử nước.</li>
-<li>Có khối lượng riêng: 2.504 g/cm<sup>3&nbsp;</sup>(khan).</li>
-<li>Nhiệt độ nóng chảy: 561 °C.</li>
-<li>Hoàn tan tốt trong nước, để ngoài không khí dễ bị chảy nước.</li>
+<li>Amoni sunfat là chất có màu trắng, có tính hút ẩm, chúng bị hòa tan được trong nước nhưng không hòa tan trong acetone, rượu và etanol.</li>
+<li>Khối lượng mol: 132.14 g/mol.</li>
+<li>Khối lượng riêng: 1.77 g/cm3.</li>
+<li>Điểm nóng chảy: 235 đến 280 °C.</li>
+<li>Độ hòa tan trong nước: 70.6 g/100 g nước (0 °C) và 103.8 g/100 g nước (100 °C).</li>
 </ul>
-<h2 id="mcetoc_1f6jc1kd61">3. Sản xuất, điều chế canxi nitrat như thế nào?</h2>
-<p>Hiện nay, tùy vào mục đích sử dụng mà canxi nitrat có những cách sản xuất khác nhau như sau:</p>
+<p style="text-align: center;"><em>Tính chất vật lý đặc trưng của amoni sunfat (NH4)2SO4</em></p>
+</div>
+<h3 id="mcetoc_1f11llbir5">3.2. Đặc điểm, tính chất hóa học nổi bật của (NH4)2SO4</h3>
+<div>Sau đây là một số tính chất hóa học nổi bật của amonium sulfate:</div>
+<div>
 <ul>
-<li>Sản xuất bằng cách xử lý đá vôi bằng axit nitric HNO3, sau đó được trung hòa với amoniac:</li>
+<li>Chúng có thể làm&nbsp;quỳ tím&nbsp;hóa đỏ bởi tính axit của mình.</li>
+<li>Nó bị phân hủy khi đun nóng trên 250 độ C để tạo thành (NH4)2SO4.</li>
+<li>Bị phân hủy thành amoniac, nitơ, lưu huỳnh điôxit và nước khi được đun ở nhiệt độ cao hơn.</li>
+<li>Có thể tác dụng với các dung dịch cân bằng của sunfat kim loại, giúp tạo ra các muối như amoni kim loại sunfat.</li>
 </ul>
-<p>CaCO<sub>3</sub>&nbsp;+ HNO<sub>3</sub>&nbsp;→ Ca(NO<sub>3</sub>)<sub>2</sub>&nbsp;+ CO<sub>2</sub>&nbsp;+ H<sub>2</sub>O</p>
+</div>
+<h2 id="mcetoc_1f11lllj56">4. Điều chế ammonium sulfate như thế nào?</h2>
+<p><span style="font-size: 23.04px;">Ammonium sulfate(NH4)2SO4 có thể được điều chế từ tự nhiên hoặc sản xuất với số lượng lớn trong công nghiệp. Cụ thể như sau:&nbsp;</span></p>
+<div>
+<h3 id="mcetoc_1f11llv947">4.1. (NH4)2SO4 trong tự nhiên</h3>
+<p>Ammonium sulfate trong tự nhiên tồn tại như một khoáng sản quý hiếm trong các fumarole núi lửa&nbsp; hoặc do cháy than trên một số bãi rác.</p>
+<h3 id="mcetoc_1f11lm4ik8">4.2. Điều chế Amoni sunfat (NH4)2SO4 trong công nghiệp</h3>
 <ul>
-<li>Là một sản phẩm trung gian của quy trình Odda:</li>
+<li>Chúng được tạo ra bằng cách xử lý&nbsp;amoniac, thường là sản phẩm phụ từ lò than cốc, với axit sulfuric. Phương trình phản ứng như sau:</li>
 </ul>
-<p>Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>&nbsp;+ HNO<sub>3</sub>&nbsp;+ H<sub>2</sub>O → H<sub>3</sub>PO<sub>4</sub>&nbsp;+ Ca + H<sub>2</sub>O</p>
+<p>2NH3 + H2SO4 → (NH4)2SO4</p>
 <ul>
-<li>Được điều chế từ dung dịch amoni nitrat &nbsp;NH<sub>4</sub>NO<sub>3</sub>&nbsp;và&nbsp;canxi hydroxit Ca(OH)<sub>2</sub>:</li>
+<li>Được sản xuất từ thạch cao (CaSO4 2H2O), theo phương trình phản ứng như sau:</li>
 </ul>
-<p>NH<sub>4</sub>NO<sub>3</sub>&nbsp;+ Ca(OH)<sub>2</sub>&nbsp;→ Ca(NO<sub>3</sub>)<sub>2</sub>&nbsp;+ NH<sub>4</sub>OH</p>
-<h2 id="mcetoc_1d71lb4cq0">4. Những ứng dụng vượt trội của Canxi nitrat</h2>
-<h3 id="mcetoc_1d71lb4cq1">4.1. Ứng dụng của Canxi nitrat trong sản xuất phân bón</h3>
+<p>(NH4)2CO3 + CaSO4 → (NH4)2SO4 + CaCO3</p>
+</div>
+<h2 id="mcetoc_1f11lmev39">5. Những&nbsp;ứng dụng của amoni sunfat trong đời sống, sản xuất</h2>
+<h3 id="mcetoc_1f11lmloca">5.1. Ứng dụng của (NH4)2SO4 trong nông nghiệp</h3>
 <ul>
-<li>Ứng dụng quan trọng và được biết tới nhiều nhất của Canxi nitrat là làm nguyên liệu trong phân bón. Phân bón canxi nitrat giúp cung cấp 2 dưỡng chất quan trọng là Nito và Canxi cho cây. Canxi là yếu tố dinh dưỡng quan trọng cho quá trình phát triển của cây cũng như kích thích hoạt động của các men trong quá trình trao đổi chất. Nito là chất quan trọng trong quá trình hình thành tế bào, đẩu nhanh quá trình quang hợp, kích thích sự phát triển bộ rễ, tán, lá,… của cây.</li>
+<li>Thành phần của&nbsp;amoni sunfat chứa&nbsp;21% nitơ và 24% lưu huỳnh nên chúng là một loại phân bón vô cùng cần thiết cho các loại cây trồng như: lúa mì, ngô, gạo, bông, khoai tây, cây gai dầu và cây ăn quả. Phân đạm 1 lá tham gia vào quá trình tổng hợp protein và các chất dinh dưỡng cần thiết cho cây.</li>
+<li>Phân đạm 1 lá (NH4)2SO4 còn giúp kiểm soát&nbsp;độ pH&nbsp;của đất và tham gia vào quá trình nitrat hóa được thực hiện bởi vi khuẩn.</li>
+<li>Chúng còn là thành phần của thuốc trừ sâu hòa tan, thuốc diệt cỏ và thuốc diệt nấm để giúp bảo vệ cây trồng.</li>
 </ul>
-<p><strong><em>&nbsp;Sodium metabisulfite(SBS) 99% Na2S2O5, Ý, 25kg/bao</em></strong></p>
+<div>
+<p id="mcetoc_1f11mfmcp1" style="text-align: center;"><em>Ứng dụng của (NH4)2SO4 trong nông nghiệp&nbsp;</em></p>
+<h3 id="mcetoc_1f11lmsfsb">5.2. Trong phòng thí nghiệm</h3>
+<p>Còn trong phòng thí nghiệm, (NH4)2SO4&nbsp;có những vai trò như sau:</p>
 <ul>
-<li>Canxi nitrate giúp cây trồng tăng khả năng chống chịu bệnh, tác động đến quá trình tạo trái non, giúp trái sớm hình thành, tăng sự chống chịu, chống rụng trái non và trái có mẫu mã đẹp.</li>
-<li>Canxi nitrate còn có tác dụng làm tăng độ pH trong đất, ức chế sự phát triển của các loại nấm, vi khuẩn gây bệnh trong đất.</li>
-<li>Hóa chất này còn giúp cải tạo đất hiệu quả, có thể dùng để hạn phèn, khử mặn, chống lại sự suy thoái của đất, phục hồi cấu trúc đất trở nên thông thoáng, giảm ngộ độc Mangan, nhôm, sắt,…, thấm nước tốt.</li>
-<li>Hợp chất hóa học này là thành phần chính của dung dịch thủy canh, giúp đẩy nhanh quá trình phát triển của cây, tránh rụng trái non, giảm thiểu teo trái và tăng khả năng chống chịu sâu bệnh hại.</li>
+<li>Là một thuốc thử phân tích trong điện hóa, môi trường nuôi cấy vi sinh vật.</li>
+<li>Nhờ tính chất kết tủa, nên chúng được ứng dụng trong việc phân lập và tinh chế protein, đặc biệt là protein huyết tương.</li>
 </ul>
-<h3 id="mcetoc_1d71lb4cq2">4.2. Ứng dụng của canxi nitrat trong các lĩnh vực khác</h3>
+<h3 id="mcetoc_1f11ln2mcc">5.3. Trong lĩnh vực công nghiệp</h3>
 <ul>
-<li>Ca(NO<sub>3</sub>)<sub>2&nbsp;</sub>được sử dụng trong xử lý nước thải, giảm sự cáu cặn và bốc mùi của nước. Quá trình tổng hợp sunfat sẽ ngừng lại nếu gặp nitrat, nhờ đó mà ngăn chặn được sự hình thành H2S – chất có mùi trứng thối và rất độc.</li>
-<li>Với ngành xây dựng:&nbsp;Ca(NO<sub>3</sub>)<sub>2</sub>&nbsp;được dùng trong bộ tăng tốc phụ gia bê tông. Trong đó, ion Ca+ đẩy nhanh quá trình hình thành của vôi tôi để tạo khối, ion N+ giúp hình thành sắt hidroxit – lớp bảo vệ, chống ăn mòn của thép, bê tông.</li>
-<li>Canxi nitrat và Kali nitrat được sử dụng để hấp thụ và lưu trữ năng lượng trong các nhà máy điện mặt trời.</li>
-<li>Trong sản xuất cao su, Canxi Nitrat được sử dụng để làm đông mủ cao su hiệu quả.</li>
+<li>Là chất phụ gia và được xem là tác nhân trung hòa&nbsp;axit, sử dụng nhiều trong các món nướng có thành phần từ bột mì, điển hình chính là bánh mỳ.</li>
+<li>Chúng được sử dụng như một chất điều chỉnh áp suất thẩm thấu và như một tác nhân kết tủa muối.</li>
+<li>Có thể phân tách các chất ô nhiễm bằng cách tăng độ cứng của nước.</li>
+<li>Là một chất chống ăn mòn khá phổ biến.</li>
 </ul>
-<h2 id="mcetoc_1f9l6i57i0">5. Lưu ý khi sử dụng, bảo quản&nbsp;Canxi nitrat</h2>
-<h3 id="mcetoc_1f9l6iavh1">5.1. Lưu ý khi sử dụng hóa chất&nbsp;Ca(NO<sub>3</sub>)<sub>2</sub></h3>
+<h2 id="mcetoc_1fa26ljtg0">6. Lưu ý khi bảo quản, sử dụng hóa chất&nbsp;amoni sunfat an toàn</h2>
 <ul>
-<li>Cần mang găng tay và đeo mắt kính bảo hộ đầy đủ&nbsp;theo đúng tỷ lệ.</li>
-<li>Sau khi sử dụng xong hóa chất này, cần dùng bàn chải nhựa chà sát khu vực cần loại bỏ, sau đó xả lại bằng nước sạch.</li>
+<li>Để bảo quản&nbsp;amoni sunfat ở những nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp.</li>
+<li>Khi sử dụng cần trang bị cho mình đồ bảo hộ cần thiết: kính, gang tay, quần áo… đúng theo quy định để đảm bảo an toàn.</li>
 </ul>
-<h3 id="mcetoc_1f9l6ih9a2">5.2. Bảo quản&nbsp;Calcium nitrate ra sao?</h3>
-<ul>
-<li>Cần bảo quản&nbsp;Ca(NO3)2 ở&nbsp;những nơi cao ráo, khô thoáng.</li>
-<li>Tránh bảo quản ở những nơi có ánh sáng trực tiếp từ mặt trời.</li>
-<li>Nếu hóa chất này chưa dùng hết, cần lấy dây buộc kín miệng bao.</li>
-<li>Để xa tầm tay của trẻ nhỏ, không sử dụng lại bao đã chứa sản phẩm.</li>
-</ul>
-<figure data-id="5241">
-<figure data-id="6686"></figure>
-</figure>
-<h2 id="mcetoc_1ga8eugnr0">6. Báo giá hóa chất Canxi nitrat mới nhất</h2>
-<p>Trên thị trường hiện nay có rất nhiều thương hiệu cung cấp hóa chất Canxi Nitrat – Ca(NO<sub>3</sub>)<sub>2</sub>&nbsp;với quy cách đóng gói rất đa dạng. Tùy vào chất lượng sản phẩm mà chúng lại có những mức giá khác nhau. Để có thể mua được hóa chất công nghiệp chất lượng tốt mà giá cả hợp lý thì khách hàng cần sáng suốt lựa chọn những nhà phân phối uy tín.</p>
-<p>Hiện nay, tại TRỌNG TUẤN CHEMICAL – công ty chuyên phân phối hóa chất công nghiệp hàng đầu Việt Nam – đang bán sản phẩm <strong>Calcium nitrate – Ca(NO<sub>3</sub>)<sub>2</sub></strong><strong>&nbsp;99%</strong>, xuất xứ Trung Quốc, quy cách đóng gói 25kg/bao với mức giá vô cùng hấp dẫn. Hãy liên hệ ngay với <strong>TRỌNG TUẤN CHEMICAL&nbsp;</strong>để được báo giá tốt nhất!</p>
-<p style="text-align: center;"><em>Calcium nitrate – Ca(NO<sub>3</sub>)<sub>2</sub>&nbsp;99%, Trung Quốc, quy cách 25kg/bao</em></p>
-<h2 id="mcetoc_1d71lb4cq3"><strong>7. Gợi ý địa chỉ mua Canxi nitrat&nbsp;uy tín chất lượng tốt nhất hiện nay</strong></h2>
-<p>Công ty TNHH VN Haco (TRỌNG TUẤN CHEMICAL) chính là đáp án của câu hỏi này. Theo ý kiến rất nhiều khách hàng đã và đang sử dụng các loại sản phẩm tại đây đánh giá TRỌNG TUẤN CHEMICAL là địa chỉ tin cậy cung ứng và phân phối các loại hóa chất tinh khiết, hóa chất công nghiệp, <strong>hóa chất cơ bản</strong>&nbsp;được sản xuất tại các hãng nổi tiếng trên thế giới với chất lượng tốt nhất đảm bảo phục vụ quá trình nghiên cứu, sản xuất hiệu quả.</p>
-<p>TRỌNG TUẤN CHEMICAL có bán canxi nitrat với xuất xứ từ Trung Quốc, là các tinh thể màu trắng, có thể hòa tan trong amoniac và hầu như không tan trong axit nitric. Hóa chất này được đóng gói với quy cách bao 25kg dễ dàng cho quá trình sử dụng, vận chuyển và lưu kho.</p>
-<p>Đặc biệt, khi mua hàng tại TRỌNG TUẤN CHEMICAL quý khách hàng còn được ưu đãi với thủ tục mua hàng rất đơn giản, chỉ cần thực hiện các bước sau:</p>
-<ul>
-<li>Bước 1: Truy cập website:&nbsp;<strong>http://TRỌNG TUẤN CHEMICAL.com.vn</strong></li>
-</ul>
-<ul>
-<li>Bước 2: Xác định sản phẩm, loại hóa chất thiết bị cần mua cần mua và số lượng cụ thể của từng loại.</li>
-<li>Bước 3: Gọi cho chúng tôi theo HOTLINE&nbsp;<strong>0932.32.33.91 </strong>hoặc đặt hàng trực tuyến trên website.</li>
-<li>Bước 4: Đợi hàng giao tận tay đúng như thời gian đã hẹn.</li>
-<li>Bước 5: Tận hưởng các sản phẩm với chất lượng TỐT nhất từ TRỌNG TUẤN CHEMICAL.</li>
-</ul>
-`,
+</div>
+<div>
+<h2 id="input_line_9">7. Mua amoni sunfat ở đâu tại Hà Nội, TP Hồ Chí Minh giá tốt nhất?</h2>
+<div>Để được báo giá Amoni sunfat cũng như tìm mua (NH4)2SO4 uy tín, chất lượng nhất hiện nay, bạn có thể liên hệ đến các chuyên viên của&nbsp;<strong>Công ty hóa chất TRỌNG TUẤN CHEMICAL</strong>&nbsp;để được tư vấn và hướng dẫn mua hàng tận tình nhất.</div>
+<div></div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;"><em>Mua amoni sunfat ở đâu tại Hà Nội, TP Hồ Chí Minh</em></div>
+<div>
+					</div>`,
   },
   {
     key: 17,
@@ -2250,362 +2402,6 @@ Sodium Lauryl Ether Sulfate (SLES) là chất gây kích ứng da, khi sử dụ
 </ul>
 <p>Liên hệ để được giá tốt nhất</p>
 							
-					</div>`,
-  },
-  {
-    key: 20,
-    type: "Chưa phân loại",
-    title:
-      "Chất xử lý nước làm mát HMV 308, Hàn Quốc, 20 kg/can hoặc 200 kg/phuy",
-    price: 0,
-    img: Img20,
-    data_info: `
-<div class="product-short-description">
-	<p>HMV 308 ức chế ăn mòn và cáu cặn là một sản phẩm có thành phần là các photpho hữu cơ được chế tạo để sử dụng cho các hệ thống nước làm mát tuần hoàn mở.</p>
-<p>Chất này được tính toán cho việc kiểm soát ăn mòn, đóng cặn trong thép (thành phần thép ít), đồng và đồng thau ởnước làm mát có nồng độ kiềm cao.</p>
-</div>
-    `,
-    data_info_bottom: `
-<span class="posted_in">Danh mục: Chưa phân loại, Hóa Chất Cơ Bản, Hóa chất ngành tẩy rửa, Hóa chất ngành xi mạ, Hóa chất nhiệt điện, Hóa Chất Xử Lý Nước, Sản phẩm khác, Sản phẩm nổi bật, Vật Tư Và Thiết Bị Công Nghiệp</span>
-    `,
-    data_advanced: `<div class="tab-panels">
-							<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
-										
-
-<table style="border-collapse: collapse; width: 100%; height: 147px;">
-<tbody>
-<tr style="height: 21px;">
-<td style="width: 49.9562%; height: 21px;">Tên sản phẩm</td>
-<td style="width: 49.9562%; height: 21px;">HMV 308</td>
-</tr>
-<tr style="height: 21px;">
-<td style="width: 49.9562%; height: 21px;">Trạng thái</td>
-<td style="width: 49.9562%;">Trong suốt không màu đến vàng nhạt</td>
-</tr>
-<tr style="height: 21px;">
-<td style="width: 49.9562%; height: 21px;">Trọng lượng riêng tại 25°C</td>
-<td style="width: 49.9562%;">1.09</td>
-</tr>
-<tr style="height: 21px;">
-<td style="width: 49.9562%; height: 21px;">Độ pH</td>
-<td style="width: 49.9562%; height: 21px;">Trên 10.5</td>
-</tr>
-<tr style="height: 21px;">
-<td style="width: 49.9562%; height: 21px;">Nhiệt độ nóng chảy/đóng băng</td>
-<td style="width: 49.9562%; height: 21px;">&nbsp;– 3.8℃</td>
-</tr>
-<tr style="height: 21px;">
-<td style="width: 49.9562%; height: 21px;">Quy cách</td>
-<td style="width: 49.9562%; height: 21px;">20 kg/can hoặc 200 kg/phuy</td>
-</tr>
-<tr style="height: 21px;">
-<td style="width: 49.9562%; height: 21px;">Xuất xứ</td>
-<td style="width: 49.9562%; height: 21px;">Hàn Quốc</td>
-</tr>
-</tbody>
-</table>
-<h2>1. Thông tin chung</h2>
-<p>HMV 308 ức chế ăn mòn và cáu cặn là một sản phẩm có thành phần là các photpho hữu cơ được chế tạo để sử dụng cho các hệ thống nước làm mát tuần hoàn mở. Chất này được tính toán cho việc kiểm soát ăn mòn, đóng cặn trong thép (thành phần thép ít), đồng và đồng thau ởnước làm mát có nồng độ kiềm cao.</p>
-<p style="text-align: center;">Hóa chất HMV 308</p>
-<h2>2. Thông tin thành phần HMV 308</h2>
-<table style="border-collapse: collapse; width: 100%; height: 105px;">
-<tbody>
-<tr style="height: 21px;">
-<td style="width: 26.6461%; height: 21px; text-align: center;">Tên hóa học</td>
-<td style="width: 23.3539%; height: 21px; text-align: center;">Công thức hóa học</td>
-<td style="width: 25%; height: 21px; text-align: center;">Mã số CAS</td>
-<td style="width: 25%; height: 21px; text-align: center;">Thành phần (%)</td>
-</tr>
-<tr style="height: 21px;">
-<td style="width: 26.6461%; height: 21px; text-align: center;">Amino tri(methylenephosphonic acid)</td>
-<td style="width: 23.3539%; height: 21px; text-align: center;">C3H12NO9P3</td>
-<td style="width: 25%; height: 21px; text-align: center;">6419-19-8</td>
-<td style="width: 25%; height: 21px; text-align: center;">Bí mật thương mại</td>
-</tr>
-<tr style="height: 21px;">
-<td style="width: 26.6461%; height: 21px; text-align: center;">NATRI HIDROXIT</td>
-<td style="width: 23.3539%; height: 21px; text-align: center;">NaOH</td>
-<td style="width: 25%; height: 21px; text-align: center;">1310-73-2</td>
-<td style="width: 25%; height: 21px; text-align: center;">&lt; 5</td>
-</tr>
-<tr style="height: 21px;">
-<td style="width: 26.6461%; height: 21px; text-align: center;">2-PHOSPHONO-1,2,4-<br>
-BUTANETRICARBOXYLIC ACID</td>
-<td style="width: 23.3539%; height: 21px; text-align: center;">C7H11O9P</td>
-<td style="width: 25%; height: 21px; text-align: center;">37971-36-1</td>
-<td style="width: 25%; height: 21px; text-align: center;">Bí mật thương mại</td>
-</tr>
-<tr style="height: 21px;">
-<td style="width: 26.6461%; height: 21px; text-align: center;">NATRI TOLYLTRIAZOLE</td>
-<td style="width: 23.3539%; height: 21px; text-align: center;">C7H6N3Na</td>
-<td style="width: 25%; height: 21px; text-align: center;">64665-57-2</td>
-<td style="width: 25%; height: 21px; text-align: center;">&lt; 5</td>
-</tr>
-</tbody>
-</table>
-<table style="border-collapse: collapse; width: 100%;">
-<tbody>
-<tr>
-<td style="width: 26.6461%; text-align: center;">Nước</td>
-<td style="width: 23.3539%; text-align: center;">H2O</td>
-<td style="width: 25%; text-align: center;">7732-18-5</td>
-<td style="width: 25%; text-align: center;">77 ~ 87</td>
-</tr>
-</tbody>
-</table>
-<h2>3. Đặc tính hóa lý sản phẩm</h2>
-<p>Nhiệt độ nóng chảy: Không xác định/ nhiệt độ đóng băng : -3.8℃</p>
-<p>Nhiệt độ sôi, nhiệt độ bắt đầu sôi và khoảng nhiệt độ sôi: Không xác định</p>
-<p>Điểm bắt cháy: Không xác định</p>
-<p>Tỉ lệ bốc hơi: Không xác định</p>
-<p>Khả năng bốc cháy (rắn, khí): Không xác định</p>
-<p>Giới hạn trên/dưới của khả năng bốc cháy hay giới hạn cháy nổ: Không có thông tin</p>
-<p>Áp suất bay hơi: Không xác định</p>
-<p>Tính tan : Có thể tan được</p>
-<p>Mật độ bay hơi : 1.0 (Không khí = 1)</p>
-<p>Trọng lượng riêng : 1.09</p>
-<p>Hệ số riêng phần nước/ n-octanol : Không có thông tin</p>
-<p>Nhiệt độ tự bốc cháy: Không xác định</p>
-<p>Nhiệt độ phân ly: Không xác định</p>
-<p>Độ nhớt: Không xác định</p>
-<p>Khối lượng nguyên tử: Không xác định</p>
-<h2>4. Ứng dụng của sản phẩm HMV 308</h2>
-<ul>
-<li>Các thành phần photpho hữu cơ được kết hợp lại bằng việc trộn đều lên có tác dụng giảm thiểu ăn mòn của các chất lắng đọng và kiểm soát nước cứng trên bề mặt vật liệu.</li>
-<li>Tạo ra thành phần kháng nấm (Azole) để bảo vệ sự ăn mòn trên bề mặt đồng và hợp kim của đồng.</li>
-</ul>
-<p style="text-align: center;">Tháp giải nhiệt</p>
-<h2>5. Cách pha trộn</h2>
-<ul>
-<li>Liều lượng sản phẩm đưa vào phụ thuộc vào loại hệ thống làm mát, nhiệt độ vận hành và các thông số trong nước như độ pH, thành phần kiềm, độ cứng và chỉ số Langelier.</li>
-<li>Đại diện công ty Hoimyung Waterzen có thể tư vấn cho tỉ lệ pha trộn thích hợp với hệ thống</li>
-</ul>
-<h2>6. Bảo quản và sử dụng</h2>
-<h3>6.1 Bảo quản</h3>
-<p>– Bảo quản trong điều kiện thoáng mát, và ở khu vực có hệ thống thông gió.</p>
-<p>– Tránh xa các khu vực có nguồn nhiệt cao, các loại vật liệu dễ cháy</p>
-<h3>6.2&nbsp;Lưu ý khi sử dụng</h3>
-<ul>
-<li>Các cá nhân khi thực hiện công việc có tiếp xúc trực tiếp với hóa chất bắt buộc phải được trang bị bảo hộ kín, những người không có trang bị bảo hộ buộc phải rời khỏi khu vực làm việc để hạn chế việc hít phải hơi hóa chất</li>
-<li>Tuyệt đối không tự ý sử dụng sai lệch tỷ lệ đã được các kỹ thuật viên hướng dẫn,điều này có thể làm lãng phí nguồn hóa chất, không đạt được hiệu quả như tính toán</li>
-<li>Tránh để hóa chất tràn ra môi trường nước ngoài tự nhiên</li>
-<li>Sử dụng cát, đất trong việc xử lý hóa chất bị đổ ra ngoài</li>
-</ul>
-<h2>7 Mua hóa chất diệt vi sinh HMV 308 ở đâu uy tín</h2>
-<p>Theo đánh giá của rất nhiều khách hàng,&nbsp;<strong>TRỌNG TUẤN CHEMICAL</strong>&nbsp;là nhà cung ứng và phân phối các loại hóa chất và thiết bị phòng thí nghiệm chất lượng tốt nhất trên thị trường.</p>
-<p><strong>TRỌNG TUẤN CHEMICAL</strong>&nbsp;chúng tôi luôn chú trọng đến chất lượng, giá cả, tiện ích, đưa đến cho quý khách hàng sự hài lòng bởi hiệu quả mang lại, góp phần giúp các doanh nghiệp, đơn vị hay cá nhân luôn yên tâm sử dụng, sản xuất, gia tăng giá trị sản phẩm.</p>
-<p>Với đội ngũ nhân viên, kỹ thuật viên giàu chuyên môn, đam mê công việc, luôn tận tình giải đáp các thắc mắc của khách hàng từ các thông tin chi tiết về sản phẩm đến những</p>
-<p>Để có thể đặt hàng các sản phẩm&nbsp;<strong>hóa chất cơ bản</strong>, hóa chất công nghiệp, hóa chất tinh khiết tại&nbsp;<strong>TRỌNG TUẤN CHEMICAL</strong>&nbsp;quý khách vui lòng thực hiện 3 bước sau đây:</p>
-<p><strong>Cách 1</strong>: Liên hệ ngay đến HOTLINE&nbsp;<strong>0932323391</strong>&nbsp;để được các kỹ thuật viên tư vấn và đặt hàng.</p>
-<p><strong>Cách 2:</strong>&nbsp;Truy cập vào website&nbsp;<strong>www.TRỌNG TUẤN CHEMICAL.com.vn</strong>&nbsp;để đặt hàng trực tuyến</p>
-<p><strong>Cách 3:</strong>&nbsp;Ghé thăm văn phòng giao dịch của&nbsp;<strong>TRỌNG TUẤN CHEMICAL</strong>&nbsp;tại số 46BT1X2 khu Đô Thị Linh Đàm – Hoàng Mai – Hà Nội</p>
-`,
-  },
-  {
-    key: 21,
-    type: "Hóa Chất Cơ Bản",
-    title: "Chlorine aquafit Ca(OCl)2, Ấn Độ, 45kg/thùng",
-    price: 0,
-    img: Img21,
-    data_info: `
-<div class="product-short-description">
-	<p>Chlorine Aquafit hay Clorin Ấn Độ tồn tại ở dạng vảy nhỏ màu trắng.</p>
-<p>CTHH: Ca(OCl)2.</p>
-<p>CAS: 7778-54-3.</p>
-<p>Xuất xứ: Ấn Độ.</p>
-<p>Quy cách: 45 kg/thùng.</p>
-<p>Aquafit có tính oxi hóa mạnh, tính diệt khuẩn cao và dễ dàng hòa tan trong nước.</p>
-<p>Sản phẩm được sử dụng rộng rãi để sát khuẩn, chất oxy hóa và tẩy trắng.</p>
-</div>
-    `,
-    data_info_bottom: `
-<span class="posted_in">Danh mục: Hóa Chất Cơ Bản, Hóa Chất Xử Lý Nước, Sản phẩm khác, Vật tư xử lý nước</span>
-    `,
-    data_advanced: `<div class="tab-panels">
-							<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
-										
-
-<div class="description">
-<div class="title">
-<div class="content-title">Mô tả sản phẩm Chlorine Aquafit</div>
-</div>
-<div class="specifications css-content clear">
-<table>
-<tbody>
-<tr>
-<td><strong>Tên sản phẩm</strong></td>
-<td>Chlorine aquafit Ấn Độ</td>
-</tr>
-<tr>
-<td><strong>Công thức hóa học</strong></td>
-<td>Ca(OCl)<sub>2</sub></td>
-</tr>
-<tr>
-<td><strong>Tên thường gọi</strong></td>
-<td>Chlorine Ấn Độ, Calcium hypocholorite, Chlorine of lime</td>
-</tr>
-<tr>
-<td><strong>Xuất xứ</strong></td>
-<td>Ấn Độ</td>
-</tr>
-<tr>
-<td><strong>Hàm lượng</strong></td>
-<td>70%</td>
-</tr>
-<tr>
-<td><strong>CAS</strong></td>
-<td>7778-54-3</td>
-</tr>
-<tr>
-<td><strong>Quy cách đóng gói</strong></td>
-<td>45kg/thùng</td>
-</tr>
-</tbody>
-</table>
-</div>
-<div class="css-content content-description">
-<p style="text-align: left;"><strong><em>Chlorine aquafit&nbsp;Ca(OCl)<sub>2</sub></em></strong> dạng vảy nhỏ màu trắng được sử dụng rộng rãi để sát khuẩn, chất oxy hóa và tẩy trắng. Sản phẩm hiện đang được TRỌNG TUẤN CHEMICAL phân phối số lượng lớn, quy cách 45kg/thùng mới mức giá tốt nhất trên thị trường. Chúng ta cùng tìm hiểu Chlorine Aquafit Ấn Độ và các ứng dụng của hóa chất này trong lĩnh vực hóa chất xử lý nước thải.</p>
-<h2 style="text-align: left;"><span style="font-size: 23.04px;">1. Chlorine aquafit là chất gì?</span></h2>
-<p style="text-align: left;">Chlorine aquafit hay Chlorine Ấn Độ là một chất rắn tồn tại ở dạng vảy nhỏ, màu trắng, có tính oxi hóa và tính diệt khuẩn cao. Sản phẩm dễ dàng hòa tan trong nước và được sử dụng phổ biến để sát khuẩn, làm chất oxi hóa và tẩy trắng.</p>
-<p style="text-align: left;">Chlorine aquafit có công thức hóa học là Ca(OCl)<sub>2</sub>&nbsp;với nhiều tên gọi khác như: Chlorine Ấn Độ, Calcium hypocholorite, Chlorine of lime.</p>
-<p style="text-align: center;"><em>Chlorine Aquafit Ấn Độ là chất tồn tại ở dạng vảy nhỏ màu trắng</em></p>
-<h2 id="mcetoc_1g5gh3b9n1">2. Tính chất hóa lý của Chlorine aquafit</h2>
-<h3 id="mcetoc_1g5gh3ddg2">2.1. Tính chất vật lý</h3>
-<ul>
-<li>Ngoại quan: Hóa chất Chlorine Aquafit Ấn Độ tồn tại ở dạng vảy nhỏ màu trắng</li>
-<li>Tính tan: Tan tốt trong nước ở nhiệt độ &nbsp;20&nbsp;<sup>ᵒ</sup>C là 200 g/l</li>
-<li>Khối lượng riêng (ở 20<sup>o</sup>C): 2,35 g/cm<sup>3</sup></li>
-<li>Điểm bùng cháy: Không cháy</li>
-<li>Nhiệt độ phân hủy: &gt; 177<sup>o</sup>C</li>
-<li>Hàm lượng 70%</li>
-</ul>
-<h3 id="mcetoc_1g5gh48vv3">2.2. Tính chất hóa học</h3>
-<p>Chlorine phản ứng để tạo ra cho HOCl và HCl, HOCl tiếp tục ion hóa tạo ra ion OCl:</p>
-<p style="text-align: center;">Cl<sub>2</sub>&nbsp;+ H<sub>2</sub>O = HOCl + HCl<br>
-HOCl&nbsp; = OCl<sup>–</sup>&nbsp;+ H<sup>+</sup></p>
-<h2><strong>3. Ứng dụng của Chlorine Aquafit Ấn Độ</strong></h2>
-<h3 id="mcetoc_1fg34s0cb6">3.1. Ứng dụng&nbsp;trong nuôi trồng thủy sản</h3>
-<ul>
-<li>Khử trùng ao, hồ và các trang thiết bị, dụng cụ…</li>
-<li>Diệt vi khuẩn, các loại tảo và vi sinh vật có trong môi trường nước.</li>
-<li>Oxi hóa các vật chất hữu cơ cũng như các mầm bệnh ngoại lai có trong sản xuất giống.</li>
-</ul>
-<p>Đối với Chlorine Ấn Độ hàm lượng 70%, cách sử dụng cũng tương tự như loại Chlorine 70% dạng bột khác. Liều dùng để tiêu diệt các loại vi sinh vật và khử trùng nước cũng tùy thuộc vào hàm lượng Chlorine có trong&nbsp;Calcium hypochloride&nbsp;và nồng độ pH của môi trường nước, hàm lượng các chất hữu cơ, độ trong của nước và ammonia,…</p>
-<ul>
-<li>Nước ngọt: 6mg/l Calcium hypochloride 70%.</li>
-<li>Nước lợ: 20 – 30mg/l Calcium hypochloride 70%.</li>
-</ul>
-<p>Liều lượng sử dụng để khử trùng các thiết bị, bể và dụng cụ là 100-200 ppm (30 phút), khử trùng đáy ao là 50-100 ppm, khử trùng nước ao là 20 – 30 ppm, xử lý bệnh do ký sinh trùng là 0,1 – 0,2 ppm và xử lý bệnh do vi khuẩn gây ra là 1 – 3 ppm trong thời gian từ10 – 15 phút.</p>
-<h3 id="mcetoc_1fg34veja7">3.2. Ứng dụng trong xử lý nước</h3>
-<p>Khử trùng nước trong các hồ bơi: Để giữ cho bể bơi luôn sạch sẽ, không bị rong rêu, vi khuẩn thì chúng ta cần duy trì hàm lượng Chlorine dư trong nước ở mức 0,6 – 1 ppm với nồng độ pH từ 7,2 – 7,6.</p>
-<p style="text-align: center;"><em>Xác định giá trị Clo tự do và nồng độ pH có trong nước hồ bơi</em></p>
-<p><strong>Bước 1:&nbsp;</strong>Xác định giá trị Clo tự do và nồng độ pH có trong nước hồ bơi.</p>
-<p><strong>Bước 2:</strong>&nbsp;Điều chỉnh nồng độ pH về khoảng lý tưởng từ 7.2 – 7.6 (hoặc &lt; 6) để tăng hiệu quả xử lý nước của hóa chất này.</p>
-<p><strong>Bước 3:</strong>&nbsp;Xác định liều lượng Chlorine Ấn Độ cần thiết cho hồ bơi.</p>
-<p><strong>Bước 4:</strong>&nbsp;Pha bột Chlorine vào nước rồi tạt đều xung quanh hồ bơi, đồng thời khởi động hệ thống lọc tuần hoàn cho bể bơi ở chế độ khuấy.</p>
-<p><strong>Bước 5:</strong>&nbsp;Kiểm tra nồng độ Clo dư thừa trong nước bể bơi và duy trì nó ở mức 1 – 3ppm.</p>
-<h3 id="mcetoc_1fg4cjqun0">3.3. Ứng dụng làm chất tẩy rửa</h3>
-<ul>
-<li>Là chất tẩy rửa và khử mùi trong nhà bếp, phòng tắm, giúp làm sạch bề mặt và các vật dụng cần dùng.</li>
-<li>Sử dụng hóa chất Chlorine Ấn Độ thay thế Cloramin B trong việc sát trùng, khử khuẩn trùng hiệu quả trong mùa dịch COVID-19.&nbsp;Cách dùng là hòa tan 5 – 6g/lít nước rồi phun ra những nơi cần xử lý khử trùng.</li>
-</ul>
-<p style="text-align: center;"></p>
-<p style="text-align: center;"><em>Sử dụng hóa chất Chlorine Aquafit Ấn Độ thay thế Cloramin B trong khử trùng bệnh viện</em></p>
-<p>Ngoài ra Chlorine Ấn Độ còn được dùng trong ngành công nghiệp bột giấy, vải sợi.</p>
-<h2 id="mcetoc_1fg35nsrb9">4. Những lưu ý khi sử dụng, bảo quản Chlorine Aquafit Ấn Độ</h2>
-<h3 id="mcetoc_1fg35oroaa">4.1. Lưu ý khi sử dụng</h3>
-<ul>
-<li>Khi lấy bột cần tránh nơi có gió mạnh vì nó có thể sẽ thổi bay bột vào người.&nbsp;Khi pha bột cần thực hiện theo quy trình đổ từ từ nước vào bột Clo, tuyệt đối không làm ngược lại.</li>
-<li>Nếu không may dây bột vào mắt thì ngay lập tức dùng nước rửa sạch.</li>
-<li>Chlorine Ấn Độ có tính ăn mòn và chỉ có hiệu quả trong vài tiếng nên cần kiểm tra nước và châm định kỳ để duy trì chất lượng nước được tốt nhất.</li>
-<li>Đối với trường hợp sốc Chlorine để diệt rong rêu tảo, lượng Chlorine cần sử dụng lớn gấp 3 lần liều lượng bình thường, tuy nhiên không được lạm dụng quá nhiều.</li>
-</ul>
-<p><strong>Bảng liều lượng pha sẵn dung dịch Chlorine từ các loại hóa chất diệt khuẩn, khử trùng:</strong></p>
-<table border="1">
-<tbody>
-<tr>
-<td style="width: 175.05px;" rowspan="2">
-<p dir="ltr"><strong>Tên hóa chất</strong></p>
-<p dir="ltr"><strong>(hàm lượng clo hoạt tính)</strong></p>
-</td>
-<td style="width: 534.287px;" colspan="4">
-<p dir="ltr" style="text-align: center;"><strong>Lượng hóa chất cần sử dụng để pha 10 lít dung dịch có nồng độ Clo hoạt tính</strong></p>
-</td>
-</tr>
-<tr>
-<td style="width: 136.613px; text-align: center;">
-<p dir="ltr"><strong>0.25%</strong></p>
-</td>
-<td style="width: 111.325px; text-align: center;">
-<p dir="ltr"><strong>0.5%</strong></p>
-</td>
-<td style="width: 136.613px; text-align: center;">
-<p dir="ltr"><strong>1.25%</strong></p>
-</td>
-<td style="width: 134.137px; text-align: center;">
-<p dir="ltr"><strong>2.5%</strong></p>
-</td>
-</tr>
-<tr>
-<td style="width: 175.05px;">
-<p dir="ltr">Cloramin B 25%</p>
-</td>
-<td style="width: 136.613px; text-align: center;">
-<p dir="ltr">100g</p>
-</td>
-<td style="width: 111.325px; text-align: center;">
-<p dir="ltr">200g</p>
-</td>
-<td style="width: 136.613px; text-align: center;">
-<p dir="ltr">500g</p>
-</td>
-<td style="width: 134.137px; text-align: center;">
-<p dir="ltr">1000g</p>
-</td>
-</tr>
-<tr>
-<td style="width: 175.05px;">
-<p dir="ltr">Chlorine 70%</p>
-</td>
-<td style="width: 136.613px; text-align: center;">
-<p dir="ltr">36g</p>
-</td>
-<td style="width: 111.325px; text-align: center;">
-<p dir="ltr">72g</p>
-</td>
-<td style="width: 136.613px; text-align: center;">
-<p dir="ltr">180g</p>
-</td>
-<td style="width: 134.137px; text-align: center;">
-<p dir="ltr" style="text-align: center;">360g</p>
-</td>
-</tr>
-</tbody>
-</table>
-<ul>
-<li>Ánh nắng chứa tia UV và nồng độ pH cao sẽ làm giảm hiệu quả xử lý nước của Chlorine Ấn Độ và khiến cho nồng độ Clo không ổn định. Giải pháp cho trường hợp này là bạn có thể thêm một chút Axit Cyanuric hoặc sử dụng Chlorine vào buổi tối.</li>
-<li>Oxy già H<sub>2</sub>O<sub>2</sub>&nbsp;có thể trung hòa Clo dư trong nước.</li>
-</ul>
-<h3 id="mcetoc_1fg340roc0">4.2. Lưu ý bảo quản</h3>
-<ul>
-<li>Cất giữ hóa chất ở nơi khô ráo, thoáng mát, không để tiếp xúc với ánh nắng trực tiếp.</li>
-<li>Không bảo quản chung với các hóa chất khác và tránh để nơi ẩm ướt, đồng thời tuân thủ đúng&nbsp;hướng dẫn sử dụng.</li>
-<li>Bảo quản hóa chất tránh xa tầm tay trẻ em</li>
-</ul>
-<h2 id="mcetoc_1g5ghat086">5.&nbsp;Mua bán Chlorine Aquafit ở đâu?</h2>
-<p>TRỌNG TUẤN CHEMICAL là địa chỉ hàng đầu chuyên cung ứng hóa chất công nghiệp, hóa chất xử lý nước.Chlorine Aquafit Ấn Độ hàm lượng 70% được TRỌNG TUẤN CHEMICAL phân phối ra thị trường số lượng lớn, quy cách 45kg/ thùng. Sản phẩm/ dịch vụ của chúng tôi luôn đảm bảo những tiêu chí sau:</p>
-<ul>
-<li>Chất lượng sản phẩm luôn được đảm bảo và được bán với giá thành tốt nhất trên thị trường hiện nay.</li>
-<li>Hệ thống chuyên viên tư vấn chuyên nghiệp với kiến thức chuyên sâu và luôn sẵn sàng hỗ trợ khách hàng 24/7.</li>
-<li>Nguồn gốc, xuất xứ của hàng hóa luôn rõ ràng, bảo hành theo đúng tiêu chuẩn của nhà sản xuất.</li>
-<li>Cung cấp đầy đủ chứng từ và có xuất hóa đơn đỏ khi giao hàng.</li>
-</ul>
-<p id="mcetoc_1fg36etiv0" style="text-align: center;"><em>TRỌNG TUẤN CHEMICAL cung cấp Chlorine aquafit Ca(OCl)<sub>2</sub>, Ấn Độ số lượng lớn</em></p>
-<h2 id="mcetoc_1g5ghdipo8">6. Báo giá Chlorine Aquafit Ấn Độ tại TRỌNG TUẤN CHEMICAL</h2>
-<p>Giá chlorine ấn độ tại TRỌNG TUẤN CHEMICAL luôn được khách hàng đánh giá cao về chất lượng, giá thành và dịch vụ sau bán. Sản phẩm của chúng tôi liên tục được stock kho để đảm bảo số lượng hàng hóa, mức giá bán ra tốt nhất trên thị trường.</p>
-<p style="text-align: center;"><em>Chlorine aquafit Ca(OCl)2, Ấn Độ, 45kg/thùng</em></p>
-<p>Quý khách đang có nhu cầu mua bán&nbsp;<em><strong>Chlorine Aquafit &nbsp;Ấn Độ</strong></em> hãy liên hệ ngay cho TRỌNG TUẤN CHEMICAL để được tư vấn, báo giá nhanh nhất. Tham khảo thêm các loại hóa chất xử lý nước khác tại website TRỌNG TUẤN CHEMICAL.com.vn.</p>
-<div class="vote detail-rating">
 					</div>`,
   },
   {
@@ -2966,156 +2762,6 @@ HOCl&nbsp; = OCl<sup>–</sup>&nbsp;+ H<sup>+</sup></p>
 					</div>`,
   },
   {
-    key: 25,
-    type: "Dung Môi Công Nghiệp",
-    title: "Cồn công nghiệp – Methanol CH3OH, Malaysia, 163kg/phuy",
-    price: 0,
-    img: Img25,
-    data_info: `
-<p class="intro">Methanol hay còn gọi là ancol metylic, carbino, hydroxy metan. Methanol là là chất lỏng không màu trong suốt, có mùi rượu trắng nhưng là chất gây độc không uống được, dễ bay hơi, dễ cháy và tan vô hạn trong nước. CTHH: CH3OH, CAS: 67-56-1, xuất xứ: Malaysia, quy cách: 163kg/phuy. Dùng trong nhiên liệu sinh học, công nghiệp thực phẩm, công nghiệp in, công nghiệp điện tử, dệt may, sản xuất cồn thạch, cồn khô…</p>
-    `,
-    data_info_bottom: `
-<span class="posted_in">Danh mục: Dung Môi Công Nghiệp, Hóa Chất Cơ Bản, Hóa chất ngành da giầy, Hóa chất ngành điện tử, Hóa chất ngành khai khoáng, Hóa chất ngành sơn, Hóa chất ngành tẩy rửa, Hóa chất ngành xi mạ, Hóa Chất Xử Lý Nước, Sản phẩm khác, Sản phẩm nổi bật</span>
-
-    `,
-    data_advanced: `<div class="tab-panels">
-							<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
-										
-
-<div class="title">
-<div class="content-title"><strong>Mô tả sản phẩm</strong></div>
-<div></div>
-</div>
-<div class="specifications css-content clear">
-<table>
-<tbody>
-<tr>
-<td><strong>Tên gọi</strong></td>
-<td>Methanol</td>
-</tr>
-<tr>
-<td><strong>Tên gọi khác</strong></td>
-<td>&nbsp;Alcol metylic, Methyl alcohol hoặc rượu mạnh gỗ</td>
-</tr>
-<tr>
-<td><strong>Công thức hóa học</strong></td>
-<td>CH<sub>3</sub>OH</td>
-</tr>
-<tr>
-<td><strong>Hàm lượng</strong></td>
-<td>Đang cập nhật</td>
-</tr>
-<tr>
-<td><strong>Hình thái</strong></td>
-<td>Là chất lỏng không màu</td>
-</tr>
-<tr>
-<td><strong>CAS</strong></td>
-<td>67-56-1</td>
-</tr>
-<tr>
-<td><strong>Xuất xứ</strong></td>
-<td>Malaysia</td>
-</tr>
-<tr>
-<td><strong>Quy cách</strong></td>
-<td>163kg/phuy</td>
-</tr>
-</tbody>
-</table>
-<p><strong style="font-size: 14.4px;">Methanol</strong><span style="font-size: 14.4px;"> Ch3OH là loại dung môi được sử dụng phổ biến trong một số ngành công nghiệp như: công nghiệp thực phẩm, công nghiệp in, công nghiệp điện tử, sản xuất các loại cồn khô, cồn thạch,… Sản phẩm dung môi methanol xuất xứ Malaysia, quy cách 163kg/ phuy đang được </span><strong style="font-size: 14.4px;">TRỌNG TUẤN CHEMICAL </strong><span style="font-size: 14.4px;">phân phối trên toàn quốc với mức giá và những ưu đãi vô cùng hấp dẫn. Xem ngay thông tin về sản phẩm tại bài viết dưới đây!&nbsp;</span></p>
-</div>
-<div class="css-content content-description">
-<h2 id="mcetoc_1f84peo570">1. Thông tin dung môi Methanol</h2>
-<p>Methanol hay còn được biết đến với cái tên ancol metylic, alcohol gỗ hoặc rượu metylic. Đây là một dung môi có công thức hóa học là CH<sub>3</sub>OH, tuy chúng cũng là đồng phân của rượu ethanol nhưng là chất độc, không thể uống dù chỉ 1 lượng rất nhỏ. Dùng chủ yếu làm dung môi pha loãng nguyên liệu cho sản xuất công nghiệp.</p>
-<p>&nbsp;</p>
-<p><em>Dung môi&nbsp;methanol 163kg/phuy</em></p>
-<h2 id="mcetoc_1g38389ih0">2. Tính chất của dung môi Methanol CH<sub>3</sub>OH</h2>
-<h3 id="mcetoc_1g3838cbv1">2.1. Tính chất vật lý</h3>
-<ul>
-<li>Methanol là loại rượu nhẹ, không màu, dễ cháy, dễ bay hơi, có mùi đặc trưng như ethanol</li>
-<li>Ở nhiệt độ phòng, Methanol là một chất lỏng phân cực</li>
-<li>Dễ cháy ở nhiệt độ thấp, khó nhìn thấy trong ánh sáng ban ngày</li>
-<li>Khối lượng riêng đạt 0,7918 g cm3</li>
-<li>Nhiệt độ sôi là 64,7 °C (337,8 K; 148,5 °F)</li>
-<li>Độ nhớt là 5.9×10−4 Pa s (ở 20 °C)</li>
-</ul>
-<p></p>
-<p><em>Tính chất hóa lý của&nbsp;dung môi Methanol</em></p>
-<h3 id="mcetoc_1g3838pbv2">2.2. Tính chất hóa học</h3>
-<ul>
-<li>Công thức hóa học: CH<sub>3</sub>OH</li>
-<li>Methanol thuộc dãy đồng đẳng ancol no.</li>
-<li>Tác dụng với kim loại cho sản phẩm muối và giải phóng khí hidro</li>
-</ul>
-<p>CH<sub>3</sub>OH + Na →&nbsp;&nbsp; CH<sub>3</sub>ONa + ½ H<sub>2</sub></p>
-<ul>
-<li>Tác dụng với axit vô cơ sẽ tạo ra este</li>
-</ul>
-<p>HCl + CH<sub>3</sub>OH → H<sub>2</sub>O + CH<sub>3</sub>Cl</p>
-<ul>
-<li>Đốt cháy giải phóng khí CO<sub>2</sub>&nbsp;và Co hàm lượng cao, có thể gây nổ</li>
-<li>Uống nhầm Methanol có thể gây mù hoặc chết</li>
-<li>Tiếp xúc với Methanol gây viêm da, vẩy nết, phát ban</li>
-</ul>
-<h2 id="mcetoc_1f84pggdu2">3. Điều chế, sản xuất cồn công nghiệp methanol</h2>
-<p>Điều chế methanol như nào? Dung môi này được tạo ra trong tự nhiên thông qua quá trình trao đổi chất yếm khí (anaerobic metabolism) của các vi khuẩn và có mặt khắp nơi trong môi trường. Methanol trong khí quyển bị oxi hóa bởi oxi, qua chất xúc tác là ánh sáng mặt trời sẽ sinh ra cácbon đi-ô-xít và nước.</p>
-<p>Hiện nay, Methanol được tổng hợp trực tiếp từ H<sub>2</sub>&nbsp;và CO, CO<sub>2</sub>&nbsp;có xúc tác nhiệt độ, chất xúc tác và áp suất thấp</p>
-<p></p>
-<p><em>Phương pháp điều chế&nbsp;methanol</em></p>
-<h2 id="mcetoc_1f7pu817r2">4. Những ứng dụng quan trọng của cồn methanol trong đời sống sản xuất</h2>
-<ul>
-<li>Dung môi methanol là nhiên liệu quan trọng đối với ngành giao thông vận tải, chúng được dùng để tạo butyl ete – metyl tert để pha vào xăng làm tăng tỉ số octan thay cho tetraetyl chì (một tác nhân gây ô nhiễm môi trường, có trong khí thải của các phương tiện giao thông).</li>
-</ul>
-<p class="sudo-media-item" data-id="8994"></p>
-<p class="sudo-media-item" data-id="8994">&nbsp;<em>Methanol là nhiên liệu quan trọng hiện nay</em></p>
-<p>&gt;&gt;&gt;Dung moi pha mực in chính hãng mua ở đâu giá tốt nhất ?</p>
-<ul>
-<li>Đây là loại dung môi được sử dụng nhiều trong các phòng thí nghiệm để chạy sắc ký lỏng, nâng cấp HPLC, chạy phổ UV-VIS.</li>
-<li>Methanol công nghiệp được dùng để xử lý các loại nước thải: Trong quá trình xử lý nước thải, người ta dùng methanol để cung cấp nguồn thức ăn cacbon cho vi sinh vật của hệ thống bể lọc sinh học, hỗ trợ gián tiếp quá trình xử lý nước thải.</li>
-<li>Methanol được ứng dụng để sản xuất pin nhiên liệu cung cấp hydrogen.</li>
-<li>CH3OH được sử dụng để sản xuất&nbsp;andehit formic,&nbsp;axit axetic,&nbsp;formalin,…</li>
-<li>Nó có vai trò quan trọng trong ngành sơn, in ấn, chất chống đông lạnh, làm nhiên liệu cho các bếp lò nhỏ, cung cấp nhiên liệu động cơ đốt.</li>
-</ul>
-<h2 id="mcetoc_1f84ph8353">5. Bảo quản và lưu ý khi sử dụng hóa chất Methanol?</h2>
-<p>Methanol là một trong những dung môi được sử dụng hàng đầu trong công nghiệp pha loãng nhựa, sơn,… với nhiều đặc điểm nổi bật, tuy nhiên bên cạnh đó nó cũng sẽ gây hại cho sức khỏe con người nếu không được trang bị đồ bảo hộ khi sử dụng. Vậy nên ta cần lưu ý với methanol công nghiệp.</p>
-<p></p>
-<p><em>Tuyệt đối không được uống cồn công nghiệp hoặc dùng cồn công nghiệp thay rượu uống</em></p>
-<h3 id="mcetoc_1f84phe9d4">5.1. Lưu ý khi sử dụng cồn methanol</h3>
-<p>Cồn methanol là một hóa chất rất độc đối với sức khỏe con người, chúng dễ dàng hấp thụ vào cơ thể qua đường da, ruột, phổi. Chính vì vậy, cần trang bị đồ bảo hộ lao động đầy đủ như mặt nạ phòng độc, khẩu trang, ủng , găng tay, quạt hút mùi,… khi tiếp xúc với hóa chất này và làm việc tại nơi thoáng khí.</p>
-<p>Tuyệt đối không được uống cồn công nghiệp, dùng cồn công nghiệp thay cho rượu uống.</p>
-<p>Hiện nay có nhiều cơ sở sản xuất rượu kém chất lượng, họ pha thêm một lượng nhỏ methanol vào rượu uống, vậy nên người tiêu dùng cần thông thái, tuyệt đối không sử dụng rượu không rõ nguồn gốc, xuất xứ.</p>
-<h3 id="mcetoc_1f7prvlin4">5.2. Khi bảo quản cồn methanol cần chú ý gì?</h3>
-<p>Methanol là một dung môi dễ cháy nổ nên trong quá trình bảo quản cũng như sử dụng cần phải tránh xa những nơi có nguồn nhiệt cao. Không lưu trữ hóa chất này cùng các chất có tính oxy hóa mạnh và cháy nổ cao.</p>
-<h2 id="mcetoc_1g3841itg0">6. <strong>TRỌNG TUẤN CHEMICAL</strong>– Đơn vị cung cấp Methanol uy tín</h2>
-<p><strong>TRỌNG TUẤN CHEMICAL</strong> tự hào là một trong những đơn vị hàng đầu nhập khẩu và cung ứng ra thị trường dung môi Methanol công nghiệp, đáp ứng được hầu hết các nhu cầu sử dụng trong sản xuất công nghiệp trên toàn quốc.</p>
-<p></p>
-<p><em>Mua dung môi Methanol tại <strong>TRỌNG TUẤN CHEMICAL</strong> </em></p>
-<p>Hóa chất Methanol tại <strong>TRỌNG TUẤN CHEMICAL</strong> có xuất xứ đa dạng từ <em>Indonexia, Malaysia, Ả rập xê út</em>, sản phẩm được đóng phuy chuyên nghiệp, giao hàng nhanh chóng trên toàn quốc.</p>
-<ul>
-<li>Methanol là hàng hoá chất kinh doanh hạn chế và <strong>TRỌNG TUẤN CHEMICAL</strong> đã có giấy phép kinh doanh loại mặt hàng này.</li>
-<li>Các loại hóa chất được <strong>TRỌNG TUẤN CHEMICAL</strong> cung cứng ra thị trường luôn đảm chất lượng như cam kết với đầy đủ MSDS chất lượng và nguồn gốc xuất xứ của sản phẩm.</li>
-<li>Câu trả lời “Methanol giá bao nhiêu” tại <strong>TRỌNG TUẤN CHEMICAL</strong> luôn có giá trị tốt nhất trên thị trường tương thích với chất lượng của sản phẩm.</li>
-<li>Chúng tôi sở hữu đội ngũ nhân sự giàu kinh nghiệm sẵn sàng tư vấn cho quý khách hàng 24/7.</li>
-<li>Ưu đãi về giá cho những khách hàng mua với sản lượng lớn.</li>
-<li>Hệ thống xe tải hiện đại, đội ngũ giao nhận hàng hóa chuyên nghiệp.</li>
-</ul>
-<p>Quý khách hàng đang có nhu cầu mua methanol, hãy liên hệ ngay đến công ty hóa chất <strong>TRỌNG TUẤN CHEMICAL</strong> – Đây là công ty hàng đầu chuyên cung ứng các loại hóa chất, <strong>dung môi công nghiệp</strong>, và bán Methanol uy tín trên toàn quốc. Bạn có thể liên hệ ngay bằng những cách thức dưới đây để được tư vấn và hỗ trợ trực tiếp từ hệ thống các chuyên viên:</p>							
-					</div>`,
-  },
-  {
-    key: 26,
-    type: "Hóa Chất Xử Lý Nước",
-    title: "Copper sulfate 99% CuSO4.5H2O",
-    price: 0,
-    img: Img26,
-    data_info: ``,
-    data_info_bottom: `
-<span class="posted_in">Danh mục: Hóa Chất Xử Lý Nước</span>
-    `,
-    data_advanced: ``,
-  },
-  {
     key: 27,
     type: "Hóa Chất Cơ Bản",
     title: "Copper sulfate CuSO4.5H2O 99%, Đài Loan, 25kg/bao",
@@ -3267,6 +2913,779 @@ HOCl&nbsp; = OCl<sup>–</sup>&nbsp;+ H<sup>+</sup></p>
 <p>Giá&nbsp;<strong>đồng sunphat</strong>&nbsp;là bao nhiêu? Mua hóa chất này ở đâu chất lượng nhất</p>
 </div>		
 </div>`,
+  },
+  {
+    key: 14,
+    type: "Hóa chất xử lý nước",
+    title: "Calcium nitrate 99% Ca(NO3)2",
+    price: 0,
+    img: Img14,
+    data_info: ``,
+    data_info_bottom: `
+         <span class="posted_in">Danh mục: Hóa Chất Xử Lý Nước</span>
+    `,
+    data_advanced: ``,
+  },
+  {
+    key: 15,
+    type: "Hóa chất cơ bản",
+    title: "CANXI CACBONAT CaCO3 VIỆT NAM, 50 KG/BAO",
+    price: 0,
+    img: Img15,
+    data_info: `
+<p>Calcium carbonate hay Canxi cacbonat, Bột đá. CTHH: CaCO3. CAS: 471-34-1. Xuất xứ: Việt Nam, Trung Quốc. Đóng gói: 50kg/bao. Ứng dụng trong nhiều nghành công nghiệp quan trọng như: Xây dựng, sơn, nhựa, xử lý môi trường…</p>
+    `,
+    data_info_bottom: `
+   <span class="posted_in">Danh mục: Hóa Chất Cơ Bản, Hóa chất ngành dược – mỹ phẩm, Hóa chất ngành sơn, Hóa Chất Xử Lý Nước, Sản phẩm khác</span>
+    `,
+    data_advanced: `<div class="tab-panels">
+							<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
+										
+
+<table style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<td style="width: 50%;"><strong>Tên sản phẩm</strong></td>
+<td style="width: 50%;">Canxi Cacbonat</td>
+</tr>
+<tr>
+<td style="width: 50%;"><strong>Tên gọi khác</strong></td>
+<td style="width: 50%;">Calcium carbonate hay bột đá</td>
+</tr>
+<tr>
+<td style="width: 50%;"><strong>Công thức hóa học</strong></td>
+<td style="width: 50%;">CaCO<sub>3</sub></td>
+</tr>
+<tr>
+<td style="width: 50%;"><strong>Hàm lượng</strong></td>
+<td style="width: 50%;">97,25%</td>
+</tr>
+<tr>
+<td style="width: 50%;"><strong>Xuất xứ</strong></td>
+<td style="width: 50%;">Việt Nam</td>
+</tr>
+<tr>
+<td style="width: 50%;"><strong>Đóng gói</strong></td>
+<td style="width: 50%;">50 kg/ bao</td>
+</tr>
+</tbody>
+</table>
+<ol>
+<li>
+<h2>Canxi Cacbonat là gì ?</h2>
+</li>
+</ol>
+<p>Canxi cacbonat là một hợp chất hóa học với công thức hóa học là CaCO3. Ước tính, khoảng 5% vỏ Trái Đất là một dạng nào đó của canxi cacbonat, chất này thường được tìm thấy dưới dạng đá (đá vôi, đá phấn, đá cẩm thạch …) ở khắp nơi trên thế giới, là thành phần chính trong mai/vỏ của các loài sò, ốc hoặc vỏ của ốc.Nó là nguyên nhân chính gây ra hiện tượng nước cứng.</p>
+<p>– Calcium carbonate : tinh thể mặt thoi trắng hoặc bột trắng, xuất hiện tự nhiên như canxit.<br>
+– Bột Calcium Carbonate (CaCO3): có dạng bột màu trắng, rất mịn được chế biến từ Caxi thiên nhiên có thành phần hoá học CaCO<sub>3</sub>: 97,25%; SiO<span style="font-size: 12px;">2</span>: 0,12%: Al<span style="font-size: 12px;">2</span>O<sub>3</sub>: 0,04%; MgCO<sub>3</sub>: 2,12%; Fe<span style="font-size: 12px;">2</span>O<sub>3</sub>: 0,03%.Các thành phần khác theo nhu cầu của khách hàng.</p>
+<h2 id="mcetoc_1g41p42rh0">2. Tính chất lý hóa của Canxi Cacbonat</h2>
+<h3 id="mcetoc_1g41p45fo1">2.1. Tính chất vật lý</h3>
+<ul>
+<li>Ngoại quan: Chất rắn dạng bột màu trắng, không tan trong nước</li>
+<li>Điểm nóng chảy: 825 °C (1,098 K)</li>
+<li>Là một thành phần cấu thành hoạt hóa trong vôi nông nghiệp. Chất này thường được tìm thấy dưới dạng đá ở khắp nơi trên thế giới, là thành phần chính trong mai/vỏ của các loài sò, ốc hoặc vỏ của ốc. Nó là nguyên nhân chính gây ra hiện tượng nước cứng.</li>
+</ul>
+<h3 id="mcetoc_1g41p4g2g2">2.2. Tính chất hóa học của đá vôi Canxi cacbonat</h3>
+<ul>
+<li>CaCO<sub>3</sub>&nbsp;mang đầy đủ tính chất hóa học của một loại muối</li>
+<li>CaCO<sub>3</sub>&nbsp;tác dụng với aixt mạnh tạo muối và giải phóng khí CO2</li>
+</ul>
+<p style="text-align: center;">CaCO<sub>3</sub>&nbsp;+ 2HCl → CaCl<sub>2</sub>&nbsp;+ H<sub>2</sub>O + CO<sub>2</sub></p>
+<ul>
+<li>CaCO<sub>3</sub> kém bền với nhiệt, bị nhiệt phân tạo vôi và khí CO2:</li>
+</ul>
+<p style="text-align: center;">CaCO<sub>3</sub>&nbsp;–<sup>to</sup>→ CaO + CO<sub>2</sub></p>
+<ul>
+<li>CaCO<sub>3</sub>&nbsp;tan kém trong nước</li>
+</ul>
+<p style="text-align: center;">CaCO<sub>3</sub>&nbsp;+ CO<sub>2</sub>&nbsp;+ H<sub>2</sub>O ⇆ Ca(HCO<sub>3</sub>)<sub>2</sub></p>
+<h2 id="mcetoc_1fan5mf2g8">3. Điều chế, sản xuất Canxi cacbonat như thế nào?</h2>
+<h3 id="mcetoc_1g41q9ojl0">3.1. CaCO₃ trong tự nhiên</h3>
+<p>CaCO₃&nbsp;được tìm thấy trong tự nhiên, tại các khoáng chất và đá sau:&nbsp;Aragonit,&nbsp;Calcite,&nbsp;Đá phấn,&nbsp;Đá vôi,&nbsp;Cẩm thạch&nbsp;hay đá hoa,&nbsp;Travertin.&nbsp;Vỏ trứng có tới 95% là calci carbonat.</p>
+<h3 id="mcetoc_1g41qalbr0">3.2. Sản xuất Canxi cacbonat trong công nghiệp</h3>
+<p>Đa số CaCO₃ được khai thác từ đá mỏ hoặc đá núi (thường là cẩm thạch). Hoặc cũng có thể được tạo ra bằng cách cho khí carbon dioxide chạy qua dung dịch calci hydroxide theo phương trình phản ứng như sau:</p>
+<p style="text-align: center;">Ca(OH)<sub>2</sub>&nbsp;+ CO<sub>2</sub>&nbsp;→ CaCO<sub>3</sub>↓ + H<sub>2</sub>O</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;"><em>Phương pháp điều chế&nbsp;Calcium carbonate</em></p>
+<h2 id="mcetoc_1fan5mvsib">4. Ứng dụng trong đời sống, sản xuất</h2>
+<h3 id="mcetoc_1fan5n4n7c">4.1. Ứng&nbsp;dụng của Cacbonat Canxi trong công nghiệp xây dựng</h3>
+<p>Một thành phần cấu thành đá xây, xi măng, đá nghiền…trong ngành xây dựng chính là đá vôi. Là phụ gia trong xi măng đảm bảo độ bền, chắc chắn và chịu lực chịu nhiệt cho sản phẩm.</p>
+<h3 id="mcetoc_1fan5o270d">4.2. Bột đá được sử dụng rộng rãi trong ngành sơn</h3>
+<p>Đá vôi được xem như chất độn chính. Độ mịn và phân bố kích thước hạt Canxi cacbonat ảnh hưởng đến độ chắn sáng của quá trình sơn phủ. Ngoài ra thì hợp chất này cũng có độ sáng cao, độ hấp thu dầu thấp, bền trong môi trường, khả năng mài mòn thấp, nâng cao tính năng chống ăn mòn môi trường và cải thiện độ nhớt sản phẩm</p>
+<p>Được sử dụng rất nhiều trong ngành sơn nước ( sơn trang trí), nó đóng góp tăng khả năng quang học của sơn và trọng lượng của sơn. Canxi cabonat có thể sử dụng đến 60% hàm lượng trong sản xuất sơn.</p>
+<h3 id="mcetoc_1fan5o7dge">4.3. Ứng dụng của Canxi cacbonat trong ngành nhựa</h3>
+<p>Thành phần quan trọng để sản xuất ra ống nhựa, khung cửa nhựa, dây cáp điện, màng nhựa đúc…nó giúp hình thành khung chắc chắn cho sản phẩm, tăng độ bám dính của màu trên sợi polymer trong quá trình gia màu.</p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;"><em>Cacbonat canxi là thành phần quan trọng để sản xuất ống nhựa</em></p>
+<h3 id="mcetoc_1fan5v8uho">4.4. Canxi cacbonat được dùng trong Y tế</h3>
+<p>&nbsp;</p>
+<p>Nó cũng là thành phần trong một số thuốc chữa trị bệnh thiếu hụt canxi trong cơ thể.&nbsp;Nó cũng được sử dụng trong công nghiệp dược phẩm làm chất nền cho thuốc viên làm từ loại dược phẩm khác.&nbsp;Dưới đây là một số tác dụng quan trọng của cacbonat canxi trong y tế:</p>
+<p><strong>Chống trào ngược dạ dày-thực quản (GERD):</strong>&nbsp;Cacbonat canxi được sử dụng như một loại thuốc chống trào ngược dạ dày-thực quản. Nó hoạt động bằng cách trung hòa axit trong dạ dày và giúp giảm triệu chứng như ợ nóng và cháy rát thực quản.</p>
+<p><strong>Điều trị viêm loét dạ dày và tá tràng:</strong>&nbsp;Canxi cacbonat có tác dụng trung hòa axit dạ dày, giúp giảm sự tổn thương do axit dạ dày gây ra. Do đó, nó được sử dụng làm một thành phần trong một số loại thuốc điều trị viêm loét dạ dày và tá tràng.</p>
+<p><strong>Bổ sung canxi:</strong>&nbsp;Cacbonat canxi là một nguồn cung cấp canxi hữu hiệu. Nó được sử dụng để bổ sung canxi cho những người thiếu hụt canxi, nhất là trong trường hợp cần tăng cường sức khỏe xương và răng.</p>
+<p><strong>Phòng ngừa cơn co thắt cơ:</strong>&nbsp;Cacbonat canxi có thể giúp giảm cơn co thắt cơ do thiếu canxi trong cơ bắp. Việc bổ sung canxi có thể giúp duy trì hoạt động cơ bắp bình thường và giảm cơ cứng cỏi.</p>
+<p><strong>Chống axit uric và hỗ trợ giảm triệu chứng của bệnh gút:</strong>&nbsp;Một số nghiên cứu cho thấy CaCO₃ có khả năng trung hòa axit uric trong máu và giảm triệu chứng của bệnh gút.</p>
+<h3 id="mcetoc_1f55km1g54">4.5. Canxi cacbonat – Chất xử lí môi trường nước</h3>
+<p>Với vai trò là chất xử lý nước thì&nbsp;CaCO₃ góp phần quan trọng trong chăn nuôi thủy sản như:</p>
+<ul>
+<li>Hấp thu các khí độc tích tụ ở đáy ao như: NH<sub>3</sub>, H<sub>2</sub>S, CO<sub>2</sub>…và axít trong nước, giảm tỷ trọng kim loại nặng, độc hại trong ao nuôi.</li>
+<li>Phân huỷ xác tảo, các chất lơ lửng bẩn trong ao nuôi, giúp cân bằng môi trường nước, thông qua đó ổn định được PH của môi trường nước</li>
+<li>Ổn định màu nước, hạn chế có váng, làm sạch nước, tăng lượng oxy hoà tan (DO) trong nước.</li>
+</ul>
+<p style="text-align: center;"></p>
+<p style="text-align: center;"><em>CaCO<sub>3</sub>&nbsp;có vai trò quan trọng trong tiêu diệt nấm bệnh trên thủy sản</em></p>
+<h2 id="mcetoc_1fan5ou8of">5. Lưu ý khi sử dụng, bảo quản&nbsp;Canxi cacbonat an toàn</h2>
+<h3 id="mcetoc_1fan5qo6fl">5.1. Lưu ý khi bảo quản, lưu trữ</h3>
+<ul>
+<li>Canxi cacbonat cần phải lưu trữ cẩn thận, tránh gây ô nhiễm môi trường cũng như làm ảnh hưởng đến mọi người xung quanh.</li>
+<li>Hãy đặt chúng tại những nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp.</li>
+<li>Kho hóa chất cần phải tách riêng biệt để tránh trường hợp rò rỉ hoặc tràn đổ hóa chất gây ô nhiễm.</li>
+<li>Nhà kho trữ hóa chất phải nằm ở xa khu dân cư, tránh nguồn nước, nơi chứa nước sinh hoạt cho dân sinh hay trồng trọt vì sẽ làm ảnh hưởng nghiêm trọng đến sức khỏe.</li>
+</ul>
+<h3 id="mcetoc_1fan5qtvom">5.2. Lưu ý khi Sử dụng Canxi cacbonat</h3>
+<p>Khi tiếp xúc với hóa chất CaCO₃ nói riêng, các loại&nbsp;hóa chất cơ bản&nbsp;khác nói chung cần phải trang bị cho mình các công cụ sử dụng thích hợp, trang thiết bị bảo hộ đầy đủ.</p>
+<h2 id="mcetoc_1g78hvauh0">6. TRỌNG TUẤN CHEMICAL – Địa chỉ mua bột đá vôi Calcium carbonate uy tín, chất lượng</h2>
+<p style="text-align: center;">TRỌNG TUẤN CHEMICAL là đơn vị hàng đầu chuyên cung cấp các loại hóa chất công nghiệp, bột đá vôi Calcium carbonate uy tín được nhiều doanh nghiệp lựa chọn. Sản phẩm của chúng tôi có nguồn gốc xuất xứ rõ ràng, quy cách đóng gói đa dạng, phục vụ được nhiều nhu cầu sử dụng khác nhau trong sản xuất công nghiệp.</p>
+<h2 id="mcetoc_1g78i0olg1">7. Báo giá bột đá vôi Calcium carbonate</h2>
+<p>TRỌNG TUẤN CHEMICAL là một trong những đơn vị cung cấp bột đá vôi Canxi cacbonat hàng đầu tại Việt Nam, chúng tôi mang đến cho thị trường những sản phẩm chất lượng với giá thành hợp lý. Bột đá vôi được TRỌNG TUẤN CHEMICAL cung cấp với quy cách 25kg/bao, xuất xứ Việt Nam và Trung Quốc ứng dụng được trong nhiều ngành sản xuất công nghiệp.</p>
+<p>Ngoài ra, chúng tôi còn cung cấp đa dạng các loại hóa chất xử lý nước, dung môi công nghiệp, hóa chất cơ bản,… đảm bảo được các nhu cầu sử dụng trong các ngành công nghiệp tại Việt Nam.</p>
+<p>Quý khách cần biết thêm thông tin về bột đá vôi Calcium carbonate hãy liên hệ ngay cho chúng tôi theo số tổng đài : <strong>093.2323.391 </strong>hoặc có thể truy cập website TRỌNG TUẤN CHEMICAL</p>
+				</div>
+											<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--reviews panel entry-content " id="tab-reviews" role="tabpanel" aria-labelledby="tab-title-reviews">
+										<div id="reviews" class="woocommerce-Reviews row">`,
+  },
+  {
+    key: 16,
+    type: "Chưa phân loại",
+    title: "Canxi nitrat Ca(NO3)2 99%, Trung Quốc, 25kg/bao",
+    price: 0,
+    img: Img16,
+    data_info: `
+ <p>Calcium nitrate hay Canxi nitrat. CTHH: Ca(NO3)2. CAS: 13477-34-4. Hàm lượng: 99%. Xuất xứ: Trung Quốc. Đóng gói: 25kg/bao. Ngoại quan: Tinh thể màu trắng, hòa tan trong amoniac, hầu như không tan trong axit nitric. Dùng trong nguyên liệu phân bón, xử lý nước thải, phụ gia bê tông…</p>
+    `,
+    data_info_bottom: `
+<span class="posted_in">Danh mục: Chưa phân loại, Hóa Chất Cơ Bản, Hóa Chất Xử Lý Nước, Sản phẩm khác, Sản phẩm nổi bật</span>
+    `,
+    data_advanced: `<div class="tab-panels">
+							<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
+										
+
+<table style="width: 76.5558%;">
+<tbody>
+<tr>
+<td style="width: 46.3183%;"><strong>Tên sản phẩm:</strong></td>
+<td style="width: 393.522%;">Calcium nitrate</td>
+</tr>
+<tr>
+<td style="width: 46.3183%;"><strong>Tên gọi khác:</strong></td>
+<td style="width: 393.522%;">Canxi nitrat</td>
+</tr>
+<tr>
+<td style="width: 46.3183%;"><strong>Công thức hóa học:</strong></td>
+<td style="width: 393.522%;">Ca(NO<sub>3</sub>)<sub>2</sub></td>
+</tr>
+<tr>
+<td style="width: 46.3183%;"><strong>CAS:</strong></td>
+<td style="width: 393.522%;">13477-34-4</td>
+</tr>
+<tr>
+<td style="width: 46.3183%;"><strong>Hàm lượng:</strong></td>
+<td style="width: 393.522%;">99%</td>
+</tr>
+<tr>
+<td style="width: 46.3183%;"><strong>Xuất xứ:</strong></td>
+<td style="width: 393.522%;">Trung quốc</td>
+</tr>
+<tr>
+<td style="width: 46.3183%;"><strong>Đóng gói:</strong></td>
+<td style="width: 393.522%;">25kg/bao</td>
+</tr>
+</tbody>
+</table>
+<p>Canxi nitrat – Ca(NO3)2 là một hợp chất hóa học được sử dụng phổ biến trong xử lý nước thải, làm nguyên liệu sản xuất phân bón, chất phụ gia bê tông,… Sản phẩm hóa chất Calcium nitrate 99% Ca(NO3)2 hiện đang được TRỌNG TUẤN CHEMICAL phân phối trên toàn quốc với mức giá vô cùng hấp dẫn. Hãy theo dõi bào viết dưới đây để nắm được những thông tin cụ thể về sản phẩm hóa chất này!</p>
+<h2 id="mcetoc_1f6jdagcd0">1.&nbsp;Canxi nitrat là gì?</h2>
+<p>Canxi nitrat&nbsp;là hợp chất muối vô cơ được tạo thành dưới sự liên kết của 1 kim loại Ca<sup>2+</sup>&nbsp;và 2 nhóm NO<sub>3</sub><sup>2-</sup>&nbsp;có công thức hóa học là&nbsp;Ca(NO<sub>3</sub>)<sub>2</sub>.</p>
+<h2 id="mcetoc_1f6jdarm61">2. Những tính chất lý hóa nổi bật của&nbsp;Canxi nitrat</h2>
+<ul>
+<li>Canxi nitrat&nbsp;là muối vô cơ dạng hạt tròn nhỏ không màu, hút ẩm mạnh từ không khí và thường thấy ở dạng ngậm 3 phân tử nước.</li>
+<li>Có khối lượng riêng: 2.504 g/cm<sup>3&nbsp;</sup>(khan).</li>
+<li>Nhiệt độ nóng chảy: 561 °C.</li>
+<li>Hoàn tan tốt trong nước, để ngoài không khí dễ bị chảy nước.</li>
+</ul>
+<h2 id="mcetoc_1f6jc1kd61">3. Sản xuất, điều chế canxi nitrat như thế nào?</h2>
+<p>Hiện nay, tùy vào mục đích sử dụng mà canxi nitrat có những cách sản xuất khác nhau như sau:</p>
+<ul>
+<li>Sản xuất bằng cách xử lý đá vôi bằng axit nitric HNO3, sau đó được trung hòa với amoniac:</li>
+</ul>
+<p>CaCO<sub>3</sub>&nbsp;+ HNO<sub>3</sub>&nbsp;→ Ca(NO<sub>3</sub>)<sub>2</sub>&nbsp;+ CO<sub>2</sub>&nbsp;+ H<sub>2</sub>O</p>
+<ul>
+<li>Là một sản phẩm trung gian của quy trình Odda:</li>
+</ul>
+<p>Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>&nbsp;+ HNO<sub>3</sub>&nbsp;+ H<sub>2</sub>O → H<sub>3</sub>PO<sub>4</sub>&nbsp;+ Ca + H<sub>2</sub>O</p>
+<ul>
+<li>Được điều chế từ dung dịch amoni nitrat &nbsp;NH<sub>4</sub>NO<sub>3</sub>&nbsp;và&nbsp;canxi hydroxit Ca(OH)<sub>2</sub>:</li>
+</ul>
+<p>NH<sub>4</sub>NO<sub>3</sub>&nbsp;+ Ca(OH)<sub>2</sub>&nbsp;→ Ca(NO<sub>3</sub>)<sub>2</sub>&nbsp;+ NH<sub>4</sub>OH</p>
+<h2 id="mcetoc_1d71lb4cq0">4. Những ứng dụng vượt trội của Canxi nitrat</h2>
+<h3 id="mcetoc_1d71lb4cq1">4.1. Ứng dụng của Canxi nitrat trong sản xuất phân bón</h3>
+<ul>
+<li>Ứng dụng quan trọng và được biết tới nhiều nhất của Canxi nitrat là làm nguyên liệu trong phân bón. Phân bón canxi nitrat giúp cung cấp 2 dưỡng chất quan trọng là Nito và Canxi cho cây. Canxi là yếu tố dinh dưỡng quan trọng cho quá trình phát triển của cây cũng như kích thích hoạt động của các men trong quá trình trao đổi chất. Nito là chất quan trọng trong quá trình hình thành tế bào, đẩu nhanh quá trình quang hợp, kích thích sự phát triển bộ rễ, tán, lá,… của cây.</li>
+</ul>
+<p><strong><em>&nbsp;Sodium metabisulfite(SBS) 99% Na2S2O5, Ý, 25kg/bao</em></strong></p>
+<ul>
+<li>Canxi nitrate giúp cây trồng tăng khả năng chống chịu bệnh, tác động đến quá trình tạo trái non, giúp trái sớm hình thành, tăng sự chống chịu, chống rụng trái non và trái có mẫu mã đẹp.</li>
+<li>Canxi nitrate còn có tác dụng làm tăng độ pH trong đất, ức chế sự phát triển của các loại nấm, vi khuẩn gây bệnh trong đất.</li>
+<li>Hóa chất này còn giúp cải tạo đất hiệu quả, có thể dùng để hạn phèn, khử mặn, chống lại sự suy thoái của đất, phục hồi cấu trúc đất trở nên thông thoáng, giảm ngộ độc Mangan, nhôm, sắt,…, thấm nước tốt.</li>
+<li>Hợp chất hóa học này là thành phần chính của dung dịch thủy canh, giúp đẩy nhanh quá trình phát triển của cây, tránh rụng trái non, giảm thiểu teo trái và tăng khả năng chống chịu sâu bệnh hại.</li>
+</ul>
+<h3 id="mcetoc_1d71lb4cq2">4.2. Ứng dụng của canxi nitrat trong các lĩnh vực khác</h3>
+<ul>
+<li>Ca(NO<sub>3</sub>)<sub>2&nbsp;</sub>được sử dụng trong xử lý nước thải, giảm sự cáu cặn và bốc mùi của nước. Quá trình tổng hợp sunfat sẽ ngừng lại nếu gặp nitrat, nhờ đó mà ngăn chặn được sự hình thành H2S – chất có mùi trứng thối và rất độc.</li>
+<li>Với ngành xây dựng:&nbsp;Ca(NO<sub>3</sub>)<sub>2</sub>&nbsp;được dùng trong bộ tăng tốc phụ gia bê tông. Trong đó, ion Ca+ đẩy nhanh quá trình hình thành của vôi tôi để tạo khối, ion N+ giúp hình thành sắt hidroxit – lớp bảo vệ, chống ăn mòn của thép, bê tông.</li>
+<li>Canxi nitrat và Kali nitrat được sử dụng để hấp thụ và lưu trữ năng lượng trong các nhà máy điện mặt trời.</li>
+<li>Trong sản xuất cao su, Canxi Nitrat được sử dụng để làm đông mủ cao su hiệu quả.</li>
+</ul>
+<h2 id="mcetoc_1f9l6i57i0">5. Lưu ý khi sử dụng, bảo quản&nbsp;Canxi nitrat</h2>
+<h3 id="mcetoc_1f9l6iavh1">5.1. Lưu ý khi sử dụng hóa chất&nbsp;Ca(NO<sub>3</sub>)<sub>2</sub></h3>
+<ul>
+<li>Cần mang găng tay và đeo mắt kính bảo hộ đầy đủ&nbsp;theo đúng tỷ lệ.</li>
+<li>Sau khi sử dụng xong hóa chất này, cần dùng bàn chải nhựa chà sát khu vực cần loại bỏ, sau đó xả lại bằng nước sạch.</li>
+</ul>
+<h3 id="mcetoc_1f9l6ih9a2">5.2. Bảo quản&nbsp;Calcium nitrate ra sao?</h3>
+<ul>
+<li>Cần bảo quản&nbsp;Ca(NO3)2 ở&nbsp;những nơi cao ráo, khô thoáng.</li>
+<li>Tránh bảo quản ở những nơi có ánh sáng trực tiếp từ mặt trời.</li>
+<li>Nếu hóa chất này chưa dùng hết, cần lấy dây buộc kín miệng bao.</li>
+<li>Để xa tầm tay của trẻ nhỏ, không sử dụng lại bao đã chứa sản phẩm.</li>
+</ul>
+<figure data-id="5241">
+<figure data-id="6686"></figure>
+</figure>
+<h2 id="mcetoc_1ga8eugnr0">6. Báo giá hóa chất Canxi nitrat mới nhất</h2>
+<p>Trên thị trường hiện nay có rất nhiều thương hiệu cung cấp hóa chất Canxi Nitrat – Ca(NO<sub>3</sub>)<sub>2</sub>&nbsp;với quy cách đóng gói rất đa dạng. Tùy vào chất lượng sản phẩm mà chúng lại có những mức giá khác nhau. Để có thể mua được hóa chất công nghiệp chất lượng tốt mà giá cả hợp lý thì khách hàng cần sáng suốt lựa chọn những nhà phân phối uy tín.</p>
+<p>Hiện nay, tại TRỌNG TUẤN CHEMICAL – công ty chuyên phân phối hóa chất công nghiệp hàng đầu Việt Nam – đang bán sản phẩm <strong>Calcium nitrate – Ca(NO<sub>3</sub>)<sub>2</sub></strong><strong>&nbsp;99%</strong>, xuất xứ Trung Quốc, quy cách đóng gói 25kg/bao với mức giá vô cùng hấp dẫn. Hãy liên hệ ngay với <strong>TRỌNG TUẤN CHEMICAL&nbsp;</strong>để được báo giá tốt nhất!</p>
+<p style="text-align: center;"><em>Calcium nitrate – Ca(NO<sub>3</sub>)<sub>2</sub>&nbsp;99%, Trung Quốc, quy cách 25kg/bao</em></p>
+<h2 id="mcetoc_1d71lb4cq3"><strong>7. Gợi ý địa chỉ mua Canxi nitrat&nbsp;uy tín chất lượng tốt nhất hiện nay</strong></h2>
+<p>Công ty TNHH VN Haco (TRỌNG TUẤN CHEMICAL) chính là đáp án của câu hỏi này. Theo ý kiến rất nhiều khách hàng đã và đang sử dụng các loại sản phẩm tại đây đánh giá TRỌNG TUẤN CHEMICAL là địa chỉ tin cậy cung ứng và phân phối các loại hóa chất tinh khiết, hóa chất công nghiệp, <strong>hóa chất cơ bản</strong>&nbsp;được sản xuất tại các hãng nổi tiếng trên thế giới với chất lượng tốt nhất đảm bảo phục vụ quá trình nghiên cứu, sản xuất hiệu quả.</p>
+<p>TRỌNG TUẤN CHEMICAL có bán canxi nitrat với xuất xứ từ Trung Quốc, là các tinh thể màu trắng, có thể hòa tan trong amoniac và hầu như không tan trong axit nitric. Hóa chất này được đóng gói với quy cách bao 25kg dễ dàng cho quá trình sử dụng, vận chuyển và lưu kho.</p>
+<p>Đặc biệt, khi mua hàng tại TRỌNG TUẤN CHEMICAL quý khách hàng còn được ưu đãi với thủ tục mua hàng rất đơn giản, chỉ cần thực hiện các bước sau:</p>
+<ul>
+<li>Bước 1: Truy cập website:&nbsp;<strong>http://TRỌNG TUẤN CHEMICAL.com.vn</strong></li>
+</ul>
+<ul>
+<li>Bước 2: Xác định sản phẩm, loại hóa chất thiết bị cần mua cần mua và số lượng cụ thể của từng loại.</li>
+<li>Bước 3: Gọi cho chúng tôi theo HOTLINE&nbsp;<strong>0932.32.33.91 </strong>hoặc đặt hàng trực tuyến trên website.</li>
+<li>Bước 4: Đợi hàng giao tận tay đúng như thời gian đã hẹn.</li>
+<li>Bước 5: Tận hưởng các sản phẩm với chất lượng TỐT nhất từ TRỌNG TUẤN CHEMICAL.</li>
+</ul>
+`,
+  },
+  {
+    key: 20,
+    type: "Chưa phân loại",
+    title:
+      "Chất xử lý nước làm mát HMV 308, Hàn Quốc, 20 kg/can hoặc 200 kg/phuy",
+    price: 0,
+    img: Img20,
+    data_info: `
+<div class="product-short-description">
+	<p>HMV 308 ức chế ăn mòn và cáu cặn là một sản phẩm có thành phần là các photpho hữu cơ được chế tạo để sử dụng cho các hệ thống nước làm mát tuần hoàn mở.</p>
+<p>Chất này được tính toán cho việc kiểm soát ăn mòn, đóng cặn trong thép (thành phần thép ít), đồng và đồng thau ởnước làm mát có nồng độ kiềm cao.</p>
+</div>
+    `,
+    data_info_bottom: `
+<span class="posted_in">Danh mục: Chưa phân loại, Hóa Chất Cơ Bản, Hóa chất ngành tẩy rửa, Hóa chất ngành xi mạ, Hóa chất nhiệt điện, Hóa Chất Xử Lý Nước, Sản phẩm khác, Sản phẩm nổi bật, Vật Tư Và Thiết Bị Công Nghiệp</span>
+    `,
+    data_advanced: `<div class="tab-panels">
+							<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
+										
+
+<table style="border-collapse: collapse; width: 100%; height: 147px;">
+<tbody>
+<tr style="height: 21px;">
+<td style="width: 49.9562%; height: 21px;">Tên sản phẩm</td>
+<td style="width: 49.9562%; height: 21px;">HMV 308</td>
+</tr>
+<tr style="height: 21px;">
+<td style="width: 49.9562%; height: 21px;">Trạng thái</td>
+<td style="width: 49.9562%;">Trong suốt không màu đến vàng nhạt</td>
+</tr>
+<tr style="height: 21px;">
+<td style="width: 49.9562%; height: 21px;">Trọng lượng riêng tại 25°C</td>
+<td style="width: 49.9562%;">1.09</td>
+</tr>
+<tr style="height: 21px;">
+<td style="width: 49.9562%; height: 21px;">Độ pH</td>
+<td style="width: 49.9562%; height: 21px;">Trên 10.5</td>
+</tr>
+<tr style="height: 21px;">
+<td style="width: 49.9562%; height: 21px;">Nhiệt độ nóng chảy/đóng băng</td>
+<td style="width: 49.9562%; height: 21px;">&nbsp;– 3.8℃</td>
+</tr>
+<tr style="height: 21px;">
+<td style="width: 49.9562%; height: 21px;">Quy cách</td>
+<td style="width: 49.9562%; height: 21px;">20 kg/can hoặc 200 kg/phuy</td>
+</tr>
+<tr style="height: 21px;">
+<td style="width: 49.9562%; height: 21px;">Xuất xứ</td>
+<td style="width: 49.9562%; height: 21px;">Hàn Quốc</td>
+</tr>
+</tbody>
+</table>
+<h2>1. Thông tin chung</h2>
+<p>HMV 308 ức chế ăn mòn và cáu cặn là một sản phẩm có thành phần là các photpho hữu cơ được chế tạo để sử dụng cho các hệ thống nước làm mát tuần hoàn mở. Chất này được tính toán cho việc kiểm soát ăn mòn, đóng cặn trong thép (thành phần thép ít), đồng và đồng thau ởnước làm mát có nồng độ kiềm cao.</p>
+<p style="text-align: center;">Hóa chất HMV 308</p>
+<h2>2. Thông tin thành phần HMV 308</h2>
+<table style="border-collapse: collapse; width: 100%; height: 105px;">
+<tbody>
+<tr style="height: 21px;">
+<td style="width: 26.6461%; height: 21px; text-align: center;">Tên hóa học</td>
+<td style="width: 23.3539%; height: 21px; text-align: center;">Công thức hóa học</td>
+<td style="width: 25%; height: 21px; text-align: center;">Mã số CAS</td>
+<td style="width: 25%; height: 21px; text-align: center;">Thành phần (%)</td>
+</tr>
+<tr style="height: 21px;">
+<td style="width: 26.6461%; height: 21px; text-align: center;">Amino tri(methylenephosphonic acid)</td>
+<td style="width: 23.3539%; height: 21px; text-align: center;">C3H12NO9P3</td>
+<td style="width: 25%; height: 21px; text-align: center;">6419-19-8</td>
+<td style="width: 25%; height: 21px; text-align: center;">Bí mật thương mại</td>
+</tr>
+<tr style="height: 21px;">
+<td style="width: 26.6461%; height: 21px; text-align: center;">NATRI HIDROXIT</td>
+<td style="width: 23.3539%; height: 21px; text-align: center;">NaOH</td>
+<td style="width: 25%; height: 21px; text-align: center;">1310-73-2</td>
+<td style="width: 25%; height: 21px; text-align: center;">&lt; 5</td>
+</tr>
+<tr style="height: 21px;">
+<td style="width: 26.6461%; height: 21px; text-align: center;">2-PHOSPHONO-1,2,4-<br>
+BUTANETRICARBOXYLIC ACID</td>
+<td style="width: 23.3539%; height: 21px; text-align: center;">C7H11O9P</td>
+<td style="width: 25%; height: 21px; text-align: center;">37971-36-1</td>
+<td style="width: 25%; height: 21px; text-align: center;">Bí mật thương mại</td>
+</tr>
+<tr style="height: 21px;">
+<td style="width: 26.6461%; height: 21px; text-align: center;">NATRI TOLYLTRIAZOLE</td>
+<td style="width: 23.3539%; height: 21px; text-align: center;">C7H6N3Na</td>
+<td style="width: 25%; height: 21px; text-align: center;">64665-57-2</td>
+<td style="width: 25%; height: 21px; text-align: center;">&lt; 5</td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<td style="width: 26.6461%; text-align: center;">Nước</td>
+<td style="width: 23.3539%; text-align: center;">H2O</td>
+<td style="width: 25%; text-align: center;">7732-18-5</td>
+<td style="width: 25%; text-align: center;">77 ~ 87</td>
+</tr>
+</tbody>
+</table>
+<h2>3. Đặc tính hóa lý sản phẩm</h2>
+<p>Nhiệt độ nóng chảy: Không xác định/ nhiệt độ đóng băng : -3.8℃</p>
+<p>Nhiệt độ sôi, nhiệt độ bắt đầu sôi và khoảng nhiệt độ sôi: Không xác định</p>
+<p>Điểm bắt cháy: Không xác định</p>
+<p>Tỉ lệ bốc hơi: Không xác định</p>
+<p>Khả năng bốc cháy (rắn, khí): Không xác định</p>
+<p>Giới hạn trên/dưới của khả năng bốc cháy hay giới hạn cháy nổ: Không có thông tin</p>
+<p>Áp suất bay hơi: Không xác định</p>
+<p>Tính tan : Có thể tan được</p>
+<p>Mật độ bay hơi : 1.0 (Không khí = 1)</p>
+<p>Trọng lượng riêng : 1.09</p>
+<p>Hệ số riêng phần nước/ n-octanol : Không có thông tin</p>
+<p>Nhiệt độ tự bốc cháy: Không xác định</p>
+<p>Nhiệt độ phân ly: Không xác định</p>
+<p>Độ nhớt: Không xác định</p>
+<p>Khối lượng nguyên tử: Không xác định</p>
+<h2>4. Ứng dụng của sản phẩm HMV 308</h2>
+<ul>
+<li>Các thành phần photpho hữu cơ được kết hợp lại bằng việc trộn đều lên có tác dụng giảm thiểu ăn mòn của các chất lắng đọng và kiểm soát nước cứng trên bề mặt vật liệu.</li>
+<li>Tạo ra thành phần kháng nấm (Azole) để bảo vệ sự ăn mòn trên bề mặt đồng và hợp kim của đồng.</li>
+</ul>
+<p style="text-align: center;">Tháp giải nhiệt</p>
+<h2>5. Cách pha trộn</h2>
+<ul>
+<li>Liều lượng sản phẩm đưa vào phụ thuộc vào loại hệ thống làm mát, nhiệt độ vận hành và các thông số trong nước như độ pH, thành phần kiềm, độ cứng và chỉ số Langelier.</li>
+<li>Đại diện công ty Hoimyung Waterzen có thể tư vấn cho tỉ lệ pha trộn thích hợp với hệ thống</li>
+</ul>
+<h2>6. Bảo quản và sử dụng</h2>
+<h3>6.1 Bảo quản</h3>
+<p>– Bảo quản trong điều kiện thoáng mát, và ở khu vực có hệ thống thông gió.</p>
+<p>– Tránh xa các khu vực có nguồn nhiệt cao, các loại vật liệu dễ cháy</p>
+<h3>6.2&nbsp;Lưu ý khi sử dụng</h3>
+<ul>
+<li>Các cá nhân khi thực hiện công việc có tiếp xúc trực tiếp với hóa chất bắt buộc phải được trang bị bảo hộ kín, những người không có trang bị bảo hộ buộc phải rời khỏi khu vực làm việc để hạn chế việc hít phải hơi hóa chất</li>
+<li>Tuyệt đối không tự ý sử dụng sai lệch tỷ lệ đã được các kỹ thuật viên hướng dẫn,điều này có thể làm lãng phí nguồn hóa chất, không đạt được hiệu quả như tính toán</li>
+<li>Tránh để hóa chất tràn ra môi trường nước ngoài tự nhiên</li>
+<li>Sử dụng cát, đất trong việc xử lý hóa chất bị đổ ra ngoài</li>
+</ul>
+<h2>7 Mua hóa chất diệt vi sinh HMV 308 ở đâu uy tín</h2>
+<p>Theo đánh giá của rất nhiều khách hàng,&nbsp;<strong>TRỌNG TUẤN CHEMICAL</strong>&nbsp;là nhà cung ứng và phân phối các loại hóa chất và thiết bị phòng thí nghiệm chất lượng tốt nhất trên thị trường.</p>
+<p><strong>TRỌNG TUẤN CHEMICAL</strong>&nbsp;chúng tôi luôn chú trọng đến chất lượng, giá cả, tiện ích, đưa đến cho quý khách hàng sự hài lòng bởi hiệu quả mang lại, góp phần giúp các doanh nghiệp, đơn vị hay cá nhân luôn yên tâm sử dụng, sản xuất, gia tăng giá trị sản phẩm.</p>
+<p>Với đội ngũ nhân viên, kỹ thuật viên giàu chuyên môn, đam mê công việc, luôn tận tình giải đáp các thắc mắc của khách hàng từ các thông tin chi tiết về sản phẩm đến những</p>
+<p>Để có thể đặt hàng các sản phẩm&nbsp;<strong>hóa chất cơ bản</strong>, hóa chất công nghiệp, hóa chất tinh khiết tại&nbsp;<strong>TRỌNG TUẤN CHEMICAL</strong>&nbsp;quý khách vui lòng thực hiện 3 bước sau đây:</p>
+<p><strong>Cách 1</strong>: Liên hệ ngay đến HOTLINE&nbsp;<strong>0932323391</strong>&nbsp;để được các kỹ thuật viên tư vấn và đặt hàng.</p>
+<p><strong>Cách 2:</strong>&nbsp;Truy cập vào website&nbsp;<strong>www.TRỌNG TUẤN CHEMICAL.com.vn</strong>&nbsp;để đặt hàng trực tuyến</p>
+<p><strong>Cách 3:</strong>&nbsp;Ghé thăm văn phòng giao dịch của&nbsp;<strong>TRỌNG TUẤN CHEMICAL</strong>&nbsp;tại số 46BT1X2 khu Đô Thị Linh Đàm – Hoàng Mai – Hà Nội</p>
+`,
+  },
+  {
+    key: 21,
+    type: "Hóa Chất Cơ Bản",
+    title: "Chlorine aquafit Ca(OCl)2, Ấn Độ, 45kg/thùng",
+    price: 0,
+    img: Img21,
+    data_info: `
+<div class="product-short-description">
+	<p>Chlorine Aquafit hay Clorin Ấn Độ tồn tại ở dạng vảy nhỏ màu trắng.</p>
+<p>CTHH: Ca(OCl)2.</p>
+<p>CAS: 7778-54-3.</p>
+<p>Xuất xứ: Ấn Độ.</p>
+<p>Quy cách: 45 kg/thùng.</p>
+<p>Aquafit có tính oxi hóa mạnh, tính diệt khuẩn cao và dễ dàng hòa tan trong nước.</p>
+<p>Sản phẩm được sử dụng rộng rãi để sát khuẩn, chất oxy hóa và tẩy trắng.</p>
+</div>
+    `,
+    data_info_bottom: `
+<span class="posted_in">Danh mục: Hóa Chất Cơ Bản, Hóa Chất Xử Lý Nước, Sản phẩm khác, Vật tư xử lý nước</span>
+    `,
+    data_advanced: `<div class="tab-panels">
+							<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
+										
+
+<div class="description">
+<div class="title">
+<div class="content-title">Mô tả sản phẩm Chlorine Aquafit</div>
+</div>
+<div class="specifications css-content clear">
+<table>
+<tbody>
+<tr>
+<td><strong>Tên sản phẩm</strong></td>
+<td>Chlorine aquafit Ấn Độ</td>
+</tr>
+<tr>
+<td><strong>Công thức hóa học</strong></td>
+<td>Ca(OCl)<sub>2</sub></td>
+</tr>
+<tr>
+<td><strong>Tên thường gọi</strong></td>
+<td>Chlorine Ấn Độ, Calcium hypocholorite, Chlorine of lime</td>
+</tr>
+<tr>
+<td><strong>Xuất xứ</strong></td>
+<td>Ấn Độ</td>
+</tr>
+<tr>
+<td><strong>Hàm lượng</strong></td>
+<td>70%</td>
+</tr>
+<tr>
+<td><strong>CAS</strong></td>
+<td>7778-54-3</td>
+</tr>
+<tr>
+<td><strong>Quy cách đóng gói</strong></td>
+<td>45kg/thùng</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="css-content content-description">
+<p style="text-align: left;"><strong><em>Chlorine aquafit&nbsp;Ca(OCl)<sub>2</sub></em></strong> dạng vảy nhỏ màu trắng được sử dụng rộng rãi để sát khuẩn, chất oxy hóa và tẩy trắng. Sản phẩm hiện đang được TRỌNG TUẤN CHEMICAL phân phối số lượng lớn, quy cách 45kg/thùng mới mức giá tốt nhất trên thị trường. Chúng ta cùng tìm hiểu Chlorine Aquafit Ấn Độ và các ứng dụng của hóa chất này trong lĩnh vực hóa chất xử lý nước thải.</p>
+<h2 style="text-align: left;"><span style="font-size: 23.04px;">1. Chlorine aquafit là chất gì?</span></h2>
+<p style="text-align: left;">Chlorine aquafit hay Chlorine Ấn Độ là một chất rắn tồn tại ở dạng vảy nhỏ, màu trắng, có tính oxi hóa và tính diệt khuẩn cao. Sản phẩm dễ dàng hòa tan trong nước và được sử dụng phổ biến để sát khuẩn, làm chất oxi hóa và tẩy trắng.</p>
+<p style="text-align: left;">Chlorine aquafit có công thức hóa học là Ca(OCl)<sub>2</sub>&nbsp;với nhiều tên gọi khác như: Chlorine Ấn Độ, Calcium hypocholorite, Chlorine of lime.</p>
+<p style="text-align: center;"><em>Chlorine Aquafit Ấn Độ là chất tồn tại ở dạng vảy nhỏ màu trắng</em></p>
+<h2 id="mcetoc_1g5gh3b9n1">2. Tính chất hóa lý của Chlorine aquafit</h2>
+<h3 id="mcetoc_1g5gh3ddg2">2.1. Tính chất vật lý</h3>
+<ul>
+<li>Ngoại quan: Hóa chất Chlorine Aquafit Ấn Độ tồn tại ở dạng vảy nhỏ màu trắng</li>
+<li>Tính tan: Tan tốt trong nước ở nhiệt độ &nbsp;20&nbsp;<sup>ᵒ</sup>C là 200 g/l</li>
+<li>Khối lượng riêng (ở 20<sup>o</sup>C): 2,35 g/cm<sup>3</sup></li>
+<li>Điểm bùng cháy: Không cháy</li>
+<li>Nhiệt độ phân hủy: &gt; 177<sup>o</sup>C</li>
+<li>Hàm lượng 70%</li>
+</ul>
+<h3 id="mcetoc_1g5gh48vv3">2.2. Tính chất hóa học</h3>
+<p>Chlorine phản ứng để tạo ra cho HOCl và HCl, HOCl tiếp tục ion hóa tạo ra ion OCl:</p>
+<p style="text-align: center;">Cl<sub>2</sub>&nbsp;+ H<sub>2</sub>O = HOCl + HCl<br>
+HOCl&nbsp; = OCl<sup>–</sup>&nbsp;+ H<sup>+</sup></p>
+<h2><strong>3. Ứng dụng của Chlorine Aquafit Ấn Độ</strong></h2>
+<h3 id="mcetoc_1fg34s0cb6">3.1. Ứng dụng&nbsp;trong nuôi trồng thủy sản</h3>
+<ul>
+<li>Khử trùng ao, hồ và các trang thiết bị, dụng cụ…</li>
+<li>Diệt vi khuẩn, các loại tảo và vi sinh vật có trong môi trường nước.</li>
+<li>Oxi hóa các vật chất hữu cơ cũng như các mầm bệnh ngoại lai có trong sản xuất giống.</li>
+</ul>
+<p>Đối với Chlorine Ấn Độ hàm lượng 70%, cách sử dụng cũng tương tự như loại Chlorine 70% dạng bột khác. Liều dùng để tiêu diệt các loại vi sinh vật và khử trùng nước cũng tùy thuộc vào hàm lượng Chlorine có trong&nbsp;Calcium hypochloride&nbsp;và nồng độ pH của môi trường nước, hàm lượng các chất hữu cơ, độ trong của nước và ammonia,…</p>
+<ul>
+<li>Nước ngọt: 6mg/l Calcium hypochloride 70%.</li>
+<li>Nước lợ: 20 – 30mg/l Calcium hypochloride 70%.</li>
+</ul>
+<p>Liều lượng sử dụng để khử trùng các thiết bị, bể và dụng cụ là 100-200 ppm (30 phút), khử trùng đáy ao là 50-100 ppm, khử trùng nước ao là 20 – 30 ppm, xử lý bệnh do ký sinh trùng là 0,1 – 0,2 ppm và xử lý bệnh do vi khuẩn gây ra là 1 – 3 ppm trong thời gian từ10 – 15 phút.</p>
+<h3 id="mcetoc_1fg34veja7">3.2. Ứng dụng trong xử lý nước</h3>
+<p>Khử trùng nước trong các hồ bơi: Để giữ cho bể bơi luôn sạch sẽ, không bị rong rêu, vi khuẩn thì chúng ta cần duy trì hàm lượng Chlorine dư trong nước ở mức 0,6 – 1 ppm với nồng độ pH từ 7,2 – 7,6.</p>
+<p style="text-align: center;"><em>Xác định giá trị Clo tự do và nồng độ pH có trong nước hồ bơi</em></p>
+<p><strong>Bước 1:&nbsp;</strong>Xác định giá trị Clo tự do và nồng độ pH có trong nước hồ bơi.</p>
+<p><strong>Bước 2:</strong>&nbsp;Điều chỉnh nồng độ pH về khoảng lý tưởng từ 7.2 – 7.6 (hoặc &lt; 6) để tăng hiệu quả xử lý nước của hóa chất này.</p>
+<p><strong>Bước 3:</strong>&nbsp;Xác định liều lượng Chlorine Ấn Độ cần thiết cho hồ bơi.</p>
+<p><strong>Bước 4:</strong>&nbsp;Pha bột Chlorine vào nước rồi tạt đều xung quanh hồ bơi, đồng thời khởi động hệ thống lọc tuần hoàn cho bể bơi ở chế độ khuấy.</p>
+<p><strong>Bước 5:</strong>&nbsp;Kiểm tra nồng độ Clo dư thừa trong nước bể bơi và duy trì nó ở mức 1 – 3ppm.</p>
+<h3 id="mcetoc_1fg4cjqun0">3.3. Ứng dụng làm chất tẩy rửa</h3>
+<ul>
+<li>Là chất tẩy rửa và khử mùi trong nhà bếp, phòng tắm, giúp làm sạch bề mặt và các vật dụng cần dùng.</li>
+<li>Sử dụng hóa chất Chlorine Ấn Độ thay thế Cloramin B trong việc sát trùng, khử khuẩn trùng hiệu quả trong mùa dịch COVID-19.&nbsp;Cách dùng là hòa tan 5 – 6g/lít nước rồi phun ra những nơi cần xử lý khử trùng.</li>
+</ul>
+<p style="text-align: center;"></p>
+<p style="text-align: center;"><em>Sử dụng hóa chất Chlorine Aquafit Ấn Độ thay thế Cloramin B trong khử trùng bệnh viện</em></p>
+<p>Ngoài ra Chlorine Ấn Độ còn được dùng trong ngành công nghiệp bột giấy, vải sợi.</p>
+<h2 id="mcetoc_1fg35nsrb9">4. Những lưu ý khi sử dụng, bảo quản Chlorine Aquafit Ấn Độ</h2>
+<h3 id="mcetoc_1fg35oroaa">4.1. Lưu ý khi sử dụng</h3>
+<ul>
+<li>Khi lấy bột cần tránh nơi có gió mạnh vì nó có thể sẽ thổi bay bột vào người.&nbsp;Khi pha bột cần thực hiện theo quy trình đổ từ từ nước vào bột Clo, tuyệt đối không làm ngược lại.</li>
+<li>Nếu không may dây bột vào mắt thì ngay lập tức dùng nước rửa sạch.</li>
+<li>Chlorine Ấn Độ có tính ăn mòn và chỉ có hiệu quả trong vài tiếng nên cần kiểm tra nước và châm định kỳ để duy trì chất lượng nước được tốt nhất.</li>
+<li>Đối với trường hợp sốc Chlorine để diệt rong rêu tảo, lượng Chlorine cần sử dụng lớn gấp 3 lần liều lượng bình thường, tuy nhiên không được lạm dụng quá nhiều.</li>
+</ul>
+<p><strong>Bảng liều lượng pha sẵn dung dịch Chlorine từ các loại hóa chất diệt khuẩn, khử trùng:</strong></p>
+<table border="1">
+<tbody>
+<tr>
+<td style="width: 175.05px;" rowspan="2">
+<p dir="ltr"><strong>Tên hóa chất</strong></p>
+<p dir="ltr"><strong>(hàm lượng clo hoạt tính)</strong></p>
+</td>
+<td style="width: 534.287px;" colspan="4">
+<p dir="ltr" style="text-align: center;"><strong>Lượng hóa chất cần sử dụng để pha 10 lít dung dịch có nồng độ Clo hoạt tính</strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 136.613px; text-align: center;">
+<p dir="ltr"><strong>0.25%</strong></p>
+</td>
+<td style="width: 111.325px; text-align: center;">
+<p dir="ltr"><strong>0.5%</strong></p>
+</td>
+<td style="width: 136.613px; text-align: center;">
+<p dir="ltr"><strong>1.25%</strong></p>
+</td>
+<td style="width: 134.137px; text-align: center;">
+<p dir="ltr"><strong>2.5%</strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 175.05px;">
+<p dir="ltr">Cloramin B 25%</p>
+</td>
+<td style="width: 136.613px; text-align: center;">
+<p dir="ltr">100g</p>
+</td>
+<td style="width: 111.325px; text-align: center;">
+<p dir="ltr">200g</p>
+</td>
+<td style="width: 136.613px; text-align: center;">
+<p dir="ltr">500g</p>
+</td>
+<td style="width: 134.137px; text-align: center;">
+<p dir="ltr">1000g</p>
+</td>
+</tr>
+<tr>
+<td style="width: 175.05px;">
+<p dir="ltr">Chlorine 70%</p>
+</td>
+<td style="width: 136.613px; text-align: center;">
+<p dir="ltr">36g</p>
+</td>
+<td style="width: 111.325px; text-align: center;">
+<p dir="ltr">72g</p>
+</td>
+<td style="width: 136.613px; text-align: center;">
+<p dir="ltr">180g</p>
+</td>
+<td style="width: 134.137px; text-align: center;">
+<p dir="ltr" style="text-align: center;">360g</p>
+</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>Ánh nắng chứa tia UV và nồng độ pH cao sẽ làm giảm hiệu quả xử lý nước của Chlorine Ấn Độ và khiến cho nồng độ Clo không ổn định. Giải pháp cho trường hợp này là bạn có thể thêm một chút Axit Cyanuric hoặc sử dụng Chlorine vào buổi tối.</li>
+<li>Oxy già H<sub>2</sub>O<sub>2</sub>&nbsp;có thể trung hòa Clo dư trong nước.</li>
+</ul>
+<h3 id="mcetoc_1fg340roc0">4.2. Lưu ý bảo quản</h3>
+<ul>
+<li>Cất giữ hóa chất ở nơi khô ráo, thoáng mát, không để tiếp xúc với ánh nắng trực tiếp.</li>
+<li>Không bảo quản chung với các hóa chất khác và tránh để nơi ẩm ướt, đồng thời tuân thủ đúng&nbsp;hướng dẫn sử dụng.</li>
+<li>Bảo quản hóa chất tránh xa tầm tay trẻ em</li>
+</ul>
+<h2 id="mcetoc_1g5ghat086">5.&nbsp;Mua bán Chlorine Aquafit ở đâu?</h2>
+<p>TRỌNG TUẤN CHEMICAL là địa chỉ hàng đầu chuyên cung ứng hóa chất công nghiệp, hóa chất xử lý nước.Chlorine Aquafit Ấn Độ hàm lượng 70% được TRỌNG TUẤN CHEMICAL phân phối ra thị trường số lượng lớn, quy cách 45kg/ thùng. Sản phẩm/ dịch vụ của chúng tôi luôn đảm bảo những tiêu chí sau:</p>
+<ul>
+<li>Chất lượng sản phẩm luôn được đảm bảo và được bán với giá thành tốt nhất trên thị trường hiện nay.</li>
+<li>Hệ thống chuyên viên tư vấn chuyên nghiệp với kiến thức chuyên sâu và luôn sẵn sàng hỗ trợ khách hàng 24/7.</li>
+<li>Nguồn gốc, xuất xứ của hàng hóa luôn rõ ràng, bảo hành theo đúng tiêu chuẩn của nhà sản xuất.</li>
+<li>Cung cấp đầy đủ chứng từ và có xuất hóa đơn đỏ khi giao hàng.</li>
+</ul>
+<p id="mcetoc_1fg36etiv0" style="text-align: center;"><em>TRỌNG TUẤN CHEMICAL cung cấp Chlorine aquafit Ca(OCl)<sub>2</sub>, Ấn Độ số lượng lớn</em></p>
+<h2 id="mcetoc_1g5ghdipo8">6. Báo giá Chlorine Aquafit Ấn Độ tại TRỌNG TUẤN CHEMICAL</h2>
+<p>Giá chlorine ấn độ tại TRỌNG TUẤN CHEMICAL luôn được khách hàng đánh giá cao về chất lượng, giá thành và dịch vụ sau bán. Sản phẩm của chúng tôi liên tục được stock kho để đảm bảo số lượng hàng hóa, mức giá bán ra tốt nhất trên thị trường.</p>
+<p style="text-align: center;"><em>Chlorine aquafit Ca(OCl)2, Ấn Độ, 45kg/thùng</em></p>
+<p>Quý khách đang có nhu cầu mua bán&nbsp;<em><strong>Chlorine Aquafit &nbsp;Ấn Độ</strong></em> hãy liên hệ ngay cho TRỌNG TUẤN CHEMICAL để được tư vấn, báo giá nhanh nhất. Tham khảo thêm các loại hóa chất xử lý nước khác tại website TRỌNG TUẤN CHEMICAL.com.vn.</p>
+<div class="vote detail-rating">
+					</div>`,
+  },
+  {
+    key: 25,
+    type: "Dung Môi Công Nghiệp",
+    title: "Cồn công nghiệp – Methanol CH3OH, Malaysia, 163kg/phuy",
+    price: 0,
+    img: Img25,
+    data_info: `
+<p class="intro">Methanol hay còn gọi là ancol metylic, carbino, hydroxy metan. Methanol là là chất lỏng không màu trong suốt, có mùi rượu trắng nhưng là chất gây độc không uống được, dễ bay hơi, dễ cháy và tan vô hạn trong nước. CTHH: CH3OH, CAS: 67-56-1, xuất xứ: Malaysia, quy cách: 163kg/phuy. Dùng trong nhiên liệu sinh học, công nghiệp thực phẩm, công nghiệp in, công nghiệp điện tử, dệt may, sản xuất cồn thạch, cồn khô…</p>
+    `,
+    data_info_bottom: `
+<span class="posted_in">Danh mục: Dung Môi Công Nghiệp, Hóa Chất Cơ Bản, Hóa chất ngành da giầy, Hóa chất ngành điện tử, Hóa chất ngành khai khoáng, Hóa chất ngành sơn, Hóa chất ngành tẩy rửa, Hóa chất ngành xi mạ, Hóa Chất Xử Lý Nước, Sản phẩm khác, Sản phẩm nổi bật</span>
+
+    `,
+    data_advanced: `<div class="tab-panels">
+							<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
+										
+
+<div class="title">
+<div class="content-title"><strong>Mô tả sản phẩm</strong></div>
+<div></div>
+</div>
+<div class="specifications css-content clear">
+<table>
+<tbody>
+<tr>
+<td><strong>Tên gọi</strong></td>
+<td>Methanol</td>
+</tr>
+<tr>
+<td><strong>Tên gọi khác</strong></td>
+<td>&nbsp;Alcol metylic, Methyl alcohol hoặc rượu mạnh gỗ</td>
+</tr>
+<tr>
+<td><strong>Công thức hóa học</strong></td>
+<td>CH<sub>3</sub>OH</td>
+</tr>
+<tr>
+<td><strong>Hàm lượng</strong></td>
+<td>Đang cập nhật</td>
+</tr>
+<tr>
+<td><strong>Hình thái</strong></td>
+<td>Là chất lỏng không màu</td>
+</tr>
+<tr>
+<td><strong>CAS</strong></td>
+<td>67-56-1</td>
+</tr>
+<tr>
+<td><strong>Xuất xứ</strong></td>
+<td>Malaysia</td>
+</tr>
+<tr>
+<td><strong>Quy cách</strong></td>
+<td>163kg/phuy</td>
+</tr>
+</tbody>
+</table>
+<p><strong style="font-size: 14.4px;">Methanol</strong><span style="font-size: 14.4px;"> Ch3OH là loại dung môi được sử dụng phổ biến trong một số ngành công nghiệp như: công nghiệp thực phẩm, công nghiệp in, công nghiệp điện tử, sản xuất các loại cồn khô, cồn thạch,… Sản phẩm dung môi methanol xuất xứ Malaysia, quy cách 163kg/ phuy đang được </span><strong style="font-size: 14.4px;">TRỌNG TUẤN CHEMICAL </strong><span style="font-size: 14.4px;">phân phối trên toàn quốc với mức giá và những ưu đãi vô cùng hấp dẫn. Xem ngay thông tin về sản phẩm tại bài viết dưới đây!&nbsp;</span></p>
+</div>
+<div class="css-content content-description">
+<h2 id="mcetoc_1f84peo570">1. Thông tin dung môi Methanol</h2>
+<p>Methanol hay còn được biết đến với cái tên ancol metylic, alcohol gỗ hoặc rượu metylic. Đây là một dung môi có công thức hóa học là CH<sub>3</sub>OH, tuy chúng cũng là đồng phân của rượu ethanol nhưng là chất độc, không thể uống dù chỉ 1 lượng rất nhỏ. Dùng chủ yếu làm dung môi pha loãng nguyên liệu cho sản xuất công nghiệp.</p>
+<p>&nbsp;</p>
+<p><em>Dung môi&nbsp;methanol 163kg/phuy</em></p>
+<h2 id="mcetoc_1g38389ih0">2. Tính chất của dung môi Methanol CH<sub>3</sub>OH</h2>
+<h3 id="mcetoc_1g3838cbv1">2.1. Tính chất vật lý</h3>
+<ul>
+<li>Methanol là loại rượu nhẹ, không màu, dễ cháy, dễ bay hơi, có mùi đặc trưng như ethanol</li>
+<li>Ở nhiệt độ phòng, Methanol là một chất lỏng phân cực</li>
+<li>Dễ cháy ở nhiệt độ thấp, khó nhìn thấy trong ánh sáng ban ngày</li>
+<li>Khối lượng riêng đạt 0,7918 g cm3</li>
+<li>Nhiệt độ sôi là 64,7 °C (337,8 K; 148,5 °F)</li>
+<li>Độ nhớt là 5.9×10−4 Pa s (ở 20 °C)</li>
+</ul>
+<p></p>
+<p><em>Tính chất hóa lý của&nbsp;dung môi Methanol</em></p>
+<h3 id="mcetoc_1g3838pbv2">2.2. Tính chất hóa học</h3>
+<ul>
+<li>Công thức hóa học: CH<sub>3</sub>OH</li>
+<li>Methanol thuộc dãy đồng đẳng ancol no.</li>
+<li>Tác dụng với kim loại cho sản phẩm muối và giải phóng khí hidro</li>
+</ul>
+<p>CH<sub>3</sub>OH + Na →&nbsp;&nbsp; CH<sub>3</sub>ONa + ½ H<sub>2</sub></p>
+<ul>
+<li>Tác dụng với axit vô cơ sẽ tạo ra este</li>
+</ul>
+<p>HCl + CH<sub>3</sub>OH → H<sub>2</sub>O + CH<sub>3</sub>Cl</p>
+<ul>
+<li>Đốt cháy giải phóng khí CO<sub>2</sub>&nbsp;và Co hàm lượng cao, có thể gây nổ</li>
+<li>Uống nhầm Methanol có thể gây mù hoặc chết</li>
+<li>Tiếp xúc với Methanol gây viêm da, vẩy nết, phát ban</li>
+</ul>
+<h2 id="mcetoc_1f84pggdu2">3. Điều chế, sản xuất cồn công nghiệp methanol</h2>
+<p>Điều chế methanol như nào? Dung môi này được tạo ra trong tự nhiên thông qua quá trình trao đổi chất yếm khí (anaerobic metabolism) của các vi khuẩn và có mặt khắp nơi trong môi trường. Methanol trong khí quyển bị oxi hóa bởi oxi, qua chất xúc tác là ánh sáng mặt trời sẽ sinh ra cácbon đi-ô-xít và nước.</p>
+<p>Hiện nay, Methanol được tổng hợp trực tiếp từ H<sub>2</sub>&nbsp;và CO, CO<sub>2</sub>&nbsp;có xúc tác nhiệt độ, chất xúc tác và áp suất thấp</p>
+<p></p>
+<p><em>Phương pháp điều chế&nbsp;methanol</em></p>
+<h2 id="mcetoc_1f7pu817r2">4. Những ứng dụng quan trọng của cồn methanol trong đời sống sản xuất</h2>
+<ul>
+<li>Dung môi methanol là nhiên liệu quan trọng đối với ngành giao thông vận tải, chúng được dùng để tạo butyl ete – metyl tert để pha vào xăng làm tăng tỉ số octan thay cho tetraetyl chì (một tác nhân gây ô nhiễm môi trường, có trong khí thải của các phương tiện giao thông).</li>
+</ul>
+<p class="sudo-media-item" data-id="8994"></p>
+<p class="sudo-media-item" data-id="8994">&nbsp;<em>Methanol là nhiên liệu quan trọng hiện nay</em></p>
+<p>&gt;&gt;&gt;Dung moi pha mực in chính hãng mua ở đâu giá tốt nhất ?</p>
+<ul>
+<li>Đây là loại dung môi được sử dụng nhiều trong các phòng thí nghiệm để chạy sắc ký lỏng, nâng cấp HPLC, chạy phổ UV-VIS.</li>
+<li>Methanol công nghiệp được dùng để xử lý các loại nước thải: Trong quá trình xử lý nước thải, người ta dùng methanol để cung cấp nguồn thức ăn cacbon cho vi sinh vật của hệ thống bể lọc sinh học, hỗ trợ gián tiếp quá trình xử lý nước thải.</li>
+<li>Methanol được ứng dụng để sản xuất pin nhiên liệu cung cấp hydrogen.</li>
+<li>CH3OH được sử dụng để sản xuất&nbsp;andehit formic,&nbsp;axit axetic,&nbsp;formalin,…</li>
+<li>Nó có vai trò quan trọng trong ngành sơn, in ấn, chất chống đông lạnh, làm nhiên liệu cho các bếp lò nhỏ, cung cấp nhiên liệu động cơ đốt.</li>
+</ul>
+<h2 id="mcetoc_1f84ph8353">5. Bảo quản và lưu ý khi sử dụng hóa chất Methanol?</h2>
+<p>Methanol là một trong những dung môi được sử dụng hàng đầu trong công nghiệp pha loãng nhựa, sơn,… với nhiều đặc điểm nổi bật, tuy nhiên bên cạnh đó nó cũng sẽ gây hại cho sức khỏe con người nếu không được trang bị đồ bảo hộ khi sử dụng. Vậy nên ta cần lưu ý với methanol công nghiệp.</p>
+<p></p>
+<p><em>Tuyệt đối không được uống cồn công nghiệp hoặc dùng cồn công nghiệp thay rượu uống</em></p>
+<h3 id="mcetoc_1f84phe9d4">5.1. Lưu ý khi sử dụng cồn methanol</h3>
+<p>Cồn methanol là một hóa chất rất độc đối với sức khỏe con người, chúng dễ dàng hấp thụ vào cơ thể qua đường da, ruột, phổi. Chính vì vậy, cần trang bị đồ bảo hộ lao động đầy đủ như mặt nạ phòng độc, khẩu trang, ủng , găng tay, quạt hút mùi,… khi tiếp xúc với hóa chất này và làm việc tại nơi thoáng khí.</p>
+<p>Tuyệt đối không được uống cồn công nghiệp, dùng cồn công nghiệp thay cho rượu uống.</p>
+<p>Hiện nay có nhiều cơ sở sản xuất rượu kém chất lượng, họ pha thêm một lượng nhỏ methanol vào rượu uống, vậy nên người tiêu dùng cần thông thái, tuyệt đối không sử dụng rượu không rõ nguồn gốc, xuất xứ.</p>
+<h3 id="mcetoc_1f7prvlin4">5.2. Khi bảo quản cồn methanol cần chú ý gì?</h3>
+<p>Methanol là một dung môi dễ cháy nổ nên trong quá trình bảo quản cũng như sử dụng cần phải tránh xa những nơi có nguồn nhiệt cao. Không lưu trữ hóa chất này cùng các chất có tính oxy hóa mạnh và cháy nổ cao.</p>
+<h2 id="mcetoc_1g3841itg0">6. <strong>TRỌNG TUẤN CHEMICAL</strong>– Đơn vị cung cấp Methanol uy tín</h2>
+<p><strong>TRỌNG TUẤN CHEMICAL</strong> tự hào là một trong những đơn vị hàng đầu nhập khẩu và cung ứng ra thị trường dung môi Methanol công nghiệp, đáp ứng được hầu hết các nhu cầu sử dụng trong sản xuất công nghiệp trên toàn quốc.</p>
+<p></p>
+<p><em>Mua dung môi Methanol tại <strong>TRỌNG TUẤN CHEMICAL</strong> </em></p>
+<p>Hóa chất Methanol tại <strong>TRỌNG TUẤN CHEMICAL</strong> có xuất xứ đa dạng từ <em>Indonexia, Malaysia, Ả rập xê út</em>, sản phẩm được đóng phuy chuyên nghiệp, giao hàng nhanh chóng trên toàn quốc.</p>
+<ul>
+<li>Methanol là hàng hoá chất kinh doanh hạn chế và <strong>TRỌNG TUẤN CHEMICAL</strong> đã có giấy phép kinh doanh loại mặt hàng này.</li>
+<li>Các loại hóa chất được <strong>TRỌNG TUẤN CHEMICAL</strong> cung cứng ra thị trường luôn đảm chất lượng như cam kết với đầy đủ MSDS chất lượng và nguồn gốc xuất xứ của sản phẩm.</li>
+<li>Câu trả lời “Methanol giá bao nhiêu” tại <strong>TRỌNG TUẤN CHEMICAL</strong> luôn có giá trị tốt nhất trên thị trường tương thích với chất lượng của sản phẩm.</li>
+<li>Chúng tôi sở hữu đội ngũ nhân sự giàu kinh nghiệm sẵn sàng tư vấn cho quý khách hàng 24/7.</li>
+<li>Ưu đãi về giá cho những khách hàng mua với sản lượng lớn.</li>
+<li>Hệ thống xe tải hiện đại, đội ngũ giao nhận hàng hóa chuyên nghiệp.</li>
+</ul>
+<p>Quý khách hàng đang có nhu cầu mua methanol, hãy liên hệ ngay đến công ty hóa chất <strong>TRỌNG TUẤN CHEMICAL</strong> – Đây là công ty hàng đầu chuyên cung ứng các loại hóa chất, <strong>dung môi công nghiệp</strong>, và bán Methanol uy tín trên toàn quốc. Bạn có thể liên hệ ngay bằng những cách thức dưới đây để được tư vấn và hỗ trợ trực tiếp từ hệ thống các chuyên viên:</p>							
+					</div>`,
+  },
+  {
+    key: 26,
+    type: "Hóa Chất Xử Lý Nước",
+    title: "Copper sulfate 99% CuSO4.5H2O",
+    price: 0,
+    img: Img26,
+    data_info: ``,
+    data_info_bottom: `
+<span class="posted_in">Danh mục: Hóa Chất Xử Lý Nước</span>
+    `,
+    data_advanced: ``,
   },
   {
     key: 28,

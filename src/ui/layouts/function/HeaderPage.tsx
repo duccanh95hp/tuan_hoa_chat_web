@@ -2,8 +2,7 @@ import { IconMenu, SearchIcon } from "../../../shared/assets/icons";
 import { PageHeader } from "../../../shared/components";
 import { styled } from "../../../shared/styles";
 import Icon from "@ant-design/icons";
-import { Input, Menu } from "antd";
-import { useHandleSearch } from "../../../core/hooks/useHandleSearch";
+import { Dropdown, Input, Menu } from "antd";
 import { ReactElement, useEffect, useState } from "react";
 import { useRouter } from "../../../shared/hooks/useRouter";
 import { useAppProvider } from "../../../shared/contexts/AppProvider";
@@ -14,6 +13,8 @@ import ImgLogo from "../../../shared/assets/icons/logo.png";
 import AnimatedText from "./AnimationText";
 import EmailHeaderIcon from "../../../shared/assets/icons/EmailHeader.png";
 import MobieIcon from "../../../shared/assets/icons/mobie.png";
+import { useSearchLayout } from "../../../core/hooks/useSearchLayout";
+import { debounce } from "lodash";
 
 const MenuStyle = styled("div", {
   gap: "10px",
@@ -108,13 +109,14 @@ type THeaderPage = {
 };
 
 export const HeaderPage = ({ header }: THeaderPage) => {
-  const { onChange } = useHandleSearch();
   const { navigate, location, search } = useRouter();
   const { updateAppProps } = useAppProvider();
   const { isMobie } = useMedia();
   const { pathname } = location;
 
   const [defaultPath, setDefaultPath] = useState<string>(pathname);
+  const [isSearch, setIsSearch] = useState<boolean>(false);
+  const { dataSearch, onSearch } = useSearchLayout();
 
   const onChangePage = (e: any) => {
     navigate(e.key);
@@ -129,6 +131,22 @@ export const HeaderPage = ({ header }: THeaderPage) => {
       }
     }
   }, [pathname, search]);
+
+  const handleDebouncedChange = debounce((value) => {
+    onSearch(value);
+  }, 500);
+
+  const onChange = (e: any) => {
+    if (e.target.value !== "") {
+      setIsSearch(true);
+      handleDebouncedChange(e.target.value);
+    } else {
+      setIsSearch(false);
+      onSearch("");
+    }
+  };
+
+  const onClickItem = () => {};
 
   return (
     <PageHeader>
@@ -190,14 +208,33 @@ export const HeaderPage = ({ header }: THeaderPage) => {
             items={MenuList}
             onClick={onChangePage}
           />
-          <SearchStyle>
-            <Input
-              placeholder="Bạn cần tìm gì ?"
-              allowClear
-              onChange={onChange}
-              suffix={<Icon component={SearchIcon} />}
-            />
-          </SearchStyle>
+
+          <Dropdown
+            visible={isSearch}
+            menu={{
+              items: dataSearch.map((data) => {
+                return {
+                  label: data.title,
+                  key: data.key,
+                };
+              }),
+              onClick: onClickItem,
+            }}
+            overlayStyle={{
+              height: "500px",
+              overflow: "hidden",
+              width: "240px",
+            }}
+          >
+            <SearchStyle>
+              <Input
+                placeholder="Bạn cần tìm gì ?"
+                allowClear
+                onChange={(e) => onChange(e)}
+                suffix={<Icon component={SearchIcon} />}
+              />
+            </SearchStyle>
+          </Dropdown>
         </MenuSidebar>
       ) : (
         ""

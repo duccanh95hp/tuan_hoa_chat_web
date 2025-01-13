@@ -13,6 +13,8 @@ import ImgIcon3 from "../../../../shared/assets/icons/icon-3-1.png";
 import { useEffect, useRef, useState } from "react";
 import { INTRODUCE_LEFT_PRODUCT } from "../../../../core/data/introduce";
 import { ProductItemSmall } from "../../../../shared/components/ProductItem";
+import { PRODUCT_TYPE_4 } from "../../../../core/data/product-type4";
+import { TEXTILE_DYEING } from "../../../../core/data/product-type2";
 
 const StyledProductDetail = styled("div", {
   display: "flex",
@@ -94,6 +96,7 @@ const StyledIframeInfor = styled("div", {
 });
 
 const StyledSupported = styled("div", {
+  marginTop: '14px',
   background: "#FFF1DD",
   border: "1px dotted red",
   borderRadius: "0 0 6px 6px",
@@ -120,8 +123,10 @@ const ProductDetail = () => {
   const defaultDataProduct: any[] = [
     ...PRODUCT_TYPE_1,
     ...PRODUCT_TYPE_3,
+    ...PRODUCT_TYPE_4,
     ...PRODUCT_TYPE_5,
     ...PRODUCT_TYPE_6,
+    ...TEXTILE_DYEING,
   ];
 
   const dataDetail = defaultDataProduct.find(
@@ -174,7 +179,7 @@ const ProductDetail = () => {
     return () => {
       iframe?.removeEventListener("load", adjustIframeSize);
     };
-  }, [dataDetail.data]);
+  }, [dataDetail?.data]);
 
   useEffect(() => {
     const iframe = iframeRefBottom.current;
@@ -215,7 +220,7 @@ const ProductDetail = () => {
     return () => {
       iframe?.removeEventListener("load", adjustIframeSize);
     };
-  }, [dataDetail.data]);
+  }, [dataDetail?.data]);
 
   useEffect(() => {
     const iframe = iframeRefAdvanced.current;
@@ -258,7 +263,7 @@ const ProductDetail = () => {
     return () => {
       iframe?.removeEventListener("load", adjustIframeSize);
     };
-  }, [dataDetail.data]);
+  }, [dataDetail?.data]);
 
   const onChange = (key: string) => {
     console.log(key);
@@ -289,11 +294,13 @@ const ProductDetail = () => {
               <div className="title">{dataDetail.title}</div>
               <div className="price">Giá: Liên hệ</div>
               <StyledIframeInfor css={{ height: newHeight }}>
-                <iframe
-                  title={dataDetail.title}
-                  ref={iframeRef}
-                  srcDoc={dataDetail.data_info}
-                />
+                {dataDetail.data_info && (
+                  <iframe
+                    title={dataDetail.title}
+                    ref={iframeRef}
+                    srcDoc={dataDetail.data_info}
+                  />
+                )}
               </StyledIframeInfor>
               <StyledSupported>
                 <div className="title">Hỗ Trợ Trực Tuyến</div>
@@ -307,11 +314,13 @@ const ProductDetail = () => {
                 </StyledBtn>
               </StyledSupported>
               <StyledIframeInfor css={{ height: newHeightBottom }}>
-                <iframe
-                  title={dataDetail.title}
-                  ref={iframeRefBottom}
-                  srcDoc={dataDetail.data_info_bottom}
-                />
+                {dataDetail.data_info_bottom && (
+                  <iframe
+                    title={dataDetail.title}
+                    ref={iframeRefBottom}
+                    srcDoc={dataDetail.data_info_bottom}
+                  />
+                )}
               </StyledIframeInfor>
             </div>
           </div>

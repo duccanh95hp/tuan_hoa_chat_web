@@ -6,6 +6,7 @@ import { IconCloseSidebar } from "../../../shared/assets/icons/IconCloseSidebar"
 import { Input, Menu } from "antd";
 import { useSearchLayout } from "../../../core/hooks/useSearchLayout";
 import { useRouter } from "../../../shared/hooks/useRouter";
+import { debounce } from "lodash";
 
 const StyledSearchLayout = styled("div", {
   height: "100%",
@@ -109,17 +110,20 @@ export const SearchLayout = () => {
     }
   });
 
+  const handleDebouncedChange = debounce((value) => {
+    onSearch(value);
+  }, 1000);
+
   const onChange = (e: any) => {
     try {
       setValueSearch(e.target.value);
       if (e.target.value) {
-        onSearch(e.target.value as string);
+        handleDebouncedChange(e.target.value);
         setIsVisible(true);
       } else {
         setIsVisible(false);
       }
-    } catch (error) {
-    }
+    } catch (error) {}
   };
 
   return (
