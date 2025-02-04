@@ -128,10 +128,10 @@ export const MenuList: MenuItem[] = [
             key: "/san-pham?hoa-chat-dien-tu",
             label: "Hóa Chất Ngành Điện Tử",
           },
-          {
-            key: "/san-pham?hoa-chat-tay-rua",
-            label: "Hóa Chất Ngành Tẩy Rửa",
-          },
+          // {
+          //   key: "/san-pham?hoa-chat-tay-rua",
+          //   label: "Hóa Chất Ngành Tẩy Rửa",
+          // },
         ],
       },
       { key: "/san-pham?dung-moi-cong-nghiep", label: "Dung Môi Công Nghiệp" },
@@ -160,14 +160,8 @@ export const MenuList: MenuItem[] = [
         ],
       },
       {
-        key: "/san-pham?vat-tu-va-thiet-bi-cong-nghiep",
-        label: "Vật Tư Và Thiết Bị Công Nghiệp",
-        children: [
-          {
-            key: "/san-pham?vat-tu-xu-ly-nuoc",
-            label: "Vật tư xử lý nước",
-          },
-        ],
+        key: "/san-pham?hoa-chat-tay-rua",
+        label: "Hóa Chất Tẩy Rửa",
       },
       {
         key: "/san-pham?thiet-bi-phong-thi-nghiem",

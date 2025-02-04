@@ -22,8 +22,8 @@ const StyledProductItemWapper = styled("div", {
     color: "#006db3",
   },
   "@media (max-width: 765px)": {
-    flex: "0 0 44%", // For smaller screens, show 2 items (each takes 1/2 width)
-    maxWidth: "44%",
+    flex: "0 0 43%", // For smaller screens, show 2 items (each takes 1/2 width)
+    maxWidth: "43%",
   },
   img: {
     width: "100%",
