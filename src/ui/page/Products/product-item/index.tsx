@@ -27,7 +27,9 @@ const StyledProductItemWapper = styled("div", {
   },
   img: {
     width: "100%",
-    height: "100%",
+    // height: "100%",
+    height: "180px", // Đặt chiều cao cố định để ảnh luôn thẳng hàng
+    objectFit: "cover", // Giữ tỉ lệ ảnh đẹp, tránh méo
     transition:
       "filter .6s, opacity .6s, transform .6s, box-shadow .3s, -webkit-filter .6s, -webkit-transform .6s, -webkit-box-shadow .3s",
   },

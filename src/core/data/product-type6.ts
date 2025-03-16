@@ -1,4 +1,4 @@
-import Img1 from "../../shared/assets/img-product/type6/anh1.jpg";
+// import Img1 from "../../shared/assets/img-product/type6/anh1.jpg";
 import Img2 from "../../shared/assets/img-product/type6/anh2.png";
 import Img3 from "../../shared/assets/img-product/type6/anh3.png";
 import Img4 from "../../shared/assets/img-product/type6/anh4.png";
@@ -6,13 +6,13 @@ import Img5 from "../../shared/assets/img-product/type6/anh5.png";
 
 
 export const PRODUCT_TYPE_6 = [
-  {
-    key: 1,
-    type: "Hóa Chất Cơ Bản",
-    title: "Acid Boric H3BO3 99%, Mỹ, 25kg/bao",
-    price: 0,
-    img: Img1, // Replace with actual image source
-  },
+  // {
+  //   key: 1,
+  //   type: "Hóa Chất Cơ Bản",
+  //   title: "Acid Boric H3BO3 99%, Mỹ, 25kg/bao",
+  //   price: 0,
+  //   img: Img1, // Replace with actual image source
+  // },
   {
     key: 2,
     type: "Thiết Bị Phòng Thí Nghiệm",

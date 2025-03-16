@@ -55,8 +55,8 @@ const Library = () => {
 
   return (
     <StyledPageWapper>
-      <HeadingPage style={{ fontSize: "16px" }} title="HỒ SƠ NĂNG LỰC" />
-      <StyledLibraryWapper>
+      {/* <HeadingPage style={{ fontSize: "16px" }} title="HỒ SƠ NĂNG LỰC" /> */}
+      {/* <StyledLibraryWapper>
         {LIBRARY?.map((lib) => (
           <StyledLibraryItem>
             <img src={lib.img} onClick={() => onOpenFilePdf(lib.file)} />
@@ -69,7 +69,7 @@ const Library = () => {
             </StyledBtn>
           </StyledLibraryItem>
         ))}
-      </StyledLibraryWapper>
+      </StyledLibraryWapper> */}
       <HeadingPage style={{ fontSize: "16px" }} title="HÌNH ẢNH HOẠT ĐỘNG" />
       <SliderComponents
         isAuto={true}

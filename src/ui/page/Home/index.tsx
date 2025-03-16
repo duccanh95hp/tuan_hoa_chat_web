@@ -153,7 +153,7 @@ const Home = () => {
 
           <div className="content">
             <div>
-              Công ty TNHH VNHACO – tự hào là doanh nghiệp chuyên phân phối Hóa
+            TRỌNG TUẤN CHEMICALS – tự hào là doanh nghiệp chuyên phân phối Hóa
               chất – Thiết bị từ các hãng nổi tiếng trên thế giới đáp ứng được
               nhu cầu đa dạng của khách hàng trên toàn Quốc. Chúng tôi có số
               lượng xe vận tải lớn, đã dạng trọng tải từ xe bồn, xe tải, xe đầu

@@ -5,7 +5,6 @@ import {
   AddressIcon,
   EmailIcon,
   PhoneIcon,
-  WareHouse,
 } from "../../../shared/assets/icons";
 const StyledFooterWapper = styled("div", {
   background: "rgb(238, 238, 238)",
@@ -38,36 +37,36 @@ const StyledFooterWapper = styled("div", {
 
 const StyledFooterBranch = styled("div", {
   display: "flex",
-  justifyContent: "space-between",
+  alignItems: "center", // Căn giữa theo chiều dọc
+  justifyContent: "center", // Căn giữa theo chiều ngang
   padding: "24px",
   flexWrap: "wrap",
-  textAlign: "start",
   fontWeight: "normal",
   fontSize: "15px",
-  gap: "12px",
   fontFamily: "sans-serif",
+  textAlign: "center", // Căn giữa nội dung văn bản
+  
   "@media (max-width: 1050px)": {
-    padding: "unset",
+    flexDirection: "column", // Xếp dọc trên màn hình nhỏ
   },
-  "@media (max-width: 765px)": {
-    padding: "unset",
-  },
+
   img: {
-    width: "12%",
-    maxWidth: "25%",
-    objectFit: "cover",
-    "@media (max-width: 1450px)": {
-      width: "22%",
-    },
-    "@media (max-width: 1050px)": {
-      width: "45%",
-    },
-    "@media (max-width: 765px)": {
-      maxWidth: "100%",
-      width: "100%",
-    },
+    width: "120px",
+    maxWidth: "150px",
+    objectFit: "contain",
+    marginRight: "20px", // Khoảng cách giữa logo và text
+  },
+
+  ".info-container": {
+    display: "flex",
+    flexDirection: "column",
+    alignItems: "flex-start", // Căn tất cả nội dung về lề trái
+    gap: "8px",
   },
 });
+
+
+
 
 const StyledFooterBranchItem = styled("div", {
   display: "flex",
@@ -108,7 +107,7 @@ export const Footer = () => {
         <div>
           {FOOTER.city} - {FOOTER.city_name}
         </div>
-        <div>
+        {/* <div>
           GPDKKD: {FOOTER.city_business_registration_number} do{" "}
           {FOOTER.city_business_registration_place_of_issue} cấp ngày{" "}
           {FOOTER.city_business_registration_date_of_issue}.
@@ -118,7 +117,7 @@ export const Footer = () => {
           kinh doanh có điều kiện trong lĩnh vực công nghiệp theo chứng nhận số{" "}
           {FOOTER.city_certification} cấp ngày{" "}
           {FOOTER.city_certification_date_of_issue}.
-        </div>
+        </div> */}
         <div>
           Chúng tôi cam kết đem đến những sản phẩm CHẤT LƯỢNG - CHÍNH HÃNG - HỒ
           SƠ ĐẦY ĐỦ - GIAO HÀNG NHANH CHÓNG - với mức giá TỐT NHẤT - trên thị
@@ -126,37 +125,21 @@ export const Footer = () => {
         </div>
         <StyledFooterBranch>
           <img src={ImgLogo} alt="logo" />
-          {FOOTER.branch.map((branch) => (
-            <StyledFooterBranchItem key={branch.name}>
-              <div className="branch_name">{branch.name}</div>
-              <a
-                className="text-line"
-                href={branch.gg_map_address}
-                target="_blank"
-                rel="noreferrer"
-              >
+          <div className="info-container">
+            <div className="div">
                 <AddressIcon /> <span className="heading_tilte"> VPGD: </span>
-                {branch.address}
-              </a>
-              <a
-                className="text-line"
-                href={branch.gg_map_warehouse_address}
-                target="_blank"
-                rel="noreferrer"
-              >
-                <WareHouse /> <span className="heading_tilte">Kho: </span>
-                {branch.warehouse_address}
-              </a>
-              <div className="text-line">
+                Thị trấn Tiên Lãng, Huyện Tiên Lãng , thành phố Hải Phòng
+                </div>
+            <div className="text-line">
                 <PhoneIcon /> <span className="heading_tilte">Hotline:</span>{" "}
-                {branch.hotline}
+                0941795869
               </div>
               <div className="text-line">
                 <EmailIcon /> <span className="heading_tilte"> Email:</span>{" "}
-                {branch.email}
+                hoachattrongtuan@gmail.com
               </div>
-            </StyledFooterBranchItem>
-          ))}
+          </div>
+          
         </StyledFooterBranch>
       </div>
 

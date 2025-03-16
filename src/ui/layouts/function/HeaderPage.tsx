@@ -175,22 +175,23 @@ export const HeaderPage = ({ header }: THeaderPage) => {
           </StyledHeaderBox>
         ) : (
           <StyledHeaderBox>
-            <div className="logo">
-              <img src={ImgLogo} alt="logo" />
+            <div className="logo" style={{ marginLeft: "-40px"}}>
+              <img src={ImgLogo} alt="logo"  />
               <span className="">TRỌNG TUẤN CHEMICALS</span>
             </div>
             <AnimatedText />
             <StyledHeaderBoxContact>
               <img src={EmailHeaderIcon} alt="email" />
               <div>
-                <div className="text-red">sale@hacochem.com.vn</div>
+                <div className="text-red">hoachattrongtuan</div>
+                <div className="text-red">@gmail.com</div>
                 <div className="text-note">Email liên hệ</div>
               </div>
             </StyledHeaderBoxContact>
             <StyledHeaderBoxContact>
               <img src={MobieIcon} alt="mobie" />
               <div>
-                <div className="text-red">09.32.32.33.91</div>
+                <div className="text-red">0941795869</div>
                 <div className="text-note">Hỗ trợ - Tư vấn 24/7</div>
               </div>
             </StyledHeaderBoxContact>

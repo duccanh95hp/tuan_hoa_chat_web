@@ -10,67 +10,67 @@ import Img7 from "../../shared/assets/img-product/type4/anh7.png";
 import Img8 from "../../shared/assets/img-product/type4/anh8.png";
 
 export const PRODUCT_TYPE_4 = [
-  {
-    key: 1,
-    type: "Chất Chuẩn",
-    title: "Calcium standard solution – Merck",
-    price: 0,
-    img: Img1,
-    data_info: ``,
-    data_info_bottom: `<span class="posted_in">Danh mục: Acid và Bazo</span>`,
-    data_advanced: ``,
-  },
-  {
-    key: 2,
-    type: "Chất Chuẩn",
-    title: "Dung dịch chuẩn pH 9.18 Horiba",
-    price: 0,
-    img: Img2,
-    data_info: ``,
-    data_info_bottom: `<span class="posted_in">Danh mục: Acid và Bazo</span>`,
-    data_advanced: ``,
-  },
-  {
-    key: 3,
-    type: "Dung Môi",
-    title: "BENZYL ANCOHOL TRUNG QUỐC, 210 kg/phuy",
-    price: 0,
-    img: Img3,
-    data_info: `<p>BENZYL ANCOHOL tên khác Benzenecarbinol; Benzenemethanol; Rượu benzoyl, là chất lỏng trong suốt, nhờn với mùi nhẹ, dễ chịu. Nó hòa tan trong nước và dễ tan trong rượu và ete. Rượu benzyl dễ dàng tạo thành các este với các axit khác nhau, giúp ích cho một loạt các ứng dụng sản phẩm bao gồm sản xuất xà phòng, nước hoa, hương vị và hương thơm, cũng như phụ gia thực phẩm</p>`,
-    data_info_bottom: `<span class="posted_in">Danh mục: Dung môi, Dung Môi Công Nghiệp, Hóa Chất Cơ Bản, Hóa chất ngành dược – mỹ phẩm, Hóa chất ngành tẩy rửa</span>`,
-    data_advanced: `
-    <div class="tab-panels">
-<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
-<h2>1. BENZYL ANCOHOL là gì ?</h2>
-<p style="text-align: center;">Hóa chất BENZYL ANCOHOL đang được Hacochem kinh doanh</p>
-<p>BENZYL ANCOHOL tên khác Benzenecarbinol; Benzenemethanol; Rượu benzoyl, là chất lỏng trong suốt, nhờn với mùi nhẹ, dễ chịu. Nó hòa tan trong nước và dễ tan trong rượu và ete. Rượu benzyl dễ dàng tạo thành các este với các axit khác nhau, giúp ích cho một loạt các ứng dụng sản phẩm bao gồm sản xuất xà phòng, nước hoa, hương vị và hương thơm, cũng như phụ gia thực phẩm. Rượu benzyl cũng là một dung môi hữu ích cho mực, sơn mài, sơn phủ, chất tẩy nhờn, nhuộm polyamide, và như một chất trợ liên kết. Dược phẩm benzyl alcohol được sử dụng như một loại thuốc diệt khuẩn và gây tê cục bộ.</p>
-<h2>2. Thông tin về BENZYL ANCOHOL</h2>
-<p>Tên hóa học: Benzyl Alcohol</p>
-<p>Tên khác: (Hydroxymethyl)benzene; alcoolbenzylique; Bentalol; benzalalcohol; Benzalcohol; Benzenemethan-lo;benzenmethanol; Benzoyl alcohol</p>
-<p>Công thức: C7H8O –&nbsp;C<sub>6</sub>H<sub>5</sub>CH<sub>2</sub>OH</p>
-<p>Ngoại quan: chất lỏng không màu, có mùi dễ chịu</p>
-<p>Quy cách: 210kg/ phuy</p>
-<p>xuất xứ: Trung Quốc</p>
-<h2>3. Ứng Dụng của BENZYL ANCOHOL</h2>
-<p>Benzyl Alcohol có các ứng dụng chính:</p>
-<ul>
-<li>Sơn dung môi; mực dung môi; Plexiglass dung môi; đại lý phát triển nhiếp ảnh; chất ổn định PVC; y học, tổng hợp nhựa dung môi; thuốc mỡ hoặc thuốc lỏng; dung môi cho mực in các sản phẩm thịt tem-pad và dầu bút bi.</li>
-<li>Chất tẩy nhờn thảm; miệng núi lửa đại lý làm sạch; silicone ổn định dung môi; benzyl este hoặc ether trung gian.</li>
-<li>Benzyl rượu là một loại cố định mẫu nước hoa rất hữu ích. Đó là một gia vị không thể thiếu khi hoa nhài, hoa huệ hay ylang là hỗn hợp, và sử dụng hợp chất xà phòng và mỹ phẩm hàng ngày.</li>
-<li>Hóa chất trung gian để tổng hợp các phân tử mục tiêu được sử dụng trong dược phẩm, mỹ phẩm, chất bảo quản, hương liệu và các sản phẩm nước hoa.</li>
-</ul>
-</div>`,
-  },
-  {
-    key: 4,
-    type: "Dung Môi",
-    title: "Ethanol Abs 99.5% C2H5OH",
-    price: 0,
-    img: Img4,
-    data_info: ``,
-    data_info_bottom: `<span class="posted_in">Danh mục: Acid và Bazo</span>`,
-    data_advanced: ``,
-  },
+  // {
+  //   key: 1,
+  //   type: "Chất Chuẩn",
+  //   title: "Calcium standard solution – Merck",
+  //   price: 0,
+  //   img: Img1,
+  //   data_info: ``,
+  //   data_info_bottom: `<span class="posted_in">Danh mục: Acid và Bazo</span>`,
+  //   data_advanced: ``,
+  // },
+  // {
+  //   key: 2,
+  //   type: "Chất Chuẩn",
+  //   title: "Dung dịch chuẩn pH 9.18 Horiba",
+  //   price: 0,
+  //   img: Img2,
+  //   data_info: ``,
+  //   data_info_bottom: `<span class="posted_in">Danh mục: Acid và Bazo</span>`,
+  //   data_advanced: ``,
+  // },
+//   {
+//     key: 3,
+//     type: "Dung Môi",
+//     title: "BENZYL ANCOHOL TRUNG QUỐC, 210 kg/phuy",
+//     price: 0,
+//     img: Img3,
+//     data_info: `<p>BENZYL ANCOHOL tên khác Benzenecarbinol; Benzenemethanol; Rượu benzoyl, là chất lỏng trong suốt, nhờn với mùi nhẹ, dễ chịu. Nó hòa tan trong nước và dễ tan trong rượu và ete. Rượu benzyl dễ dàng tạo thành các este với các axit khác nhau, giúp ích cho một loạt các ứng dụng sản phẩm bao gồm sản xuất xà phòng, nước hoa, hương vị và hương thơm, cũng như phụ gia thực phẩm</p>`,
+//     data_info_bottom: `<span class="posted_in">Danh mục: Dung môi, Dung Môi Công Nghiệp, Hóa Chất Cơ Bản, Hóa chất ngành dược – mỹ phẩm, Hóa chất ngành tẩy rửa</span>`,
+//     data_advanced: `
+//     <div class="tab-panels">
+// <div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
+// <h2>1. BENZYL ANCOHOL là gì ?</h2>
+// <p style="text-align: center;">Hóa chất BENZYL ANCOHOL đang được Hacochem kinh doanh</p>
+// <p>BENZYL ANCOHOL tên khác Benzenecarbinol; Benzenemethanol; Rượu benzoyl, là chất lỏng trong suốt, nhờn với mùi nhẹ, dễ chịu. Nó hòa tan trong nước và dễ tan trong rượu và ete. Rượu benzyl dễ dàng tạo thành các este với các axit khác nhau, giúp ích cho một loạt các ứng dụng sản phẩm bao gồm sản xuất xà phòng, nước hoa, hương vị và hương thơm, cũng như phụ gia thực phẩm. Rượu benzyl cũng là một dung môi hữu ích cho mực, sơn mài, sơn phủ, chất tẩy nhờn, nhuộm polyamide, và như một chất trợ liên kết. Dược phẩm benzyl alcohol được sử dụng như một loại thuốc diệt khuẩn và gây tê cục bộ.</p>
+// <h2>2. Thông tin về BENZYL ANCOHOL</h2>
+// <p>Tên hóa học: Benzyl Alcohol</p>
+// <p>Tên khác: (Hydroxymethyl)benzene; alcoolbenzylique; Bentalol; benzalalcohol; Benzalcohol; Benzenemethan-lo;benzenmethanol; Benzoyl alcohol</p>
+// <p>Công thức: C7H8O –&nbsp;C<sub>6</sub>H<sub>5</sub>CH<sub>2</sub>OH</p>
+// <p>Ngoại quan: chất lỏng không màu, có mùi dễ chịu</p>
+// <p>Quy cách: 210kg/ phuy</p>
+// <p>xuất xứ: Trung Quốc</p>
+// <h2>3. Ứng Dụng của BENZYL ANCOHOL</h2>
+// <p>Benzyl Alcohol có các ứng dụng chính:</p>
+// <ul>
+// <li>Sơn dung môi; mực dung môi; Plexiglass dung môi; đại lý phát triển nhiếp ảnh; chất ổn định PVC; y học, tổng hợp nhựa dung môi; thuốc mỡ hoặc thuốc lỏng; dung môi cho mực in các sản phẩm thịt tem-pad và dầu bút bi.</li>
+// <li>Chất tẩy nhờn thảm; miệng núi lửa đại lý làm sạch; silicone ổn định dung môi; benzyl este hoặc ether trung gian.</li>
+// <li>Benzyl rượu là một loại cố định mẫu nước hoa rất hữu ích. Đó là một gia vị không thể thiếu khi hoa nhài, hoa huệ hay ylang là hỗn hợp, và sử dụng hợp chất xà phòng và mỹ phẩm hàng ngày.</li>
+// <li>Hóa chất trung gian để tổng hợp các phân tử mục tiêu được sử dụng trong dược phẩm, mỹ phẩm, chất bảo quản, hương liệu và các sản phẩm nước hoa.</li>
+// </ul>
+// </div>`,
+//   },
+//   {
+//     key: 4,
+//     type: "Dung Môi",
+//     title: "Ethanol Abs 99.5% C2H5OH",
+//     price: 0,
+//     img: Img4,
+//     data_info: ``,
+//     data_info_bottom: `<span class="posted_in">Danh mục: Acid và Bazo</span>`,
+//     data_advanced: ``,
+//   },
   {
     key: 5,
     type: "Acid và Bazo",

@@ -10,7 +10,6 @@ import Img9 from "../../shared/assets/img-product/type1/anh9.png";
 import Img10 from "../../shared/assets/img-product/type1/anh10.png";
 import Img11 from "../../shared/assets/img-product/type1/anh11.jpg";
 import Img12 from "../../shared/assets/img-product/type1/anh12.jpg";
-import Img13 from "../../shared/assets/img-product/type1/anh13.jpg";
 import Img14 from "../../shared/assets/img-product/type1/anh14.jpg";
 import Img15 from "../../shared/assets/img-product/type1/anh15.jpg";
 import Img16 from "../../shared/assets/img-product/type1/anh16.png";
@@ -21,15 +20,15 @@ import Img20 from "../../shared/assets/img-product/type1/anh20.jpg";
 import Img21 from "../../shared/assets/img-product/type1/anh21.jpg";
 import Img22 from "../../shared/assets/img-product/type1/anh22.jpg";
 import Img23 from "../../shared/assets/img-product/type1/anh23.jpg";
-import Img24 from "../../shared/assets/img-product/type1/anh24.jpg";
+// import Img24 from "../../shared/assets/img-product/type1/anh24.jpg";
 import Img25 from "../../shared/assets/img-product/type1/anh25.jpeg";
-import Img26 from "../../shared/assets/img-product/type1/anh26.jpg";
+import Img26 from "../../shared/assets/img-product/type1/anh26.png";
 import Img27 from "../../shared/assets/img-product/type1/anh27.jpg";
 import Img28 from "../../shared/assets/img-product/type1/anh28.jpg";
 import Img29 from "../../shared/assets/img-product/type1/anh29.jpg";
-import Img30 from "../../shared/assets/img-product/type1/anh30.jpg";
+// import Img30 from "../../shared/assets/img-product/type1/anh30.jpg";
 import Img31 from "../../shared/assets/img-product/type1/anh31.jpg";
-import Img32 from "../../shared/assets/img-product/type1/anh32.jpg";
+import Img32 from "../../shared/assets/img-product/type1/anh32.png";
 import Img33 from "../../shared/assets/img-product/type1/anh33.jpg";
 import Img34 from "../../shared/assets/img-product/type1/anh34.png";
 import Img35 from "../../shared/assets/img-product/type1/anh35.png";
@@ -41,47 +40,47 @@ import Img40 from "../../shared/assets/img-product/type1/anh40.jpg";
 import Img41 from "../../shared/assets/img-product/type1/anh41.jpg";
 import Img42 from "../../shared/assets/img-product/type1/anh42.jpg";
 import Img43 from "../../shared/assets/img-product/type1/anh43.jpg";
-import Img44 from "../../shared/assets/img-product/type1/anh44.png";
+// import Img44 from "../../shared/assets/img-product/type1/anh44.png";
 import Img45 from "../../shared/assets/img-product/type1/anh45.jpg";
 import Img46 from "../../shared/assets/img-product/type1/anh46.png";
 import Img47 from "../../shared/assets/img-product/type1/anh47.png";
-import Img48 from "../../shared/assets/img-product/type1/anh48.jpg";
+// import Img48 from "../../shared/assets/img-product/type1/anh48.jpg";
 import Img49 from "../../shared/assets/img-product/type1/anh49.jpg";
 import Img50 from "../../shared/assets/img-product/type1/anh50.jpg";
 import Img51 from "../../shared/assets/img-product/type1/anh51.jpg";
 import Img52 from "../../shared/assets/img-product/type1/anh52.jpg";
 import Img53 from "../../shared/assets/img-product/type1/anh53.jpg";
 import Img54 from "../../shared/assets/img-product/type1/anh54.png";
-import Img55 from "../../shared/assets/img-product/type1/anh55.png";
+// import Img55 from "../../shared/assets/img-product/type1/anh55.png";
 import Img56 from "../../shared/assets/img-product/type1/anh56.jpg";
 import Img57 from "../../shared/assets/img-product/type1/anh57.jpg";
 import Img58 from "../../shared/assets/img-product/type1/anh58.png";
 import Img59 from "../../shared/assets/img-product/type1/anh59.jpg";
 import Img60 from "../../shared/assets/img-product/type1/anh60.jpg";
-import Img61 from "../../shared/assets/img-product/type1/anh61.jpg";
+// import Img61 from "../../shared/assets/img-product/type1/anh61.jpg";
 import Img62 from "../../shared/assets/img-product/type1/anh62.png";
-import Img63 from "../../shared/assets/img-product/type1/anh63.jpg";
+// import Img63 from "../../shared/assets/img-product/type1/anh63.jpg";
 import Img64 from "../../shared/assets/img-product/type1/anh64.jpg";
 import Img65 from "../../shared/assets/img-product/type1/anh65.png";
-import Img66 from "../../shared/assets/img-product/type1/anh66.png";
-import Img67 from "../../shared/assets/img-product/type1/anh67.jpg";
-import Img68 from "../../shared/assets/img-product/type1/anh68.jpg";
+// import Img66 from "../../shared/assets/img-product/type1/anh66.png";
+// import Img67 from "../../shared/assets/img-product/type1/anh67.jpg";
+// import Img68 from "../../shared/assets/img-product/type1/anh68.jpg";
 import Img69 from "../../shared/assets/img-product/type1/anh69.jpg";
 import Img70 from "../../shared/assets/img-product/type1/anh70.jpg";
 import Img71 from "../../shared/assets/img-product/type1/anh71.jpg";
 import Img72 from "../../shared/assets/img-product/type1/anh72.jpg";
-import Img73 from "../../shared/assets/img-product/type1/anh73.png";
-import Img74 from "../../shared/assets/img-product/type1/anh74.jpg";
-import Img75 from "../../shared/assets/img-product/type1/anh75.png";
+// import Img73 from "../../shared/assets/img-product/type1/anh73.png";
+// import Img74 from "../../shared/assets/img-product/type1/anh74.jpg";
+// import Img75 from "../../shared/assets/img-product/type1/anh75.png";
 import Img76 from "../../shared/assets/img-product/type1/anh76.jpg";
 import Img77 from "../../shared/assets/img-product/type1/anh77.jpg";
-import Img78 from "../../shared/assets/img-product/type1/anh78.jpg";
+// import Img78 from "../../shared/assets/img-product/type1/anh78.jpg";
 import Img79 from "../../shared/assets/img-product/type1/anh79.jpg";
 import Img80 from "../../shared/assets/img-product/type1/anh80.jpg";
 import Img81 from "../../shared/assets/img-product/type1/anh81.jpg";
 import Img82 from "../../shared/assets/img-product/type1/anh82.png";
-import Img83 from "../../shared/assets/img-product/type1/anh83.png";
-import Img84 from "../../shared/assets/img-product/type1/anh84.png";
+// import Img83 from "../../shared/assets/img-product/type1/anh83.png";
+// import Img84 from "../../shared/assets/img-product/type1/anh84.png";
 
 export const PRODUCT_TYPE_1 = [
   {
@@ -1574,153 +1573,153 @@ export const PRODUCT_TYPE_1 = [
 <p dir="ltr">Để có được những sản phẩm chất lượng theo đúng yêu cầu, quý khách hàng xin vui lòng liên hệ qua số điện thoại và website để được tư vấn chi tiết về sản phẩm.</p>
 					</div>`,
   },
-  {
-    key: 13,
-    type: "Hóa chất cơ bản",
-    title:
-      "Calcium hydroxide Ca(OH)2 96%, Việt Nam, 25kg/bao, bao Jumbo, xe bồn bơm",
-    price: 0,
-    img: Img13,
-    data_info: `<p>Calcium hydroxide hay Canxi hydroxit hay còn gọi là vôi tôi, nước vôi trong. CTHH: Ca(OH)2 , hàm lượng 96%. Xuất xứ: Việt Nam, quy cách: 25kg/bao, xe bồn bơm vôi. Dạng bột màu trắng hoặc không màu. Dùng làm chất kết bông trong xử lý nước, nước thải và cải tạo độ chua của đất, thành phần của nước vôi, vữa trong xây dựng…</p>`,
-    data_info_bottom: `
-    <span class="posted_in">Danh mục: Hóa Chất Cơ Bản, Hóa chất ngành da giầy, Hóa chất ngành dệt nhuộm, Hóa chất ngành dược – mỹ phẩm, Hóa chất ngành điện tử, Hóa chất ngành giấy, Hóa chất ngành khai khoáng, Hóa chất ngành sơn, Hóa chất ngành tẩy rửa, Hóa chất ngành thức ăn chăn nuôi, Hóa chất ngành thực phẩm, Hóa chất ngành xi mạ, Hóa chất nhiệt điện, Hóa Chất Xử Lý Nước, Sản phẩm khác, Sản phẩm nổi bật</span>
-    `,
-    data_advanced: `<div class="tab-panels">
-							<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
+//   {
+//     key: 13,
+//     type: "Hóa chất cơ bản",
+//     title:
+//       "Calcium hydroxide Ca(OH)2 96%, Việt Nam, 25kg/bao, bao Jumbo, xe bồn bơm",
+//     price: 0,
+//     img: Img13,
+//     data_info: `<p>Calcium hydroxide hay Canxi hydroxit hay còn gọi là vôi tôi, nước vôi trong. CTHH: Ca(OH)2 , hàm lượng 96%. Xuất xứ: Việt Nam, quy cách: 25kg/bao, xe bồn bơm vôi. Dạng bột màu trắng hoặc không màu. Dùng làm chất kết bông trong xử lý nước, nước thải và cải tạo độ chua của đất, thành phần của nước vôi, vữa trong xây dựng…</p>`,
+//     data_info_bottom: `
+//     <span class="posted_in">Danh mục: Hóa Chất Cơ Bản, Hóa chất ngành da giầy, Hóa chất ngành dệt nhuộm, Hóa chất ngành dược – mỹ phẩm, Hóa chất ngành điện tử, Hóa chất ngành giấy, Hóa chất ngành khai khoáng, Hóa chất ngành sơn, Hóa chất ngành tẩy rửa, Hóa chất ngành thức ăn chăn nuôi, Hóa chất ngành thực phẩm, Hóa chất ngành xi mạ, Hóa chất nhiệt điện, Hóa Chất Xử Lý Nước, Sản phẩm khác, Sản phẩm nổi bật</span>
+//     `,
+//     data_advanced: `<div class="tab-panels">
+// 							<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
 										
 
-<div class="title">
-<div class="content-title"><strong>Mô tả sản phẩm</strong></div>
-<div></div>
-</div>
-<div class="specifications css-content clear">
-<table>
-<tbody>
-<tr>
-<td><strong>Tên sản phẩm:</strong></td>
-<td>Calcium hydroxide VN</td>
-</tr>
-<tr>
-<td><strong>Tên khác</strong></td>
-<td>Canxi hydroxit, Vôi tôi, Nước vôi trong</td>
-</tr>
-<tr>
-<td><strong>Công thức hóa học:</strong></td>
-<td>Ca(OH)<sub>2</sub></td>
-</tr>
-<tr>
-<td><strong>CAS</strong></td>
-<td>1305-62-0</td>
-</tr>
-<tr>
-<td><strong>Hàm lượng</strong></td>
-<td>96%</td>
-</tr>
-<tr>
-<td><strong>Xuất xứ:</strong></td>
-<td>Việt Nam</td>
-</tr>
-<tr>
-<td><strong>Quy cách đóng gói:</strong></td>
-<td>25kg/bao, xe bồn bơm vôi dạng lỏng, xe bồn bơm vôi dạng bột mịn</td>
-</tr>
-</tbody>
-</table>
-</div>
-<div class="css-content content-description">
-<p><strong><em>Hóa chất Calcium hydroxide</em></strong> (Canxi hydroxit) được sử dụng phổ biến làm chất kết bông trong xử lý nước, cải tạo độ chua của đất và là nguyên liệu quan trọng trong xây dựng. Sản phẩm hiện được <strong>TRỌNG TUẤN CHEMICAL</strong> phân phối số lượng lớn trên toàn quốc, quy cách 25kg/ bao, hàm lượng 96%. Thông tin, tính chất, đặc điểm của sản phẩm được cập nhật trong bài viết dưới đây.</p>
-<h2 id="mcetoc_1f6el1a6l8">1. Canxi hydroxit&nbsp;là gì?</h2>
-<p>Canxi hydroxit hay Calcium hydroxide là một hợp chất có công thức hóa học là Ca(OH)<sub>2&nbsp;</sub>.Trong điều kiện nhiệt độ bình thường, nó tồn tại ở dạng chất bột mềm có màu trắng, không mùi, khó bắt cháy và có nhiệt độ nóng chảy&nbsp;là khoảng 580 ºC.</p>
-<figure class="sudo-media-item" data-id="6773"></figure>
-<p>Bột Ca(OH)<sub>2</sub>&nbsp;tan ít trong nước nhưng tan nhiều trong dung dịch hữu cơ (Glycerol,..) và vô cơ (axit..).&nbsp;Khi tan vào nước,&nbsp;Ca(OH)<sub>2</sub>&nbsp;là một dung dịch bazo mạnh làm màu quỳ tím chuyển thành xanh. Ngoài ra, nó cũng tác dụng với một số kim loại, axit và muối.</p>
-<figure class="sudo-media-item" data-id="6774"></figure>
-<h2 id="mcetoc_1ffumpqaq0">2. Tính chất lý hóa của Canxi hydroxit (Calcium hydroxide)</h2>
-<h3 id="mcetoc_1f6el1fch9">2.1. Tính chất vật lý của Calcium hydroxide</h3>
-<p>Canxi hydroxit tồn tại ở thể rắn không màu hoặc có màu trắng, tan một phần trong nước để tạo thành dung dịch nước vôi trong Ca(OH)2.&nbsp;Trong tự nhiên, Canxi hydroxit tồn tại trong một loại khoáng chất có tên là portlandit.</p>
-<p>Nhiệt độ nóng chảy của canxi hydroxit là 580&nbsp;<sup>o</sup>C (853 K, độ tan trong nước là 0.185 g/ cm<sup>3</sup>, tỷ trọng và pha là 2.211 g/cm<sup>3</sup></p>
-<p><em>Công thức phân tử của Canxi hydroxit</em></p>
-<p>&nbsp;</p>
-<figure class="sudo-media-item"></figure>
-<h3 id="mcetoc_1f6el1mmaa"><strong>2.2. Tính chất hóa học của Calcium hydroxide</strong></h3>
-<p>– Canxi hydroxit&nbsp;làm thay đổi màu sắc của các các chất chỉ thị màu. Cụ thể là nó khi nhúng quỳ tím vào dung dịch Ca(OH)<sub>2</sub>, giấy quỳ sẽ chuyển sang màu xanh còn khi nhỏ&nbsp;vào dung dịch phenolphtalein, dung dịch sẽ chuyển từ không màu sang màu hồng.</p>
-<ul>
-<li>Tác dụng với axit tạo ra muối và nước</li>
-</ul>
-<p>Ca(OH)<sub>2</sub>&nbsp;+ 2HNO<sub>3</sub>&nbsp;→ Ca(NO<sub>3</sub>)<sub>2</sub>&nbsp;+ 2H<sub>2</sub>O</p>
-<ul>
-<li>Tác dụng với oxit axit&nbsp;tạo ra muối và nước</li>
-</ul>
-<p>3Ca(OH)<sub>2</sub>&nbsp;+ P<sub>2</sub>O<sub>5</sub>&nbsp;→ Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2(kết tủa)</sub>&nbsp;+ 3H<sub>2</sub>O</p>
-<ul>
-<li>Tác dụng với dung dịch muối tạo ra muối mới và bazo mới</li>
-</ul>
-<p>Ca(OH)<sub>2</sub>&nbsp; + MgCl<sub>2</sub>&nbsp;→&nbsp; Mg(OH)<sub>2</sub>&nbsp;+ CaCl<sub>2</sub></p>
-<p>Ca(OH)<sub>2</sub>&nbsp;+ Mg(HCO<sub>3</sub>)<sub>2</sub>&nbsp;→&nbsp;CaCO<sub>3</sub>&nbsp;+&nbsp; MgCO<sub>3</sub>&nbsp;+ 2H<sub>2</sub>O</p>
-<h2 id="mcetoc_1ffugqdiv0">3. Cách điều chế&nbsp;Canxi hydroxit hiện nay</h2>
-<p>Trong phòng thí nghiệm, canxi hydroxit được điều chế bằng cách cho vôi sống (CaO) kết hợp với nước. Phản ứng sẽ xảy ra như sau:</p>
-<p>CaO + H<sub>2</sub>O → Ca(OH)<sub>2</sub></p>
-<p></p>
-<p><em>Pha chế dung dịch Ca(OH)<sub>2</sub></em></p>
-<p>Cụ thể hơn là:</p>
-<p>Sau khi nung đá vôi thành canxi oxit CaO, người ta sẽ trộn nó với nước theo tỷ lệ 1: 3 để tạo ra dung dịch Ca(OH)<sub>2</sub>. Sau khi tinh chế và tách, phần cặn sẽ được loại bỏ bằng cách khử nước ly tâm, sau đó sấy khô và sàng lọc, cuối cùng sẽ thu được canxi hydroxit thành phẩm. Các phản ứng diễn ra như sau:</p>
-<p>CaCO<sub>3</sub>&nbsp;→ CaO + CO<sub>2</sub>&nbsp;↑</p>
-<p>CaO + H<sub>2</sub>O → Ca(OH)<sub>2</sub></p>
-<h2 id="mcetoc_1f6el22t1b"><strong>4. Những ứng dụng của Canxi hydroxit trong cuộc sống</strong></h2>
-<h3 id="mcetoc_1f6el2fabc">4.1. Trong sản xuất nông nghiệp</h3>
-<p>Hiện tượng đất trồng trọt bị chua là hiện tượng khá quen thuộc ở nhiều khu vực đất trồng tại Việt Nam và nguyên nhân khiến nó bị như vậy là do sự xâm lấn quá nhiều của phèn hay nói một cách đơn giản là trong đất tồn tại dư lượng axit. Và để cân bằng lại độ pH và khử chua cho đất, canxi hydroxit được sử dụng để bón vào đất vì nó có tính bazo.</p>
-<p></p>
-<p><em>Khử chua, cải tạo đất và tiêu diệt nấm cũng như chữa bệnh cho cây trồng</em></p>
-<p>Bên cạnh vai trò là chất khử chua cho đất, canxi hydroxit cũng được là&nbsp;thành phần quan trọng của một số loại hóa chất nông nghiệp, thuốc trừ sâu bệnh hại khác…và là một&nbsp;hóa chất bảo quản thực phẩm với vai trò là nguyên liệu để sản xuất các loại thuốc Polikar dùng trong bảo quản các loại rau, củ, quả tránh nấm mốc, thối hỏng.</p>
-<p></p>
-<p><em>Canxi hydroxit được dùng làm&nbsp;thành phần quan trọng của một số loại thuốc trừ sâu bệnh hại&nbsp;</em></p>
-<h3 id="mcetoc_1f6el2pvtd">4.2. Trong ngành xây dựng</h3>
-<p>Cũng giống như Canxi oxit, canxi hydroxit được xem là một thành phần quan trọng để tạo nên các loại vữa dùng làm chất kết dính của các hàng gạch cũng như trát tường trong xây dựng.</p>
-<p>Nguyên nhân là do đặc tính khi kết hợp với nước, canxi hydroxit sẽ tạo ra một hỗn hợp khá dẻo giống như hồ, có khả năng kết dính rất cao. Khi để ngoài không khí, chúng sẽ tự khô lại nhưng tốc độ khô khá chậm do trong không khí có sự tồn tại của hơi nước.</p>
-<p></p>
-<p id="mcetoc_1ffulgmga8"><em>Canxi hydroxit được xem là một thành phần quan trọng để tạo nên các loại vữa xây dựng</em></p>
-<h3 id="mcetoc_1f6el2vqse">4.3. Trong sản xuất công nghiệp</h3>
-<p>Canxi hydroxit có tính bazo mạnh nên nó được dùng để trung hòa lượng axit sinh ra trong quá trình ngâm da&nbsp;trong ngành công nghiệp thuộc da.</p>
-<p>Trong công nghiệp hóa chất, canxi hydroxit được sử dụng để sản xuất canxi Stearat (C<sub>17</sub>H<sub>35</sub>COO)<sub>2</sub>Ca, canxi clorua CaCl<sub>2</sub>&nbsp;(cho tác dụng với axit HCl).</p>
-<p>Trong ngành công nghiệp khai thác, sản xuất dầu mỏ, Ca(OH)<sub>2</sub>&nbsp;được sử dụng để tạo ra các loại phụ gia cho dầu thô, ví dụ như alkilsalicatic, sulphatic hay fenatic… Còn đối với ngành lọc dầu, nó được dùng để tạo kết tủa nhằm loại bỏ các tạp chất ra khỏi dung dịch và bảo vệ các chi tiết của dàn khoan, có tính sát khuẩn nhẹ…</p>
-<p></p>
-<p><em>Sử dụng trong ngành công nghiệp khai thác dầu mỏ</em></p>
-<p><em><sub></strong>&nbsp;&nbsp;<strong>Sodium carbonate Na2CO3 99%, Trung Quốc, 40 kg/bao</strong></p>
-<h3 id="mcetoc_1ffum49j90">4.4. Trong lĩnh vực y học</h3>
-<p>Ở dạng bột nhão, Canxi hydroxit được sử dụng trong nha khoa với vai trò là chất khử trùng, giúp chống lại các tác nhân gây bệnh sâu răng.&nbsp;Ngoài ra, nó cũng là thành phần của một số loại thuốc tiêm, thuốc nén dạng viên, thuốc giảm đau hạ sốt aspirin và thuốc giảm viêm.</p>
-<p>Canxi hydroxit được dùng để sản xuất một số loại thuốc giúp thúc đẩy quá trình rụng lông.</p>
-<h3 id="mcetoc_1ffulu98i0">4.5. Trong lĩnh vực xử lý nước thải</h3>
-<p>Canxi hydroxit được dùng làm chất kết bông trong các nhà máy&nbsp;<strong>xử lý nước thải</strong>&nbsp;đô thị, nước thải công nghiệp, nước thải bệnh viện, nước thải sinh hoạt,…</p>
-<h2 id="mcetoc_1ffujkqov3">5. Những lưu ý khi sử dụng, bảo quản n<span data-sheets-value="{" data-sheets-userformat="{">ước vôi trong</span></h2>
-<h3 id="mcetoc_1ffujmvhg4">5.1. Lưu ý khi sử dụng</h3>
-<p><strong>Calcium hydroxide có nguy hiểm không?&nbsp;</strong></p>
-<p>Cơ thể con người khi hấp thụ quá mức canxi hydroxit có thể gây ra các triệu chứng nguy hiểm, ví dụ như khó thở, chảy máu trong, cơ bị tê liệt, hạ huyết áp, làm tăng nồng độ pH trong máu và các cơ quan nội tạng bị&nbsp;tổn thương.</p>
-<p>Bụi canxi hydroxit hoặc các giọt lơ lửng có khả năng kích thích màng nhầy, gây ra hiện tượng hắt hơi và ho. Ngoài ra, nó cũng có thể xà phòng hóa chất béo, hấp thụ nước từ da và hòa tan protein cũng như ăn mòn các mô. Nếu hít phải bụi vôi có thể gây viêm phổi.</p>
-<h4>Cách sơ cứu khi tiếp xúc nhiều với Calcium hydroxide</h4>
-<ul>
-<li>Tiếp xúc với da:&nbsp;Ngay lập tức dùng nước sạch để rửa nhiều lần, sau đó thoa dung dịch axit boric H<sub>3</sub>BO<sub>3&nbsp;&nbsp;</sub>&nbsp;nồng độ&nbsp;3 – 5% lên vùng da đã tiếp xúc với hóa chất để trung hòa bazo.</li>
-<li>Bắn lên mắt:&nbsp;Ngay lập tức nâng mí mắt lên và rửa ít nhất 15 phút với nước sạch hoặc dùng nước muối. Ngoài ra bạn cũng có thể dụng dung dịch axit boric 3% để rửa. Sau khi sơ cứu xong thì đưa ngay đến trung tâm y tế gần nhất để kiểm tra, thăm khám và điều trị tiếp.</li>
-<li>Hít phải:&nbsp;Nhanh chóng rời khỏi khu vực có nhiều bụi Ca(OH)2 và di chuyển đến nơi có không khí thông thoáng.</li>
-<li>Nuốt phả<strong>i:</strong>&nbsp;Uống sữa và sữa chua có protein càng sớm càng tốt để giải độc. Khi nạn nhân còn tỉnh táo, cho nạn nhân súc miệng ngay lập tức rồi cho uống giấm pha loãng hoặc nước chanh pha loãng.</li>
-<li>Khi làm việc với Canxi hydroxit cần phải mang trang phục bảo hộ lao động đầy đủ.</li>
-</ul>
-<h3 id="mcetoc_1ffujn99e5">5.2. Lưu ý khi bảo quản</h3>
-<p>Bảo quản Canxi hydroxit ở nơi khô ráo thoáng mát, tránh ánh nắng trực tiếp và tránh xa tầm tay trẻ em.</p>
-<p><em>Bảo quản hóa chất theo đúng quy định, nơi khô ráo, thoáng mát, tránh xa nguồn nhiệt</em></p>
-<h2 id="mcetoc_1g5du8s650">6. <strong>TRỌNG TUẤN CHEMICAL</strong>– <strong>Địa chỉ mua nước vôi trong – vôi bột ở đâu uy tín, giá tốt</strong></h2>
-<p>Để đảm bảo hiệu quả công việc, Canxi hydroxit được sử dụng phải có chất lượng tốt. Vậy mua hóa chất này ở đâu để đảm bảo được chất lượng của sản phẩm. Đáp án mà chúng tôi đưa ra cho các bạn chính là công ty <strong>TRỌNG TUẤN CHEMICAL</strong>.</p>
-<p>Hiện nay, <strong>TRỌNG TUẤN CHEMICAL</strong> đang là đơn vị cung cấp các sản phẩm hóa chất uy tin, chính hãng mà giá cả lại vô cùng hợp lý cho toàn thị trường từ Bắc đến Nam. Chúng tôi có hệ thống vận tải với hơn 100 đầu xe, luôn đảm bảo việc giao hàng đúng thời gian, đủ sản phẩm cho khách hàng trên mọi miền đất nước với những tiêu chí sau:</p>
-<ul>
-<li>Hóa chất Canxi hydroxit &nbsp;tại <strong>TRỌNG TUẤN CHEMICAL</strong> luôn được khách hàng đánh giá cao về chất lượng</li>
-<li>Hệ thống chuyên viên chuyên nghiệp với kiến thức sâu và luôn sẵn sàng hỗ trợ khách hàng 24/7.</li>
-<li>Nguồn gốc, xuất xứ hàng hóa rõ ràng, bảo hành theo nhà sản xuất đúng tiêu chuẩn.</li>
-<li>Cung cấp đầy đủ chứng từ, hóa đơn hàng hóa khi giao nhận hàng. Thủ tục thanh toán đơn giản, tiết kiệm thời gian công sức cho hệ thống khách hàng.</li>
-<li>Vận chuyển chuyên nghiệp, giao hàng trên toàn quốc với hệ thống xe tải, xe téc lên đến hơn 100 chiếc.</li>
-</ul>
-<h2 id="mcetoc_1g5dubjis1">7. Báo giá Canxi hydroxit tại <strong>TRỌNG TUẤN CHEMICAL</strong></h2>
-<p>Canxi hydroxit dạng rắn hoặc dạng nước vôi trong đang được <strong>TRỌNG TUẤN CHEMICAL</strong> stock kho số lượng lớn với mức giá tốt nhất trên thị trường. Quy cách 25kg/bao, xe bồn bơm vôi dạng lỏng, xe bồn bơm vôi dạng bột mịn. Hoạt động hơn 08 năm chúng tôi luôn được khách hàng đánh giá cao về chất lượng và giá thành sản phẩm.</p>
-<p>Quý khách đang có nhu cầu mua&nbsp;<strong><em>Calcium hydroxide</em></strong>, Canxi hydroxit, Vôi tôi, Nước vôi trong hãy liên hệ ngay cho chúng tôi theo số HOTLINE 0932323391 hoặc để lại thông tin trên website <strong>TRỌNG TUẤN CHEMICAL.com.vn</strong> để được hỗ trợ nhanh nhất.</p>
-`,
-  },
+// <div class="title">
+// <div class="content-title"><strong>Mô tả sản phẩm</strong></div>
+// <div></div>
+// </div>
+// <div class="specifications css-content clear">
+// <table>
+// <tbody>
+// <tr>
+// <td><strong>Tên sản phẩm:</strong></td>
+// <td>Calcium hydroxide VN</td>
+// </tr>
+// <tr>
+// <td><strong>Tên khác</strong></td>
+// <td>Canxi hydroxit, Vôi tôi, Nước vôi trong</td>
+// </tr>
+// <tr>
+// <td><strong>Công thức hóa học:</strong></td>
+// <td>Ca(OH)<sub>2</sub></td>
+// </tr>
+// <tr>
+// <td><strong>CAS</strong></td>
+// <td>1305-62-0</td>
+// </tr>
+// <tr>
+// <td><strong>Hàm lượng</strong></td>
+// <td>96%</td>
+// </tr>
+// <tr>
+// <td><strong>Xuất xứ:</strong></td>
+// <td>Việt Nam</td>
+// </tr>
+// <tr>
+// <td><strong>Quy cách đóng gói:</strong></td>
+// <td>25kg/bao, xe bồn bơm vôi dạng lỏng, xe bồn bơm vôi dạng bột mịn</td>
+// </tr>
+// </tbody>
+// </table>
+// </div>
+// <div class="css-content content-description">
+// <p><strong><em>Hóa chất Calcium hydroxide</em></strong> (Canxi hydroxit) được sử dụng phổ biến làm chất kết bông trong xử lý nước, cải tạo độ chua của đất và là nguyên liệu quan trọng trong xây dựng. Sản phẩm hiện được <strong>TRỌNG TUẤN CHEMICAL</strong> phân phối số lượng lớn trên toàn quốc, quy cách 25kg/ bao, hàm lượng 96%. Thông tin, tính chất, đặc điểm của sản phẩm được cập nhật trong bài viết dưới đây.</p>
+// <h2 id="mcetoc_1f6el1a6l8">1. Canxi hydroxit&nbsp;là gì?</h2>
+// <p>Canxi hydroxit hay Calcium hydroxide là một hợp chất có công thức hóa học là Ca(OH)<sub>2&nbsp;</sub>.Trong điều kiện nhiệt độ bình thường, nó tồn tại ở dạng chất bột mềm có màu trắng, không mùi, khó bắt cháy và có nhiệt độ nóng chảy&nbsp;là khoảng 580 ºC.</p>
+// <figure class="sudo-media-item" data-id="6773"></figure>
+// <p>Bột Ca(OH)<sub>2</sub>&nbsp;tan ít trong nước nhưng tan nhiều trong dung dịch hữu cơ (Glycerol,..) và vô cơ (axit..).&nbsp;Khi tan vào nước,&nbsp;Ca(OH)<sub>2</sub>&nbsp;là một dung dịch bazo mạnh làm màu quỳ tím chuyển thành xanh. Ngoài ra, nó cũng tác dụng với một số kim loại, axit và muối.</p>
+// <figure class="sudo-media-item" data-id="6774"></figure>
+// <h2 id="mcetoc_1ffumpqaq0">2. Tính chất lý hóa của Canxi hydroxit (Calcium hydroxide)</h2>
+// <h3 id="mcetoc_1f6el1fch9">2.1. Tính chất vật lý của Calcium hydroxide</h3>
+// <p>Canxi hydroxit tồn tại ở thể rắn không màu hoặc có màu trắng, tan một phần trong nước để tạo thành dung dịch nước vôi trong Ca(OH)2.&nbsp;Trong tự nhiên, Canxi hydroxit tồn tại trong một loại khoáng chất có tên là portlandit.</p>
+// <p>Nhiệt độ nóng chảy của canxi hydroxit là 580&nbsp;<sup>o</sup>C (853 K, độ tan trong nước là 0.185 g/ cm<sup>3</sup>, tỷ trọng và pha là 2.211 g/cm<sup>3</sup></p>
+// <p><em>Công thức phân tử của Canxi hydroxit</em></p>
+// <p>&nbsp;</p>
+// <figure class="sudo-media-item"></figure>
+// <h3 id="mcetoc_1f6el1mmaa"><strong>2.2. Tính chất hóa học của Calcium hydroxide</strong></h3>
+// <p>– Canxi hydroxit&nbsp;làm thay đổi màu sắc của các các chất chỉ thị màu. Cụ thể là nó khi nhúng quỳ tím vào dung dịch Ca(OH)<sub>2</sub>, giấy quỳ sẽ chuyển sang màu xanh còn khi nhỏ&nbsp;vào dung dịch phenolphtalein, dung dịch sẽ chuyển từ không màu sang màu hồng.</p>
+// <ul>
+// <li>Tác dụng với axit tạo ra muối và nước</li>
+// </ul>
+// <p>Ca(OH)<sub>2</sub>&nbsp;+ 2HNO<sub>3</sub>&nbsp;→ Ca(NO<sub>3</sub>)<sub>2</sub>&nbsp;+ 2H<sub>2</sub>O</p>
+// <ul>
+// <li>Tác dụng với oxit axit&nbsp;tạo ra muối và nước</li>
+// </ul>
+// <p>3Ca(OH)<sub>2</sub>&nbsp;+ P<sub>2</sub>O<sub>5</sub>&nbsp;→ Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2(kết tủa)</sub>&nbsp;+ 3H<sub>2</sub>O</p>
+// <ul>
+// <li>Tác dụng với dung dịch muối tạo ra muối mới và bazo mới</li>
+// </ul>
+// <p>Ca(OH)<sub>2</sub>&nbsp; + MgCl<sub>2</sub>&nbsp;→&nbsp; Mg(OH)<sub>2</sub>&nbsp;+ CaCl<sub>2</sub></p>
+// <p>Ca(OH)<sub>2</sub>&nbsp;+ Mg(HCO<sub>3</sub>)<sub>2</sub>&nbsp;→&nbsp;CaCO<sub>3</sub>&nbsp;+&nbsp; MgCO<sub>3</sub>&nbsp;+ 2H<sub>2</sub>O</p>
+// <h2 id="mcetoc_1ffugqdiv0">3. Cách điều chế&nbsp;Canxi hydroxit hiện nay</h2>
+// <p>Trong phòng thí nghiệm, canxi hydroxit được điều chế bằng cách cho vôi sống (CaO) kết hợp với nước. Phản ứng sẽ xảy ra như sau:</p>
+// <p>CaO + H<sub>2</sub>O → Ca(OH)<sub>2</sub></p>
+// <p></p>
+// <p><em>Pha chế dung dịch Ca(OH)<sub>2</sub></em></p>
+// <p>Cụ thể hơn là:</p>
+// <p>Sau khi nung đá vôi thành canxi oxit CaO, người ta sẽ trộn nó với nước theo tỷ lệ 1: 3 để tạo ra dung dịch Ca(OH)<sub>2</sub>. Sau khi tinh chế và tách, phần cặn sẽ được loại bỏ bằng cách khử nước ly tâm, sau đó sấy khô và sàng lọc, cuối cùng sẽ thu được canxi hydroxit thành phẩm. Các phản ứng diễn ra như sau:</p>
+// <p>CaCO<sub>3</sub>&nbsp;→ CaO + CO<sub>2</sub>&nbsp;↑</p>
+// <p>CaO + H<sub>2</sub>O → Ca(OH)<sub>2</sub></p>
+// <h2 id="mcetoc_1f6el22t1b"><strong>4. Những ứng dụng của Canxi hydroxit trong cuộc sống</strong></h2>
+// <h3 id="mcetoc_1f6el2fabc">4.1. Trong sản xuất nông nghiệp</h3>
+// <p>Hiện tượng đất trồng trọt bị chua là hiện tượng khá quen thuộc ở nhiều khu vực đất trồng tại Việt Nam và nguyên nhân khiến nó bị như vậy là do sự xâm lấn quá nhiều của phèn hay nói một cách đơn giản là trong đất tồn tại dư lượng axit. Và để cân bằng lại độ pH và khử chua cho đất, canxi hydroxit được sử dụng để bón vào đất vì nó có tính bazo.</p>
+// <p></p>
+// <p><em>Khử chua, cải tạo đất và tiêu diệt nấm cũng như chữa bệnh cho cây trồng</em></p>
+// <p>Bên cạnh vai trò là chất khử chua cho đất, canxi hydroxit cũng được là&nbsp;thành phần quan trọng của một số loại hóa chất nông nghiệp, thuốc trừ sâu bệnh hại khác…và là một&nbsp;hóa chất bảo quản thực phẩm với vai trò là nguyên liệu để sản xuất các loại thuốc Polikar dùng trong bảo quản các loại rau, củ, quả tránh nấm mốc, thối hỏng.</p>
+// <p></p>
+// <p><em>Canxi hydroxit được dùng làm&nbsp;thành phần quan trọng của một số loại thuốc trừ sâu bệnh hại&nbsp;</em></p>
+// <h3 id="mcetoc_1f6el2pvtd">4.2. Trong ngành xây dựng</h3>
+// <p>Cũng giống như Canxi oxit, canxi hydroxit được xem là một thành phần quan trọng để tạo nên các loại vữa dùng làm chất kết dính của các hàng gạch cũng như trát tường trong xây dựng.</p>
+// <p>Nguyên nhân là do đặc tính khi kết hợp với nước, canxi hydroxit sẽ tạo ra một hỗn hợp khá dẻo giống như hồ, có khả năng kết dính rất cao. Khi để ngoài không khí, chúng sẽ tự khô lại nhưng tốc độ khô khá chậm do trong không khí có sự tồn tại của hơi nước.</p>
+// <p></p>
+// <p id="mcetoc_1ffulgmga8"><em>Canxi hydroxit được xem là một thành phần quan trọng để tạo nên các loại vữa xây dựng</em></p>
+// <h3 id="mcetoc_1f6el2vqse">4.3. Trong sản xuất công nghiệp</h3>
+// <p>Canxi hydroxit có tính bazo mạnh nên nó được dùng để trung hòa lượng axit sinh ra trong quá trình ngâm da&nbsp;trong ngành công nghiệp thuộc da.</p>
+// <p>Trong công nghiệp hóa chất, canxi hydroxit được sử dụng để sản xuất canxi Stearat (C<sub>17</sub>H<sub>35</sub>COO)<sub>2</sub>Ca, canxi clorua CaCl<sub>2</sub>&nbsp;(cho tác dụng với axit HCl).</p>
+// <p>Trong ngành công nghiệp khai thác, sản xuất dầu mỏ, Ca(OH)<sub>2</sub>&nbsp;được sử dụng để tạo ra các loại phụ gia cho dầu thô, ví dụ như alkilsalicatic, sulphatic hay fenatic… Còn đối với ngành lọc dầu, nó được dùng để tạo kết tủa nhằm loại bỏ các tạp chất ra khỏi dung dịch và bảo vệ các chi tiết của dàn khoan, có tính sát khuẩn nhẹ…</p>
+// <p></p>
+// <p><em>Sử dụng trong ngành công nghiệp khai thác dầu mỏ</em></p>
+// <p><em><sub></strong>&nbsp;&nbsp;<strong>Sodium carbonate Na2CO3 99%, Trung Quốc, 40 kg/bao</strong></p>
+// <h3 id="mcetoc_1ffum49j90">4.4. Trong lĩnh vực y học</h3>
+// <p>Ở dạng bột nhão, Canxi hydroxit được sử dụng trong nha khoa với vai trò là chất khử trùng, giúp chống lại các tác nhân gây bệnh sâu răng.&nbsp;Ngoài ra, nó cũng là thành phần của một số loại thuốc tiêm, thuốc nén dạng viên, thuốc giảm đau hạ sốt aspirin và thuốc giảm viêm.</p>
+// <p>Canxi hydroxit được dùng để sản xuất một số loại thuốc giúp thúc đẩy quá trình rụng lông.</p>
+// <h3 id="mcetoc_1ffulu98i0">4.5. Trong lĩnh vực xử lý nước thải</h3>
+// <p>Canxi hydroxit được dùng làm chất kết bông trong các nhà máy&nbsp;<strong>xử lý nước thải</strong>&nbsp;đô thị, nước thải công nghiệp, nước thải bệnh viện, nước thải sinh hoạt,…</p>
+// <h2 id="mcetoc_1ffujkqov3">5. Những lưu ý khi sử dụng, bảo quản n<span data-sheets-value="{" data-sheets-userformat="{">ước vôi trong</span></h2>
+// <h3 id="mcetoc_1ffujmvhg4">5.1. Lưu ý khi sử dụng</h3>
+// <p><strong>Calcium hydroxide có nguy hiểm không?&nbsp;</strong></p>
+// <p>Cơ thể con người khi hấp thụ quá mức canxi hydroxit có thể gây ra các triệu chứng nguy hiểm, ví dụ như khó thở, chảy máu trong, cơ bị tê liệt, hạ huyết áp, làm tăng nồng độ pH trong máu và các cơ quan nội tạng bị&nbsp;tổn thương.</p>
+// <p>Bụi canxi hydroxit hoặc các giọt lơ lửng có khả năng kích thích màng nhầy, gây ra hiện tượng hắt hơi và ho. Ngoài ra, nó cũng có thể xà phòng hóa chất béo, hấp thụ nước từ da và hòa tan protein cũng như ăn mòn các mô. Nếu hít phải bụi vôi có thể gây viêm phổi.</p>
+// <h4>Cách sơ cứu khi tiếp xúc nhiều với Calcium hydroxide</h4>
+// <ul>
+// <li>Tiếp xúc với da:&nbsp;Ngay lập tức dùng nước sạch để rửa nhiều lần, sau đó thoa dung dịch axit boric H<sub>3</sub>BO<sub>3&nbsp;&nbsp;</sub>&nbsp;nồng độ&nbsp;3 – 5% lên vùng da đã tiếp xúc với hóa chất để trung hòa bazo.</li>
+// <li>Bắn lên mắt:&nbsp;Ngay lập tức nâng mí mắt lên và rửa ít nhất 15 phút với nước sạch hoặc dùng nước muối. Ngoài ra bạn cũng có thể dụng dung dịch axit boric 3% để rửa. Sau khi sơ cứu xong thì đưa ngay đến trung tâm y tế gần nhất để kiểm tra, thăm khám và điều trị tiếp.</li>
+// <li>Hít phải:&nbsp;Nhanh chóng rời khỏi khu vực có nhiều bụi Ca(OH)2 và di chuyển đến nơi có không khí thông thoáng.</li>
+// <li>Nuốt phả<strong>i:</strong>&nbsp;Uống sữa và sữa chua có protein càng sớm càng tốt để giải độc. Khi nạn nhân còn tỉnh táo, cho nạn nhân súc miệng ngay lập tức rồi cho uống giấm pha loãng hoặc nước chanh pha loãng.</li>
+// <li>Khi làm việc với Canxi hydroxit cần phải mang trang phục bảo hộ lao động đầy đủ.</li>
+// </ul>
+// <h3 id="mcetoc_1ffujn99e5">5.2. Lưu ý khi bảo quản</h3>
+// <p>Bảo quản Canxi hydroxit ở nơi khô ráo thoáng mát, tránh ánh nắng trực tiếp và tránh xa tầm tay trẻ em.</p>
+// <p><em>Bảo quản hóa chất theo đúng quy định, nơi khô ráo, thoáng mát, tránh xa nguồn nhiệt</em></p>
+// <h2 id="mcetoc_1g5du8s650">6. <strong>TRỌNG TUẤN CHEMICAL</strong>– <strong>Địa chỉ mua nước vôi trong – vôi bột ở đâu uy tín, giá tốt</strong></h2>
+// <p>Để đảm bảo hiệu quả công việc, Canxi hydroxit được sử dụng phải có chất lượng tốt. Vậy mua hóa chất này ở đâu để đảm bảo được chất lượng của sản phẩm. Đáp án mà chúng tôi đưa ra cho các bạn chính là công ty <strong>TRỌNG TUẤN CHEMICAL</strong>.</p>
+// <p>Hiện nay, <strong>TRỌNG TUẤN CHEMICAL</strong> đang là đơn vị cung cấp các sản phẩm hóa chất uy tin, chính hãng mà giá cả lại vô cùng hợp lý cho toàn thị trường từ Bắc đến Nam. Chúng tôi có hệ thống vận tải với hơn 100 đầu xe, luôn đảm bảo việc giao hàng đúng thời gian, đủ sản phẩm cho khách hàng trên mọi miền đất nước với những tiêu chí sau:</p>
+// <ul>
+// <li>Hóa chất Canxi hydroxit &nbsp;tại <strong>TRỌNG TUẤN CHEMICAL</strong> luôn được khách hàng đánh giá cao về chất lượng</li>
+// <li>Hệ thống chuyên viên chuyên nghiệp với kiến thức sâu và luôn sẵn sàng hỗ trợ khách hàng 24/7.</li>
+// <li>Nguồn gốc, xuất xứ hàng hóa rõ ràng, bảo hành theo nhà sản xuất đúng tiêu chuẩn.</li>
+// <li>Cung cấp đầy đủ chứng từ, hóa đơn hàng hóa khi giao nhận hàng. Thủ tục thanh toán đơn giản, tiết kiệm thời gian công sức cho hệ thống khách hàng.</li>
+// <li>Vận chuyển chuyên nghiệp, giao hàng trên toàn quốc với hệ thống xe tải, xe téc lên đến hơn 100 chiếc.</li>
+// </ul>
+// <h2 id="mcetoc_1g5dubjis1">7. Báo giá Canxi hydroxit tại <strong>TRỌNG TUẤN CHEMICAL</strong></h2>
+// <p>Canxi hydroxit dạng rắn hoặc dạng nước vôi trong đang được <strong>TRỌNG TUẤN CHEMICAL</strong> stock kho số lượng lớn với mức giá tốt nhất trên thị trường. Quy cách 25kg/bao, xe bồn bơm vôi dạng lỏng, xe bồn bơm vôi dạng bột mịn. Hoạt động hơn 08 năm chúng tôi luôn được khách hàng đánh giá cao về chất lượng và giá thành sản phẩm.</p>
+// <p>Quý khách đang có nhu cầu mua&nbsp;<strong><em>Calcium hydroxide</em></strong>, Canxi hydroxit, Vôi tôi, Nước vôi trong hãy liên hệ ngay cho chúng tôi theo số HOTLINE 0932323391 hoặc để lại thông tin trên website <strong>TRỌNG TUẤN CHEMICAL.com.vn</strong> để được hỗ trợ nhanh nhất.</p>
+// `,
+//   },
   {
     key: 14,
     type: "Hóa chất xử lý nước",
@@ -2865,106 +2864,106 @@ HOCl&nbsp; = OCl<sup>–</sup>&nbsp;+ H<sup>+</sup></p>
 <p>Quý khách có nhu cầu mua bán&nbsp;<strong><em>Chlorine Hi-Chlon</em></strong> – Calcium hypochlorite 70% Nhật Bản hãy liên hệ ngay TRỌNG TUẤN CHEMICAL theo số HOTLINE <em><strong>09.32.32.33.91</strong></em> để được hỗ trợ nhanh nhất từ chuyên viên tư vấn TRỌNG TUẤN CHEMICAL.</p>							
 					</div>`,
   },
-  {
-    key: 24,
-    type: "Hóa Chất Cơ Bản",
-    title: "Chromium Trioxide CrO3 99%, Nga, 50kg/thùng",
-    price: 0,
-    img: Img24,
-    data_info: `
-<p class="intro">Chromium trioxide hay Crom(VI) oxit là hợp chất vô cơ trong điều kiện bình thường, hợp chất ở trạng thái rắn, dạng miếng mỏng hoặc viên có màu đỏ tím, khi bị ướt sẽ chuyển sang màu cam sáng. Acid này tan rất tốt trong nước và dễ bị thủy phân ngay trong môi trường nước, là chất có tính oxy hóa rất mạnh. CTHH: CrO3, CAS: 7738-94-5, hàm lượng: 99%, xuất xứ: Nga, quy cách: 50kg/thùng. Chromium trioxide dùng trong xi mạ, gốm sứ, dệt nhuộm, mực in, …</p>
-    `,
-    data_info_bottom: `
-<span class="posted_in">Danh mục: Hóa Chất Cơ Bản, Hóa chất ngành da giầy, Hóa chất ngành dệt nhuộm, Hóa chất ngành dược – mỹ phẩm, Hóa chất ngành điện tử, Hóa chất ngành giấy, Hóa chất ngành khai khoáng, Hóa chất ngành sơn, Hóa chất ngành tẩy rửa, Hóa chất ngành thức ăn chăn nuôi, Hóa chất ngành thực phẩm, Hóa chất ngành xi mạ, Hóa chất nhiệt điện, Hóa Chất Xử Lý Nước, Sản phẩm khác, Sản phẩm nổi bật</span>
-    `,
-    data_advanced: `<div class="tab-panels">
-							<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
+//   {
+//     key: 24,
+//     type: "Hóa Chất Cơ Bản",
+//     title: "Chromium Trioxide CrO3 99%, Nga, 50kg/thùng",
+//     price: 0,
+//     img: Img24,
+//     data_info: `
+// <p class="intro">Chromium trioxide hay Crom(VI) oxit là hợp chất vô cơ trong điều kiện bình thường, hợp chất ở trạng thái rắn, dạng miếng mỏng hoặc viên có màu đỏ tím, khi bị ướt sẽ chuyển sang màu cam sáng. Acid này tan rất tốt trong nước và dễ bị thủy phân ngay trong môi trường nước, là chất có tính oxy hóa rất mạnh. CTHH: CrO3, CAS: 7738-94-5, hàm lượng: 99%, xuất xứ: Nga, quy cách: 50kg/thùng. Chromium trioxide dùng trong xi mạ, gốm sứ, dệt nhuộm, mực in, …</p>
+//     `,
+//     data_info_bottom: `
+// <span class="posted_in">Danh mục: Hóa Chất Cơ Bản, Hóa chất ngành da giầy, Hóa chất ngành dệt nhuộm, Hóa chất ngành dược – mỹ phẩm, Hóa chất ngành điện tử, Hóa chất ngành giấy, Hóa chất ngành khai khoáng, Hóa chất ngành sơn, Hóa chất ngành tẩy rửa, Hóa chất ngành thức ăn chăn nuôi, Hóa chất ngành thực phẩm, Hóa chất ngành xi mạ, Hóa chất nhiệt điện, Hóa Chất Xử Lý Nước, Sản phẩm khác, Sản phẩm nổi bật</span>
+//     `,
+//     data_advanced: `<div class="tab-panels">
+// 							<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
 										
 
-<div class="title">
-<div class="content-title"><strong>Mô tả sản phẩm</strong></div>
-<div></div>
-</div>
-<div class="specifications css-content clear">
-<table style="width: 20.8778%; height: 191px;">
-<tbody>
-<tr style="height: 43px;">
-<td style="height: 43px; width: 51.3725%;"><strong>Tên sản phẩm:</strong></td>
-<td style="height: 43px; width: 58.4314%;">Chromium trioxide</td>
-</tr>
-<tr style="height: 21px;">
-<td style="height: 21px; width: 51.3725%;"><strong>Tên gọi khác:</strong></td>
-<td style="height: 21px; width: 58.4314%;">Crom(VI) oxit</td>
-</tr>
-<tr style="height: 43px;">
-<td style="height: 43px; width: 51.3725%;"><strong>Công thức hóa học:</strong></td>
-<td style="height: 43px; width: 58.4314%;">CrO<sub>3</sub></td>
-</tr>
-<tr style="height: 21px;">
-<td style="height: 21px; width: 51.3725%;"><strong>CAS:</strong></td>
-<td style="height: 21px; width: 58.4314%;">1333-82-0</td>
-</tr>
-<tr style="height: 21px;">
-<td style="height: 21px; width: 51.3725%;"><strong>Hàm lượng:</strong></td>
-<td style="height: 21px; width: 58.4314%;">99%</td>
-</tr>
-<tr style="height: 21px;">
-<td style="height: 21px; width: 51.3725%;"><strong>Xuất xứ:</strong></td>
-<td style="height: 21px; width: 58.4314%;">Nga</td>
-</tr>
-<tr style="height: 21px;">
-<td style="height: 21px; width: 51.3725%;"><strong>Đóng gói:</strong></td>
-<td style="height: 21px; width: 58.4314%;">50kg/thùng</td>
-</tr>
-</tbody>
-</table>
-</div>
-<div class="css-content content-description">
-<h2 id="mcetoc_1fd70i3t20">1. Chromium trioxide là gì?</h2>
-<p><strong>Chromium trioxide</strong>&nbsp;hay Crom (VI) oxit là hợp chất vô cơ có công thức hóa học là CrO3, ở điều kiện bình thường chúng là hợp chất ở trạng thái rắn, dạng miếng mỏng hoặc viên có màu đỏ tím, khi bị ướt sẽ chuyển sang màu cam sáng. Acid này tan tốt trong nước đặc biệt đy là hóa chất có tính oxy hóa rất mạnh. Ứng dụng chủ yếu trong xi mạ, sản xuất hồng ngọc tổng hợp, sản xuất gốm sứ, sơn, luyện kim, xử lý gỗ, dệt nhuộm…</p>
-<p><em>Hóa chất Crom(VI) oxit tại <strong>TRỌNG TUẤN CHEMICAL</strong></em></p>
-<h2 id="mcetoc_1fd70ij891">2. Những tính chất lý – hóa đặc trưng của Chromium trioxide</h2>
-<p>– Crom(VI) oxit tồn tại ở trạng thái rắn, dạng các miếng mỏng hoặc viên mỏng có sắc đỏ tím khi đạt trạng thái khô</p>
-<p>–&nbsp;<strong>CrO<sub>3</sub>&nbsp;</strong>là hóa chất không mùi, có tính háo nước, màu đỏ sẫm, dễ chảy rữa và là chất oxi hoá mạnh</p>
-<p>– Khối lượng riêng là 3,25 g/cm<sup>3</sup></p>
-<p>– Nhiệt độ nóng chảy đạt 197 °C (470 K, 387 °F)</p>
-<p>– Điểm sôi là 250 °C (523 K, 482 °F)</p>
-<p>– Độ hòa tan 164,8 g/100 mL (0 ℃)</p>
-<p>– Nhiệt phân Crom(VI) oxit tạo thành Cr2O3 và giải phóng khí oxi</p>
-<p>4CrO<sub>3</sub>&nbsp;→ 2Cr<sub>2</sub>O<sub>3</sub>&nbsp;+ 3O<sub>2</sub>↑</p>
-<p>– Phản ứng với dung dịch xút lỏng:</p>
-<p>2NaOH&nbsp; +&nbsp; CrO<sub>3</sub>&nbsp; →&nbsp; H<sub>2</sub>O&nbsp; +&nbsp; Na<sub>2</sub>CrO<sub>4</sub></p>
-<p>– Phản ứng với dung dịch axít:</p>
-<p>12HCl &nbsp;+ &nbsp;2CrO<sub>3</sub>&nbsp;&nbsp;→ &nbsp;3Cl<sub>2</sub>&nbsp;&nbsp;+ &nbsp;2CrCl<sub>3</sub>&nbsp;&nbsp;+ &nbsp;6H<sub>2</sub>O</p>
-<p>– Phản ứng với nước tạo thành axit dicromic:</p>
-<p>H<sub>2</sub>O&nbsp; +&nbsp; &nbsp;2CrO<sub>3</sub>&nbsp; &nbsp;→&nbsp;&nbsp; H<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub></p>
-<p><em>Những tính chất lý – hóa đặc trưng của Chromium trioxide</em></p>
-<h2 id="mcetoc_1fd70irri2">3. Sản xuất, điều chế Chromium trioxide như thế nào?</h2>
-<p>– Cho axit H<sub>2</sub>SO<sub>4</sub>&nbsp;đặc tác dụng với dung dịch bão hòa Kali đicromat hoặc Kali cromat:</p>
-<p>K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>&nbsp;+ 2H<sub>2</sub>SO<sub>4</sub>&nbsp;→ 2KHSO<sub>4</sub>&nbsp;+ 2CrO<sub>3</sub>&nbsp;+ H<sub>2</sub>O</p>
-<h2 id="mcetoc_1fd70j2233">4. Những ứng dụng của hóa chất Crom(VI) oxit trong đời sống, sản xuất</h2>
-<p>– Ứng dụng hàng đầu của&nbsp;<strong>Crom(VI) oxit</strong>&nbsp;là sử dụng trong mạ crôm:&nbsp;<strong>CrO<sub>3</sub></strong>&nbsp;thường được người ta kết hợp cùng với các chất phụ gia có ảnh hưởng đến quy trình mạ nhưng chúng lại không phản ứng với các trioxit. Đồng thời những trioxit này sẽ tác dụng với cađimi, kẽm, và kim loại khác để thụ động hóa crom nhằm chống lại sự ăn mòn.</p>
-<p><em>Crom(VI) oxit được sử dụng phổ biến trong xi mạ</em></p>
-<p><em></strong><strong>Melamin C6H6N6 99% – Trung Quốc – Bao con voi – Yulong</strong></p>
-<p>–<strong>&nbsp;Crom(VI) oxit</strong>&nbsp;được sử dụng trong công nghiệp sản xuất đá quý tổng hợp (đá hồng ngọc) nhờ vào khả năng tạo màu cực tốt của hợp chất.</p>
-<p>– Trong ngành dệt nhuộm, sơn, in ấn:&nbsp;<strong>Crom(VI) oxit</strong>&nbsp;là hóa chất có tính oxy hóa mạnh và tạo phức màu đẹp và làm chất cầm màu vải nên được sử dụng phổ biến trong dệt nhuộm và in ấn.</p>
-<p>– Trong sửa chữa các loại nhạc cụ bằng đồng: Khi người ta sử dụng kết hợp giữa&nbsp;<strong>CrO3</strong>&nbsp;và H2SO4 sẽ cho ra H2CrO4 là laoị dung dịch có tính oxy hóa và ăn mòn mạnh. Chúng có tác dụng làm sáng nguyên liệu đồng thau, giúp để lại lớp gỉ màu vàng sáng trên đồng thau đồng thời làm tăng thêm giá trị và tính thẩm mỹ cho sản phẩm. Ngoài ra hợp chất này còn có tác dụng làm sạch kính, xử lý và bảo quản gỗ.</p>
-<p><em>Chromium trioxide làm sáng bóng nhạc cụ</em></p>
-<h2 id="mcetoc_1fd70jc4c4">5. Những lưu ý khi sử dụng và bảo quản Chromium trioxide</h2>
-<p>– Tuy có nhiều ứng dụng&nbsp; quan trọng trong đời sống sản xuất nhưng&nbsp;<strong>Crom(VI) oxit</strong>&nbsp;cũng là hóa chất có tính oxi hóa và ăn mòn mạnh, chúng sẽ gây bỏng và ăn mòn da nếu tiếp xúc trực tiếp, dễ gây cháy nổ vì tính oxy hóa mạnh. Đồng thời chúng cũng là chất khá độc và có nguy cơ gây ung thư, vì vậy cần trang bị đầy đủ đồ bảo hộ an toàn hóa chất khi tiếp xúc.</p>
-<p>– Là chất gây nguy hại cho môi trường nên cần tuân thủ nghiêm ngặt các quy định sử dụng hóa chất, dùng với lượng nhỏ và nghiêm cấm tuyệt đối các hành vi xả thải chưa qua xử lý ra môi trường tự nhiên.</p>
-<p>– Là chất oxy hóa và ăn mòn mạnh nên cần phải bảo quản trong thùng kín nắp, có tráng lớp nhựa epoxi. Tránh để cùng các chất dễ gây cháy nổ như dung môi, vải, giấy…</p>
-<h2 id="mcetoc_1fd70jku25">6. Mua hóa chất Chromium trioxide ở đâu đảm bảo uy tín, chất lượng?</h2>
-<p><em>Mua hóa chất Chromium trioxide tại <strong>TRỌNG TUẤN CHEMICAL</strong> để nhận được ưu đãi tốt nhất</em></p>
-<p>Trên thị trường hóa chất hiên nay có rất nhiều cơ sở sản xuất, kinh doanh với đa dạng về sản phẩm, chủng loại, kích cỡ…Tuy nhiên không phải bất kỳ cơ sở nào cũng đảm bảo an toàn, uy tín, giá cả cạnh tranh như <strong>TRỌNG TUẤN CHEMICAL</strong>. Chúng tôi có các dịch vụ tốt nhất hiện nay như:</p>
-<p>– Chất lượng sản phẩm luôn được đảm bảo và giá thành tốt nhất trên thị trường hiện tại</p>
-<p>– Hệ thống chuyên viên chuyên nghiệp với kiến thức sâu và luôn sẵn sàng hỗ trợ khách hàng 24/7</p>
-<p>– Nguồn gốc, xuất xứ hàng hóa rõ ràng, hàng chính hãng 100% và bảo hành theo nhà sản xuất đúng tiêu chuẩn</p>
-<p>– Cung cấp đầy đủ chứng từ, hóa đơn hàng hóa khi giao nhận hàng</p>
-<p>– Thủ tục thanh toán đơn giản, tiết kiệm thời gian công sức cho hệ thống khách hàng</p>
-<p>Quý khách hàng đang có nhu cầu mua&nbsp;<strong>hóa chất ngành xi mạ</strong>&nbsp;nói chung<strong>, Crom(VI) oxit</strong> nói riêng của <strong>TRỌNG TUẤN CHEMICAL</strong> hãy liên hệ ngay số Hotline&nbsp;<strong>0932323391</strong>&nbsp;hoặc truy cập trực tiếp website&nbsp;<strong>TRỌNG TUẤN CHEMICAL.com.vn</strong>&nbsp;để được tư vấn và hỗ trợ trực tiếp từ hệ thống các chuyên viên.</p>					
-					</div>`,
-  },
+// <div class="title">
+// <div class="content-title"><strong>Mô tả sản phẩm</strong></div>
+// <div></div>
+// </div>
+// <div class="specifications css-content clear">
+// <table style="width: 20.8778%; height: 191px;">
+// <tbody>
+// <tr style="height: 43px;">
+// <td style="height: 43px; width: 51.3725%;"><strong>Tên sản phẩm:</strong></td>
+// <td style="height: 43px; width: 58.4314%;">Chromium trioxide</td>
+// </tr>
+// <tr style="height: 21px;">
+// <td style="height: 21px; width: 51.3725%;"><strong>Tên gọi khác:</strong></td>
+// <td style="height: 21px; width: 58.4314%;">Crom(VI) oxit</td>
+// </tr>
+// <tr style="height: 43px;">
+// <td style="height: 43px; width: 51.3725%;"><strong>Công thức hóa học:</strong></td>
+// <td style="height: 43px; width: 58.4314%;">CrO<sub>3</sub></td>
+// </tr>
+// <tr style="height: 21px;">
+// <td style="height: 21px; width: 51.3725%;"><strong>CAS:</strong></td>
+// <td style="height: 21px; width: 58.4314%;">1333-82-0</td>
+// </tr>
+// <tr style="height: 21px;">
+// <td style="height: 21px; width: 51.3725%;"><strong>Hàm lượng:</strong></td>
+// <td style="height: 21px; width: 58.4314%;">99%</td>
+// </tr>
+// <tr style="height: 21px;">
+// <td style="height: 21px; width: 51.3725%;"><strong>Xuất xứ:</strong></td>
+// <td style="height: 21px; width: 58.4314%;">Nga</td>
+// </tr>
+// <tr style="height: 21px;">
+// <td style="height: 21px; width: 51.3725%;"><strong>Đóng gói:</strong></td>
+// <td style="height: 21px; width: 58.4314%;">50kg/thùng</td>
+// </tr>
+// </tbody>
+// </table>
+// </div>
+// <div class="css-content content-description">
+// <h2 id="mcetoc_1fd70i3t20">1. Chromium trioxide là gì?</h2>
+// <p><strong>Chromium trioxide</strong>&nbsp;hay Crom (VI) oxit là hợp chất vô cơ có công thức hóa học là CrO3, ở điều kiện bình thường chúng là hợp chất ở trạng thái rắn, dạng miếng mỏng hoặc viên có màu đỏ tím, khi bị ướt sẽ chuyển sang màu cam sáng. Acid này tan tốt trong nước đặc biệt đy là hóa chất có tính oxy hóa rất mạnh. Ứng dụng chủ yếu trong xi mạ, sản xuất hồng ngọc tổng hợp, sản xuất gốm sứ, sơn, luyện kim, xử lý gỗ, dệt nhuộm…</p>
+// <p><em>Hóa chất Crom(VI) oxit tại <strong>TRỌNG TUẤN CHEMICAL</strong></em></p>
+// <h2 id="mcetoc_1fd70ij891">2. Những tính chất lý – hóa đặc trưng của Chromium trioxide</h2>
+// <p>– Crom(VI) oxit tồn tại ở trạng thái rắn, dạng các miếng mỏng hoặc viên mỏng có sắc đỏ tím khi đạt trạng thái khô</p>
+// <p>–&nbsp;<strong>CrO<sub>3</sub>&nbsp;</strong>là hóa chất không mùi, có tính háo nước, màu đỏ sẫm, dễ chảy rữa và là chất oxi hoá mạnh</p>
+// <p>– Khối lượng riêng là 3,25 g/cm<sup>3</sup></p>
+// <p>– Nhiệt độ nóng chảy đạt 197 °C (470 K, 387 °F)</p>
+// <p>– Điểm sôi là 250 °C (523 K, 482 °F)</p>
+// <p>– Độ hòa tan 164,8 g/100 mL (0 ℃)</p>
+// <p>– Nhiệt phân Crom(VI) oxit tạo thành Cr2O3 và giải phóng khí oxi</p>
+// <p>4CrO<sub>3</sub>&nbsp;→ 2Cr<sub>2</sub>O<sub>3</sub>&nbsp;+ 3O<sub>2</sub>↑</p>
+// <p>– Phản ứng với dung dịch xút lỏng:</p>
+// <p>2NaOH&nbsp; +&nbsp; CrO<sub>3</sub>&nbsp; →&nbsp; H<sub>2</sub>O&nbsp; +&nbsp; Na<sub>2</sub>CrO<sub>4</sub></p>
+// <p>– Phản ứng với dung dịch axít:</p>
+// <p>12HCl &nbsp;+ &nbsp;2CrO<sub>3</sub>&nbsp;&nbsp;→ &nbsp;3Cl<sub>2</sub>&nbsp;&nbsp;+ &nbsp;2CrCl<sub>3</sub>&nbsp;&nbsp;+ &nbsp;6H<sub>2</sub>O</p>
+// <p>– Phản ứng với nước tạo thành axit dicromic:</p>
+// <p>H<sub>2</sub>O&nbsp; +&nbsp; &nbsp;2CrO<sub>3</sub>&nbsp; &nbsp;→&nbsp;&nbsp; H<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub></p>
+// <p><em>Những tính chất lý – hóa đặc trưng của Chromium trioxide</em></p>
+// <h2 id="mcetoc_1fd70irri2">3. Sản xuất, điều chế Chromium trioxide như thế nào?</h2>
+// <p>– Cho axit H<sub>2</sub>SO<sub>4</sub>&nbsp;đặc tác dụng với dung dịch bão hòa Kali đicromat hoặc Kali cromat:</p>
+// <p>K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>&nbsp;+ 2H<sub>2</sub>SO<sub>4</sub>&nbsp;→ 2KHSO<sub>4</sub>&nbsp;+ 2CrO<sub>3</sub>&nbsp;+ H<sub>2</sub>O</p>
+// <h2 id="mcetoc_1fd70j2233">4. Những ứng dụng của hóa chất Crom(VI) oxit trong đời sống, sản xuất</h2>
+// <p>– Ứng dụng hàng đầu của&nbsp;<strong>Crom(VI) oxit</strong>&nbsp;là sử dụng trong mạ crôm:&nbsp;<strong>CrO<sub>3</sub></strong>&nbsp;thường được người ta kết hợp cùng với các chất phụ gia có ảnh hưởng đến quy trình mạ nhưng chúng lại không phản ứng với các trioxit. Đồng thời những trioxit này sẽ tác dụng với cađimi, kẽm, và kim loại khác để thụ động hóa crom nhằm chống lại sự ăn mòn.</p>
+// <p><em>Crom(VI) oxit được sử dụng phổ biến trong xi mạ</em></p>
+// <p><em></strong><strong>Melamin C6H6N6 99% – Trung Quốc – Bao con voi – Yulong</strong></p>
+// <p>–<strong>&nbsp;Crom(VI) oxit</strong>&nbsp;được sử dụng trong công nghiệp sản xuất đá quý tổng hợp (đá hồng ngọc) nhờ vào khả năng tạo màu cực tốt của hợp chất.</p>
+// <p>– Trong ngành dệt nhuộm, sơn, in ấn:&nbsp;<strong>Crom(VI) oxit</strong>&nbsp;là hóa chất có tính oxy hóa mạnh và tạo phức màu đẹp và làm chất cầm màu vải nên được sử dụng phổ biến trong dệt nhuộm và in ấn.</p>
+// <p>– Trong sửa chữa các loại nhạc cụ bằng đồng: Khi người ta sử dụng kết hợp giữa&nbsp;<strong>CrO3</strong>&nbsp;và H2SO4 sẽ cho ra H2CrO4 là laoị dung dịch có tính oxy hóa và ăn mòn mạnh. Chúng có tác dụng làm sáng nguyên liệu đồng thau, giúp để lại lớp gỉ màu vàng sáng trên đồng thau đồng thời làm tăng thêm giá trị và tính thẩm mỹ cho sản phẩm. Ngoài ra hợp chất này còn có tác dụng làm sạch kính, xử lý và bảo quản gỗ.</p>
+// <p><em>Chromium trioxide làm sáng bóng nhạc cụ</em></p>
+// <h2 id="mcetoc_1fd70jc4c4">5. Những lưu ý khi sử dụng và bảo quản Chromium trioxide</h2>
+// <p>– Tuy có nhiều ứng dụng&nbsp; quan trọng trong đời sống sản xuất nhưng&nbsp;<strong>Crom(VI) oxit</strong>&nbsp;cũng là hóa chất có tính oxi hóa và ăn mòn mạnh, chúng sẽ gây bỏng và ăn mòn da nếu tiếp xúc trực tiếp, dễ gây cháy nổ vì tính oxy hóa mạnh. Đồng thời chúng cũng là chất khá độc và có nguy cơ gây ung thư, vì vậy cần trang bị đầy đủ đồ bảo hộ an toàn hóa chất khi tiếp xúc.</p>
+// <p>– Là chất gây nguy hại cho môi trường nên cần tuân thủ nghiêm ngặt các quy định sử dụng hóa chất, dùng với lượng nhỏ và nghiêm cấm tuyệt đối các hành vi xả thải chưa qua xử lý ra môi trường tự nhiên.</p>
+// <p>– Là chất oxy hóa và ăn mòn mạnh nên cần phải bảo quản trong thùng kín nắp, có tráng lớp nhựa epoxi. Tránh để cùng các chất dễ gây cháy nổ như dung môi, vải, giấy…</p>
+// <h2 id="mcetoc_1fd70jku25">6. Mua hóa chất Chromium trioxide ở đâu đảm bảo uy tín, chất lượng?</h2>
+// <p><em>Mua hóa chất Chromium trioxide tại <strong>TRỌNG TUẤN CHEMICAL</strong> để nhận được ưu đãi tốt nhất</em></p>
+// <p>Trên thị trường hóa chất hiên nay có rất nhiều cơ sở sản xuất, kinh doanh với đa dạng về sản phẩm, chủng loại, kích cỡ…Tuy nhiên không phải bất kỳ cơ sở nào cũng đảm bảo an toàn, uy tín, giá cả cạnh tranh như <strong>TRỌNG TUẤN CHEMICAL</strong>. Chúng tôi có các dịch vụ tốt nhất hiện nay như:</p>
+// <p>– Chất lượng sản phẩm luôn được đảm bảo và giá thành tốt nhất trên thị trường hiện tại</p>
+// <p>– Hệ thống chuyên viên chuyên nghiệp với kiến thức sâu và luôn sẵn sàng hỗ trợ khách hàng 24/7</p>
+// <p>– Nguồn gốc, xuất xứ hàng hóa rõ ràng, hàng chính hãng 100% và bảo hành theo nhà sản xuất đúng tiêu chuẩn</p>
+// <p>– Cung cấp đầy đủ chứng từ, hóa đơn hàng hóa khi giao nhận hàng</p>
+// <p>– Thủ tục thanh toán đơn giản, tiết kiệm thời gian công sức cho hệ thống khách hàng</p>
+// <p>Quý khách hàng đang có nhu cầu mua&nbsp;<strong>hóa chất ngành xi mạ</strong>&nbsp;nói chung<strong>, Crom(VI) oxit</strong> nói riêng của <strong>TRỌNG TUẤN CHEMICAL</strong> hãy liên hệ ngay số Hotline&nbsp;<strong>0932323391</strong>&nbsp;hoặc truy cập trực tiếp website&nbsp;<strong>TRỌNG TUẤN CHEMICAL.com.vn</strong>&nbsp;để được tư vấn và hỗ trợ trực tiếp từ hệ thống các chuyên viên.</p>					
+// 					</div>`,
+//   },
   {
     key: 25,
     type: "Dung Môi Công Nghiệp",
@@ -3517,151 +3516,151 @@ HOCl&nbsp; = OCl<sup>–</sup>&nbsp;+ H<sup>+</sup></p>
 <p>Gợi ý địa chỉ nên mua dung dịch amoniac giá tốt, chất lượng nhất hiện nay</p>						
 </div>`,
   },
-  {
-    key: 30,
-    type: "Hóa Chất Cơ Bản",
-    title: "Đồng Sulfate Copper sulfate CuSO4.5H2O 96%, Việt Nam, 25kg/bao",
-    price: 0,
-    img: Img30,
-    data_info: `
-<p class="intro">Copper sulfate tên gọi khác: Đồng sulphate, Đồng sulphate pentahydrate. CTHH: CuSO4.5H2O. Ngoại quan: dạng tinh thể màu xanh dương, không mùi. CAS: 7758-99-8. Hàm lượng: 99%. Xuất xứ: Việt Nam. Đóng gói: 25kg/bao. Dùng trong công nghiệp xử lý nước, nước thải, in vải và dệt nhuộm, thuốc trừ sâu, thuốc kháng sinh…</p>
-    `,
-    data_info_bottom: `<span class="posted_in">Danh mục: Hóa Chất Cơ Bản, Hóa chất ngành giấy, Hóa chất ngành khai khoáng, Hóa chất ngành sơn, Hóa chất ngành tẩy rửa, Hóa chất ngành thức ăn chăn nuôi, Hóa Chất Xử Lý Nước, Sản phẩm khác, Sản phẩm nổi bật</span>
-    `,
-    data_advanced: `<div class="tab-panels">
-							<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
+//   {
+//     key: 30,
+//     type: "Hóa Chất Cơ Bản",
+//     title: "Đồng Sulfate Copper sulfate CuSO4.5H2O 96%, Việt Nam, 25kg/bao",
+//     price: 0,
+//     img: Img30,
+//     data_info: `
+// <p class="intro">Copper sulfate tên gọi khác: Đồng sulphate, Đồng sulphate pentahydrate. CTHH: CuSO4.5H2O. Ngoại quan: dạng tinh thể màu xanh dương, không mùi. CAS: 7758-99-8. Hàm lượng: 99%. Xuất xứ: Việt Nam. Đóng gói: 25kg/bao. Dùng trong công nghiệp xử lý nước, nước thải, in vải và dệt nhuộm, thuốc trừ sâu, thuốc kháng sinh…</p>
+//     `,
+//     data_info_bottom: `<span class="posted_in">Danh mục: Hóa Chất Cơ Bản, Hóa chất ngành giấy, Hóa chất ngành khai khoáng, Hóa chất ngành sơn, Hóa chất ngành tẩy rửa, Hóa chất ngành thức ăn chăn nuôi, Hóa Chất Xử Lý Nước, Sản phẩm khác, Sản phẩm nổi bật</span>
+//     `,
+//     data_advanced: `<div class="tab-panels">
+// 							<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
 										
 
-<div class="specifications css-content clear">
-<table>
-<tbody>
-<tr>
-<td><strong>Tên sản phẩm:</strong></td>
-<td>Copper sulfate</td>
-</tr>
-<tr>
-<td><strong>Tên gọi khác:</strong></td>
-<td>Đồng sulphate, Đồng sulphate pentahydrate, Copper sulphate pentahydrate.</td>
-</tr>
-<tr>
-<td><strong>Công thức hóa học:</strong></td>
-<td>CuSO<sub>4</sub>.5H<sub>2</sub>O</td>
-</tr>
-<tr>
-<td><strong>CAS:</strong></td>
-<td>7758-99-8</td>
-</tr>
-<tr>
-<td><strong>Hàm lượng:</strong></td>
-<td>99%</td>
-</tr>
-<tr>
-<td><strong>Xuất xứ:</strong></td>
-<td>Việt Nam</td>
-</tr>
-<tr>
-<td><strong>Đóng gói:</strong></td>
-<td>25kg/bao</td>
-</tr>
-</tbody>
-</table>
-</div>
-<div class="css-content content-description">
-<p>Hóa chất&nbsp;Đồng sunfat CuSO4.5H2O là một trong những hợp chất quan trọng nhất của đồng. Vậy hóa chất này có những đặc điểm gì? Ứng dụng thực tiễn ra sao và mua hóa chất này ở đâu chất lượng? Hãy cùng TRỌNG TUẤN CHEMICAL tìm hiểu chi tiết qua bài viết dưới đây.</p>
-<h2 id="mcetoc_1fap52sl10">1. Copper sulfate&nbsp;là gì?</h2>
-<p>Copper sulfate hay vẫn còn gọi là Đồng sunphat là hợp chất muối vô cơ có công thức hóa học là&nbsp;CuSO4, dạng tinh thể màu xanh và có đặc điểm là hút mạnh hơi ẩm của không khí để tạo thành hidrat CuSO4.5H2O màu xanh dương. Lợi dụng tính chất này người ta thường dùng CuSO4&nbsp;khan để phát hiện nước ở lẫn trong hợp chất hữu cơ.</p>
-<p>Ở dạng ngậm nước khác nhau như muối khan CuSO4 hay dạng Pentahydrat phổ biến nhất CuSO4.5H2O…</p>
-<h2 id="mcetoc_1ehu2cb2o0">2. Tính chất lý hóa của Copper sulfate</h2>
-<h3 id="mcetoc_1ehu37rjr2">2.1. Tính chất vật lý của CuSO4 – Đồng sunfat</h3>
-<ul>
-<li>Đồng sunfat là hợp chất muối có màu xanh lam, dạng tinh thể rắn hoặc bột. Nó hòa tan được trong nước,&nbsp;methanol&nbsp;nhưng lại không tan được trong ethanol.</li>
-<li>Khối lượng mol của CuSO4 là 159.62 g/mol (khan) và 249.70 g/mol (ngậm 5 nước).</li>
-<li>Khối lượng riêng là 3.603 g/cm3 (khan) và 2.284 g/cm3 (ngậm 5 nước).</li>
-<li>Điểm nóng chảy là 150 °C (423 K) (ngậm 5 nước).</li>
-</ul>
-<h3 id="mcetoc_1ehu3dbba3">2.2. Những tính chất hóa học của CuSO4</h3>
-<ul>
-<li>Đồng sunphat có thể tác dụng với kiềm để tạo thành natri sunphat&nbsp;và đồng hydroxit:</li>
-</ul>
-<p>CuSO4 + 2NaOH → Na2SO4 + Cu(OH)2</p>
-<ul>
-<li>Đồng sunphat có tác dụng với dung dịch NH3:</li>
-</ul>
-<p>CuSO4 + 2NH3 + 2H2O → Cu(OH)2 + (NH4)2SO4</p>
-<ul>
-<li>Hấp thụ nước thường dùng để phát hiện những vết nước có trong chất lỏng:</li>
-</ul>
-<p>CuSO4 + 5H2O → CuSO4.5H2O (màu xanh).</p>
-<ul>
-<li>Phản ứng với các kim loại hơn phản ứng với đồng. Ví dụ như Mg, Fe, Zn, Al, Sn, Pb, …</li>
-</ul>
-<h2 id="mcetoc_1fap4hliu0">3. Sản xuất/Điều chế đồng sunfat&nbsp;như thế nào?</h2>
-<p>Hóa chất đồng sulphate CuSO4&nbsp;được điều chế bằng cách hòa tan Đồng (II) oxit hay muối cacbonat trong dung dịch axit sulfuric.</p>
-<p>Ngoài ra có thể điều chế được bằng cách để quặng đồng tầng thấp rò rỉ dần trong không khí, nên dùng một số loại vi khuẩn để đẩy nhanh quá trình này.</p>
-<h2 id="mcetoc_1d3lh62iu4">4. Những ứng dụng quan trọng của đồng sunfat trong đời sống, sản xuất</h2>
-<h3 id="mcetoc_1d3lh5lvr3">4.1. Ứng dụng của đồng sunfat trong nông nghiệp</h3>
-<p>Với 3/4 sản lượng đồng sunphat được sử dụng trong nông nghiệp, với vai trò là kháng nấm bệnh nên hóa chất CuSO4 được dùng để làm thuốc diệt các loại bệnh nấm, diệt cỏ…CuSO4 còn thành phần tạo thành các loại thuốc trừ sâu, thuốc kháng sinh, chất khử trùng.</p>
-<p>Đồng thời, giúp bổ sung vi lượng Cu khi cây bị thiếu. Ngoài ra, Đồng sunphat còn ảnh hưởng đến sự tổng hợp của các chất như đường bột, đạm, chất béo, enzim…</p>
-<h3 id="mcetoc_1d3lh5gnm2">4.2. Đồng sunfat trong thức ăn chăn nuôi</h3>
-<p>CuSO4.5H2O nhằm bổ sung, điều chỉnh lại sự thiếu đồng trong cơ thể vật nuôi, đồng thời là chất điều hòa sinh trưởng cho gia súc và gia cầm như lợn, gà.</p>
-<p> Sodium Sulfate – Na2SO4 99% – Trung Quốc – 25 kg/bao</p>
-<h3 id="mcetoc_1ehu40j7m0">4.3. Ứng dụng trong lĩnh vực sản xuất và khai thác</h3>
-<ul>
-<li>Đồng sunphat được dùng để điều chế các chất xúc tác sử dụng trong chế biến và khai thác dầu khí, cũng như chất lỏng</li>
-<li>Được ứng dụng nhiều trong ngành dệt may hoặc dùng trong thuốc nhuộm vải để tăng độ bền của thuốc nhuộm.</li>
-<li>Chúng còn được sử dụng như chất tạo màu cho thực phẩm. Thành phần của dung dịch sử dụng để bảo quản mẫu vật thực vật có màu sắc tự nhiên, đặc biệt ngăn ngừa sự thối rữa của trái cây.</li>
-<li>Nó còn là chất tạo màu trong công nghệ pháo hoa hoặc in ấn, làm kính, đồ gốm.</li>
-<li>Vai trò trong ngành công nghiệp sơn, nó được sử dụng như chất sơn chống bẩn.</li>
-</ul>
-<h3 id="mcetoc_1ehu40msv1">4.4. Ứng dụng trong phòng thí nghiệm của&nbsp;đồng sunfat</h3>
-<ul>
-<li>Đồng sulfat được sử dụng trong dung dịch Fehling, dung dịch của Benedict để giúp kiểm tra các đường làm giảm sulfat đồng màu xanh hòa tan (II) thành oxit đồng đỏ không hòa tan (I).</li>
-<li>Chúng cũng được dùng để kiểm tra ngọn lửa, các ion đồng của nó phát ra ánh sáng màu lục sâu, màu xanh sâu hơn nhiều so với kiểm tra ngọn lửa cho barium.</li>
-<li>Nó còn được dùng để xét nghiệm máu giúp xác định tình trạng của máu.</li>
-</ul>
-<h3 id="mcetoc_1ehu414tu3">4.5. Ứng dụng xử lý nước ao hồ, ao tôm, bể cá</h3>
-<table style="width: 99.4683%;">
-<tbody>
-<tr>
-<td style="width: 13.089%;">ĐỐI TƯỢNG</td>
-<td style="width: 44.1286%;">BỆNH HẠI</td>
-<td style="width: 42.1092%;">CÁCH SỬ DỤNG</td>
-</tr>
-<tr>
-<td style="width: 13.089%;">Xử lý ao hồ đang nuôi tôm</td>
-<td style="width: 44.1286%;">Đóng rong, đen mang do ký sinh.Diệt rong nhớt đáy ao</td>
-<td style="width: 42.1092%;">0.1 g/m3&nbsp;nước. Hòa tan và tạt xuống ao mỗi ngày 1 lần, dùng 2 – 3 ngày liên tục.</td>
-</tr>
-<tr>
-<td style="width: 13.089%;">Xử lý ao hồ chưa nuôi tôm</td>
-<td style="width: 44.1286%;">Diệt rong nhớt đáy ao</td>
-<td style="width: 42.1092%;">0.25 g/m3&nbsp;nước. Hòa tan và tạt xuống ao mỗi ngày 1 lần, dùng 2 – 3 ngày liên tục.</td>
-</tr>
-<tr>
-<td style="width: 13.089%;">Xử lý bể cá</td>
-<td style="width: 44.1286%;">Bệnh trắng mang, đỏ mang, lở loét do ký sinh trùng, rận cá. Bệnh bông gòn, bệnh thối đuôi, vây.</td>
-<td style="width: 42.1092%;">0.3 g/m3&nbsp;nước. Treo đầu bè mỗi ngày 1 lần, dùng 3 ngày liên tục.</td>
-</tr>
-</tbody>
-</table>
-<ul>
-<li>Đồng sunfat còn được sử dụng phổ biến trong xử lý rong tảo và các bệnh ký sinh trùng trên thủy sản một cách an toàn và hiệu quả cao.</li>
-</ul>
-<h2 id="mcetoc_1ehu41mju7">5. Những lưu ý khi sử dụng và cách bảo quản đồng sunfat</h2>
-<ul>
-<li>Nếu sử dụng đồng sunfat để làm chất diệt cỏ luôn kèm theo một số nguy cơ, do đó cần hạn chế.</li>
-<li>Liều lượng CuSO4.5H20 được khuyến cáo phụ thuộc vào từng loại tảo và các yếu tố môi trường.</li>
-<li>Cần bảo quản chúng ở những nơi khô ráo, tránh ánh sáng và nhiệt độ cao.</li>
-</ul>
-<h2 id="mcetoc_1d3linkia5">6. Giá đồng sunphat là bao nhiêu? Mua hóa chất này ở đâu chất lượng nhất?</h2>
-<p><strong>TRỌNG TUẤN CHEMICAL</strong>– chuyên cung ứng các loại hóa chất công nghiệp,&nbsp;hóa chất cơ bản, hóa chất tinh khiết và thiết bị, dụng cụ phòng thí nghiệm hàng đầu tại Hà Nội, TP Hồ Chí Minh…&nbsp;Hóa chất CuSO4.5H2O với xuất xứ từ Trung Quốc, Đài Loan, Việt Nam, Thái Lan… chất lượng cao, giá thành đảm bảo tốt nhất hiện nay.</p>
-<p>Với phương châm “Khách hàng cần, chúng tôi có”,&nbsp;<strong>TRỌNG TUẤN CHEMICAL</strong>luôn chú trọng đến chất lượng sản phẩm, giá cả cùng với tiện ích, đưa đến cho quý khách hàng sự hài lòng, góp phần giúp các doanh nghiệp, đơn vị hay cá nhân luôn yên tâm sử dụng, sản xuất, gia tăng giá trị sản phẩm.</p>
-<p>Với đội ngũ nhân viên, kỹ thuật viên tân tâm, đam mê công việc, tận tình giải đáp các thắc mắc của khách hàng như công dụng, các sử dụng sản phẩm hiệu quả.</p>
-<p>Các bạn hãy truy cập vào website&nbsp;TRỌNG TUẤN CHEMICAL.com.vn&nbsp;hoặc gọi điện tới hotline 0932323391 để được tư vấn và báo giá tốt nhất.</p>
-<p style="text-align: center;">Giá&nbsp;<strong>đồng sunphat</strong>&nbsp;là bao nhiêu? Mua hóa chất này ở đâu chất lượng nhất</p>
-</div>						
-</div>`,
-  },
+// <div class="specifications css-content clear">
+// <table>
+// <tbody>
+// <tr>
+// <td><strong>Tên sản phẩm:</strong></td>
+// <td>Copper sulfate</td>
+// </tr>
+// <tr>
+// <td><strong>Tên gọi khác:</strong></td>
+// <td>Đồng sulphate, Đồng sulphate pentahydrate, Copper sulphate pentahydrate.</td>
+// </tr>
+// <tr>
+// <td><strong>Công thức hóa học:</strong></td>
+// <td>CuSO<sub>4</sub>.5H<sub>2</sub>O</td>
+// </tr>
+// <tr>
+// <td><strong>CAS:</strong></td>
+// <td>7758-99-8</td>
+// </tr>
+// <tr>
+// <td><strong>Hàm lượng:</strong></td>
+// <td>99%</td>
+// </tr>
+// <tr>
+// <td><strong>Xuất xứ:</strong></td>
+// <td>Việt Nam</td>
+// </tr>
+// <tr>
+// <td><strong>Đóng gói:</strong></td>
+// <td>25kg/bao</td>
+// </tr>
+// </tbody>
+// </table>
+// </div>
+// <div class="css-content content-description">
+// <p>Hóa chất&nbsp;Đồng sunfat CuSO4.5H2O là một trong những hợp chất quan trọng nhất của đồng. Vậy hóa chất này có những đặc điểm gì? Ứng dụng thực tiễn ra sao và mua hóa chất này ở đâu chất lượng? Hãy cùng TRỌNG TUẤN CHEMICAL tìm hiểu chi tiết qua bài viết dưới đây.</p>
+// <h2 id="mcetoc_1fap52sl10">1. Copper sulfate&nbsp;là gì?</h2>
+// <p>Copper sulfate hay vẫn còn gọi là Đồng sunphat là hợp chất muối vô cơ có công thức hóa học là&nbsp;CuSO4, dạng tinh thể màu xanh và có đặc điểm là hút mạnh hơi ẩm của không khí để tạo thành hidrat CuSO4.5H2O màu xanh dương. Lợi dụng tính chất này người ta thường dùng CuSO4&nbsp;khan để phát hiện nước ở lẫn trong hợp chất hữu cơ.</p>
+// <p>Ở dạng ngậm nước khác nhau như muối khan CuSO4 hay dạng Pentahydrat phổ biến nhất CuSO4.5H2O…</p>
+// <h2 id="mcetoc_1ehu2cb2o0">2. Tính chất lý hóa của Copper sulfate</h2>
+// <h3 id="mcetoc_1ehu37rjr2">2.1. Tính chất vật lý của CuSO4 – Đồng sunfat</h3>
+// <ul>
+// <li>Đồng sunfat là hợp chất muối có màu xanh lam, dạng tinh thể rắn hoặc bột. Nó hòa tan được trong nước,&nbsp;methanol&nbsp;nhưng lại không tan được trong ethanol.</li>
+// <li>Khối lượng mol của CuSO4 là 159.62 g/mol (khan) và 249.70 g/mol (ngậm 5 nước).</li>
+// <li>Khối lượng riêng là 3.603 g/cm3 (khan) và 2.284 g/cm3 (ngậm 5 nước).</li>
+// <li>Điểm nóng chảy là 150 °C (423 K) (ngậm 5 nước).</li>
+// </ul>
+// <h3 id="mcetoc_1ehu3dbba3">2.2. Những tính chất hóa học của CuSO4</h3>
+// <ul>
+// <li>Đồng sunphat có thể tác dụng với kiềm để tạo thành natri sunphat&nbsp;và đồng hydroxit:</li>
+// </ul>
+// <p>CuSO4 + 2NaOH → Na2SO4 + Cu(OH)2</p>
+// <ul>
+// <li>Đồng sunphat có tác dụng với dung dịch NH3:</li>
+// </ul>
+// <p>CuSO4 + 2NH3 + 2H2O → Cu(OH)2 + (NH4)2SO4</p>
+// <ul>
+// <li>Hấp thụ nước thường dùng để phát hiện những vết nước có trong chất lỏng:</li>
+// </ul>
+// <p>CuSO4 + 5H2O → CuSO4.5H2O (màu xanh).</p>
+// <ul>
+// <li>Phản ứng với các kim loại hơn phản ứng với đồng. Ví dụ như Mg, Fe, Zn, Al, Sn, Pb, …</li>
+// </ul>
+// <h2 id="mcetoc_1fap4hliu0">3. Sản xuất/Điều chế đồng sunfat&nbsp;như thế nào?</h2>
+// <p>Hóa chất đồng sulphate CuSO4&nbsp;được điều chế bằng cách hòa tan Đồng (II) oxit hay muối cacbonat trong dung dịch axit sulfuric.</p>
+// <p>Ngoài ra có thể điều chế được bằng cách để quặng đồng tầng thấp rò rỉ dần trong không khí, nên dùng một số loại vi khuẩn để đẩy nhanh quá trình này.</p>
+// <h2 id="mcetoc_1d3lh62iu4">4. Những ứng dụng quan trọng của đồng sunfat trong đời sống, sản xuất</h2>
+// <h3 id="mcetoc_1d3lh5lvr3">4.1. Ứng dụng của đồng sunfat trong nông nghiệp</h3>
+// <p>Với 3/4 sản lượng đồng sunphat được sử dụng trong nông nghiệp, với vai trò là kháng nấm bệnh nên hóa chất CuSO4 được dùng để làm thuốc diệt các loại bệnh nấm, diệt cỏ…CuSO4 còn thành phần tạo thành các loại thuốc trừ sâu, thuốc kháng sinh, chất khử trùng.</p>
+// <p>Đồng thời, giúp bổ sung vi lượng Cu khi cây bị thiếu. Ngoài ra, Đồng sunphat còn ảnh hưởng đến sự tổng hợp của các chất như đường bột, đạm, chất béo, enzim…</p>
+// <h3 id="mcetoc_1d3lh5gnm2">4.2. Đồng sunfat trong thức ăn chăn nuôi</h3>
+// <p>CuSO4.5H2O nhằm bổ sung, điều chỉnh lại sự thiếu đồng trong cơ thể vật nuôi, đồng thời là chất điều hòa sinh trưởng cho gia súc và gia cầm như lợn, gà.</p>
+// <p> Sodium Sulfate – Na2SO4 99% – Trung Quốc – 25 kg/bao</p>
+// <h3 id="mcetoc_1ehu40j7m0">4.3. Ứng dụng trong lĩnh vực sản xuất và khai thác</h3>
+// <ul>
+// <li>Đồng sunphat được dùng để điều chế các chất xúc tác sử dụng trong chế biến và khai thác dầu khí, cũng như chất lỏng</li>
+// <li>Được ứng dụng nhiều trong ngành dệt may hoặc dùng trong thuốc nhuộm vải để tăng độ bền của thuốc nhuộm.</li>
+// <li>Chúng còn được sử dụng như chất tạo màu cho thực phẩm. Thành phần của dung dịch sử dụng để bảo quản mẫu vật thực vật có màu sắc tự nhiên, đặc biệt ngăn ngừa sự thối rữa của trái cây.</li>
+// <li>Nó còn là chất tạo màu trong công nghệ pháo hoa hoặc in ấn, làm kính, đồ gốm.</li>
+// <li>Vai trò trong ngành công nghiệp sơn, nó được sử dụng như chất sơn chống bẩn.</li>
+// </ul>
+// <h3 id="mcetoc_1ehu40msv1">4.4. Ứng dụng trong phòng thí nghiệm của&nbsp;đồng sunfat</h3>
+// <ul>
+// <li>Đồng sulfat được sử dụng trong dung dịch Fehling, dung dịch của Benedict để giúp kiểm tra các đường làm giảm sulfat đồng màu xanh hòa tan (II) thành oxit đồng đỏ không hòa tan (I).</li>
+// <li>Chúng cũng được dùng để kiểm tra ngọn lửa, các ion đồng của nó phát ra ánh sáng màu lục sâu, màu xanh sâu hơn nhiều so với kiểm tra ngọn lửa cho barium.</li>
+// <li>Nó còn được dùng để xét nghiệm máu giúp xác định tình trạng của máu.</li>
+// </ul>
+// <h3 id="mcetoc_1ehu414tu3">4.5. Ứng dụng xử lý nước ao hồ, ao tôm, bể cá</h3>
+// <table style="width: 99.4683%;">
+// <tbody>
+// <tr>
+// <td style="width: 13.089%;">ĐỐI TƯỢNG</td>
+// <td style="width: 44.1286%;">BỆNH HẠI</td>
+// <td style="width: 42.1092%;">CÁCH SỬ DỤNG</td>
+// </tr>
+// <tr>
+// <td style="width: 13.089%;">Xử lý ao hồ đang nuôi tôm</td>
+// <td style="width: 44.1286%;">Đóng rong, đen mang do ký sinh.Diệt rong nhớt đáy ao</td>
+// <td style="width: 42.1092%;">0.1 g/m3&nbsp;nước. Hòa tan và tạt xuống ao mỗi ngày 1 lần, dùng 2 – 3 ngày liên tục.</td>
+// </tr>
+// <tr>
+// <td style="width: 13.089%;">Xử lý ao hồ chưa nuôi tôm</td>
+// <td style="width: 44.1286%;">Diệt rong nhớt đáy ao</td>
+// <td style="width: 42.1092%;">0.25 g/m3&nbsp;nước. Hòa tan và tạt xuống ao mỗi ngày 1 lần, dùng 2 – 3 ngày liên tục.</td>
+// </tr>
+// <tr>
+// <td style="width: 13.089%;">Xử lý bể cá</td>
+// <td style="width: 44.1286%;">Bệnh trắng mang, đỏ mang, lở loét do ký sinh trùng, rận cá. Bệnh bông gòn, bệnh thối đuôi, vây.</td>
+// <td style="width: 42.1092%;">0.3 g/m3&nbsp;nước. Treo đầu bè mỗi ngày 1 lần, dùng 3 ngày liên tục.</td>
+// </tr>
+// </tbody>
+// </table>
+// <ul>
+// <li>Đồng sunfat còn được sử dụng phổ biến trong xử lý rong tảo và các bệnh ký sinh trùng trên thủy sản một cách an toàn và hiệu quả cao.</li>
+// </ul>
+// <h2 id="mcetoc_1ehu41mju7">5. Những lưu ý khi sử dụng và cách bảo quản đồng sunfat</h2>
+// <ul>
+// <li>Nếu sử dụng đồng sunfat để làm chất diệt cỏ luôn kèm theo một số nguy cơ, do đó cần hạn chế.</li>
+// <li>Liều lượng CuSO4.5H20 được khuyến cáo phụ thuộc vào từng loại tảo và các yếu tố môi trường.</li>
+// <li>Cần bảo quản chúng ở những nơi khô ráo, tránh ánh sáng và nhiệt độ cao.</li>
+// </ul>
+// <h2 id="mcetoc_1d3linkia5">6. Giá đồng sunphat là bao nhiêu? Mua hóa chất này ở đâu chất lượng nhất?</h2>
+// <p><strong>TRỌNG TUẤN CHEMICAL</strong>– chuyên cung ứng các loại hóa chất công nghiệp,&nbsp;hóa chất cơ bản, hóa chất tinh khiết và thiết bị, dụng cụ phòng thí nghiệm hàng đầu tại Hà Nội, TP Hồ Chí Minh…&nbsp;Hóa chất CuSO4.5H2O với xuất xứ từ Trung Quốc, Đài Loan, Việt Nam, Thái Lan… chất lượng cao, giá thành đảm bảo tốt nhất hiện nay.</p>
+// <p>Với phương châm “Khách hàng cần, chúng tôi có”,&nbsp;<strong>TRỌNG TUẤN CHEMICAL</strong>luôn chú trọng đến chất lượng sản phẩm, giá cả cùng với tiện ích, đưa đến cho quý khách hàng sự hài lòng, góp phần giúp các doanh nghiệp, đơn vị hay cá nhân luôn yên tâm sử dụng, sản xuất, gia tăng giá trị sản phẩm.</p>
+// <p>Với đội ngũ nhân viên, kỹ thuật viên tân tâm, đam mê công việc, tận tình giải đáp các thắc mắc của khách hàng như công dụng, các sử dụng sản phẩm hiệu quả.</p>
+// <p>Các bạn hãy truy cập vào website&nbsp;TRỌNG TUẤN CHEMICAL.com.vn&nbsp;hoặc gọi điện tới hotline 0932323391 để được tư vấn và báo giá tốt nhất.</p>
+// <p style="text-align: center;">Giá&nbsp;<strong>đồng sunphat</strong>&nbsp;là bao nhiêu? Mua hóa chất này ở đâu chất lượng nhất</p>
+// </div>						
+// </div>`,
+//   },
   {
     key: 31,
     type: "Hóa Chất Cơ Bản",
@@ -4971,133 +4970,133 @@ nấm mốc,v.v trong hệ thống dầu phun nước hoặc trong các hệ th�
 </div>
 </div>`,
   },
-  {
-    key: 44,
-    type: "Hóa Chất Cơ Bản",
-    title: "Phèn nhôm Sunfat lỏng Al2(SO4)3 5-7.5%, Việt Nam, Tank/Xe bồn",
-    price: 0,
-    img: Img44,
-    data_info: `
-<p>Phèn nhôm sunphat lỏng tên gọi khác: Phèn đơn lỏng, là dung dịch muối nhôm có khả năng thủy phân rất mạnh ở trong dung dịch tạo thành các màng hydroxit nhôm có khả năng hấp phụ và kết dính với chất rắn lơ lửng, bẩn, lắng xuống đáy dung dịch. CTHH: Al2(SO4)3, CAS: 7784-31-8, hàm lượng: 15%, xuất xứ: Việt Nam, quy cách: 1 tấn/tank, xe bồn. Dùng trong xử lý nước thải, dệt nhuộm, giấy…</p>
-    `,
-    data_info_bottom: `
-<span class="posted_in">Danh mục: Hóa Chất Cơ Bản, Hóa chất ngành da giầy, Hóa chất ngành dệt nhuộm, Hóa chất ngành dược – mỹ phẩm, Hóa chất ngành điện tử, Hóa chất ngành giấy, Hóa chất ngành khai khoáng, Hóa chất ngành sơn, Hóa chất ngành tẩy rửa, Hóa chất ngành thức ăn chăn nuôi, Hóa chất ngành thực phẩm, Hóa chất ngành xi mạ, Hóa chất nhiệt điện, Hóa Chất Xử Lý Nước, Sản phẩm khác, Sản phẩm nổi bật</span>
-    `,
-    data_advanced: `<div class="tab-panels">
-							<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
+//   {
+//     key: 44,
+//     type: "Hóa Chất Cơ Bản",
+//     title: "Phèn nhôm Sunfat lỏng Al2(SO4)3 5-7.5%, Việt Nam, Tank/Xe bồn",
+//     price: 0,
+//     img: Img44,
+//     data_info: `
+// <p>Phèn nhôm sunphat lỏng tên gọi khác: Phèn đơn lỏng, là dung dịch muối nhôm có khả năng thủy phân rất mạnh ở trong dung dịch tạo thành các màng hydroxit nhôm có khả năng hấp phụ và kết dính với chất rắn lơ lửng, bẩn, lắng xuống đáy dung dịch. CTHH: Al2(SO4)3, CAS: 7784-31-8, hàm lượng: 15%, xuất xứ: Việt Nam, quy cách: 1 tấn/tank, xe bồn. Dùng trong xử lý nước thải, dệt nhuộm, giấy…</p>
+//     `,
+//     data_info_bottom: `
+// <span class="posted_in">Danh mục: Hóa Chất Cơ Bản, Hóa chất ngành da giầy, Hóa chất ngành dệt nhuộm, Hóa chất ngành dược – mỹ phẩm, Hóa chất ngành điện tử, Hóa chất ngành giấy, Hóa chất ngành khai khoáng, Hóa chất ngành sơn, Hóa chất ngành tẩy rửa, Hóa chất ngành thức ăn chăn nuôi, Hóa chất ngành thực phẩm, Hóa chất ngành xi mạ, Hóa chất nhiệt điện, Hóa Chất Xử Lý Nước, Sản phẩm khác, Sản phẩm nổi bật</span>
+//     `,
+//     data_advanced: `<div class="tab-panels">
+// 							<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
 										
 
-<div class="title">
-<div class="content-title"><strong>Mô tả sản phẩm</strong></div>
-<div></div>
-</div>
-<div class="specifications css-content clear">
-<table>
-<tbody>
-<tr>
-<td><strong>Tên sản phẩm:</strong></td>
-<td>Phèn nhôm sunphat lỏng</td>
-</tr>
-<tr>
-<td><strong>Tên gọi khác:</strong></td>
-<td>Phèn đơn lỏng</td>
-</tr>
-<tr>
-<td><strong>Công thức hóa học:</strong></td>
-<td>Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub></td>
-</tr>
-<tr>
-<td><strong>Xuất xứ:</strong></td>
-<td>Vietchem – Việt Nam</td>
-</tr>
-<tr>
-<td><strong>Quy cách:</strong></td>
-<td>1 tấn/tank</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-</div>
-<div class="css-content content-description">
-<p><strong><em>Phèn nhôm sunfat lỏng&nbsp;Al<sub>2</sub>(SO<sub>4</sub>)</em></strong><sub><strong><em>3 </em></strong></sub>được sử dụng phổ biến trong xử lý nước thải, công nghiệp dệt nhuộm, sản xuất giấy,… Sản phẩm được <strong>TRỌNG TUẤN CHEMICAL </strong>phân phối trên toàn quốc, quy cách 1 tấn/tank, xe bồn bơm với mức giá tốt nhất trên thị trường. Thông tin, tính chất, đặc điểm và ứng dụng của phèn nhôm Sunfat Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>&nbsp;được chia sẻ chi tiết trong bài viết dưới đây.</p>
-<h2 id="mcetoc_1ffnajgu50">1. Phèn nhôm sunfat Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>&nbsp;là gì?</h2>
-<p>Phèn nhôm sunfat Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>&nbsp;là một loại hóa chất chất keo tụ được sử dụng để lắng trong nước sinh hoạt được sử dụng khá phổ biến ở nước ta. Công thức của phèn nhôm Sunfat ở dạng lỏng là&nbsp; Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>.18H<sub>2</sub>O với hàm lượng các chất chứa trong nó cụ thể như sau: Nhôm oxit Al<sub>2</sub>O<sub>3</sub>&nbsp;là 6 – 7%, hàm lượng chất không tan trong nước tối đa là 0,5%, hàm lượng Fe2O3 khoảng 0,04%, hàm lượng axit tự do, cụ thể là axit sulfuric khoảng 0,2%. Phèn nhôm sunfat có độ pH ở nồng độ dung dịch 5%: 1,5 – 3,5.</p>
-<h2 id="mcetoc_1ffnajooa1">2. Tính chất lý hóa của phèn nhôm sunfat Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub></h2>
-<h3 id="mcetoc_1ffnajqsq2">2.1. Tính chất vật lý</h3>
-<p>Phèn nhôm Sunfat Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>&nbsp;là một dạng hợp chất hóa học có màu trắng, đôi khi là màu vàng đục. Chúng xuất hiện dưới dạng rắn là các tinh thể, hạt hoặc bột, không mùi và có vị ngọt vừa phải. Khi ở dạng khan, phèn nhôm là một chất bột màu trắng tinh khiết có tỷ trọng là 2710kg/m3.</p>
-<p>Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>&nbsp;dạng khan có điểm nóng chảy là 770º C (dạng octadeca hidetada 86,5 độ C), độ hòa tan trong nước là 31,2 g / 100 ml ở nhiệt độ 0 °C; 36,4 g / 100 ml ở 20 °C và 89 g / 100ml ở 100 °C.</p>
-<ul>
-<li>Mật độ: 2,67 – 2,71 g / cm<sup>3</sup>.</li>
-<li>Độ hòa tan: Tan ít trong rượu ethyl.</li>
-<li>Áp suất hơi bằng 0, ổn định trong không khí.</li>
-<li>Phân hủy: Khi đun nóng đến điểm nóng chảy của nó, phèn nhôm sunfat có thể bị phân hủy bằng cách phát ra khí độc oxit lưu huỳnh.</li>
-<li>Dung dịch nhôm sunfat có khả năng ăn mòn nhôm. Ngoài ra, hợp chất này còn có thể ăn mòn kim loại khi có hơi ẩm.</li>
-<li>Độ pKa là 3,3 – 3,6 và nồng độ pH của A<sub>l2</sub>(SO<sub><code>4</code></sub>)<sub>3</sub>&nbsp;là 2,9 trở lên trong dung dịch nước 5%.</li>
-</ul>
-<p></p>
-<p><em>Tính chất lý hóa của phèn nhôm Sunfat Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub></em></p>
-<h3 id="mcetoc_1ffnak06a3">2.2. Tính chất hóa học</h3>
-<p>Đặc điểm tính chất của Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>&nbsp;sẽ có sự khác biệt trong 3 môi trường, đó là: Môi trường khử, môi trường oxi hóa và môi trường trung hòa khi đốt nóng.</p>
-<ul>
-<li>Trong môi trường oxi hóa: Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>&nbsp;là một hợp chất hóa học phân hủy theo cấp độ. Trong khoảng nhiệt độ dao động từ 50 – 60 độ C chúng ta sẽ quan sát thấy được 16 Hydrat Sunfat nhôm còn trong khoảng nhiệt độ từ 80 – 90 độ C, thành phần hóa học của phèn nhôm sunfat sẽ được chuyển sang thành 12 Hydrat.</li>
-<li>Trong môi trường khử: Độ tan của Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>&nbsp;phụ thuộc khá nhiều vào nồng độ của H<sub>2</sub>SO<sub>4</sub>. Trong dung dịch axit loãng, độ tan chính của phèn nhôm sunfat sẽ lớn hơn khá nhiều so với độ tan trong nước cất. Tuy nhiên, nếu tăng nồng độ axit sunfuric lên thì nồng độ Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>&nbsp;sẽ giảm đột ngột, chỉ còn khoảng 1% trong dung dịch axit sunfuric 60%.</li>
-<li>Trong môi trường trung hòa khi đốt nóng: Khi đốt nóng nhanh phèn nhôm sunfat với nhiệt độ lên đến 150 độ C, hóa chất này sẽ tan thành tinh thể nước. Tinh thể Hydrat sẽ bị nóng chảy trong điều kiện môi trường là bình kín khi nhiệt độ thấp hơn 86 độ C. Đặc biệt là trong khoảng nhiệt độ từ 200 – 300 độ C, quá trình loại nước sẽ diễn ra mạnh mẽ, tạo nên sự hình thành của tinh thể hydrat tướng đồng loại.</li>
-</ul>
-<h2 id="mcetoc_1ffnak3u24">3. Điều chế phèn nhôm sunfat Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub></h2>
-<p>Nhôm sunfat Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>&nbsp;có thể được điều chế bằng cách thêm nhôm hydroxit Al(OH)3 vào trong axit sunfuric. Phương trình phản ứng như sau:</p>
-<p>2Al(OH)<sub>3</sub>&nbsp;+ 3H<sub>2</sub>SO<sub>4</sub>&nbsp;→ Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>&nbsp;+ 6H<sub>2</sub>O</p>
-<p>Ngoài ra, nhôm sunfat Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>&nbsp;cũng có thể được điều chế bằng cách nung nóng kim loại nhôm trong dung dịch H<sub>2</sub>SO<sub>4</sub></p>
-<p>2Al(s) + 3H<sub>2</sub>SO<sub>4</sub>&nbsp;→ Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>&nbsp;+ 3H<sub>2</sub>&nbsp;(g)</p>
-<p>Khi phèn nhôm sunfat Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>&nbsp;được dùng làm chất keo tụ, phản ứng thủy phân sẽ xảy ra với phương trình hóa học:</p>
-<p>Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>&nbsp;+ 6H<sub>2</sub>O → 2Al(OH)<sub>3</sub>&nbsp;+ 6H +3SO<sub>4</sub><sup>2-</sup></p>
-<h2 id="mcetoc_1ffnakm926">4. Phèn nhôm sunfat Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>&nbsp;được sử dụng với trong những lĩnh vực nào?</h2>
-<p>Trong cuộc sống hàng ngày, phèn nhôm có rất nhiều ứng dụng, cụ thể như sau:</p>
-<ul>
-<li>Phèn nhôm sunfat được ứng dụng rộng rãi trong nhiều ngành công nghiệp, điển hình là công nghiệp sản xuất giấy, dệt nhuộm,…Trong công nghiệp nhuộm vải và in vải, phèn nhôm sunfat kết tủa keo làm cho các sắc tố không hòa tan, giúp thuốc nhuộm dính chặt vào sợi quần áo.</li>
-<li>Nhờ khả năng làm bông, keo tụ, kết bông, nhũ tương và giá thành khá thấp mà Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>&nbsp;được sử dụng nhiều trong lĩnh vực xử lý nước cấp và nước thải,….</li>
-</ul>
-<p></p>
-<p><em>Ứng dụng của phèn nhôm sunfat</em></p>
-<p><em><sub></strong><strong>PHÈN NHÔM – HÓA CHẤT XỬ LÝ NƯỚC HIỆU QUẢ NHẤT HIỆN NAY</strong></p>
-<ul>
-<li>Trong hệ thống lọc nước, nhôm sunfat khiến các tạp chất đông lại thành các hạt lớn hơn, nặng hơn rồi xuống đáy bể. Quá trình này được gọi là quá trình đông hoặc kết bông.</li>
-<li>Nhôm sunfat đôi khi cũng được sử dụng để giảm nồng độ pH trong đất vườn vì khi thủy phân, nó sẽ tạo ra chất kết tủa nhôm hydroxit và tạo thành dung dịch H2SO4 loãng.</li>
-<li>Trong ngành công nghiệp xây dựng, Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>&nbsp;được sử dụng như một chất chống thấm và là tác nhân giúp quá trình đóng rắn bê tông diễn ra nhanh hơn. Ngoài ra nó cũng được dùng như là một chất tạo bọt trong chữa cháy, trong sản xuất bút chì, thuốc cầm máu và thuốc giảm ho, thuốc bôi ngoài da các vết thương do động vật đốt và cắn…</li>
-<li>Phèn nhôm sunfat là chất có khả năng keo tụ ion nhôm thuộc loại cao nhất trong số các hóa chất keo tụ, đặc biệt nó ít độc hại cho người sử dụng</li>
-<li>Công nghệ keo tụ bằng Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>&nbsp;là công nghệ tương đối đơn giản, dễ kiểm soát và có giá thành rẻ. Do đó, phèn nhôm sunfat được ứng dụng rất phổ biến hiện nay.</li>
-</ul>
-<h2 id="mcetoc_1ffnal06h8">5. Lưu ý khi sử dụng và bảo quản phèn nhôm Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub></h2>
-<h3 id="mcetoc_1ffnal3599">5.1. Lưu ý khi sử dụng</h3>
-<ul>
-<li>Điều kiện môi trường để phèn nhôm hoạt động hiệu quả nhất là pH khoảng 5,5 – 7,5, nhiệt độ nước là 20 – 40°C.</li>
-<li>Ngoài ra, các thành phần ion có trong nước, các hợp chất hữu cơ, liều lượng phèn, điều kiện khuấy trộn, môi trường phản ứng…cũng rất cần được chú ý.</li>
-</ul>
-<h3 id="mcetoc_1ffnal6ppa">5.2. Lưu ý khi bảo quản</h3>
-<ul>
-<li>Bảo quản trong khu vực có mái che, thông thoáng gió, tránh xa nguồn nhiệt và ánh nắng trực tiếp của mặt trời chiếu vào.</li>
-<li>Tránh xa tầm tay trẻ em, tránh xa nguồn nhiệt.</li>
-</ul>
-<p><em>Tại <strong>TRỌNG TUẤN CHEMICAL</strong>hóa chất công nghiệp được bảo quản tại kho có diện tích lên đến hơn 3.000 m<sup>2</sup></em></p>
-<h2>6. <strong>TRỌNG TUẤN CHEMICAL</strong>– Địa chỉ cung cấp phèn nhôm Sunfat Al<sub>2</sub>(SO<sub>4</sub>)<sub>3 </sub>– Uy tín – Chất lượng – Giá cả hợp lý</h2>
-<p>Với gần 08 năm kinh nghiệm trong lĩnh vực kinh doanh hóa chất và thiết bị phòng thí nghiệm, <em><strong>TRỌNG TUẤN CHEMICAL</strong></em>được đánh giá là đơn vị chuyên cung cấp các sản phẩm hóa chất công nghiệp, <strong>hóa chất xử lý nước thải</strong> uy tín hàng đầu cả nước. Đặc biệt, các sản phẩm hóa chất do <em><strong>TRỌNG TUẤN CHEMICAL</strong></em>&nbsp;cung cấp, trong đó có phèn nhôm sunfat Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> dạng lỏng luôn được đảm bảo là có giá thành phù hợp nhất thị trường.</p>
-<ul>
-<li>Phèn nhôm sunfat lỏng Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> tại <em><strong>TRỌNG TUẤN CHEMICAL </strong></em>luôn được khách hàng đánh giá cao về chất lượng.</li>
-<li>Hệ thống chuyên viên chuyên nghiệp với kiến thức sâu và luôn sẵn sàng hỗ trợ khách hàng 24/7.</li>
-<li>Nguồn gốc, xuất xứ sản phẩm rõ ràng, bảo hành theo đúng quy định nhà sản xuất.</li>
-<li>Cung cấp đầy đủ chứng từ, hóa đơn hàng hóa khi giao nhận hàng.</li>
-<li>Thủ tục thanh toán đơn giản, tiết kiệm thời gian công sức cho hệ thống khách hàng.</li>
-<li>Vận chuyển chuyên nghiệp, giao hàng trên toàn quốc.</li>
-</ul>
-</div>
-<div class="css-content content-description">
-<p><em>Phèn nhôm sunfat Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> dạng lỏng đang có sẵn tại <strong>TRỌNG TUẤN CHEMICAL</strong> với số lượng lớn&nbsp;</em></p>
-<h2 id="mcetoc_1g587188o0">7. Báo giá phèn nhôm sunfat lỏng Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> tại <strong>TRỌNG TUẤN CHEMICAL</strong> </h2>
-<p>Phèn nhôm sunfat lỏng Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> 5 – 7.5% tại <em><strong>TRỌNG TUẤN CHEMICAL</strong> </em>được bán ra số lượng lớn hàng tháng, chúng tôi liên tục stock kho để đáp ứng được các nhu cầu sử dụng của các doanh nghiệp. Với hơn 08 năm cung cấp hóa chất công nghiệp chúng tôi luôn được đánh giá cao về chất lượng và giá thành của sản phẩm.</p>
-<p><em>Phèn nhôm sunfat lỏng Al2(SO4)3 5-7.5%, Việt Nam, 1 tấn/tank hoặc xe bồn bơm</em></p>
-<p>Nếu quý khách hàng nào quan tâm đến các loại hóa chất&nbsp;<em><strong>phèn nhôm sunfat lỏng Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub></strong></em>, hay các loại hoá chất khác hãy liên hệ ngay cho các chuyên viên của <em><strong>TRỌNG TUẤN CHEMICAL</strong> </em>để được báo giá và giao hàng sớm nhất có thể.</p>
-<p>Quý khách có nhu cầu mua nước Javen hãy liên hệ ngay cho chúng tôi theo số HOTLINE&nbsp;<strong>0932323391&nbsp;</strong>&nbsp;để được tư vấn và báo giá tốt nhất.</p>
-</div>`,
-  },
+// <div class="title">
+// <div class="content-title"><strong>Mô tả sản phẩm</strong></div>
+// <div></div>
+// </div>
+// <div class="specifications css-content clear">
+// <table>
+// <tbody>
+// <tr>
+// <td><strong>Tên sản phẩm:</strong></td>
+// <td>Phèn nhôm sunphat lỏng</td>
+// </tr>
+// <tr>
+// <td><strong>Tên gọi khác:</strong></td>
+// <td>Phèn đơn lỏng</td>
+// </tr>
+// <tr>
+// <td><strong>Công thức hóa học:</strong></td>
+// <td>Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub></td>
+// </tr>
+// <tr>
+// <td><strong>Xuất xứ:</strong></td>
+// <td>Vietchem – Việt Nam</td>
+// </tr>
+// <tr>
+// <td><strong>Quy cách:</strong></td>
+// <td>1 tấn/tank</td>
+// </tr>
+// </tbody>
+// </table>
+// <p>&nbsp;</p>
+// </div>
+// <div class="css-content content-description">
+// <p><strong><em>Phèn nhôm sunfat lỏng&nbsp;Al<sub>2</sub>(SO<sub>4</sub>)</em></strong><sub><strong><em>3 </em></strong></sub>được sử dụng phổ biến trong xử lý nước thải, công nghiệp dệt nhuộm, sản xuất giấy,… Sản phẩm được <strong>TRỌNG TUẤN CHEMICAL </strong>phân phối trên toàn quốc, quy cách 1 tấn/tank, xe bồn bơm với mức giá tốt nhất trên thị trường. Thông tin, tính chất, đặc điểm và ứng dụng của phèn nhôm Sunfat Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>&nbsp;được chia sẻ chi tiết trong bài viết dưới đây.</p>
+// <h2 id="mcetoc_1ffnajgu50">1. Phèn nhôm sunfat Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>&nbsp;là gì?</h2>
+// <p>Phèn nhôm sunfat Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>&nbsp;là một loại hóa chất chất keo tụ được sử dụng để lắng trong nước sinh hoạt được sử dụng khá phổ biến ở nước ta. Công thức của phèn nhôm Sunfat ở dạng lỏng là&nbsp; Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>.18H<sub>2</sub>O với hàm lượng các chất chứa trong nó cụ thể như sau: Nhôm oxit Al<sub>2</sub>O<sub>3</sub>&nbsp;là 6 – 7%, hàm lượng chất không tan trong nước tối đa là 0,5%, hàm lượng Fe2O3 khoảng 0,04%, hàm lượng axit tự do, cụ thể là axit sulfuric khoảng 0,2%. Phèn nhôm sunfat có độ pH ở nồng độ dung dịch 5%: 1,5 – 3,5.</p>
+// <h2 id="mcetoc_1ffnajooa1">2. Tính chất lý hóa của phèn nhôm sunfat Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub></h2>
+// <h3 id="mcetoc_1ffnajqsq2">2.1. Tính chất vật lý</h3>
+// <p>Phèn nhôm Sunfat Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>&nbsp;là một dạng hợp chất hóa học có màu trắng, đôi khi là màu vàng đục. Chúng xuất hiện dưới dạng rắn là các tinh thể, hạt hoặc bột, không mùi và có vị ngọt vừa phải. Khi ở dạng khan, phèn nhôm là một chất bột màu trắng tinh khiết có tỷ trọng là 2710kg/m3.</p>
+// <p>Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>&nbsp;dạng khan có điểm nóng chảy là 770º C (dạng octadeca hidetada 86,5 độ C), độ hòa tan trong nước là 31,2 g / 100 ml ở nhiệt độ 0 °C; 36,4 g / 100 ml ở 20 °C và 89 g / 100ml ở 100 °C.</p>
+// <ul>
+// <li>Mật độ: 2,67 – 2,71 g / cm<sup>3</sup>.</li>
+// <li>Độ hòa tan: Tan ít trong rượu ethyl.</li>
+// <li>Áp suất hơi bằng 0, ổn định trong không khí.</li>
+// <li>Phân hủy: Khi đun nóng đến điểm nóng chảy của nó, phèn nhôm sunfat có thể bị phân hủy bằng cách phát ra khí độc oxit lưu huỳnh.</li>
+// <li>Dung dịch nhôm sunfat có khả năng ăn mòn nhôm. Ngoài ra, hợp chất này còn có thể ăn mòn kim loại khi có hơi ẩm.</li>
+// <li>Độ pKa là 3,3 – 3,6 và nồng độ pH của A<sub>l2</sub>(SO<sub><code>4</code></sub>)<sub>3</sub>&nbsp;là 2,9 trở lên trong dung dịch nước 5%.</li>
+// </ul>
+// <p></p>
+// <p><em>Tính chất lý hóa của phèn nhôm Sunfat Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub></em></p>
+// <h3 id="mcetoc_1ffnak06a3">2.2. Tính chất hóa học</h3>
+// <p>Đặc điểm tính chất của Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>&nbsp;sẽ có sự khác biệt trong 3 môi trường, đó là: Môi trường khử, môi trường oxi hóa và môi trường trung hòa khi đốt nóng.</p>
+// <ul>
+// <li>Trong môi trường oxi hóa: Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>&nbsp;là một hợp chất hóa học phân hủy theo cấp độ. Trong khoảng nhiệt độ dao động từ 50 – 60 độ C chúng ta sẽ quan sát thấy được 16 Hydrat Sunfat nhôm còn trong khoảng nhiệt độ từ 80 – 90 độ C, thành phần hóa học của phèn nhôm sunfat sẽ được chuyển sang thành 12 Hydrat.</li>
+// <li>Trong môi trường khử: Độ tan của Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>&nbsp;phụ thuộc khá nhiều vào nồng độ của H<sub>2</sub>SO<sub>4</sub>. Trong dung dịch axit loãng, độ tan chính của phèn nhôm sunfat sẽ lớn hơn khá nhiều so với độ tan trong nước cất. Tuy nhiên, nếu tăng nồng độ axit sunfuric lên thì nồng độ Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>&nbsp;sẽ giảm đột ngột, chỉ còn khoảng 1% trong dung dịch axit sunfuric 60%.</li>
+// <li>Trong môi trường trung hòa khi đốt nóng: Khi đốt nóng nhanh phèn nhôm sunfat với nhiệt độ lên đến 150 độ C, hóa chất này sẽ tan thành tinh thể nước. Tinh thể Hydrat sẽ bị nóng chảy trong điều kiện môi trường là bình kín khi nhiệt độ thấp hơn 86 độ C. Đặc biệt là trong khoảng nhiệt độ từ 200 – 300 độ C, quá trình loại nước sẽ diễn ra mạnh mẽ, tạo nên sự hình thành của tinh thể hydrat tướng đồng loại.</li>
+// </ul>
+// <h2 id="mcetoc_1ffnak3u24">3. Điều chế phèn nhôm sunfat Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub></h2>
+// <p>Nhôm sunfat Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>&nbsp;có thể được điều chế bằng cách thêm nhôm hydroxit Al(OH)3 vào trong axit sunfuric. Phương trình phản ứng như sau:</p>
+// <p>2Al(OH)<sub>3</sub>&nbsp;+ 3H<sub>2</sub>SO<sub>4</sub>&nbsp;→ Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>&nbsp;+ 6H<sub>2</sub>O</p>
+// <p>Ngoài ra, nhôm sunfat Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>&nbsp;cũng có thể được điều chế bằng cách nung nóng kim loại nhôm trong dung dịch H<sub>2</sub>SO<sub>4</sub></p>
+// <p>2Al(s) + 3H<sub>2</sub>SO<sub>4</sub>&nbsp;→ Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>&nbsp;+ 3H<sub>2</sub>&nbsp;(g)</p>
+// <p>Khi phèn nhôm sunfat Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>&nbsp;được dùng làm chất keo tụ, phản ứng thủy phân sẽ xảy ra với phương trình hóa học:</p>
+// <p>Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>&nbsp;+ 6H<sub>2</sub>O → 2Al(OH)<sub>3</sub>&nbsp;+ 6H +3SO<sub>4</sub><sup>2-</sup></p>
+// <h2 id="mcetoc_1ffnakm926">4. Phèn nhôm sunfat Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>&nbsp;được sử dụng với trong những lĩnh vực nào?</h2>
+// <p>Trong cuộc sống hàng ngày, phèn nhôm có rất nhiều ứng dụng, cụ thể như sau:</p>
+// <ul>
+// <li>Phèn nhôm sunfat được ứng dụng rộng rãi trong nhiều ngành công nghiệp, điển hình là công nghiệp sản xuất giấy, dệt nhuộm,…Trong công nghiệp nhuộm vải và in vải, phèn nhôm sunfat kết tủa keo làm cho các sắc tố không hòa tan, giúp thuốc nhuộm dính chặt vào sợi quần áo.</li>
+// <li>Nhờ khả năng làm bông, keo tụ, kết bông, nhũ tương và giá thành khá thấp mà Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>&nbsp;được sử dụng nhiều trong lĩnh vực xử lý nước cấp và nước thải,….</li>
+// </ul>
+// <p></p>
+// <p><em>Ứng dụng của phèn nhôm sunfat</em></p>
+// <p><em><sub></strong><strong>PHÈN NHÔM – HÓA CHẤT XỬ LÝ NƯỚC HIỆU QUẢ NHẤT HIỆN NAY</strong></p>
+// <ul>
+// <li>Trong hệ thống lọc nước, nhôm sunfat khiến các tạp chất đông lại thành các hạt lớn hơn, nặng hơn rồi xuống đáy bể. Quá trình này được gọi là quá trình đông hoặc kết bông.</li>
+// <li>Nhôm sunfat đôi khi cũng được sử dụng để giảm nồng độ pH trong đất vườn vì khi thủy phân, nó sẽ tạo ra chất kết tủa nhôm hydroxit và tạo thành dung dịch H2SO4 loãng.</li>
+// <li>Trong ngành công nghiệp xây dựng, Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>&nbsp;được sử dụng như một chất chống thấm và là tác nhân giúp quá trình đóng rắn bê tông diễn ra nhanh hơn. Ngoài ra nó cũng được dùng như là một chất tạo bọt trong chữa cháy, trong sản xuất bút chì, thuốc cầm máu và thuốc giảm ho, thuốc bôi ngoài da các vết thương do động vật đốt và cắn…</li>
+// <li>Phèn nhôm sunfat là chất có khả năng keo tụ ion nhôm thuộc loại cao nhất trong số các hóa chất keo tụ, đặc biệt nó ít độc hại cho người sử dụng</li>
+// <li>Công nghệ keo tụ bằng Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>&nbsp;là công nghệ tương đối đơn giản, dễ kiểm soát và có giá thành rẻ. Do đó, phèn nhôm sunfat được ứng dụng rất phổ biến hiện nay.</li>
+// </ul>
+// <h2 id="mcetoc_1ffnal06h8">5. Lưu ý khi sử dụng và bảo quản phèn nhôm Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub></h2>
+// <h3 id="mcetoc_1ffnal3599">5.1. Lưu ý khi sử dụng</h3>
+// <ul>
+// <li>Điều kiện môi trường để phèn nhôm hoạt động hiệu quả nhất là pH khoảng 5,5 – 7,5, nhiệt độ nước là 20 – 40°C.</li>
+// <li>Ngoài ra, các thành phần ion có trong nước, các hợp chất hữu cơ, liều lượng phèn, điều kiện khuấy trộn, môi trường phản ứng…cũng rất cần được chú ý.</li>
+// </ul>
+// <h3 id="mcetoc_1ffnal6ppa">5.2. Lưu ý khi bảo quản</h3>
+// <ul>
+// <li>Bảo quản trong khu vực có mái che, thông thoáng gió, tránh xa nguồn nhiệt và ánh nắng trực tiếp của mặt trời chiếu vào.</li>
+// <li>Tránh xa tầm tay trẻ em, tránh xa nguồn nhiệt.</li>
+// </ul>
+// <p><em>Tại <strong>TRỌNG TUẤN CHEMICAL</strong>hóa chất công nghiệp được bảo quản tại kho có diện tích lên đến hơn 3.000 m<sup>2</sup></em></p>
+// <h2>6. <strong>TRỌNG TUẤN CHEMICAL</strong>– Địa chỉ cung cấp phèn nhôm Sunfat Al<sub>2</sub>(SO<sub>4</sub>)<sub>3 </sub>– Uy tín – Chất lượng – Giá cả hợp lý</h2>
+// <p>Với gần 08 năm kinh nghiệm trong lĩnh vực kinh doanh hóa chất và thiết bị phòng thí nghiệm, <em><strong>TRỌNG TUẤN CHEMICAL</strong></em>được đánh giá là đơn vị chuyên cung cấp các sản phẩm hóa chất công nghiệp, <strong>hóa chất xử lý nước thải</strong> uy tín hàng đầu cả nước. Đặc biệt, các sản phẩm hóa chất do <em><strong>TRỌNG TUẤN CHEMICAL</strong></em>&nbsp;cung cấp, trong đó có phèn nhôm sunfat Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> dạng lỏng luôn được đảm bảo là có giá thành phù hợp nhất thị trường.</p>
+// <ul>
+// <li>Phèn nhôm sunfat lỏng Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> tại <em><strong>TRỌNG TUẤN CHEMICAL </strong></em>luôn được khách hàng đánh giá cao về chất lượng.</li>
+// <li>Hệ thống chuyên viên chuyên nghiệp với kiến thức sâu và luôn sẵn sàng hỗ trợ khách hàng 24/7.</li>
+// <li>Nguồn gốc, xuất xứ sản phẩm rõ ràng, bảo hành theo đúng quy định nhà sản xuất.</li>
+// <li>Cung cấp đầy đủ chứng từ, hóa đơn hàng hóa khi giao nhận hàng.</li>
+// <li>Thủ tục thanh toán đơn giản, tiết kiệm thời gian công sức cho hệ thống khách hàng.</li>
+// <li>Vận chuyển chuyên nghiệp, giao hàng trên toàn quốc.</li>
+// </ul>
+// </div>
+// <div class="css-content content-description">
+// <p><em>Phèn nhôm sunfat Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> dạng lỏng đang có sẵn tại <strong>TRỌNG TUẤN CHEMICAL</strong> với số lượng lớn&nbsp;</em></p>
+// <h2 id="mcetoc_1g587188o0">7. Báo giá phèn nhôm sunfat lỏng Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> tại <strong>TRỌNG TUẤN CHEMICAL</strong> </h2>
+// <p>Phèn nhôm sunfat lỏng Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> 5 – 7.5% tại <em><strong>TRỌNG TUẤN CHEMICAL</strong> </em>được bán ra số lượng lớn hàng tháng, chúng tôi liên tục stock kho để đáp ứng được các nhu cầu sử dụng của các doanh nghiệp. Với hơn 08 năm cung cấp hóa chất công nghiệp chúng tôi luôn được đánh giá cao về chất lượng và giá thành của sản phẩm.</p>
+// <p><em>Phèn nhôm sunfat lỏng Al2(SO4)3 5-7.5%, Việt Nam, 1 tấn/tank hoặc xe bồn bơm</em></p>
+// <p>Nếu quý khách hàng nào quan tâm đến các loại hóa chất&nbsp;<em><strong>phèn nhôm sunfat lỏng Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub></strong></em>, hay các loại hoá chất khác hãy liên hệ ngay cho các chuyên viên của <em><strong>TRỌNG TUẤN CHEMICAL</strong> </em>để được báo giá và giao hàng sớm nhất có thể.</p>
+// <p>Quý khách có nhu cầu mua nước Javen hãy liên hệ ngay cho chúng tôi theo số HOTLINE&nbsp;<strong>0932323391&nbsp;</strong>&nbsp;để được tư vấn và báo giá tốt nhất.</p>
+// </div>`,
+//   },
   {
     key: 45,
     type: "Hóa Chất Cơ Bản",
@@ -5475,47 +5474,47 @@ nấm mốc,v.v trong hệ thống dầu phun nước hoặc trong các hệ th�
 <p>Vậy nếu quý khách hàng nào đang có nhu cầu của acid phosphoric <strong>TRỌNG TUẤN CHEMICAL </strong>thì hãy liên hệ ngay tới số Hotline&nbsp;<strong>0932323391</strong>&nbsp;hoặc truy cập trực tiếp website&nbsp;<strong>TRỌNG TUẤN CHEMICAL.com.vn</strong>&nbsp;để được tư vấn và hỗ trợ trực tiếp từ các chuyên viên của chúng tôi.</p>
 </div>`,
   },
-  {
-    key: 48,
-    type: "Hóa Chất Cơ Bản",
-    title: "Phụ gia thực phẩm – Glycine – Trung Quốc – 25 – 20 kg/bao",
-    price: 0,
-    img: Img48,
-    data_info: `
-<div class="product-short-description">
-	<p>Công thức hóa học :&nbsp;C<sub>2</sub>H<sub>5</sub>NO<sub>2</sub></p>
-<p>Quy cách : 20kg/bao – 25kg/bao.</p>
-<p>Xuất xứ: Trung Quốc</p>
-<p>Ứng dụng : Dùng trong thực phẩm, thuốc thú y , hóa mỹ phẩm…</p>
-<p>Thời hạn sử dụng: 02 năm kể từ ngày sản xuất.</p>
-<p>Bảo quản: Nơi khô ráo thoáng mát</p>
-</div>
-    `,
-    data_info_bottom: `
-<span class="posted_in">Danh mục: Hóa Chất Cơ Bản, Hóa chất ngành da giầy, Hóa chất ngành dệt nhuộm, Hóa chất ngành dược – mỹ phẩm, Hóa chất ngành khai khoáng, Hóa chất ngành sơn, Hóa chất ngành tẩy rửa, Hóa chất ngành thức ăn chăn nuôi, Hóa chất ngành thực phẩm, Hóa Chất Xử Lý Nước, Sản phẩm khác, Sản phẩm nổi bật</span>
-    `,
-    data_advanced: `<div class="tab-panels">
-							<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
+//   {
+//     key: 48,
+//     type: "Hóa Chất Cơ Bản",
+//     title: "Phụ gia thực phẩm – Glycine – Trung Quốc – 25 – 20 kg/bao",
+//     price: 0,
+//     img: Img48,
+//     data_info: `
+// <div class="product-short-description">
+// 	<p>Công thức hóa học :&nbsp;C<sub>2</sub>H<sub>5</sub>NO<sub>2</sub></p>
+// <p>Quy cách : 20kg/bao – 25kg/bao.</p>
+// <p>Xuất xứ: Trung Quốc</p>
+// <p>Ứng dụng : Dùng trong thực phẩm, thuốc thú y , hóa mỹ phẩm…</p>
+// <p>Thời hạn sử dụng: 02 năm kể từ ngày sản xuất.</p>
+// <p>Bảo quản: Nơi khô ráo thoáng mát</p>
+// </div>
+//     `,
+//     data_info_bottom: `
+// <span class="posted_in">Danh mục: Hóa Chất Cơ Bản, Hóa chất ngành da giầy, Hóa chất ngành dệt nhuộm, Hóa chất ngành dược – mỹ phẩm, Hóa chất ngành khai khoáng, Hóa chất ngành sơn, Hóa chất ngành tẩy rửa, Hóa chất ngành thức ăn chăn nuôi, Hóa chất ngành thực phẩm, Hóa Chất Xử Lý Nước, Sản phẩm khác, Sản phẩm nổi bật</span>
+//     `,
+//     data_advanced: `<div class="tab-panels">
+// 							<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
 										
 
-<h3>Chất Tạo Ngọt Glycine, Chất điều vị Glycine</h3>
-<p><strong>Tên sản phẩm:&nbsp;</strong>Glycine Chất điều vị Phụ gia tạo ngọt tăng đạm<br>
-<strong>Tên gọi khác:&nbsp;</strong>Chất tạo ngọt Glycine, Glycocol, Aminoacetic acid<br>
-<strong>Công thức hóa học:&nbsp;</strong>CH2NH2 COOH</p>
-<p><strong>Mô tả ngoại quan:&nbsp;</strong></p>
-<p><strong>Glycine</strong>&nbsp;là một chất rắn tinh thể không màu, có vị ngọt,&nbsp;pH:&nbsp;5.5 – 7.0</p>
-<p>Được sử dụng cho các sản phẩm thủy sản, bột nêm, gia vị mì và nước chấm.</p>
-<p>•&nbsp;<strong>Chất điều vị Glycine</strong>&nbsp;tạo hương vị thơm ngon, tạo vị umami cho các sản phẩm thịt, thủy hải sản</p>
-<p>•&nbsp;<strong>Chất điều vị Glycine</strong><strong>&nbsp;l</strong>àm giảm các vị khác như: vị đắng, vị chua, vị mặn, làm cho sản phẩm có vị ngọt dịu<br>
-•&nbsp;<strong>Chất điều vị Glycine</strong><strong>&nbsp;l</strong>àm cho có màu nâu vàng, tạo mùi vị Caramel<br>
-•&nbsp;<strong>Glycine&nbsp;c</strong>hất tăng độ đạm cho nước chấm, nước trái cây, sữa đậu nành</p>
-<p>•<strong>Glycine d</strong>ùng làm phụ gia cho thức ăn gia súc và vật nuôi.</p>
-<p>•<strong>Glycine</strong>&nbsp;còn được dùng làm chất tạo ngọt, tăng hương vị và được bổ sung vào thực phẩm, thức uống chứa protein.&nbsp;<strong>Glycine</strong>&nbsp;còn tham gia vào thành phần thuốc nhằm làm tăng khả năng hấp thu thuốc của dạ dày.</p>
-<p>• Dùng làm chất đệm trong thuốc kháng acid, thuốc giảm đau, thuốc chống đổ mồ hôi trộm, mỹ phẩm…</p>
-<p>• Nhiều sản phẩm như xốp, cao su, phân bón… cũng sử dụng&nbsp;<strong>glycine</strong>&nbsp;hoặc dẫn xuất của&nbsp;<strong>glycine</strong>&nbsp;trong sản xuất.</p>
-<p>• Ngoài ra,&nbsp;<strong>Glycine</strong>&nbsp;đóng vai trò là chất trung gian trong sản xuất nhiều loại hóa chất khác như glyphosate…</p>
-</div>`,
-  },
+// <h3>Chất Tạo Ngọt Glycine, Chất điều vị Glycine</h3>
+// <p><strong>Tên sản phẩm:&nbsp;</strong>Glycine Chất điều vị Phụ gia tạo ngọt tăng đạm<br>
+// <strong>Tên gọi khác:&nbsp;</strong>Chất tạo ngọt Glycine, Glycocol, Aminoacetic acid<br>
+// <strong>Công thức hóa học:&nbsp;</strong>CH2NH2 COOH</p>
+// <p><strong>Mô tả ngoại quan:&nbsp;</strong></p>
+// <p><strong>Glycine</strong>&nbsp;là một chất rắn tinh thể không màu, có vị ngọt,&nbsp;pH:&nbsp;5.5 – 7.0</p>
+// <p>Được sử dụng cho các sản phẩm thủy sản, bột nêm, gia vị mì và nước chấm.</p>
+// <p>•&nbsp;<strong>Chất điều vị Glycine</strong>&nbsp;tạo hương vị thơm ngon, tạo vị umami cho các sản phẩm thịt, thủy hải sản</p>
+// <p>•&nbsp;<strong>Chất điều vị Glycine</strong><strong>&nbsp;l</strong>àm giảm các vị khác như: vị đắng, vị chua, vị mặn, làm cho sản phẩm có vị ngọt dịu<br>
+// •&nbsp;<strong>Chất điều vị Glycine</strong><strong>&nbsp;l</strong>àm cho có màu nâu vàng, tạo mùi vị Caramel<br>
+// •&nbsp;<strong>Glycine&nbsp;c</strong>hất tăng độ đạm cho nước chấm, nước trái cây, sữa đậu nành</p>
+// <p>•<strong>Glycine d</strong>ùng làm phụ gia cho thức ăn gia súc và vật nuôi.</p>
+// <p>•<strong>Glycine</strong>&nbsp;còn được dùng làm chất tạo ngọt, tăng hương vị và được bổ sung vào thực phẩm, thức uống chứa protein.&nbsp;<strong>Glycine</strong>&nbsp;còn tham gia vào thành phần thuốc nhằm làm tăng khả năng hấp thu thuốc của dạ dày.</p>
+// <p>• Dùng làm chất đệm trong thuốc kháng acid, thuốc giảm đau, thuốc chống đổ mồ hôi trộm, mỹ phẩm…</p>
+// <p>• Nhiều sản phẩm như xốp, cao su, phân bón… cũng sử dụng&nbsp;<strong>glycine</strong>&nbsp;hoặc dẫn xuất của&nbsp;<strong>glycine</strong>&nbsp;trong sản xuất.</p>
+// <p>• Ngoài ra,&nbsp;<strong>Glycine</strong>&nbsp;đóng vai trò là chất trung gian trong sản xuất nhiều loại hóa chất khác như glyphosate…</p>
+// </div>`,
+//   },
   {
     key: 49,
     type: "Hóa Chất Cơ Bản",
@@ -6293,176 +6292,176 @@ nấm mốc,v.v trong hệ thống dầu phun nước hoặc trong các hệ th�
 <p>Quý khách hàng đang có nhu cầu mua Kali cacbonat của <strong>TRỌNG TUẤN CHEMICAL&nbsp;</strong>hãy liên hệ ngay số Hotline 0932323391 hoặc truy cập trực tiếp website hacichem.com.vn để được tư vấn và hỗ trợ trực tiếp từ hệ thống các chuyên viên.</p>
 </div>`,
   },
-  {
-    key: 55,
-    type: "Hóa Chất Cơ Bản",
-    title: "Potassium Hdroxide KOH 90%, Hàn Quốc, 25kg/bao",
-    price: 0,
-    img: Img55,
-    data_info: `
-<p>Potassium hydroxide hay Kali hydroxit 90% là một kiềm mạnh có tính ăn mòn, tên thông dụng là potash ăn da. Nó là một chất rắn kết tinh màu trắng dạng vảy, ưa ẩm và dễ hòa tan trong nước. Dùng để sản xuất các hợp chất có chứa Kali như K2CO3 và các hợp chất khác, sản xuất các chất tẩy trắng, xà phòng lỏng. Sản xuất phân bón, hóa chất nông nghiệp, thuốc nhuộm… CTHH: KOH, hàm lượng: 90%, CAS: 1310-58-3, xuất xứ: Hàn Quốc. Quy cách đóng gói: 25kg/bao.</p>
-    `,
-    data_info_bottom: `
-<span class="posted_in">Danh mục: Hóa Chất Cơ Bản, Hóa chất ngành da giầy, Hóa chất ngành dệt nhuộm, Hóa chất ngành dược – mỹ phẩm, Hóa chất ngành điện tử, Hóa chất ngành giấy, Hóa chất ngành khai khoáng, Hóa chất ngành sơn, Hóa chất ngành tẩy rửa, Hóa chất ngành thức ăn chăn nuôi, Hóa chất ngành thực phẩm, Hóa chất ngành xi mạ, Hóa chất nhiệt điện, Hóa Chất Xử Lý Nước, Sản phẩm khác, Sản phẩm nổi bật</span>
-    `,
-    data_advanced: `<div class="tab-panels">
-							<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
+//   {
+//     key: 55,
+//     type: "Hóa Chất Cơ Bản",
+//     title: "Potassium Hdroxide KOH 90%, Hàn Quốc, 25kg/bao",
+//     price: 0,
+//     img: Img55,
+//     data_info: `
+// <p>Potassium hydroxide hay Kali hydroxit 90% là một kiềm mạnh có tính ăn mòn, tên thông dụng là potash ăn da. Nó là một chất rắn kết tinh màu trắng dạng vảy, ưa ẩm và dễ hòa tan trong nước. Dùng để sản xuất các hợp chất có chứa Kali như K2CO3 và các hợp chất khác, sản xuất các chất tẩy trắng, xà phòng lỏng. Sản xuất phân bón, hóa chất nông nghiệp, thuốc nhuộm… CTHH: KOH, hàm lượng: 90%, CAS: 1310-58-3, xuất xứ: Hàn Quốc. Quy cách đóng gói: 25kg/bao.</p>
+//     `,
+//     data_info_bottom: `
+// <span class="posted_in">Danh mục: Hóa Chất Cơ Bản, Hóa chất ngành da giầy, Hóa chất ngành dệt nhuộm, Hóa chất ngành dược – mỹ phẩm, Hóa chất ngành điện tử, Hóa chất ngành giấy, Hóa chất ngành khai khoáng, Hóa chất ngành sơn, Hóa chất ngành tẩy rửa, Hóa chất ngành thức ăn chăn nuôi, Hóa chất ngành thực phẩm, Hóa chất ngành xi mạ, Hóa chất nhiệt điện, Hóa Chất Xử Lý Nước, Sản phẩm khác, Sản phẩm nổi bật</span>
+//     `,
+//     data_advanced: `<div class="tab-panels">
+// 							<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
 										
 
-<div class="title">
-<div class="content-title"><strong>Mô tả sản phẩm</strong></div>
-<div></div>
-</div>
-<div class="specifications css-content clear">
-<table>
-<tbody>
-<tr>
-<td><strong>Tên gọi</strong></td>
-<td>Potassium hydroxide</td>
-</tr>
-<tr>
-<td><strong>Tên khác</strong></td>
-<td>Kali hydroxit</td>
-</tr>
-<tr>
-<td><strong>Công thức</strong></td>
-<td>KOH</td>
-</tr>
-<tr>
-<td><strong>Hàm lượng</strong></td>
-<td>90%</td>
-</tr>
-<tr>
-<td><strong>CAS</strong></td>
-<td>1310-58-3</td>
-</tr>
-<tr>
-<td><strong>Xuất xứ</strong></td>
-<td>Hàn Quốc</td>
-</tr>
-<tr>
-<td><strong>Quy cách đóng gói</strong></td>
-<td>25kg/bao</td>
-</tr>
-</tbody>
-</table>
-</div>
-<div class="css-content content-description">
-<h2 id="mcetoc_1f5d64pf90">1. Potassium hydroxide là gì?</h2>
-<p>Potassium hydroxide hay còn được gọi là&nbsp;kali hydroxit, kali hydroxide, potassium hydrate, potassa, potash ăn da và hóa chất này có công thức hoá học là KOH.</p>
-<p>Có ngoại quan dạng vẩy màu trắng, dễ hút ẩm, mùi đặc trưng, tan hoàn toàn trong nước, là một bazơ mạnh nên khi hòa tan vào nước sẽ toả nhiệt rất cao tạo thành dung dịch kiềm mạnh, làm quỳ tím hoá xanh.</p>
-<p>Potassium hydroxide có ngoại quan dạng vảy màu trắng</p>
-<h2 id="mcetoc_1fb94dftr1">2. Những tính chất lí hóa nổi bật của&nbsp;kali hydroxit</h2>
-<h3 id="mcetoc_1dbc59in86">2.1. Tính chất vật lí của&nbsp;Kali hydroxit KOH</h3>
-<table>
-<tbody>
-<tr>
-<td width="319">Trạng thái vật lý</td>
-<td width="319">Chất rắn</td>
-</tr>
-<tr>
-<td width="319">Màu sắc</td>
-<td width="319">Màu trắng</td>
-</tr>
-<tr>
-<td width="319">Mùi</td>
-<td width="319">Không mùi</td>
-</tr>
-<tr>
-<td width="319">Nhiệt độ sôi</td>
-<td width="319">1.327&nbsp;<sup>o</sup>C (1.6000 K; 2.421&nbsp;<sup>o</sup>F)</td>
-</tr>
-<tr>
-<td width="319">Nhiệt độ nóng chảy</td>
-<td width="319">406&nbsp;<sup>o</sup>C (679 K; 763&nbsp;<sup>o</sup>F)</td>
-</tr>
-<tr>
-<td width="319">Độ hòa tan trong nước</td>
-<td width="319">97 g/ml (0&nbsp;<sup>o</sup>C)<p></p>
-<p>121 g/ml (25&nbsp;<sup>o</sup>C)</p>
-<p>178 g/ml (100&nbsp;<sup>o</sup>C)</p></td>
-</tr>
-<tr>
-<td width="319">Khả năng hòa tan chất khác</td>
-<td width="319">Hòa tan trong alcohol, glycerol<p></p>
-<p>Không tan trong ether, amoniac lỏng</p></td>
-</tr>
-<tr>
-<td width="319">Khối lượng riêng</td>
-<td width="319">2.044 g/cm<sup>3</sup></td>
-</tr>
-<tr>
-<td width="319">Độ pH</td>
-<td width="319">13</td>
-</tr>
-</tbody>
-</table>
-<p><em>Tính chất vật lí của&nbsp;Kali hydroxit KOH</em></p>
-<p>&nbsp;Hóa chất Xút hạt – Đài Loan – 25 kg/bao</p>
-<p>Nó&nbsp;là một bazo mạnh, dễ dàng tác dụng với nước và cacbonic trong không khí để tạp thành Kali cacbonat.</p>
-<p>Ở dạng dung dịch, nó có khả năng ăn mòn thủy tinh, vải, giấy, da còn ở dạng chất rắn nóng chảy, nó ăn mòn được sứ, platin.</p>
-<h3 id="mcetoc_1dbc3prqn1">2.2. Những tính chất hóa học nổi bật của KOH</h3>
-<p>&nbsp;</p>
-<ul>
-<li>Là một bazo mạnh có khả năng làm thay đổi màu sắc các chất chỉ thị như khiến quỳ tím chuyển sang màu xanh, còn dung dịch phenolphtalein không màu thành màu hồng.</li>
-<li>Ở điều kiện nhiệt độ phòng, KOH tác dụng với oxit axit như SO<sub>2</sub>,&nbsp;CO<sub>2</sub></li>
-</ul>
-<p>KOH + SO<sub>2</sub>&nbsp;→ K<sub>2</sub>SO<sub>3</sub>&nbsp;+ H<sub>2</sub>O</p>
-<p>KOH + SO<sub>2</sub>&nbsp;→ KHSO<sub>3</sub></p>
-<ul>
-<li>Tác dụng với axit tạo thành muối và nước</li>
-</ul>
-<p>KOH(dd)&nbsp;+ HCl(dd)&nbsp;→ KCl(dd)&nbsp;+&nbsp;<sub>H2O</sub></p>
-<ul>
-<li>Tác dụng với các axit hữu cơ để tạo thành muối và thủy phân este, peptit</li>
-</ul>
-<p>RCOOR<sub>1&nbsp;</sub>&nbsp;+ KOH → RCOOK&nbsp;&nbsp;+ R<sub>1</sub>OH</p>
-<ul>
-<li>Tác dụng với kim loại mạnh tạo thành bazo mới và kim loại mới</li>
-</ul>
-<p>KOH + Na → NaOH + K</p>
-<ul>
-<li>Tác dụng với muối để tạo thành muối mới và axit mới</li>
-</ul>
-<p>2KOH + CuCl<sub>2&nbsp;</sub>→ 2KCl + Cu(OH)<sub>2</sub>↓</p>
-<ul>
-<li>KOH là một bazo mạnh, trong nước phân ly hoàn toàn thành ion Na+&nbsp;và OH-</li>
-<li>Phản ứng với một số oxit kim loại mà oxit, hidroxit của chúng lưỡng tính như nhôm, kẽm,…</li>
-</ul>
-<p>2KOH + 2Al + 2H<sub>2</sub>O → 2KAlO<sub>2</sub>&nbsp;+ 3H<sub>2</sub>↑</p>
-<p>2KOH + Zn → K2ZnO<sub>2</sub>&nbsp;+ H<sub>2</sub>↑</p>
-<ul>
-<li>Phản ứng với một số hợp chất lưỡng tính</li>
-</ul>
-<p>KOH + Al(OH)<sub>3</sub>&nbsp;→ KAlO<sub>2</sub>&nbsp;+ 2H<sub>2</sub>O</p>
-<p>2KOH + Al<sub>2</sub>O<sub>3&nbsp;</sub>→ 2KAlO<sub>2</sub>&nbsp;+ H<sub>2</sub>O</p>
-<h2 id="mcetoc_1fb94j8it2">3. Sản xuất, điều chế Kali hydroxit như thế nào?</h2>
-<p id="mcetoc_1dghcso050">Để sản xuất Kali hydroxit ta tiến hành điện phân dung dịch Kali clorua. Thùng điện phân có màng ngăn với chất xúc tác là Anod trơ ở nhiệt độ 75&nbsp;<sup>o</sup>C.</p>
-<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2H<sub>2</sub>O + 2KCl → 2KOH + H<sub>2</sub>&nbsp;+ Cl<sub>2</sub></p>
-<p>Tuy nhiên, phương pháp này lại không mang lại hiệu quả kinh tế do giá thành của Kali clorua khá cao. Đồng thời, lượng điện năng cần thiết để điện phân cũng không hề ít. Đặc biệt, dung dịch Kali clorua muốn dùng cần phải trải qua quá trình tinh chế để hạ thấp hàm lượng kim loại nặng về mức ppb rồi mới có thể đưa vào trong thùng điện phân nhằm bảo vệ màng ngăn, KOH được tạo ra theo đó cũng có đảm bảo tinh khiết. Chi phí phải bỏ ra cho cả quá trình là khá lớn trong khi Kali hidroxit thương mại lại không cần độ tinh khiết cao như vậy.</p>
-<h2 id="mcetoc_1f5d64vks1">4. Những ứng dụng của Kali hydroxit trong đời sống, sản xuất</h2>
-<p>Giúp sản xuất các hợp chất kali khác: Nhiều muối kali được chuẩn bị bởi các phản ứng trung hòa liên quan đến KOH. Các muối kali cacbonat, cyanide, phosphate và các silicat khác nhau được chuẩn bị bằng cách xử lý các oxit hoặc các axit với KOH.</p>
-<p>Sản xuất xà phòng mềm: Bởi vì sự mềm mại và độ hòa tan cao hơn, xà phòng kali cần ít nước hơn để hóa lỏng, và do đó có thể chứa chất làm sạch hơn xà phòng natri hoá lỏng.</p>
-<p><em>Ứng dụng của KOH trong sản xuất xà phòng mềm</em></p>
-<p>Sản xuất dầu diesel sinh học: Mặc dù đắt hơn bằng cách sử dụng sodium hydroxide, nhưng hóa chất KOH hoạt động tốt trong sản xuất diesel sinh học transestercủa các chất béo trung tính trong dầu thực vật.</p>
-<p>Các ứng dụng khác: Trong nông nghiệp, công nghệ dệt nhuộm, xử lý da các loại động vật để chuẩn bị cho công nghệ thuộc da, luyện kim dùng để tẩy rỉ sét và xử lý bề mặt các kim loại, dùng trong các nhà máy lọc dầu để loại bỏ hợp chất lưu huỳnh và các chất không cần thiết.</p>
-<h2 id="mcetoc_1f5d655512">5. Những lưu ý trong quá trình sử dụng và bảo quản Kali hydroxit</h2>
-<p>Là một trong những hóa chất có tính bazơ mạnh, dễ gây ăn mòn da và kích ứng hệ hô hấp nên trong quá trình sử dụng phải trang bị đầy đủ đồ bảo hộ lao động chống hóa chất.</p>
-<p>Sẽ tỏa nhiệt mạnh khi hòa tan vào nước, vì vậy cần hết sức chú ý khi cho KOH tiếp xúc với nước.</p>
-<p>Là hóa chất dễ hút ẩm nên KOH phải được bảo quản kĩ càng trong các túi có lót lớp PPE, để nơi khô giáo, thoáng mát, tránh ẩm thấp.</p>
-<h2 id="mcetoc_1f5d659733">6. Mua hóa chất Kali Hydroxit ở đâu giá TỐT – UY TÍN – CHẤT LƯỢNG?</h2>
-<p>Trên thị trường hóa chất hiên nay có rất nhiều cơ sở sản xuất, kinh doanh các loại hóa chất công nghiệp,&nbsp;hóa chất cơ bản, hóa chất xử lý nước… với đa dạng về sản phẩm, chủng loại, kích cỡ…Tuy nhiên không phải bất kỳ cơ sở nào cũng đảm bảo an toàn, uy tín, giá cả cạnh tranh như <strong>TRỌNG TUẤN CHEMICAL</strong>. Tại <strong>TRỌNG TUẤN CHEMICAL</strong> có bán Kali hydroxit cùng các dịch vụ tốt nhất hiện nay như:</p>
-<ul>
-<li>Chất lượng sản phẩm luôn được đảm bảo và giá thành tốt nhất trên thị trường hiện tại</li>
-<li>Hệ thống chuyên viên chuyên nghiệp với kiến thức sâu và luôn sẵn sàng hỗ trợ khách hàng 24/7</li>
-<li>Nguồn gốc, xuất xứ hàng hóa rõ ràng, hàng chính hãng 100% và bảo hành theo nhà sản xuất đúng tiêu chuẩn</li>
-<li>Cung cấp đầy đủ chứng từ, hóa đơn hàng hóa khi giao nhận hàng</li>
-<li>Thủ tục thanh toán đơn giản, tiết kiệm thời gian công sức cho hệ thống khách hàng</li>
-</ul>
-<p>Quý khách hàng đang có nhu cầu mua Kali hydroxit của <strong>TRỌNG TUẤN CHEMICAL</strong> hãy liên hệ ngay số Hotline <strong>0932323391</strong> hoặc truy cập trực tiếp website TRỌNG TUẤN CHEMICAL.com.vn&nbsp;để được tư vấn và hỗ trợ trực tiếp từ hệ thống các chuyên viên.</p>
-<p><em>Mua hóa chất Kali hydroxit ở đâu giá TỐT – UY TÍN – CHẤT LƯỢNG</em></p>
-</div>`,
-  },
+// <div class="title">
+// <div class="content-title"><strong>Mô tả sản phẩm</strong></div>
+// <div></div>
+// </div>
+// <div class="specifications css-content clear">
+// <table>
+// <tbody>
+// <tr>
+// <td><strong>Tên gọi</strong></td>
+// <td>Potassium hydroxide</td>
+// </tr>
+// <tr>
+// <td><strong>Tên khác</strong></td>
+// <td>Kali hydroxit</td>
+// </tr>
+// <tr>
+// <td><strong>Công thức</strong></td>
+// <td>KOH</td>
+// </tr>
+// <tr>
+// <td><strong>Hàm lượng</strong></td>
+// <td>90%</td>
+// </tr>
+// <tr>
+// <td><strong>CAS</strong></td>
+// <td>1310-58-3</td>
+// </tr>
+// <tr>
+// <td><strong>Xuất xứ</strong></td>
+// <td>Hàn Quốc</td>
+// </tr>
+// <tr>
+// <td><strong>Quy cách đóng gói</strong></td>
+// <td>25kg/bao</td>
+// </tr>
+// </tbody>
+// </table>
+// </div>
+// <div class="css-content content-description">
+// <h2 id="mcetoc_1f5d64pf90">1. Potassium hydroxide là gì?</h2>
+// <p>Potassium hydroxide hay còn được gọi là&nbsp;kali hydroxit, kali hydroxide, potassium hydrate, potassa, potash ăn da và hóa chất này có công thức hoá học là KOH.</p>
+// <p>Có ngoại quan dạng vẩy màu trắng, dễ hút ẩm, mùi đặc trưng, tan hoàn toàn trong nước, là một bazơ mạnh nên khi hòa tan vào nước sẽ toả nhiệt rất cao tạo thành dung dịch kiềm mạnh, làm quỳ tím hoá xanh.</p>
+// <p>Potassium hydroxide có ngoại quan dạng vảy màu trắng</p>
+// <h2 id="mcetoc_1fb94dftr1">2. Những tính chất lí hóa nổi bật của&nbsp;kali hydroxit</h2>
+// <h3 id="mcetoc_1dbc59in86">2.1. Tính chất vật lí của&nbsp;Kali hydroxit KOH</h3>
+// <table>
+// <tbody>
+// <tr>
+// <td width="319">Trạng thái vật lý</td>
+// <td width="319">Chất rắn</td>
+// </tr>
+// <tr>
+// <td width="319">Màu sắc</td>
+// <td width="319">Màu trắng</td>
+// </tr>
+// <tr>
+// <td width="319">Mùi</td>
+// <td width="319">Không mùi</td>
+// </tr>
+// <tr>
+// <td width="319">Nhiệt độ sôi</td>
+// <td width="319">1.327&nbsp;<sup>o</sup>C (1.6000 K; 2.421&nbsp;<sup>o</sup>F)</td>
+// </tr>
+// <tr>
+// <td width="319">Nhiệt độ nóng chảy</td>
+// <td width="319">406&nbsp;<sup>o</sup>C (679 K; 763&nbsp;<sup>o</sup>F)</td>
+// </tr>
+// <tr>
+// <td width="319">Độ hòa tan trong nước</td>
+// <td width="319">97 g/ml (0&nbsp;<sup>o</sup>C)<p></p>
+// <p>121 g/ml (25&nbsp;<sup>o</sup>C)</p>
+// <p>178 g/ml (100&nbsp;<sup>o</sup>C)</p></td>
+// </tr>
+// <tr>
+// <td width="319">Khả năng hòa tan chất khác</td>
+// <td width="319">Hòa tan trong alcohol, glycerol<p></p>
+// <p>Không tan trong ether, amoniac lỏng</p></td>
+// </tr>
+// <tr>
+// <td width="319">Khối lượng riêng</td>
+// <td width="319">2.044 g/cm<sup>3</sup></td>
+// </tr>
+// <tr>
+// <td width="319">Độ pH</td>
+// <td width="319">13</td>
+// </tr>
+// </tbody>
+// </table>
+// <p><em>Tính chất vật lí của&nbsp;Kali hydroxit KOH</em></p>
+// <p>&nbsp;Hóa chất Xút hạt – Đài Loan – 25 kg/bao</p>
+// <p>Nó&nbsp;là một bazo mạnh, dễ dàng tác dụng với nước và cacbonic trong không khí để tạp thành Kali cacbonat.</p>
+// <p>Ở dạng dung dịch, nó có khả năng ăn mòn thủy tinh, vải, giấy, da còn ở dạng chất rắn nóng chảy, nó ăn mòn được sứ, platin.</p>
+// <h3 id="mcetoc_1dbc3prqn1">2.2. Những tính chất hóa học nổi bật của KOH</h3>
+// <p>&nbsp;</p>
+// <ul>
+// <li>Là một bazo mạnh có khả năng làm thay đổi màu sắc các chất chỉ thị như khiến quỳ tím chuyển sang màu xanh, còn dung dịch phenolphtalein không màu thành màu hồng.</li>
+// <li>Ở điều kiện nhiệt độ phòng, KOH tác dụng với oxit axit như SO<sub>2</sub>,&nbsp;CO<sub>2</sub></li>
+// </ul>
+// <p>KOH + SO<sub>2</sub>&nbsp;→ K<sub>2</sub>SO<sub>3</sub>&nbsp;+ H<sub>2</sub>O</p>
+// <p>KOH + SO<sub>2</sub>&nbsp;→ KHSO<sub>3</sub></p>
+// <ul>
+// <li>Tác dụng với axit tạo thành muối và nước</li>
+// </ul>
+// <p>KOH(dd)&nbsp;+ HCl(dd)&nbsp;→ KCl(dd)&nbsp;+&nbsp;<sub>H2O</sub></p>
+// <ul>
+// <li>Tác dụng với các axit hữu cơ để tạo thành muối và thủy phân este, peptit</li>
+// </ul>
+// <p>RCOOR<sub>1&nbsp;</sub>&nbsp;+ KOH → RCOOK&nbsp;&nbsp;+ R<sub>1</sub>OH</p>
+// <ul>
+// <li>Tác dụng với kim loại mạnh tạo thành bazo mới và kim loại mới</li>
+// </ul>
+// <p>KOH + Na → NaOH + K</p>
+// <ul>
+// <li>Tác dụng với muối để tạo thành muối mới và axit mới</li>
+// </ul>
+// <p>2KOH + CuCl<sub>2&nbsp;</sub>→ 2KCl + Cu(OH)<sub>2</sub>↓</p>
+// <ul>
+// <li>KOH là một bazo mạnh, trong nước phân ly hoàn toàn thành ion Na+&nbsp;và OH-</li>
+// <li>Phản ứng với một số oxit kim loại mà oxit, hidroxit của chúng lưỡng tính như nhôm, kẽm,…</li>
+// </ul>
+// <p>2KOH + 2Al + 2H<sub>2</sub>O → 2KAlO<sub>2</sub>&nbsp;+ 3H<sub>2</sub>↑</p>
+// <p>2KOH + Zn → K2ZnO<sub>2</sub>&nbsp;+ H<sub>2</sub>↑</p>
+// <ul>
+// <li>Phản ứng với một số hợp chất lưỡng tính</li>
+// </ul>
+// <p>KOH + Al(OH)<sub>3</sub>&nbsp;→ KAlO<sub>2</sub>&nbsp;+ 2H<sub>2</sub>O</p>
+// <p>2KOH + Al<sub>2</sub>O<sub>3&nbsp;</sub>→ 2KAlO<sub>2</sub>&nbsp;+ H<sub>2</sub>O</p>
+// <h2 id="mcetoc_1fb94j8it2">3. Sản xuất, điều chế Kali hydroxit như thế nào?</h2>
+// <p id="mcetoc_1dghcso050">Để sản xuất Kali hydroxit ta tiến hành điện phân dung dịch Kali clorua. Thùng điện phân có màng ngăn với chất xúc tác là Anod trơ ở nhiệt độ 75&nbsp;<sup>o</sup>C.</p>
+// <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2H<sub>2</sub>O + 2KCl → 2KOH + H<sub>2</sub>&nbsp;+ Cl<sub>2</sub></p>
+// <p>Tuy nhiên, phương pháp này lại không mang lại hiệu quả kinh tế do giá thành của Kali clorua khá cao. Đồng thời, lượng điện năng cần thiết để điện phân cũng không hề ít. Đặc biệt, dung dịch Kali clorua muốn dùng cần phải trải qua quá trình tinh chế để hạ thấp hàm lượng kim loại nặng về mức ppb rồi mới có thể đưa vào trong thùng điện phân nhằm bảo vệ màng ngăn, KOH được tạo ra theo đó cũng có đảm bảo tinh khiết. Chi phí phải bỏ ra cho cả quá trình là khá lớn trong khi Kali hidroxit thương mại lại không cần độ tinh khiết cao như vậy.</p>
+// <h2 id="mcetoc_1f5d64vks1">4. Những ứng dụng của Kali hydroxit trong đời sống, sản xuất</h2>
+// <p>Giúp sản xuất các hợp chất kali khác: Nhiều muối kali được chuẩn bị bởi các phản ứng trung hòa liên quan đến KOH. Các muối kali cacbonat, cyanide, phosphate và các silicat khác nhau được chuẩn bị bằng cách xử lý các oxit hoặc các axit với KOH.</p>
+// <p>Sản xuất xà phòng mềm: Bởi vì sự mềm mại và độ hòa tan cao hơn, xà phòng kali cần ít nước hơn để hóa lỏng, và do đó có thể chứa chất làm sạch hơn xà phòng natri hoá lỏng.</p>
+// <p><em>Ứng dụng của KOH trong sản xuất xà phòng mềm</em></p>
+// <p>Sản xuất dầu diesel sinh học: Mặc dù đắt hơn bằng cách sử dụng sodium hydroxide, nhưng hóa chất KOH hoạt động tốt trong sản xuất diesel sinh học transestercủa các chất béo trung tính trong dầu thực vật.</p>
+// <p>Các ứng dụng khác: Trong nông nghiệp, công nghệ dệt nhuộm, xử lý da các loại động vật để chuẩn bị cho công nghệ thuộc da, luyện kim dùng để tẩy rỉ sét và xử lý bề mặt các kim loại, dùng trong các nhà máy lọc dầu để loại bỏ hợp chất lưu huỳnh và các chất không cần thiết.</p>
+// <h2 id="mcetoc_1f5d655512">5. Những lưu ý trong quá trình sử dụng và bảo quản Kali hydroxit</h2>
+// <p>Là một trong những hóa chất có tính bazơ mạnh, dễ gây ăn mòn da và kích ứng hệ hô hấp nên trong quá trình sử dụng phải trang bị đầy đủ đồ bảo hộ lao động chống hóa chất.</p>
+// <p>Sẽ tỏa nhiệt mạnh khi hòa tan vào nước, vì vậy cần hết sức chú ý khi cho KOH tiếp xúc với nước.</p>
+// <p>Là hóa chất dễ hút ẩm nên KOH phải được bảo quản kĩ càng trong các túi có lót lớp PPE, để nơi khô giáo, thoáng mát, tránh ẩm thấp.</p>
+// <h2 id="mcetoc_1f5d659733">6. Mua hóa chất Kali Hydroxit ở đâu giá TỐT – UY TÍN – CHẤT LƯỢNG?</h2>
+// <p>Trên thị trường hóa chất hiên nay có rất nhiều cơ sở sản xuất, kinh doanh các loại hóa chất công nghiệp,&nbsp;hóa chất cơ bản, hóa chất xử lý nước… với đa dạng về sản phẩm, chủng loại, kích cỡ…Tuy nhiên không phải bất kỳ cơ sở nào cũng đảm bảo an toàn, uy tín, giá cả cạnh tranh như <strong>TRỌNG TUẤN CHEMICAL</strong>. Tại <strong>TRỌNG TUẤN CHEMICAL</strong> có bán Kali hydroxit cùng các dịch vụ tốt nhất hiện nay như:</p>
+// <ul>
+// <li>Chất lượng sản phẩm luôn được đảm bảo và giá thành tốt nhất trên thị trường hiện tại</li>
+// <li>Hệ thống chuyên viên chuyên nghiệp với kiến thức sâu và luôn sẵn sàng hỗ trợ khách hàng 24/7</li>
+// <li>Nguồn gốc, xuất xứ hàng hóa rõ ràng, hàng chính hãng 100% và bảo hành theo nhà sản xuất đúng tiêu chuẩn</li>
+// <li>Cung cấp đầy đủ chứng từ, hóa đơn hàng hóa khi giao nhận hàng</li>
+// <li>Thủ tục thanh toán đơn giản, tiết kiệm thời gian công sức cho hệ thống khách hàng</li>
+// </ul>
+// <p>Quý khách hàng đang có nhu cầu mua Kali hydroxit của <strong>TRỌNG TUẤN CHEMICAL</strong> hãy liên hệ ngay số Hotline <strong>0932323391</strong> hoặc truy cập trực tiếp website TRỌNG TUẤN CHEMICAL.com.vn&nbsp;để được tư vấn và hỗ trợ trực tiếp từ hệ thống các chuyên viên.</p>
+// <p><em>Mua hóa chất Kali hydroxit ở đâu giá TỐT – UY TÍN – CHẤT LƯỢNG</em></p>
+// </div>`,
+//   },
   {
     key: 56,
     type: "Chỉ thị",
@@ -7010,173 +7009,173 @@ nấm mốc,v.v trong hệ thống dầu phun nước hoặc trong các hệ th�
 <p>Soda giá bao nhiêu? Tại TRỌNG TUẤN CHEMICAL các loại hóa chất công nghiệp, hóa chất công nghiệp, hóa chất xử lý nước đều có mức giá tốt nhất trên thị trường. Với diện tích kho bãi lên đến 10.000 m<sup>2</sup>, hàng hóa luôn được Stock số lượng lớn, đảm bảo bán ra với mức giá cực kỳ hấp dẫn.</p>
 </div>`,
   },
-  {
-    key: 61,
-    type: "Hóa Chất Cơ Bản",
-    title: "Sodium Chloride 99% NaCl, Muối Viên Ấn Độ, 25 kg/bao",
-    price: 0,
-    img: Img61,
-    data_info: `
-<p>Sodium chloride hay Natri clorua, Muối viên màu trắng đục, không mùi, có vị mặn đặc trưng. CTHH: NaCl, hàm lượng: 99.5 %, CAS: 7647145, xuất xứ: Ấn Độ, quy cách: 25kg/bao. Là thành phần quan trọng được ứng dụng trong công nghiệp xử lý nước, sản xuất bột giấy, thuốc nhuộm cũng như trong sản xuất xà phòng và chất tẩy rửa…</p>
-    `,
-    data_info_bottom: `
-<span class="posted_in">Danh mục: Hóa Chất Cơ Bản, Hóa chất ngành da giầy, Hóa chất ngành dệt nhuộm, Hóa chất ngành dược – mỹ phẩm, Hóa chất ngành điện tử, Hóa chất ngành giấy, Hóa chất ngành khai khoáng, Hóa chất ngành sơn, Hóa chất ngành tẩy rửa, Hóa chất ngành thức ăn chăn nuôi, Hóa chất ngành thực phẩm, Hóa chất ngành xi mạ, Hóa chất nhiệt điện, Hóa Chất Xử Lý Nước, Sản phẩm khác, Sản phẩm nổi bật</span>
-    `,
-    data_advanced: `<div class="tab-panels">
-							<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
+//   {
+//     key: 61,
+//     type: "Hóa Chất Cơ Bản",
+//     title: "Sodium Chloride 99% NaCl, Muối Viên Ấn Độ, 25 kg/bao",
+//     price: 0,
+//     img: Img61,
+//     data_info: `
+// <p>Sodium chloride hay Natri clorua, Muối viên màu trắng đục, không mùi, có vị mặn đặc trưng. CTHH: NaCl, hàm lượng: 99.5 %, CAS: 7647145, xuất xứ: Ấn Độ, quy cách: 25kg/bao. Là thành phần quan trọng được ứng dụng trong công nghiệp xử lý nước, sản xuất bột giấy, thuốc nhuộm cũng như trong sản xuất xà phòng và chất tẩy rửa…</p>
+//     `,
+//     data_info_bottom: `
+// <span class="posted_in">Danh mục: Hóa Chất Cơ Bản, Hóa chất ngành da giầy, Hóa chất ngành dệt nhuộm, Hóa chất ngành dược – mỹ phẩm, Hóa chất ngành điện tử, Hóa chất ngành giấy, Hóa chất ngành khai khoáng, Hóa chất ngành sơn, Hóa chất ngành tẩy rửa, Hóa chất ngành thức ăn chăn nuôi, Hóa chất ngành thực phẩm, Hóa chất ngành xi mạ, Hóa chất nhiệt điện, Hóa Chất Xử Lý Nước, Sản phẩm khác, Sản phẩm nổi bật</span>
+//     `,
+//     data_advanced: `<div class="tab-panels">
+// 							<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
 										
 
-<div class="title">
-<div class="content-title"><strong>Mô tả sản phẩm</strong></div>
-<div></div>
-</div>
-<div class="specifications css-content clear">
-<table>
-<tbody>
-<tr>
-<td><strong>Tên gọi</strong></td>
-<td>Sodium chloride</td>
-</tr>
-<tr>
-<td><strong>Tên khác</strong></td>
-<td>Natri clorua, Muối viên</td>
-</tr>
-<tr>
-<td><strong>Công thức hóa học</strong></td>
-<td>NaCl</td>
-</tr>
-<tr>
-<td><strong>Hàm lượng</strong></td>
-<td>99.5%</td>
-</tr>
-<tr>
-<td><strong>CAS</strong></td>
-<td>7647145</td>
-</tr>
-<tr>
-<td><strong>Xuất xứ</strong></td>
-<td>Ấn Độ</td>
-</tr>
-<tr>
-<td><strong>Đóng gói</strong></td>
-<td>25kg/bao</td>
-</tr>
-</tbody>
-</table>
-</div>
-<div class="css-content content-description">
-<p><strong>Natri Clorua</strong> là một hợp chất ion có thể tìm thấy trong nước biển hoặc nguồn nước khoảng nằm sâu trong lòng đất, được ứng dụng phổ biến trong các ngành công nghiệp thực phẩm, gia vị, nông nghiệp, công nghiệp sản xuất…. <strong>TRỌNG TUẤN CHEMICAL </strong>đang có sẵn sản phẩm sodium chloride 99% NaCl, Ấn Độ với mức giá tốt nhất trên thị trường.</p>
-<h2 id="mcetoc_1f6h5u8r30">1. Muối viên natri clorua là gì?</h2>
-<p>Natri clorua là chất rắn tồn tại ở dạng tinh thể có màu trắng với công thức hóa học là NaCl. Ngoài tên gọi Natri clorua, NaCl còn&nbsp;được gọi với cái tên khác là muối viên.</p>
-<figure><em>Muối viên Ấn Độ dạng viên màu trắng</em></figure>
-<p><em>&nbsp;</strong>&nbsp;&nbsp;&nbsp;&nbsp;<strong>Sodium chloride 99% NaCl, Thái Lan, TRS, 50kg/bao</strong></p>
-<p>Cấu trúc tinh thể của NaCl có hình lập phương. Trong các tinh thể, ion clorua với kích thước lớn https://TRỌNG TUẤN CHEMICAL.com.vn/san-pham/muoi-tinh-khiet-muoi-natri-clorua-thai-lan-nacl-99-trs/hơn thường được sắp xếp trong một khối dạng lập phương khép kín. Còn ion natri nhỏ hơn được sắp xếp vào những lỗ hổng bát diện giữa chúng. Mỗi ion ở trong cấu trúc này sẽ được bao quanh bởi 6 ion khác.</p>
-<p><em>Cấu trúc tinh thể của natri clorua có hình lập phương</em></p>
-<h2 id="mcetoc_1g655ttfu0">2. Tính chất hóa lý của&nbsp;Sodium chloride</h2>
-<h3 id="mcetoc_1g1nt97672"><strong>2.2. Tính chất vật lý</strong></h3>
-<table width="837">
-<tbody>
-<tr>
-<td>Ngoại quan</td>
-<td>Dạng viên hoặc hạt màu trắng, không mùi</td>
-</tr>
-<tr>
-<td>Điểm nóng chảy</td>
-<td>801 độ C</td>
-</tr>
-<tr>
-<td>Điểm sôi</td>
-<td>1.413 độ C</td>
-</tr>
-<tr>
-<td>Phân tử gam</td>
-<td>58,4 g/mol</td>
-</tr>
-<tr>
-<td>Mật độ</td>
-<td>2,16 g/cm<sup>3</sup></td>
-</tr>
-<tr>
-<td>Tỷ trọng và pha</td>
-<td>2,16 g/cm<sup>3</sup>, rắn</td>
-</tr>
-<tr>
-<td>Độ hòa tan trong nước</td>
-<td>35,9 g/100ml (ở 25 độ C)</td>
-</tr>
-<tr>
-<td>Tính chất khác</td>
-<td>Có khả năng dẫn điện</td>
-</tr>
-</tbody>
-</table>
-<h3 id="mcetoc_1g1nt97673"><strong>2.3. Tính chất hóa học</strong></h3>
-<ul>
-<li>Phản ứng nhiệt phân</li>
-</ul>
-<p>2NaCl → Cl<sub>2</sub>&nbsp;+ 2Na</p>
-<ul>
-<li>Phản ứng trao đổi</li>
-</ul>
-<p>AgNO<sub>3</sub>&nbsp;+ NaCl → AgCl + NaNO<sub>3</sub></p>
-<p>H<sub>2</sub>SO<sub>4</sub>&nbsp;+ NaCl → HCl + NaHSO<sub>4</sub></p>
-<ul>
-<li>Phản ứng oxy hóa khử trong điều kiện điện phân có màng ngăn</li>
-</ul>
-<p>2H<sub>2</sub>O + 2NaCl → Cl<sub>2</sub>&nbsp;+ H<sub>2</sub>&nbsp;+ 2NaOH</p>
-<p></p>
-<p><em>Tính chất hóa lý của muối viên&nbsp;Sodium chloride</em></p>
-<h2 id="mcetoc_1g6562re68">3. Muối viên Natri clorua được sản xuất như thế nào?</h2>
-<ul>
-<li>Sodium chloride rất nhiều trong nước biển, chiếm khoảng 3% về khối lượng. Ngoài ra nó còn có trong nước của hồ nước mặn và trong các khoáng vật halit, hay còn gọi là muối mỏ. Những mỏ muối lớn còn có lớp muối dày tới hàng trăm, thậm chí hàng ngàn mét</li>
-<li>Người ta thường khai tác muối natri clorua từ các mỏ muối bằng phương pháp ngầm, tức là cho nước vào mỏ muối thông qua các lỗ khoan để hòa tan muối ngầm dưới lòng đất rồi bơm dung dịch muối lên để kết tinh thành muối viên. Ngoài ra, có một cách khác cũng được sử dụng để sản xuất muối viên, đó là&nbsp;cô đặc nước biển bằng cách đun nóng hoặc phơi nắng ngoài tự nhiên, để kết tinh thành muối ăn.</li>
-</ul>
-<p></p>
-<p><em>Quy trình sản xuất muối viên NaCl</em></p>
-<h2 id="mcetoc_1d7guuna31">4. Những ứng dụng nổi bật của hóa chất muối natri clorua</h2>
-<ul>
-<li>Muối natri clorua được dùng trong hầu hết các ngành công nghiệp nhưng nổi bật nhất vẫn là ứng dụng làm mềm nước và xử lý nước sinh hoạt,&nbsp;nước thải công nghiệp</li>
-<li>Giúp loại bỏ các kim loại nặng như Mg, Ca có trong nước để làm mềm nước trong công nghiệp nồi hơi và trong quá trình sản xuất nước uống tinh khiết</li>
-<li>Trong quá trình sản xuất giấy và bột giấy, muối natri clorua cũng có vai trò rất quan trọng và được xem là không thể thiếu mặt.</li>
-</ul>
-<p></p>
-<p><em>Natri clorua có mặt trong quá trình sản xuất giấy với vai trò quan trọng</em></p>
-<ul>
-<li>Là thành phần trong công nghiệp dệt may, đặc biệt là sản xuất các loại vải sợi</li>
-<li>Muối viên là dẫn xuất sản xuất của xà phòng, chất tẩy rửa vì trong muối có chứa gốc Na tự do và gốc này sẽ liên kết với các nhóm hữu cơ để tạo ra bột giặt</li>
-<li>Muối tinh khiết còn được dùng làm nguyên liệu ban đầu để sản xuất chlorine và xút NaOH. Ngoài ra nó còn được sử dụng để hoàn nguyên và tái sinh nhựa trao đổi ion</li>
-</ul>
-<p></p>
-<p><em>Ứng dụng của muối NaCl trong xử lý nước thải</em></p>
-<h2 id="mcetoc_1g656e4e69">5. Lưu ý sử dụng và bảo quản Sodium chloride 99% NaCl</h2>
-<h3 id="mcetoc_1g656e6iea">5.1. Lưu ý sử dụng</h3>
-<ul>
-<li>Sử dụng liều lượng theo đúng khuyến cáo của nhà sản xuất ghi trên bao bì</li>
-<li>Sử dụng đúng mục đích để đạt được hiệu quả nhất</li>
-<li>Trong y tế, sử dụng muối Sodium chloride 99% NaCl theo khuyến cáo của bác sỹ</li>
-</ul>
-<h3 id="mcetoc_1g656e8ovb">5.2. Lưu ý bảo quản</h3>
-<p>Bảo quản NaCl 99% ở nơi khô ráo, thoáng mát. Lưu ý không để chung với axit. Không nên để tồn kho quá lâu để tránh ảnh hưởng đến chất lượng sản phẩm. Cần tránh tiếp xúc trực tiếp với sản phẩm, trang bị những đồ bảo hộ cần thiết khi sử dụng.</p>
-<p></p>
-<p><em>Bảo quản hóa chất nơi khô ráo trong bao chứa chuyên dụng</em></p>
-<h2 id="mcetoc_1g656eonuc">6. <strong>TRỌNG TUẤN CHEMICAL</strong>– Địa chỉ mua Sodium chloride 99% NaCl uy tín, chất lượng</h2>
-<p>Hiện nay trên thị trường, công ty <strong>TRỌNG TUẤN CHEMICAL</strong> là địa chỉ chuyên cung ứng <strong>hóa chất xử lý nước sạch</strong>&nbsp;nói chung cũng như các loại muối natri clorua&nbsp;nói riêng với rất nhiều dạng khác nhau như muối viên, muối sấy xuất xứ từ Việt Nam, Ấn Độ, Trung Quốc, … Các sản phẩm đều đạt chất lượng chuẩn quốc tế ISO và đáp ứng nhu cầu sử dụng của quý khách hàng.</p>
-<p><strong><em>Khi mua hàng tại TRỌNG TUẤN CHEMICAL quý khách hàng không chỉ nhận được sản phẩm chất lượng mà còn được ưu đãi với giá tốt nhất, ngoài ra:</em></strong></p>
-<ul>
-<li>Chất lượng sản phẩm luôn được kiểm soát chặt chẽ trước khi đến tay khách hàng</li>
-<li>Chính sách giá linh hoạt, tốt nhất trên thị trường</li>
-<li>Đội ngũ tư vấn viên chuyên nghiệp sẵn sàng để hỗ trợ quý khách 24/7</li>
-<li>Hàng hóa có nguồn gốc rõ ràng, cung cấp MSDS của từng sản phẩm</li>
-<li>Hệ thống xe vận tải lớn hơn 30 chiếc thuận tiện giao hàng nhanh chóng, chuyên nghiệp.</li>
-<li>Tiết kiệm thời gian hơn với thủ tục thanh toán đơn giản.</li>
-</ul>
-<p><em>Muối viên NaCl số lượng lớn tại <strong>TRỌNG TUẤN CHEMICAL</strong> </em></p>
-<h2 id="mcetoc_1g656hasud">7. Báo giá hóa chất Sodium chloride 99% NaCl</h2>
-<p><strong>TRỌNG TUẤN CHEMICAL</strong> &nbsp;lấy tiêu chí “HỢP TÁC CÙNG PHÁT TRIỂN”, chúng tôi luôn tìm kiếm nhà cung cấp sản phẩm chất lượng và bán ra thị trường mức giá hợp lý, phù hợp với nhu cầu sử dụng của quý khách hàng. Sodium chloride được <strong>TRỌNG TUẤN CHEMICAL</strong> phân phối với quy cách 25 kg/bao, hàm lượng 99%.</p>
-<p><em>Sodium chloride 99% NaCl, Ấn Độ, 25kg/bao</em></p>
-<p>Hãy liên hệ ngay cho chúng tôi khi cần đến muối viên&nbsp;<strong><em>Sodium chloride NaCl 99,5%</em></strong>&nbsp;Ấn Độ để được báo giá và giao hàng sớm nhất có thể.</p>
-</div>`,
-  },
+// <div class="title">
+// <div class="content-title"><strong>Mô tả sản phẩm</strong></div>
+// <div></div>
+// </div>
+// <div class="specifications css-content clear">
+// <table>
+// <tbody>
+// <tr>
+// <td><strong>Tên gọi</strong></td>
+// <td>Sodium chloride</td>
+// </tr>
+// <tr>
+// <td><strong>Tên khác</strong></td>
+// <td>Natri clorua, Muối viên</td>
+// </tr>
+// <tr>
+// <td><strong>Công thức hóa học</strong></td>
+// <td>NaCl</td>
+// </tr>
+// <tr>
+// <td><strong>Hàm lượng</strong></td>
+// <td>99.5%</td>
+// </tr>
+// <tr>
+// <td><strong>CAS</strong></td>
+// <td>7647145</td>
+// </tr>
+// <tr>
+// <td><strong>Xuất xứ</strong></td>
+// <td>Ấn Độ</td>
+// </tr>
+// <tr>
+// <td><strong>Đóng gói</strong></td>
+// <td>25kg/bao</td>
+// </tr>
+// </tbody>
+// </table>
+// </div>
+// <div class="css-content content-description">
+// <p><strong>Natri Clorua</strong> là một hợp chất ion có thể tìm thấy trong nước biển hoặc nguồn nước khoảng nằm sâu trong lòng đất, được ứng dụng phổ biến trong các ngành công nghiệp thực phẩm, gia vị, nông nghiệp, công nghiệp sản xuất…. <strong>TRỌNG TUẤN CHEMICAL </strong>đang có sẵn sản phẩm sodium chloride 99% NaCl, Ấn Độ với mức giá tốt nhất trên thị trường.</p>
+// <h2 id="mcetoc_1f6h5u8r30">1. Muối viên natri clorua là gì?</h2>
+// <p>Natri clorua là chất rắn tồn tại ở dạng tinh thể có màu trắng với công thức hóa học là NaCl. Ngoài tên gọi Natri clorua, NaCl còn&nbsp;được gọi với cái tên khác là muối viên.</p>
+// <figure><em>Muối viên Ấn Độ dạng viên màu trắng</em></figure>
+// <p><em>&nbsp;</strong>&nbsp;&nbsp;&nbsp;&nbsp;<strong>Sodium chloride 99% NaCl, Thái Lan, TRS, 50kg/bao</strong></p>
+// <p>Cấu trúc tinh thể của NaCl có hình lập phương. Trong các tinh thể, ion clorua với kích thước lớn https://TRỌNG TUẤN CHEMICAL.com.vn/san-pham/muoi-tinh-khiet-muoi-natri-clorua-thai-lan-nacl-99-trs/hơn thường được sắp xếp trong một khối dạng lập phương khép kín. Còn ion natri nhỏ hơn được sắp xếp vào những lỗ hổng bát diện giữa chúng. Mỗi ion ở trong cấu trúc này sẽ được bao quanh bởi 6 ion khác.</p>
+// <p><em>Cấu trúc tinh thể của natri clorua có hình lập phương</em></p>
+// <h2 id="mcetoc_1g655ttfu0">2. Tính chất hóa lý của&nbsp;Sodium chloride</h2>
+// <h3 id="mcetoc_1g1nt97672"><strong>2.2. Tính chất vật lý</strong></h3>
+// <table width="837">
+// <tbody>
+// <tr>
+// <td>Ngoại quan</td>
+// <td>Dạng viên hoặc hạt màu trắng, không mùi</td>
+// </tr>
+// <tr>
+// <td>Điểm nóng chảy</td>
+// <td>801 độ C</td>
+// </tr>
+// <tr>
+// <td>Điểm sôi</td>
+// <td>1.413 độ C</td>
+// </tr>
+// <tr>
+// <td>Phân tử gam</td>
+// <td>58,4 g/mol</td>
+// </tr>
+// <tr>
+// <td>Mật độ</td>
+// <td>2,16 g/cm<sup>3</sup></td>
+// </tr>
+// <tr>
+// <td>Tỷ trọng và pha</td>
+// <td>2,16 g/cm<sup>3</sup>, rắn</td>
+// </tr>
+// <tr>
+// <td>Độ hòa tan trong nước</td>
+// <td>35,9 g/100ml (ở 25 độ C)</td>
+// </tr>
+// <tr>
+// <td>Tính chất khác</td>
+// <td>Có khả năng dẫn điện</td>
+// </tr>
+// </tbody>
+// </table>
+// <h3 id="mcetoc_1g1nt97673"><strong>2.3. Tính chất hóa học</strong></h3>
+// <ul>
+// <li>Phản ứng nhiệt phân</li>
+// </ul>
+// <p>2NaCl → Cl<sub>2</sub>&nbsp;+ 2Na</p>
+// <ul>
+// <li>Phản ứng trao đổi</li>
+// </ul>
+// <p>AgNO<sub>3</sub>&nbsp;+ NaCl → AgCl + NaNO<sub>3</sub></p>
+// <p>H<sub>2</sub>SO<sub>4</sub>&nbsp;+ NaCl → HCl + NaHSO<sub>4</sub></p>
+// <ul>
+// <li>Phản ứng oxy hóa khử trong điều kiện điện phân có màng ngăn</li>
+// </ul>
+// <p>2H<sub>2</sub>O + 2NaCl → Cl<sub>2</sub>&nbsp;+ H<sub>2</sub>&nbsp;+ 2NaOH</p>
+// <p></p>
+// <p><em>Tính chất hóa lý của muối viên&nbsp;Sodium chloride</em></p>
+// <h2 id="mcetoc_1g6562re68">3. Muối viên Natri clorua được sản xuất như thế nào?</h2>
+// <ul>
+// <li>Sodium chloride rất nhiều trong nước biển, chiếm khoảng 3% về khối lượng. Ngoài ra nó còn có trong nước của hồ nước mặn và trong các khoáng vật halit, hay còn gọi là muối mỏ. Những mỏ muối lớn còn có lớp muối dày tới hàng trăm, thậm chí hàng ngàn mét</li>
+// <li>Người ta thường khai tác muối natri clorua từ các mỏ muối bằng phương pháp ngầm, tức là cho nước vào mỏ muối thông qua các lỗ khoan để hòa tan muối ngầm dưới lòng đất rồi bơm dung dịch muối lên để kết tinh thành muối viên. Ngoài ra, có một cách khác cũng được sử dụng để sản xuất muối viên, đó là&nbsp;cô đặc nước biển bằng cách đun nóng hoặc phơi nắng ngoài tự nhiên, để kết tinh thành muối ăn.</li>
+// </ul>
+// <p></p>
+// <p><em>Quy trình sản xuất muối viên NaCl</em></p>
+// <h2 id="mcetoc_1d7guuna31">4. Những ứng dụng nổi bật của hóa chất muối natri clorua</h2>
+// <ul>
+// <li>Muối natri clorua được dùng trong hầu hết các ngành công nghiệp nhưng nổi bật nhất vẫn là ứng dụng làm mềm nước và xử lý nước sinh hoạt,&nbsp;nước thải công nghiệp</li>
+// <li>Giúp loại bỏ các kim loại nặng như Mg, Ca có trong nước để làm mềm nước trong công nghiệp nồi hơi và trong quá trình sản xuất nước uống tinh khiết</li>
+// <li>Trong quá trình sản xuất giấy và bột giấy, muối natri clorua cũng có vai trò rất quan trọng và được xem là không thể thiếu mặt.</li>
+// </ul>
+// <p></p>
+// <p><em>Natri clorua có mặt trong quá trình sản xuất giấy với vai trò quan trọng</em></p>
+// <ul>
+// <li>Là thành phần trong công nghiệp dệt may, đặc biệt là sản xuất các loại vải sợi</li>
+// <li>Muối viên là dẫn xuất sản xuất của xà phòng, chất tẩy rửa vì trong muối có chứa gốc Na tự do và gốc này sẽ liên kết với các nhóm hữu cơ để tạo ra bột giặt</li>
+// <li>Muối tinh khiết còn được dùng làm nguyên liệu ban đầu để sản xuất chlorine và xút NaOH. Ngoài ra nó còn được sử dụng để hoàn nguyên và tái sinh nhựa trao đổi ion</li>
+// </ul>
+// <p></p>
+// <p><em>Ứng dụng của muối NaCl trong xử lý nước thải</em></p>
+// <h2 id="mcetoc_1g656e4e69">5. Lưu ý sử dụng và bảo quản Sodium chloride 99% NaCl</h2>
+// <h3 id="mcetoc_1g656e6iea">5.1. Lưu ý sử dụng</h3>
+// <ul>
+// <li>Sử dụng liều lượng theo đúng khuyến cáo của nhà sản xuất ghi trên bao bì</li>
+// <li>Sử dụng đúng mục đích để đạt được hiệu quả nhất</li>
+// <li>Trong y tế, sử dụng muối Sodium chloride 99% NaCl theo khuyến cáo của bác sỹ</li>
+// </ul>
+// <h3 id="mcetoc_1g656e8ovb">5.2. Lưu ý bảo quản</h3>
+// <p>Bảo quản NaCl 99% ở nơi khô ráo, thoáng mát. Lưu ý không để chung với axit. Không nên để tồn kho quá lâu để tránh ảnh hưởng đến chất lượng sản phẩm. Cần tránh tiếp xúc trực tiếp với sản phẩm, trang bị những đồ bảo hộ cần thiết khi sử dụng.</p>
+// <p></p>
+// <p><em>Bảo quản hóa chất nơi khô ráo trong bao chứa chuyên dụng</em></p>
+// <h2 id="mcetoc_1g656eonuc">6. <strong>TRỌNG TUẤN CHEMICAL</strong>– Địa chỉ mua Sodium chloride 99% NaCl uy tín, chất lượng</h2>
+// <p>Hiện nay trên thị trường, công ty <strong>TRỌNG TUẤN CHEMICAL</strong> là địa chỉ chuyên cung ứng <strong>hóa chất xử lý nước sạch</strong>&nbsp;nói chung cũng như các loại muối natri clorua&nbsp;nói riêng với rất nhiều dạng khác nhau như muối viên, muối sấy xuất xứ từ Việt Nam, Ấn Độ, Trung Quốc, … Các sản phẩm đều đạt chất lượng chuẩn quốc tế ISO và đáp ứng nhu cầu sử dụng của quý khách hàng.</p>
+// <p><strong><em>Khi mua hàng tại TRỌNG TUẤN CHEMICAL quý khách hàng không chỉ nhận được sản phẩm chất lượng mà còn được ưu đãi với giá tốt nhất, ngoài ra:</em></strong></p>
+// <ul>
+// <li>Chất lượng sản phẩm luôn được kiểm soát chặt chẽ trước khi đến tay khách hàng</li>
+// <li>Chính sách giá linh hoạt, tốt nhất trên thị trường</li>
+// <li>Đội ngũ tư vấn viên chuyên nghiệp sẵn sàng để hỗ trợ quý khách 24/7</li>
+// <li>Hàng hóa có nguồn gốc rõ ràng, cung cấp MSDS của từng sản phẩm</li>
+// <li>Hệ thống xe vận tải lớn hơn 30 chiếc thuận tiện giao hàng nhanh chóng, chuyên nghiệp.</li>
+// <li>Tiết kiệm thời gian hơn với thủ tục thanh toán đơn giản.</li>
+// </ul>
+// <p><em>Muối viên NaCl số lượng lớn tại <strong>TRỌNG TUẤN CHEMICAL</strong> </em></p>
+// <h2 id="mcetoc_1g656hasud">7. Báo giá hóa chất Sodium chloride 99% NaCl</h2>
+// <p><strong>TRỌNG TUẤN CHEMICAL</strong> &nbsp;lấy tiêu chí “HỢP TÁC CÙNG PHÁT TRIỂN”, chúng tôi luôn tìm kiếm nhà cung cấp sản phẩm chất lượng và bán ra thị trường mức giá hợp lý, phù hợp với nhu cầu sử dụng của quý khách hàng. Sodium chloride được <strong>TRỌNG TUẤN CHEMICAL</strong> phân phối với quy cách 25 kg/bao, hàm lượng 99%.</p>
+// <p><em>Sodium chloride 99% NaCl, Ấn Độ, 25kg/bao</em></p>
+// <p>Hãy liên hệ ngay cho chúng tôi khi cần đến muối viên&nbsp;<strong><em>Sodium chloride NaCl 99,5%</em></strong>&nbsp;Ấn Độ để được báo giá và giao hàng sớm nhất có thể.</p>
+// </div>`,
+//   },
   {
     key: 62,
     type: "Hóa Chất Cơ Bản",
@@ -7293,144 +7292,144 @@ Nhà kho trữ hóa chất phải nằm ở xa khu dân cư, tránh nguồn nư�
 <li><strong>Cách 2:</strong>&nbsp;Liên hệ ngay số Hotline&nbsp;<strong>0932323391</strong></li>
 </div>`,
   },
-  {
-    key: 63,
-    type: "Hóa Chất Cơ Bản",
-    title: "Sodium Hydroxide 99% NaOH, Xút hạt – Thái Lan, 25 kg/bao",
-    price: 0,
-    img: Img63,
-    data_info: `
-<p class="intro">Sodium hydroxide hay Caustic soda, Xút, Xút hạt, Xút hạt Thái Lan,&nbsp; Natri hydroxit. Là chất rắn không màu dạng hạt, màu trắng, hút ẩm mạnh, tan hoàn toàn trong nước, sinh nhiệt mạnh. Nó tạo thành một bazơ mạnh khi hòa tan trong môi trường nước. CTHH: NaOH, CAS: 1310-73-2, hàm lượng: 99%, xuất xứ: Thái Lan, quy cách: 25kg/bao. Natri hydroxit ứng dụng trong công nghiệp sản xuất giấy, xà phòng, tẩy trắng vải sợi, xử lý nước, chế biến thực phẩm, dược phẩm, thuốc sâu…</p>
-    `,
-    data_info_bottom: `
-<span class="posted_in">Danh mục: Hóa Chất Cơ Bản, Hóa chất ngành da giầy, Hóa chất ngành dệt nhuộm, Hóa chất ngành dược – mỹ phẩm, Hóa chất ngành điện tử, Hóa chất ngành giấy, Hóa chất ngành khai khoáng, Hóa chất ngành sơn, Hóa chất ngành tẩy rửa, Hóa chất ngành thức ăn chăn nuôi, Hóa chất ngành thực phẩm, Hóa chất ngành xi mạ, Hóa chất nhiệt điện, Hóa Chất Xử Lý Nước, Sản phẩm khác, Sản phẩm nổi bật</span>
-    `,
-    data_advanced: `<div class="tab-panels">
-							<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
+//   {
+//     key: 63,
+//     type: "Hóa Chất Cơ Bản",
+//     title: "Sodium Hydroxide 99% NaOH, Xút hạt – Thái Lan, 25 kg/bao",
+//     price: 0,
+//     img: Img63,
+//     data_info: `
+// <p class="intro">Sodium hydroxide hay Caustic soda, Xút, Xút hạt, Xút hạt Thái Lan,&nbsp; Natri hydroxit. Là chất rắn không màu dạng hạt, màu trắng, hút ẩm mạnh, tan hoàn toàn trong nước, sinh nhiệt mạnh. Nó tạo thành một bazơ mạnh khi hòa tan trong môi trường nước. CTHH: NaOH, CAS: 1310-73-2, hàm lượng: 99%, xuất xứ: Thái Lan, quy cách: 25kg/bao. Natri hydroxit ứng dụng trong công nghiệp sản xuất giấy, xà phòng, tẩy trắng vải sợi, xử lý nước, chế biến thực phẩm, dược phẩm, thuốc sâu…</p>
+//     `,
+//     data_info_bottom: `
+// <span class="posted_in">Danh mục: Hóa Chất Cơ Bản, Hóa chất ngành da giầy, Hóa chất ngành dệt nhuộm, Hóa chất ngành dược – mỹ phẩm, Hóa chất ngành điện tử, Hóa chất ngành giấy, Hóa chất ngành khai khoáng, Hóa chất ngành sơn, Hóa chất ngành tẩy rửa, Hóa chất ngành thức ăn chăn nuôi, Hóa chất ngành thực phẩm, Hóa chất ngành xi mạ, Hóa chất nhiệt điện, Hóa Chất Xử Lý Nước, Sản phẩm khác, Sản phẩm nổi bật</span>
+//     `,
+//     data_advanced: `<div class="tab-panels">
+// 							<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
 										
 
-<div class="title">
-<div class="content-title"><strong>Mô tả sản phẩm</strong></div>
-<div></div>
-</div>
-<div class="specifications css-content clear">
-<table>
-<tbody>
-<tr>
-<td><strong>Tên sản phẩm</strong></td>
-<td>Sodium hydroxide</td>
-</tr>
-<tr>
-<td><strong>Tên khác</strong></td>
-<td>Caustic soda, Xút, Xút hạt, Natri hydroxit</td>
-</tr>
-<tr>
-<td><strong>Công thức hóa học</strong></td>
-<td>NaOH</td>
-</tr>
-<tr>
-<td><strong>CAS</strong></td>
-<td>1310-73-2</td>
-</tr>
-<tr>
-<td><strong>Hàm lượng</strong></td>
-<td>99%</td>
-</tr>
-<tr>
-<td><strong>Xuất xứ</strong></td>
-<td>Thái Lan</td>
-</tr>
-<tr>
-<td><strong>Quy cách</strong></td>
-<td>25 kg/bao</td>
-</tr>
-</tbody>
-</table>
-</div>
-<div class="css-content content-description">
-<p>Sodium hydroxide là một hóa chất cơ bản được sử dụng rộng rãi trong các ngành công nghiệp, đặc biệt là với ngành sản xuất giấy, xà phòng, tẩy trắng vải sợi, chế biến thực phẩm, dược phẩm, thuốc trừ sâu,… Sản phẩm Sodium hydroxide NaOH 99% xuất xứ Thái Lan – Xút hạt Thái Lan hiện đang được <strong>TRỌNG TUẤN CHEMICAL</strong> phân phối trên toàn quốc với mức giá và ưu đãi vô cùng hấp dẫn. Mọi thông tin về sản phẩm sẽ được chúng tôi cập nhật thường xuyên tại bài viết dưới đây!</p>
-<h2 id="mcetoc_1f8tt8ndq0">1. Sodium hzydroxide là gì?</h2>
-<p><strong>Sodium hydroxide</strong>&nbsp;hay còn được gọi là Xút, Natri hydroxit và có công thức hóa học là NaOH. Đây là chất rắn không màu dạng vảy hoặc hạt màu trắng, hút ẩm mạnh, tan hoàn toàn trong nước, sinh nhiệt mạnh và chúng tạo thành một bazơ mạnh khi hòa tan trong môi trường nước.</p>
-<p><em>Sodium hydroxide là gì</em></p>
-<p>&nbsp;&nbsp;Sodium hydroxide 99% NaOH, Đài Loan, Xút hạt, 25kg/bao</p>
-<h2 id="mcetoc_1f8tt991q1">2. Tính chất lí hóa nổi bật của hóa chất Sodium hydroxide</h2>
-<h3 id="mcetoc_1f8tt9f822">2.1. Tính chất vật lí của&nbsp;Sodium hydroxide</h3>
-<ul>
-<li>Sodium hydroxide có dạng hạt nhỏ không màu.</li>
-<li>Hấp thụ nhanh CO2 và nước của không khí, chảy rữa và biến thành Na2CO3.</li>
-<li>Nhiệt độ nóng chảy 327,6 ± 0,9oC.</li>
-<li>Nhiệt độ sôi 1388oC.</li>
-<li>Dễ tan trong nước sẽ tỏa nhiệt và tạo thành dung dịch bazơ mạnh, đồng thời chúng còn tan nhiều trong rượu và không tan trong este.</li>
-<li>Có tính ăn mòn mạnh nên khi &nbsp;rơi vào bông, vải, giấy …sẽ bị mục nát</li>
-</ul>
-<p><em>Sodium hydroxide 99% có dạng hạt nhỏ không màu</em></p>
-<h3 id="mcetoc_1f8tt9ldi3">2.2. Những tính chất hóa học đặc trưng</h3>
-<ul>
-<li>Tác dụng với dung dịch axít:</li>
-</ul>
-<p>2NaOH + H2SO4&nbsp; →&nbsp; Na2SO4 + 2H2O</p>
-<ul>
-<li>Tác dụng với oxit axit:</li>
-</ul>
-<p>NaOH + SO2&nbsp;&nbsp; →&nbsp;&nbsp;&nbsp; NaHSO3</p>
-<ul>
-<li>Tác dụng với muối:</li>
-</ul>
-<p>2NaOH + CuCl2&nbsp; →&nbsp; &nbsp;2NaCl + Cu(OH)2</p>
-<ul>
-<li>Tác dụng với kim loại lưỡng tính:</li>
-</ul>
-<p>2NaOH + 2Al + 2H2O&nbsp; →&nbsp;&nbsp; 2NaAlO2 + 3H2</p>
-<h2 id="mcetoc_1f8tt9ta34">3. Điều chế/Sản xuất&nbsp;Sodium hydroxide NaOH như nào?</h2>
-<p>Sau đây là một số phương pháp được dùng để điều chế, sản xuất hóa chất Sodium hydroxide NaOH phổ biến hiện nay:</p>
-<ul>
-<li>Phản ứng tổng thể để sản xuất xút và clo:</li>
-</ul>
-<p>2Na+ + 2H<sub>2</sub>O + 2<sup>e-</sup>&nbsp;→ H<sub>2</sub>&nbsp;+ NaOH</p>
-<ul>
-<li>Sản xuất bằng phản ứng điện phân dung dịch muối ăn trong bình điện phân có màng ngăn:</li>
-</ul>
-<p>NaCl + 2H<sub>2</sub>O → 2NaOH + H<sub>2</sub>&nbsp;+ Cl<sub>2</sub></p>
-<h2 id="mcetoc_1f8tta38j5">4. Ứng dụng của hóa chất xút NaOH 99% trong sản xuất và đời sống</h2>
-<h3 id="mcetoc_1f8ttaa2j6">4.1. Ứng dụng trong công nghiệp thực phẩm của&nbsp;Sodium hydroxide</h3>
-<p>Trong ngành công nghiệp chế biến thực phẩm, xút NaOH sẽ được dùng trong việc loại bỏ các axit béo trong quá trình tinh chế các loại dầu động vật và thực vật trước khi dùng để sản xuất thực phẩm. Ngoài ra, nó còn được dùng để pha chế dung dịch rửa chai lọ và các thiết bị trong nhiều nhà máy bia.</p>
-<p><em>Ứng dụng trong công nghiệp thực phẩm của&nbsp;Sodium hydroxide</em></p>
-<h3 id="mcetoc_1f8ttbhg27">4.2. Ứng dụng trong công nghiệp dầu khí</h3>
-<p>Trong ngành công nghiệp dầu khí,&nbsp;Sodium hydroxide được dùng vào việc điều chỉnh độ pH cho dung dung dịch khoan, loại bỏ sunfua, các hợp chất sunfua và các hợp chất axit trong tinh chế dầu mỏ.</p>
-<h3 id="mcetoc_1f8ttbm8j8">4.3. Trong sản xuất chất tẩy rửa của&nbsp;Sodium hydroxide</h3>
-<p>Trong sản xuất các chất tẩy giặt, xút dùng để thủy phân chất béo trong dầu mỡ động thực vật để làm xà phòng.</p>
-<h3 id="mcetoc_1f8ttbqbh9">4.4. NaOH dùng trong dệt nhuộm</h3>
-<p>Xút hạt được dùng trong khâu xử lý vải thô, phân hủy Pectins để làm vải trở nên bóng, mượt mà, giúp vải có thể hấp thụ màu nhanh chóng.</p>
-<p>Khi dùng thuốc nhuộm Naphtol để in hoa trực tiếp lên vải, phần thuốc nhuộm còn dư lại trên vải sẽ không tan trong nước nên người ta có thể dùng dung dịch NaOH để khử Naphtol dư.</p>
-<p>Để sao chép bản in mới từ bản in cũ, người ra cho dung dịch NAOH đậm đặc tiếp xúc với màng đã quang hóa trên bản in cũ, sau đó tiến hành phun tia nước áp lực để loại bỏ lớp màng đó để tạo ra bản in mới.</p>
-<p id="mcetoc_1ga61s5of0">Xút NaOH là một thành phần quan trọng trong công nghiệp dệt – nhuộm</p>
-<h3 id="mcetoc_1f8ttbu82a">4.5. Các ứng dụng khác của xút NaOH</h3>
-<p>Xút còn được dùng trong ngành công nghiệp hóa chất và luyện kim, y dược, thuốc trừ sâu, hóa hữu cơ tổng hợp…</p>
-<h2 id="mcetoc_1f8ttc3crb">5. Những lưu ý khi sử dụng và bảo quản&nbsp;Sodium hydroxide hợp lý</h2>
-<p>Cần trang bị đồ bảo hộ đầy đủ khi tiếp xúc với&nbsp;Sodium hydroxide</p>
-<ul>
-<li>Là hóa chất ăn mòn nên khi tiếp xúc phải trang bị đầy đủ dụng cụ bảo hộ lao động như: quần áo, găng tay bảo hộ, khẩu trang, kính…</li>
-<li>Xút là chất rất dễ hấp thụ CO<sub>2</sub>&nbsp;trong không khí để biến đổi thành Na<sub>2</sub>CO<sub>3</sub>. Vì vậy nó thường được bảo quản ở trong bình có nắp kín, hoặc đóng gói trong bao bì nhiều lớp bảo vệ.</li>
-<li>Khi tiếp xúc với nước sẽ tỏa nhiệt và bắn hóa chất, nên hết sức lưu ý khi pha xút và bảo quản tránh ẩm ướt.</li>
-</ul>
-<h2 id="mcetoc_1ga60lnpv4">6. Báo giá hóa chất&nbsp;Sodium hydroxide 99% mới nhất</h2>
-<p>Trên thị trường hiện nay có rất nhiều thương hiệu cung cấp dung hóa chất Sodium hydroxide NaOH 99% với quy cách đóng gói rất đa dạng. Tùy vào chất lượng sản phẩm mà chúng lại có những mức giá khác nhau. Để có thể mua được hóa chất công nghiệp chất lượng tốt mà giá cả hợp lý thì khách hàng cần sáng suốt lựa chọn những nhà phân phối uy tín.</p>
-<p>Hiện nay, tại VIETCHEM – công ty chuyên phân phối hóa chất công nghiệp hàng đầu Việt Nam – đang bán hóa chất Sodium hydroxide 99%, xuất xứ Thái Lan, có quy cách đóng gói 25kg/ bao với mức giá vô cùng hấp dẫn. Hãy liên hệ ngay với&nbsp;<strong>VIETCHEM</strong>&nbsp;để được báo giá tốt nhất!</p>
-<p></p>
-<p><em>Sodium hydroxide 99%, Thái Lan, 25kg/bao</em></p>
-<h2 id="mcetoc_1f8ttcm29c">7. Mua hóa chất Sodium hydroxide 99% ở đâu uy tín, chất lượng trên toàn quốc</h2>
-<p><strong>TRỌNG TUẤN CHEMICAL </strong>là đơn vị đi đầu trong lĩnh vực nhập khẩu và phân phối các loại hóa chất công nghiệp, hóa chất cơ bản trên cả nước đã được hệ thống khách hàng đánh giá cao về chấtlượng, trong đó không thể không nhắc đến Sodium hydroxide Thái Lan. Đây là những lý do khiến <strong>TRỌNG TUẤN CHEMICAL </strong>trở thành công ty được đánh giá cao và được tin tưởng lựa chọn:</p>
-<ul>
-<li>Chất lượng sản phẩm luôn được đảm bảo và giá thành tốt nhất trên thị trường hiện nay.</li>
-<li>Hệ thống chuyên viên chuyên nghiệp với kiến thức sâu và luôn sẵn sàng hỗ trợ khách hàng 24/7.</li>
-<li>Nguồn gốc, xuất xứ hàng hóa rõ ràng, hàng chính hãng 100% và bảo hành theo nhà sản xuất đúng tiêu chuẩn.</li>
-<li>Cung cấp đầy đủ chứng từ, hóa đơn hàng hóa khi giao nhận hàng.</li>
-<li>Thủ tục thanh toán đơn giản, tiết kiệm thời gian công sức cho hệ thống khách hàng.</li>
-</ul>
-<p><em>Mua hóa chất Sodium hydroxide 99% ở đâu uy tín, chất lượng trên toàn quốc</em></p>
-<p>Quý khách hàng đang có nhu cầu mua&nbsp;<strong>Sodium hydroxide</strong> của <strong>TRỌNG TUẤN CHEMICAL </strong>hãy liên hệ ngay số Hotline 0826 010 010 hoặc truy cập trực tiếp website TRỌNG TUẤN CHEMICAL.com.vn để được tư vấn và hỗ trợ trực tiếp từ hệ thống các chuyên viên.</p>
-</div>`,
-  },
+// <div class="title">
+// <div class="content-title"><strong>Mô tả sản phẩm</strong></div>
+// <div></div>
+// </div>
+// <div class="specifications css-content clear">
+// <table>
+// <tbody>
+// <tr>
+// <td><strong>Tên sản phẩm</strong></td>
+// <td>Sodium hydroxide</td>
+// </tr>
+// <tr>
+// <td><strong>Tên khác</strong></td>
+// <td>Caustic soda, Xút, Xút hạt, Natri hydroxit</td>
+// </tr>
+// <tr>
+// <td><strong>Công thức hóa học</strong></td>
+// <td>NaOH</td>
+// </tr>
+// <tr>
+// <td><strong>CAS</strong></td>
+// <td>1310-73-2</td>
+// </tr>
+// <tr>
+// <td><strong>Hàm lượng</strong></td>
+// <td>99%</td>
+// </tr>
+// <tr>
+// <td><strong>Xuất xứ</strong></td>
+// <td>Thái Lan</td>
+// </tr>
+// <tr>
+// <td><strong>Quy cách</strong></td>
+// <td>25 kg/bao</td>
+// </tr>
+// </tbody>
+// </table>
+// </div>
+// <div class="css-content content-description">
+// <p>Sodium hydroxide là một hóa chất cơ bản được sử dụng rộng rãi trong các ngành công nghiệp, đặc biệt là với ngành sản xuất giấy, xà phòng, tẩy trắng vải sợi, chế biến thực phẩm, dược phẩm, thuốc trừ sâu,… Sản phẩm Sodium hydroxide NaOH 99% xuất xứ Thái Lan – Xút hạt Thái Lan hiện đang được <strong>TRỌNG TUẤN CHEMICAL</strong> phân phối trên toàn quốc với mức giá và ưu đãi vô cùng hấp dẫn. Mọi thông tin về sản phẩm sẽ được chúng tôi cập nhật thường xuyên tại bài viết dưới đây!</p>
+// <h2 id="mcetoc_1f8tt8ndq0">1. Sodium hzydroxide là gì?</h2>
+// <p><strong>Sodium hydroxide</strong>&nbsp;hay còn được gọi là Xút, Natri hydroxit và có công thức hóa học là NaOH. Đây là chất rắn không màu dạng vảy hoặc hạt màu trắng, hút ẩm mạnh, tan hoàn toàn trong nước, sinh nhiệt mạnh và chúng tạo thành một bazơ mạnh khi hòa tan trong môi trường nước.</p>
+// <p><em>Sodium hydroxide là gì</em></p>
+// <p>&nbsp;&nbsp;Sodium hydroxide 99% NaOH, Đài Loan, Xút hạt, 25kg/bao</p>
+// <h2 id="mcetoc_1f8tt991q1">2. Tính chất lí hóa nổi bật của hóa chất Sodium hydroxide</h2>
+// <h3 id="mcetoc_1f8tt9f822">2.1. Tính chất vật lí của&nbsp;Sodium hydroxide</h3>
+// <ul>
+// <li>Sodium hydroxide có dạng hạt nhỏ không màu.</li>
+// <li>Hấp thụ nhanh CO2 và nước của không khí, chảy rữa và biến thành Na2CO3.</li>
+// <li>Nhiệt độ nóng chảy 327,6 ± 0,9oC.</li>
+// <li>Nhiệt độ sôi 1388oC.</li>
+// <li>Dễ tan trong nước sẽ tỏa nhiệt và tạo thành dung dịch bazơ mạnh, đồng thời chúng còn tan nhiều trong rượu và không tan trong este.</li>
+// <li>Có tính ăn mòn mạnh nên khi &nbsp;rơi vào bông, vải, giấy …sẽ bị mục nát</li>
+// </ul>
+// <p><em>Sodium hydroxide 99% có dạng hạt nhỏ không màu</em></p>
+// <h3 id="mcetoc_1f8tt9ldi3">2.2. Những tính chất hóa học đặc trưng</h3>
+// <ul>
+// <li>Tác dụng với dung dịch axít:</li>
+// </ul>
+// <p>2NaOH + H2SO4&nbsp; →&nbsp; Na2SO4 + 2H2O</p>
+// <ul>
+// <li>Tác dụng với oxit axit:</li>
+// </ul>
+// <p>NaOH + SO2&nbsp;&nbsp; →&nbsp;&nbsp;&nbsp; NaHSO3</p>
+// <ul>
+// <li>Tác dụng với muối:</li>
+// </ul>
+// <p>2NaOH + CuCl2&nbsp; →&nbsp; &nbsp;2NaCl + Cu(OH)2</p>
+// <ul>
+// <li>Tác dụng với kim loại lưỡng tính:</li>
+// </ul>
+// <p>2NaOH + 2Al + 2H2O&nbsp; →&nbsp;&nbsp; 2NaAlO2 + 3H2</p>
+// <h2 id="mcetoc_1f8tt9ta34">3. Điều chế/Sản xuất&nbsp;Sodium hydroxide NaOH như nào?</h2>
+// <p>Sau đây là một số phương pháp được dùng để điều chế, sản xuất hóa chất Sodium hydroxide NaOH phổ biến hiện nay:</p>
+// <ul>
+// <li>Phản ứng tổng thể để sản xuất xút và clo:</li>
+// </ul>
+// <p>2Na+ + 2H<sub>2</sub>O + 2<sup>e-</sup>&nbsp;→ H<sub>2</sub>&nbsp;+ NaOH</p>
+// <ul>
+// <li>Sản xuất bằng phản ứng điện phân dung dịch muối ăn trong bình điện phân có màng ngăn:</li>
+// </ul>
+// <p>NaCl + 2H<sub>2</sub>O → 2NaOH + H<sub>2</sub>&nbsp;+ Cl<sub>2</sub></p>
+// <h2 id="mcetoc_1f8tta38j5">4. Ứng dụng của hóa chất xút NaOH 99% trong sản xuất và đời sống</h2>
+// <h3 id="mcetoc_1f8ttaa2j6">4.1. Ứng dụng trong công nghiệp thực phẩm của&nbsp;Sodium hydroxide</h3>
+// <p>Trong ngành công nghiệp chế biến thực phẩm, xút NaOH sẽ được dùng trong việc loại bỏ các axit béo trong quá trình tinh chế các loại dầu động vật và thực vật trước khi dùng để sản xuất thực phẩm. Ngoài ra, nó còn được dùng để pha chế dung dịch rửa chai lọ và các thiết bị trong nhiều nhà máy bia.</p>
+// <p><em>Ứng dụng trong công nghiệp thực phẩm của&nbsp;Sodium hydroxide</em></p>
+// <h3 id="mcetoc_1f8ttbhg27">4.2. Ứng dụng trong công nghiệp dầu khí</h3>
+// <p>Trong ngành công nghiệp dầu khí,&nbsp;Sodium hydroxide được dùng vào việc điều chỉnh độ pH cho dung dung dịch khoan, loại bỏ sunfua, các hợp chất sunfua và các hợp chất axit trong tinh chế dầu mỏ.</p>
+// <h3 id="mcetoc_1f8ttbm8j8">4.3. Trong sản xuất chất tẩy rửa của&nbsp;Sodium hydroxide</h3>
+// <p>Trong sản xuất các chất tẩy giặt, xút dùng để thủy phân chất béo trong dầu mỡ động thực vật để làm xà phòng.</p>
+// <h3 id="mcetoc_1f8ttbqbh9">4.4. NaOH dùng trong dệt nhuộm</h3>
+// <p>Xút hạt được dùng trong khâu xử lý vải thô, phân hủy Pectins để làm vải trở nên bóng, mượt mà, giúp vải có thể hấp thụ màu nhanh chóng.</p>
+// <p>Khi dùng thuốc nhuộm Naphtol để in hoa trực tiếp lên vải, phần thuốc nhuộm còn dư lại trên vải sẽ không tan trong nước nên người ta có thể dùng dung dịch NaOH để khử Naphtol dư.</p>
+// <p>Để sao chép bản in mới từ bản in cũ, người ra cho dung dịch NAOH đậm đặc tiếp xúc với màng đã quang hóa trên bản in cũ, sau đó tiến hành phun tia nước áp lực để loại bỏ lớp màng đó để tạo ra bản in mới.</p>
+// <p id="mcetoc_1ga61s5of0">Xút NaOH là một thành phần quan trọng trong công nghiệp dệt – nhuộm</p>
+// <h3 id="mcetoc_1f8ttbu82a">4.5. Các ứng dụng khác của xút NaOH</h3>
+// <p>Xút còn được dùng trong ngành công nghiệp hóa chất và luyện kim, y dược, thuốc trừ sâu, hóa hữu cơ tổng hợp…</p>
+// <h2 id="mcetoc_1f8ttc3crb">5. Những lưu ý khi sử dụng và bảo quản&nbsp;Sodium hydroxide hợp lý</h2>
+// <p>Cần trang bị đồ bảo hộ đầy đủ khi tiếp xúc với&nbsp;Sodium hydroxide</p>
+// <ul>
+// <li>Là hóa chất ăn mòn nên khi tiếp xúc phải trang bị đầy đủ dụng cụ bảo hộ lao động như: quần áo, găng tay bảo hộ, khẩu trang, kính…</li>
+// <li>Xút là chất rất dễ hấp thụ CO<sub>2</sub>&nbsp;trong không khí để biến đổi thành Na<sub>2</sub>CO<sub>3</sub>. Vì vậy nó thường được bảo quản ở trong bình có nắp kín, hoặc đóng gói trong bao bì nhiều lớp bảo vệ.</li>
+// <li>Khi tiếp xúc với nước sẽ tỏa nhiệt và bắn hóa chất, nên hết sức lưu ý khi pha xút và bảo quản tránh ẩm ướt.</li>
+// </ul>
+// <h2 id="mcetoc_1ga60lnpv4">6. Báo giá hóa chất&nbsp;Sodium hydroxide 99% mới nhất</h2>
+// <p>Trên thị trường hiện nay có rất nhiều thương hiệu cung cấp dung hóa chất Sodium hydroxide NaOH 99% với quy cách đóng gói rất đa dạng. Tùy vào chất lượng sản phẩm mà chúng lại có những mức giá khác nhau. Để có thể mua được hóa chất công nghiệp chất lượng tốt mà giá cả hợp lý thì khách hàng cần sáng suốt lựa chọn những nhà phân phối uy tín.</p>
+// <p>Hiện nay, tại VIETCHEM – công ty chuyên phân phối hóa chất công nghiệp hàng đầu Việt Nam – đang bán hóa chất Sodium hydroxide 99%, xuất xứ Thái Lan, có quy cách đóng gói 25kg/ bao với mức giá vô cùng hấp dẫn. Hãy liên hệ ngay với&nbsp;<strong>VIETCHEM</strong>&nbsp;để được báo giá tốt nhất!</p>
+// <p></p>
+// <p><em>Sodium hydroxide 99%, Thái Lan, 25kg/bao</em></p>
+// <h2 id="mcetoc_1f8ttcm29c">7. Mua hóa chất Sodium hydroxide 99% ở đâu uy tín, chất lượng trên toàn quốc</h2>
+// <p><strong>TRỌNG TUẤN CHEMICAL </strong>là đơn vị đi đầu trong lĩnh vực nhập khẩu và phân phối các loại hóa chất công nghiệp, hóa chất cơ bản trên cả nước đã được hệ thống khách hàng đánh giá cao về chấtlượng, trong đó không thể không nhắc đến Sodium hydroxide Thái Lan. Đây là những lý do khiến <strong>TRỌNG TUẤN CHEMICAL </strong>trở thành công ty được đánh giá cao và được tin tưởng lựa chọn:</p>
+// <ul>
+// <li>Chất lượng sản phẩm luôn được đảm bảo và giá thành tốt nhất trên thị trường hiện nay.</li>
+// <li>Hệ thống chuyên viên chuyên nghiệp với kiến thức sâu và luôn sẵn sàng hỗ trợ khách hàng 24/7.</li>
+// <li>Nguồn gốc, xuất xứ hàng hóa rõ ràng, hàng chính hãng 100% và bảo hành theo nhà sản xuất đúng tiêu chuẩn.</li>
+// <li>Cung cấp đầy đủ chứng từ, hóa đơn hàng hóa khi giao nhận hàng.</li>
+// <li>Thủ tục thanh toán đơn giản, tiết kiệm thời gian công sức cho hệ thống khách hàng.</li>
+// </ul>
+// <p><em>Mua hóa chất Sodium hydroxide 99% ở đâu uy tín, chất lượng trên toàn quốc</em></p>
+// <p>Quý khách hàng đang có nhu cầu mua&nbsp;<strong>Sodium hydroxide</strong> của <strong>TRỌNG TUẤN CHEMICAL </strong>hãy liên hệ ngay số Hotline 0826 010 010 hoặc truy cập trực tiếp website TRỌNG TUẤN CHEMICAL.com.vn để được tư vấn và hỗ trợ trực tiếp từ hệ thống các chuyên viên.</p>
+// </div>`,
+//   },
   {
     key: 64,
     type: "Hóa Chất Cơ Bản",
@@ -7737,396 +7736,396 @@ Nhà kho trữ hóa chất phải nằm ở xa khu dân cư, tránh nguồn nư�
 <p>Quý khách có nhu cầu mua nước Javen hãy liên hệ ngay cho chúng tôi theo số HOTLINE&nbsp;<strong>0932323391 </strong>&nbsp;để được tư vấn và báo giá tốt nhất.</p>
 </div>`,
   },
-  {
-    key: 66,
-    type: "Hóa Chất Cơ Bản",
-    title: "Sodium Metabisulfite (SBS) Na2S2O5 99%, Thái Lan, 25 kg/bao",
-    price: 0,
-    img: Img66,
-    data_info: `
-<p class="intro">Sodium metabisulfite hay Sodium metabisunfit, Natri metabisunfit là một hợp chất vô cơ có CTHH: Na2S2O5, CAS: 7681-57-4, hàm lượng: 99%, quy cách: 25kg/bao. Xuất xứ: Thái Lan. SBS tồn tại dưới dạng bột pha lê màu trắng hoặc màu vàng nhạt khi hòa vào nước nó có khả năng giải phóng chất lưu huỳnh gây ra mùi khó chịu. Ứng dụng rộng rãi trong thực phẩm, y tế, xử lý nước, dệt nhuộm…</p>
-    `,
-    data_info_bottom: `
-<span class="posted_in">Danh mục: Hóa Chất Cơ Bản, Hóa chất ngành da giầy, Hóa chất ngành dệt nhuộm, Hóa chất ngành dược – mỹ phẩm, Hóa chất ngành điện tử, Hóa chất ngành giấy, Hóa chất ngành khai khoáng, Hóa chất ngành sơn, Hóa chất ngành tẩy rửa, Hóa chất ngành thức ăn chăn nuôi, Hóa chất ngành thực phẩm, Hóa chất ngành xi mạ, Hóa chất nhiệt điện, Hóa Chất Xử Lý Nước, Sản phẩm khác, Sản phẩm nổi bật</span>
-    `,
-    data_advanced: `<div class="tab-panels">
-							<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
+//   {
+//     key: 66,
+//     type: "Hóa Chất Cơ Bản",
+//     title: "Sodium Metabisulfite (SBS) Na2S2O5 99%, Thái Lan, 25 kg/bao",
+//     price: 0,
+//     img: Img66,
+//     data_info: `
+// <p class="intro">Sodium metabisulfite hay Sodium metabisunfit, Natri metabisunfit là một hợp chất vô cơ có CTHH: Na2S2O5, CAS: 7681-57-4, hàm lượng: 99%, quy cách: 25kg/bao. Xuất xứ: Thái Lan. SBS tồn tại dưới dạng bột pha lê màu trắng hoặc màu vàng nhạt khi hòa vào nước nó có khả năng giải phóng chất lưu huỳnh gây ra mùi khó chịu. Ứng dụng rộng rãi trong thực phẩm, y tế, xử lý nước, dệt nhuộm…</p>
+//     `,
+//     data_info_bottom: `
+// <span class="posted_in">Danh mục: Hóa Chất Cơ Bản, Hóa chất ngành da giầy, Hóa chất ngành dệt nhuộm, Hóa chất ngành dược – mỹ phẩm, Hóa chất ngành điện tử, Hóa chất ngành giấy, Hóa chất ngành khai khoáng, Hóa chất ngành sơn, Hóa chất ngành tẩy rửa, Hóa chất ngành thức ăn chăn nuôi, Hóa chất ngành thực phẩm, Hóa chất ngành xi mạ, Hóa chất nhiệt điện, Hóa Chất Xử Lý Nước, Sản phẩm khác, Sản phẩm nổi bật</span>
+//     `,
+//     data_advanced: `<div class="tab-panels">
+// 							<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
 										
 
-<div class="title">
-<div class="content-title"><strong>Mô tả sản phẩm</strong></div>
-<div></div>
-</div>
-<div class="specifications css-content clear">
-<table>
-<tbody>
-<tr>
-<td><strong>Tên sản phẩm:</strong></td>
-<td>Sodium metabisulfite (SBS)</td>
-</tr>
-<tr>
-<td><strong>Tên gọi khác:</strong></td>
-<td>Sodium metabisunfit, Natri metabisunfit</td>
-</tr>
-<tr>
-<td><strong>Công thức hóa học:</strong></td>
-<td>Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub></td>
-</tr>
-<tr>
-<td><strong>CAS:</strong></td>
-<td>7681-57-4</td>
-</tr>
-<tr>
-<td><strong>Hàm lượng:</strong></td>
-<td>99%</td>
-</tr>
-<tr>
-<td><strong>Xuất xứ:</strong></td>
-<td>Thái Lan</td>
-</tr>
-<tr>
-<td><strong>Quy cách đóng gói:</strong></td>
-<td>25kg/bao</td>
-</tr>
-</tbody>
-</table>
-</div>
-<div class="css-content content-description">
-<h2 id="mcetoc_1f4vvl96e0">1. Sodium metabisulfite là gì?</h2>
-<p>Sodium metabisulfite hay còn gọi là&nbsp;<strong>Natri metabisunfit</strong>&nbsp;hoặc Natri pyrosunfite, là một hợp chất vô cơ có công thức hóa học là Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub>. Chúng có ngoại quan tinh thể bột màu trắng, tan trong nước, kích ứng hệ hô hấp, có mùi hắc nhẹ của lưu huỳnh.</p>
-<p><em>Natri metabisunfit&nbsp;có ngoại quan dạng bột màu trắng</em></p>
-<h2 id="mcetoc_1f4vvlhif1">2. Những tính chất lí hóa của Sodium metabisulfite</h2>
-<h3 id="mcetoc_1f4vvlu4n2">2.1. Tính chất vật lí của Sodium metabisulfite</h3>
-<ul>
-<li>Sodium metabisulfite có ngoại quan tinh thể rắn hoặc bột màu trắng có mùi hắc khó chịu của lưu huỳnh.</li>
-<li>Khối lượng mol 190.107 g/mol.</li>
-<li>Khối lượng riêng 1.48 g/cm<sup>3</sup>.</li>
-<li>Điểm nóng chảy &nbsp;&gt;170 °C</li>
-<li>Độ hòa tan trong nước 54 g/100 ml.</li>
-</ul>
-<h3 id="mcetoc_1f4vvm2q03">2.2. Tính chất hóa học của sodium metabisulfite</h3>
-<p>&nbsp;</p>
-<ul>
-<li>Là hợp chất vô cơ nên chúng sẽ tác dụng với dung dịch axít giải phóng khí và tạo muối:</li>
-</ul>
-<p>Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub>&nbsp;+ 2HCl → 2NaCl + H<sub>2</sub>O + 2SO<sub>2</sub></p>
-<ul>
-<li>Có phản ứng nhiệt phân tạo thành khí lưu huỳnh đioxít:</li>
-</ul>
-<p>Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub>&nbsp;→ Na<sub>2</sub>O + 2SO<sub>2</sub></p>
-<ul>
-<li>Phản ứng trao đổi với nước tạo thành dung dịch bazơ và giải phóng khí SO2:</li>
-</ul>
-<p>Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub>&nbsp;+ H<sub>2</sub>O → 2SO<sub>2</sub>&nbsp;+ 2NaOH</p>
-<h2 id="mcetoc_1f4vvm8pl4">3. Những ứng dụng của hóa chất sodium metabisulfite trong đời sống, sản xuất</h2>
-<h3 id="mcetoc_1fsdjrour0">Ứng dụng trong thực phẩm:</h3>
-<p>Sodium metabisulfite được sử dụng như một chất phụ gia có công dụng giữ màu, ngăn biến đổi màu sắc của thực phẩm như bún, miến, bánh kẹo, đồ ăn nhanh, trái cây…</p>
-<p><em>Chất phụ gia trong bảo quản thực phẩm&nbsp;</em></p>
-<p>&nbsp;Sodium metabisulfite – SBS – Ý – 25 kg/bao</p>
-<p>Là chất oxy hóa tốt nên SBS có tác dụng ngăn ngừa vi khuẩn, nấm phát triển trên thực phẩm điều này giúp thời gian bảo quản thực phẩm được tăng lên, nâng cao chất lượng cho thực phẩm.</p>
-<p>Chúng còn được người ta dùng làm thành phần bảo quản trong rượu, bia và các đồ uống có cồn nhằm ngăn chặn quá trình oxy hóa và giữ nguyên hương vị ban đầu cho sản phẩm.</p>
-<p><strong>Ứng dụng trong các ngành công nghiệp của&nbsp;Natri metabisunfit</strong></p>
-<p>Hóa chất sodium metabisulfite là chất không thể thiếu trong quá trình xử lý nước thải công nghiệp để loại bỏ cloramin dư thừa.</p>
-<p><em>SBS được sử dụng trong xử lý nước thải&nbsp;loại bỏ cloramin dư thừa</em></p>
-<p>Sodium metabisulfite là dẫn xuất quan trọng để sản xuất các hóa chất và hợp chất khác, phân tách aldehyde và ketone.</p>
-<h3 id="mcetoc_1gf0jp6i31"><strong>Ứng dụng trong y tế</strong></h3>
-<ul>
-<li>Sodium metabisulfite là một thành phần trong việc tinh chế các tá dược của một số thuốc như paracetamol.</li>
-<li>SBS là một chất có thể được cho vào một mẫu máu trong một phép thử cho hội chứng tế bào hình liềm.</li>
-</ul>
-<h3 id="mcetoc_1f9veeatq0"><strong>Các ứng dụng khác của&nbsp;Natri metabisunfit</strong></h3>
-<p>Chất tẩy rửa và sát trùng vệ sinh: thường dùng trong việc ủ bia tại gia và nấu rượu để sát trùng các thiết bị và dụng cụ. Nó còn làm chất chùi rửa cho màng thẩm thấu ngược trong sản xuất nước sạch trong hệ thống tách muối khỏi nước biển.</p>
-<p>Chất chống lên men trong thức ăn gia súc, ngăn ngừa vi khuẩn trong chế biến đường và tinh bột, được dùng làm chất tẩy trắng trong ngành giấy, cotton, len, kaolin,…</p>
-<h2 id="mcetoc_1f9qo0gv11">4. Lưu ý để bảo quản, sử dụng hóa chất Sodium Metabisulfite an toàn</h2>
-<ul>
-<li>Sodium Metabisulfite cần được bảo quản những nơi khô ráo, thoáng mát, tránh ánh nắng mặt trời.</li>
-<li>Không nên được để gần những nơi có nước, có độ ẩm cao hoặc những nơi có tính acid, tính oxi hóa, chất độc hại.</li>
-<li>Tránh tiếp xúc trực tiếp với hóa chất này để đảm bảo an toàn cho người sử dụng.</li>
-</ul>
-<h2 id="mcetoc_1f4vvmm9d5">5. Mua hóa chất Sodium metabisulfite ở đâu uy tín, chất lượng?</h2>
-<p>Trên thị trường hóa chất hiên nay có rất nhiều cơ sở sản xuất, kinh doanh các loại hóa chất công nghiệp,&nbsp;<strong>hóa chất cơ bản</strong> với đa dạng về sản phẩm, chủng loại, kích cỡ…Tuy nhiên không phải bất kỳ cơ sở nào cũng đảm bảo an toàn, uy tín, giá cả cạnh tranh như Công ty <strong>TRỌNG TUẤN CHEMICAL</strong>. Chúng tôi có các dịch vụ tốt nhất hiện nay như:</p>
-<ul>
-<li>Chất lượng sản phẩm luôn được đảm bảo và giá thành tốt nhất trên thị trường hiện tại.</li>
-<li>Hệ thống chuyên viên chuyên nghiệp với kiến thức sâu và luôn sẵn sàng hỗ trợ khách hàng 24/7.</li>
-<li>Nguồn gốc, xuất xứ hàng hóa rõ ràng, hàng chính hãng 100% và bảo hành theo nhà sản xuất đúng tiêu chuẩn.</li>
-<li>Cung cấp đầy đủ chứng từ, hóa đơn hàng hóa khi giao nhận hàng.</li>
-<li>Thủ tục thanh toán đơn giản, tiết kiệm thời gian công sức cho hệ thống khách hàng.</li>
-</ul>
-<p id="mcetoc_1fma5tssn0"><em>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sodium metabisulfite(SBS) tại nhà phân phôi hóa chất <strong>TRỌNG TUẤN CHEMICAL</strong> </em></p>
-<div class="vote detail-rating">Quý khách hàng đang thắc mắc&nbsp;<strong>Natri metabisunfit&nbsp;</strong>giá bao nhiêu, hãy liên hệ với <strong>TRỌNG TUẤN CHEMICAL</strong> qua số Hotline&nbsp;<strong>09 32 32 33 91</strong>&nbsp;hoặc truy cập trực tiếp&nbsp;<strong>website</strong>&nbsp;<strong>TRỌNG TUẤN CHEMICAL.com.vn</strong>&nbsp;để được tư vấn và hỗ trợ trực tiếp từ hệ thống các chuyên viên.</div>
-</div>`,
-  },
-  {
-    key: 67,
-    type: "Hóa Chất Cơ Bản",
-    title: "Sodium Metabisulfite(SBS) 99% Na2S2O5, Trung Quốc, 25kg/bao",
-    price: 0,
-    img: Img67,
-    data_info: `
-<p>Sodium metabisulfite hay Sodium metabisunfit, Natri metabisunfit là một hợp chất vô cơ có CTHH: Na2S2O5, CAS: 7681-57-4, hàm lượng: 99%, quy cách: 25kg/bao. Xuất xứ: Trung Quốc. SBS tồn tại dưới dạng bột pha lê màu trắng hoặc màu vàng nhạt khi hòa vào nước nó có khả năng giải phóng chất lưu huỳnh gây ra mùi khó chịu. Ứng dụng rộng rãi trong thực phẩm, y tế, xử lý nước, dệt nhuộm…</p>
-    `,
-    data_info_bottom: `
-<span class="posted_in">Danh mục: Hóa Chất Cơ Bản, Hóa chất ngành dược – mỹ phẩm, Hóa chất ngành giấy, Hóa chất ngành thực phẩm, Hóa Chất Xử Lý Nước</span>
-    `,
-    data_advanced: `<div class="tab-panels">
-							<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
+// <div class="title">
+// <div class="content-title"><strong>Mô tả sản phẩm</strong></div>
+// <div></div>
+// </div>
+// <div class="specifications css-content clear">
+// <table>
+// <tbody>
+// <tr>
+// <td><strong>Tên sản phẩm:</strong></td>
+// <td>Sodium metabisulfite (SBS)</td>
+// </tr>
+// <tr>
+// <td><strong>Tên gọi khác:</strong></td>
+// <td>Sodium metabisunfit, Natri metabisunfit</td>
+// </tr>
+// <tr>
+// <td><strong>Công thức hóa học:</strong></td>
+// <td>Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub></td>
+// </tr>
+// <tr>
+// <td><strong>CAS:</strong></td>
+// <td>7681-57-4</td>
+// </tr>
+// <tr>
+// <td><strong>Hàm lượng:</strong></td>
+// <td>99%</td>
+// </tr>
+// <tr>
+// <td><strong>Xuất xứ:</strong></td>
+// <td>Thái Lan</td>
+// </tr>
+// <tr>
+// <td><strong>Quy cách đóng gói:</strong></td>
+// <td>25kg/bao</td>
+// </tr>
+// </tbody>
+// </table>
+// </div>
+// <div class="css-content content-description">
+// <h2 id="mcetoc_1f4vvl96e0">1. Sodium metabisulfite là gì?</h2>
+// <p>Sodium metabisulfite hay còn gọi là&nbsp;<strong>Natri metabisunfit</strong>&nbsp;hoặc Natri pyrosunfite, là một hợp chất vô cơ có công thức hóa học là Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub>. Chúng có ngoại quan tinh thể bột màu trắng, tan trong nước, kích ứng hệ hô hấp, có mùi hắc nhẹ của lưu huỳnh.</p>
+// <p><em>Natri metabisunfit&nbsp;có ngoại quan dạng bột màu trắng</em></p>
+// <h2 id="mcetoc_1f4vvlhif1">2. Những tính chất lí hóa của Sodium metabisulfite</h2>
+// <h3 id="mcetoc_1f4vvlu4n2">2.1. Tính chất vật lí của Sodium metabisulfite</h3>
+// <ul>
+// <li>Sodium metabisulfite có ngoại quan tinh thể rắn hoặc bột màu trắng có mùi hắc khó chịu của lưu huỳnh.</li>
+// <li>Khối lượng mol 190.107 g/mol.</li>
+// <li>Khối lượng riêng 1.48 g/cm<sup>3</sup>.</li>
+// <li>Điểm nóng chảy &nbsp;&gt;170 °C</li>
+// <li>Độ hòa tan trong nước 54 g/100 ml.</li>
+// </ul>
+// <h3 id="mcetoc_1f4vvm2q03">2.2. Tính chất hóa học của sodium metabisulfite</h3>
+// <p>&nbsp;</p>
+// <ul>
+// <li>Là hợp chất vô cơ nên chúng sẽ tác dụng với dung dịch axít giải phóng khí và tạo muối:</li>
+// </ul>
+// <p>Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub>&nbsp;+ 2HCl → 2NaCl + H<sub>2</sub>O + 2SO<sub>2</sub></p>
+// <ul>
+// <li>Có phản ứng nhiệt phân tạo thành khí lưu huỳnh đioxít:</li>
+// </ul>
+// <p>Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub>&nbsp;→ Na<sub>2</sub>O + 2SO<sub>2</sub></p>
+// <ul>
+// <li>Phản ứng trao đổi với nước tạo thành dung dịch bazơ và giải phóng khí SO2:</li>
+// </ul>
+// <p>Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub>&nbsp;+ H<sub>2</sub>O → 2SO<sub>2</sub>&nbsp;+ 2NaOH</p>
+// <h2 id="mcetoc_1f4vvm8pl4">3. Những ứng dụng của hóa chất sodium metabisulfite trong đời sống, sản xuất</h2>
+// <h3 id="mcetoc_1fsdjrour0">Ứng dụng trong thực phẩm:</h3>
+// <p>Sodium metabisulfite được sử dụng như một chất phụ gia có công dụng giữ màu, ngăn biến đổi màu sắc của thực phẩm như bún, miến, bánh kẹo, đồ ăn nhanh, trái cây…</p>
+// <p><em>Chất phụ gia trong bảo quản thực phẩm&nbsp;</em></p>
+// <p>&nbsp;Sodium metabisulfite – SBS – Ý – 25 kg/bao</p>
+// <p>Là chất oxy hóa tốt nên SBS có tác dụng ngăn ngừa vi khuẩn, nấm phát triển trên thực phẩm điều này giúp thời gian bảo quản thực phẩm được tăng lên, nâng cao chất lượng cho thực phẩm.</p>
+// <p>Chúng còn được người ta dùng làm thành phần bảo quản trong rượu, bia và các đồ uống có cồn nhằm ngăn chặn quá trình oxy hóa và giữ nguyên hương vị ban đầu cho sản phẩm.</p>
+// <p><strong>Ứng dụng trong các ngành công nghiệp của&nbsp;Natri metabisunfit</strong></p>
+// <p>Hóa chất sodium metabisulfite là chất không thể thiếu trong quá trình xử lý nước thải công nghiệp để loại bỏ cloramin dư thừa.</p>
+// <p><em>SBS được sử dụng trong xử lý nước thải&nbsp;loại bỏ cloramin dư thừa</em></p>
+// <p>Sodium metabisulfite là dẫn xuất quan trọng để sản xuất các hóa chất và hợp chất khác, phân tách aldehyde và ketone.</p>
+// <h3 id="mcetoc_1gf0jp6i31"><strong>Ứng dụng trong y tế</strong></h3>
+// <ul>
+// <li>Sodium metabisulfite là một thành phần trong việc tinh chế các tá dược của một số thuốc như paracetamol.</li>
+// <li>SBS là một chất có thể được cho vào một mẫu máu trong một phép thử cho hội chứng tế bào hình liềm.</li>
+// </ul>
+// <h3 id="mcetoc_1f9veeatq0"><strong>Các ứng dụng khác của&nbsp;Natri metabisunfit</strong></h3>
+// <p>Chất tẩy rửa và sát trùng vệ sinh: thường dùng trong việc ủ bia tại gia và nấu rượu để sát trùng các thiết bị và dụng cụ. Nó còn làm chất chùi rửa cho màng thẩm thấu ngược trong sản xuất nước sạch trong hệ thống tách muối khỏi nước biển.</p>
+// <p>Chất chống lên men trong thức ăn gia súc, ngăn ngừa vi khuẩn trong chế biến đường và tinh bột, được dùng làm chất tẩy trắng trong ngành giấy, cotton, len, kaolin,…</p>
+// <h2 id="mcetoc_1f9qo0gv11">4. Lưu ý để bảo quản, sử dụng hóa chất Sodium Metabisulfite an toàn</h2>
+// <ul>
+// <li>Sodium Metabisulfite cần được bảo quản những nơi khô ráo, thoáng mát, tránh ánh nắng mặt trời.</li>
+// <li>Không nên được để gần những nơi có nước, có độ ẩm cao hoặc những nơi có tính acid, tính oxi hóa, chất độc hại.</li>
+// <li>Tránh tiếp xúc trực tiếp với hóa chất này để đảm bảo an toàn cho người sử dụng.</li>
+// </ul>
+// <h2 id="mcetoc_1f4vvmm9d5">5. Mua hóa chất Sodium metabisulfite ở đâu uy tín, chất lượng?</h2>
+// <p>Trên thị trường hóa chất hiên nay có rất nhiều cơ sở sản xuất, kinh doanh các loại hóa chất công nghiệp,&nbsp;<strong>hóa chất cơ bản</strong> với đa dạng về sản phẩm, chủng loại, kích cỡ…Tuy nhiên không phải bất kỳ cơ sở nào cũng đảm bảo an toàn, uy tín, giá cả cạnh tranh như Công ty <strong>TRỌNG TUẤN CHEMICAL</strong>. Chúng tôi có các dịch vụ tốt nhất hiện nay như:</p>
+// <ul>
+// <li>Chất lượng sản phẩm luôn được đảm bảo và giá thành tốt nhất trên thị trường hiện tại.</li>
+// <li>Hệ thống chuyên viên chuyên nghiệp với kiến thức sâu và luôn sẵn sàng hỗ trợ khách hàng 24/7.</li>
+// <li>Nguồn gốc, xuất xứ hàng hóa rõ ràng, hàng chính hãng 100% và bảo hành theo nhà sản xuất đúng tiêu chuẩn.</li>
+// <li>Cung cấp đầy đủ chứng từ, hóa đơn hàng hóa khi giao nhận hàng.</li>
+// <li>Thủ tục thanh toán đơn giản, tiết kiệm thời gian công sức cho hệ thống khách hàng.</li>
+// </ul>
+// <p id="mcetoc_1fma5tssn0"><em>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sodium metabisulfite(SBS) tại nhà phân phôi hóa chất <strong>TRỌNG TUẤN CHEMICAL</strong> </em></p>
+// <div class="vote detail-rating">Quý khách hàng đang thắc mắc&nbsp;<strong>Natri metabisunfit&nbsp;</strong>giá bao nhiêu, hãy liên hệ với <strong>TRỌNG TUẤN CHEMICAL</strong> qua số Hotline&nbsp;<strong>09 32 32 33 91</strong>&nbsp;hoặc truy cập trực tiếp&nbsp;<strong>website</strong>&nbsp;<strong>TRỌNG TUẤN CHEMICAL.com.vn</strong>&nbsp;để được tư vấn và hỗ trợ trực tiếp từ hệ thống các chuyên viên.</div>
+// </div>`,
+//   },
+//   {
+//     key: 67,
+//     type: "Hóa Chất Cơ Bản",
+//     title: "Sodium Metabisulfite(SBS) 99% Na2S2O5, Trung Quốc, 25kg/bao",
+//     price: 0,
+//     img: Img67,
+//     data_info: `
+// <p>Sodium metabisulfite hay Sodium metabisunfit, Natri metabisunfit là một hợp chất vô cơ có CTHH: Na2S2O5, CAS: 7681-57-4, hàm lượng: 99%, quy cách: 25kg/bao. Xuất xứ: Trung Quốc. SBS tồn tại dưới dạng bột pha lê màu trắng hoặc màu vàng nhạt khi hòa vào nước nó có khả năng giải phóng chất lưu huỳnh gây ra mùi khó chịu. Ứng dụng rộng rãi trong thực phẩm, y tế, xử lý nước, dệt nhuộm…</p>
+//     `,
+//     data_info_bottom: `
+// <span class="posted_in">Danh mục: Hóa Chất Cơ Bản, Hóa chất ngành dược – mỹ phẩm, Hóa chất ngành giấy, Hóa chất ngành thực phẩm, Hóa Chất Xử Lý Nước</span>
+//     `,
+//     data_advanced: `<div class="tab-panels">
+// 							<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
 										
 
-<div class="title">
-<div class="content-title">Mô tả sản phẩm</div>
-</div>
-<div class="specifications css-content clear">
-<table>
-<tbody>
-<tr>
-<td><strong>Tên sản phẩm:</strong></td>
-<td>Sodium metabisulfite(SBS)</td>
-</tr>
-<tr>
-<td><strong>Tên gọi khác:</strong></td>
-<td>Sodium metabisunfit, Natri metabisunfit</td>
-</tr>
-<tr>
-<td><strong>Công thức hóa học:</strong></td>
-<td>Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub></td>
-</tr>
-<tr>
-<td><strong>CAS:</strong></td>
-<td>7681-57-4</td>
-</tr>
-<tr>
-<td><strong>Hàm lượng:</strong></td>
-<td>99%</td>
-</tr>
-<tr>
-<td><strong>Xuất xứ:</strong></td>
-<td>Trung Quốc</td>
-</tr>
-<tr>
-<td><strong>Quy cách đóng gói:</strong></td>
-<td>25kg/bao</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-</div>
-<div class="css-content content-description">
-<p><strong><em>Hóa chất</em></strong>&nbsp;<strong><em>Sodium&nbsp;</em></strong><strong><em>metabisulfite</em></strong>&nbsp;(Natri metabisunfit) dạng bột màu trắng hiện đang được sử dụng phổ biến trong ngành y tế, thực phẩm, xử lý nước, ngành dệt nhuộm,… Sản phẩm được&nbsp;<strong>TRỌNG TUẤN CHEMICAL&nbsp;</strong>phân phối số lượng lớn, chính sách giá tốt nhất trên thị trường. Thông tin sản phẩm được cập nhật trong bài viết dưới đây.</p>
-<h2 id="mcetoc_1f4vvl96e0">1. Sodium metabisulfite là gì?</h2>
-<p>Sodium metabisulfite hay còn gọi là&nbsp;<strong>Natri metabisunfit</strong>&nbsp;hoặc Natri pyrosunfite, là một hợp chất vô cơ có công thức hóa học là Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub>. Chúng có ngoại quan tinh thể bột màu trắng, tan trong nước, kích ứng hệ hô hấp, có mùi hắc nhẹ của lưu huỳnh.</p>
-<h2 id="mcetoc_1g3i98u0r2">2. Tính chất của sodium metabisulfite</h2>
-<h3 id="mcetoc_1g3i990f23">2.1. Tính chất vật lý</h3>
-<ul>
-<li>Ngoại quan: Tinh thể rắn hoặc bột màu trắng, mùi hắc khó chịu như lưu huỳnh</li>
-<li>Khối lượng mol 190.107 g/mol</li>
-<li>Khối lượng riêng 1.48 g/cm<sup>3</sup></li>
-<li>Điểm nóng chảy&nbsp; &gt;170 °C</li>
-<li>Độ hòa tan trong nước 54 g/100 ml</li>
-</ul>
-<h3 id="mcetoc_1g3i99qki4">2.2. Tính chất hóa học</h3>
-<ul>
-<li>Natri metabisunfit là hợp chất vô cơ, tác dụng với dung dịch axit tạo ra muối và giải phóng khí</li>
-</ul>
-<p>Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub>&nbsp;+ 2HCl → 2NaCl + H<sub>2</sub>O + 2SO<sub>2</sub></p>
-<ul>
-<li>Natri metabisunfit phản ứng nhiệt phân tạo thành khí lưu huỳnh đioxít</li>
-</ul>
-<p>Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub>&nbsp;→ Na<sub>2</sub>O + 2SO<sub>2</sub></p>
-<ul>
-<li>Natri metabisunfit phản ứng trao đổi với nước tạo ra dung dịch bazơ giải phỏng khí SO<sub>2</sub></li>
-</ul>
-<p>Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub>&nbsp;+ H<sub>2</sub>O → 2SO<sub>2</sub>&nbsp;+ 2NaOH</p>
-<h2 id="mcetoc_1f9qnv3000">3. Điều chế, sản xuất hóa chất&nbsp;sodium metabisulfite như nào?</h2>
-<p>Sau đây là những cách giúp điều chế, sản xuất hóa chất&nbsp;sodium metabisulfite được sử dụng phổ biến hiện nay:</p>
-<ul>
-<li>Hóa chất Na<sub>2</sub>S<sub>2</sub>O<sub>4</sub>&nbsp;dưới nhiệt độ lớn hơn&nbsp;52 độ C sẽ bị phân hủy thành Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub></li>
-</ul>
-<p>2Na<sub>2</sub>S<sub>2</sub>O<sub>4</sub>&nbsp;⟶&nbsp;Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub>&nbsp;+&nbsp;Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub></p>
-<ul>
-<li>Na<sub>2</sub>SO<sub>3</sub>&nbsp;tham gia phản ứng với O2 khi có chất xúc tác là các&nbsp;dung môi&nbsp;(ethanol và hidro) để tạo ra Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub>:</li>
-</ul>
-<p>Na<sub>2</sub>SO<sub>3</sub>&nbsp;+&nbsp;SO<sub>2&nbsp;</sub>⟶ Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub></p>
-<ul>
-<li>Hoặc cũng có thể điều chế natri metabisunfit bằng cách:</li>
-</ul>
-<p>Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub>.7H<sub>2</sub>O&nbsp;⟶&nbsp;7H<sub>2</sub>O&nbsp;+ Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub></p>
-<h2 id="mcetoc_1f4vvm8pl4">4. Những ứng dụng của hóa chất sodium metabisulfite</h2>
-<h3 id="mcetoc_1f9vebs3b0">4.1. Ứng dụng trong ngành chế biến và bảo quản thực phẩm</h3>
-<p>Sodium metabisulfite được sử dụng như một chất phụ gia có công dụng giữ màu, ngăn biến đổi màu sắc của thực phẩm như bún, miến, bánh kẹo, đồ ăn nhanh, trái cây…</p>
-<p>&nbsp;</p>
-<p>Là chất oxy hóa tốt nên SBS có tác dụng ngăn ngừa vi khuẩn, nấm phát triển trên thực phẩm điều này giúp thời gian bảo quản thực phẩm được tăng lên, nâng cao chất lượng cho thực phẩm.</p>
-<p>Chúng còn được người ta dùng làm thành phần bảo quản trong rượu, bia và các đồ uống có cồn nhằm ngăn chặn quá trình oxy hóa và giữ nguyên hương vị ban đầu cho sản phẩm.</p>
-<h3 id="mcetoc_1f9vec3341">4.2. Ứng dụng trong các ngành công nghiệp</h3>
-<p>Hóa chất sodium metabisulfite là chất không thể thiếu trong quá trình xử lý nước thải công nghiệp để loại bỏ cloramin dư thừa.</p>
-<p>Sodium metabisulfite là dẫn xuất quan trọng để sản xuất các hóa chất và hợp chất khác, phân tách aldehyde và ketone.</p>
-<h3 id="mcetoc_1f9vec9b82">4.3. Ứng dụng trong lĩnh vực y tế</h3>
-<ul>
-<li>Sodium metabisulfite là một thành phần trong việc tinh chế các tá dược của một số thuốc như paracetamol.</li>
-<li>SBS là một chất có thể được cho vào một mẫu máu trong một phép thử cho hội chứng tế bào hình liềm.</li>
-</ul>
-<h3 id="mcetoc_1f9veeatq0">4.4. Các ứng dụng khác của&nbsp;<span data-sheets-value="{" data-sheets-userformat="{">Natri metabisunfit</span></h3>
-<p>Chất tẩy rửa và sát trùng vệ sinh: thường dùng trong việc ủ bia tại gia và nấu rượu để sát trùng các thiết bị và dụng cụ. Nó còn làm chất chùi rửa cho màng thẩm thấu ngược trong sản xuất nước sạch trong hệ thống tách muối khỏi nước biển.</p>
-<p>Chất chống lên men trong thức ăn gia súc, ngăn ngừa vi khuẩn trong chế biến đường và tinh bột, được dùng làm chất tẩy trắng trong ngành giấy, cotton, len, kaolin,…</p>
-<h2 id="mcetoc_1f9qo0gv11">5. Lưu ý để bảo quản, sử dụng hóa chất Sodium Metabisulfite an toàn</h2>
-<ul>
-<li>Sodium Metabisulfite cần được bảo quản những nơi khô ráo, thoáng mát, tránh ánh nắng mặt trời.</li>
-<li>Không nên được để gần những nơi có nước, có độ ẩm cao hoặc những nơi có tính acid, tính oxi hóa, chất độc hại.</li>
-<li>Tránh tiếp xúc trực tiếp với hóa chất này để đảm bảo an toàn cho người sử dụng.</li>
-</ul>
-<h2 id="mcetoc_1g3i981ia1">6. Sodium metabisulfite giá bao nhiêu? Mua ở đâu uy tín?</h2>
-<p>Trên thị trường hóa chất hiên nay có rất nhiều cơ sở sản xuất, kinh doanh các loại hóa chất công nghiệp,&nbsp;hóa chất cơ bản&nbsp;với đa dạng về sản phẩm, chủng loại, kích cỡ…Tuy nhiên không phải bất kỳ cơ sở nào cũng đảm bảo an toàn, uy tín, giá cả cạnh tranh như&nbsp;<strong>TRỌNG TUẤN CHEMICAL&nbsp;</strong>. Chúng tôi có các dịch vụ tốt nhất hiện nay như:</p>
-<ul>
-<li>Hóa chất Natri metabisunfit có số lượng lớn tại&nbsp;<strong>TRỌNG TUẤN CHEMICAL&nbsp;</strong>, được kiểm định chất lượng nghiêm ngặt thông qua phòng quản lý chất lượng.</li>
-<li>Hệ thống xe vận tải lên đến gần 30 xe đầu kéo cùng với xe tải, xe téc chứa hóa chất chuyên dụng đảm bảo giao hàng nhanh chóng, đúng thời hạn.</li>
-<li>Đội ngũ nhân viên hỗ trợ 24/7, giải đáp mọi thắc mắc của quý khách hàng.</li>
-<li>Sản phẩm nguồn gốc xuất xứ rõ ràng, cung cấp MSDS của từng hóa chất cho khách hàng.</li>
-<li>Kho bãi lên đến 20.000 m<sup>2</sup>, đáp ứng đầy đủ an toàn hóa chất từ khâu bảo quản cho đến khâu pha chế.</li>
-</ul>
-<p>&nbsp;</p>
-<p id="mcetoc_1fma5tssn0" style="text-align: center;"><em>Sodium metabisulfite(SBS) 99% Na2S2O5, Ý, 25kg/bao</em></p>
-<div class="vote detail-rating" style="text-align: center;">Quý khách hàng đang thắc mắc&nbsp;<strong>Natri metabisunfit&nbsp;</strong>giá bao nhiêu, hãy liên hệ với&nbsp;<strong>TRỌNG TUẤN CHEMICAL&nbsp;</strong>qua số Hotline&nbsp;<strong>0932323391</strong>&nbsp;hoặc truy cập trực tiếp website&nbsp;TRỌNG TUẤN CHEMICAL.com.vn&nbsp;để được tư vấn và hỗ trợ trực tiếp từ hệ thống các chuyên viên.</div>
-</div>`,
-  },
-  {
-    key: 68,
-    type: "Hóa Chất Cơ Bản",
-    title: "Sodium Metabisulfite(SBS) 99% Na2S2O5, Ý, 25kg/bao",
-    price: 0,
-    img: Img68,
-    data_info: `
-<p>Sodium metabisulfite hay Sodium metabisunfit, Natri metabisunfit là một hợp chất vô cơ có CTHH: Na2S2O5, CAS: 7681-57-4, hàm lượng: 99%, quy cách: 25kg/bao. Xuất xứ: Thái Lan. SBS tồn tại dưới dạng bột pha lê màu trắng hoặc màu vàng nhạt khi hòa vào nước nó có khả năng giải phóng chất lưu huỳnh gây ra mùi khó chịu. Ứng dụng rộng rãi trong thực phẩm, y tế, xử lý nước, dệt nhuộm…</p>
-    `,
-    data_info_bottom: `
-<span class="posted_in">Danh mục: Hóa Chất Cơ Bản, Hóa chất ngành da giầy, Hóa chất ngành dệt nhuộm, Hóa chất ngành dược – mỹ phẩm, Hóa chất ngành điện tử, Hóa chất ngành giấy, Hóa chất ngành khai khoáng, Hóa chất ngành sơn, Hóa chất ngành tẩy rửa, Hóa chất ngành thức ăn chăn nuôi, Hóa chất ngành thực phẩm, Hóa chất ngành xi mạ, Hóa chất nhiệt điện, Hóa Chất Xử Lý Nước, Sản phẩm khác, Sản phẩm nổi bật</span>
-    `,
-    data_advanced: `<div class="tab-panels">
-							<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
+// <div class="title">
+// <div class="content-title">Mô tả sản phẩm</div>
+// </div>
+// <div class="specifications css-content clear">
+// <table>
+// <tbody>
+// <tr>
+// <td><strong>Tên sản phẩm:</strong></td>
+// <td>Sodium metabisulfite(SBS)</td>
+// </tr>
+// <tr>
+// <td><strong>Tên gọi khác:</strong></td>
+// <td>Sodium metabisunfit, Natri metabisunfit</td>
+// </tr>
+// <tr>
+// <td><strong>Công thức hóa học:</strong></td>
+// <td>Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub></td>
+// </tr>
+// <tr>
+// <td><strong>CAS:</strong></td>
+// <td>7681-57-4</td>
+// </tr>
+// <tr>
+// <td><strong>Hàm lượng:</strong></td>
+// <td>99%</td>
+// </tr>
+// <tr>
+// <td><strong>Xuất xứ:</strong></td>
+// <td>Trung Quốc</td>
+// </tr>
+// <tr>
+// <td><strong>Quy cách đóng gói:</strong></td>
+// <td>25kg/bao</td>
+// </tr>
+// </tbody>
+// </table>
+// <p>&nbsp;</p>
+// </div>
+// <div class="css-content content-description">
+// <p><strong><em>Hóa chất</em></strong>&nbsp;<strong><em>Sodium&nbsp;</em></strong><strong><em>metabisulfite</em></strong>&nbsp;(Natri metabisunfit) dạng bột màu trắng hiện đang được sử dụng phổ biến trong ngành y tế, thực phẩm, xử lý nước, ngành dệt nhuộm,… Sản phẩm được&nbsp;<strong>TRỌNG TUẤN CHEMICAL&nbsp;</strong>phân phối số lượng lớn, chính sách giá tốt nhất trên thị trường. Thông tin sản phẩm được cập nhật trong bài viết dưới đây.</p>
+// <h2 id="mcetoc_1f4vvl96e0">1. Sodium metabisulfite là gì?</h2>
+// <p>Sodium metabisulfite hay còn gọi là&nbsp;<strong>Natri metabisunfit</strong>&nbsp;hoặc Natri pyrosunfite, là một hợp chất vô cơ có công thức hóa học là Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub>. Chúng có ngoại quan tinh thể bột màu trắng, tan trong nước, kích ứng hệ hô hấp, có mùi hắc nhẹ của lưu huỳnh.</p>
+// <h2 id="mcetoc_1g3i98u0r2">2. Tính chất của sodium metabisulfite</h2>
+// <h3 id="mcetoc_1g3i990f23">2.1. Tính chất vật lý</h3>
+// <ul>
+// <li>Ngoại quan: Tinh thể rắn hoặc bột màu trắng, mùi hắc khó chịu như lưu huỳnh</li>
+// <li>Khối lượng mol 190.107 g/mol</li>
+// <li>Khối lượng riêng 1.48 g/cm<sup>3</sup></li>
+// <li>Điểm nóng chảy&nbsp; &gt;170 °C</li>
+// <li>Độ hòa tan trong nước 54 g/100 ml</li>
+// </ul>
+// <h3 id="mcetoc_1g3i99qki4">2.2. Tính chất hóa học</h3>
+// <ul>
+// <li>Natri metabisunfit là hợp chất vô cơ, tác dụng với dung dịch axit tạo ra muối và giải phóng khí</li>
+// </ul>
+// <p>Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub>&nbsp;+ 2HCl → 2NaCl + H<sub>2</sub>O + 2SO<sub>2</sub></p>
+// <ul>
+// <li>Natri metabisunfit phản ứng nhiệt phân tạo thành khí lưu huỳnh đioxít</li>
+// </ul>
+// <p>Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub>&nbsp;→ Na<sub>2</sub>O + 2SO<sub>2</sub></p>
+// <ul>
+// <li>Natri metabisunfit phản ứng trao đổi với nước tạo ra dung dịch bazơ giải phỏng khí SO<sub>2</sub></li>
+// </ul>
+// <p>Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub>&nbsp;+ H<sub>2</sub>O → 2SO<sub>2</sub>&nbsp;+ 2NaOH</p>
+// <h2 id="mcetoc_1f9qnv3000">3. Điều chế, sản xuất hóa chất&nbsp;sodium metabisulfite như nào?</h2>
+// <p>Sau đây là những cách giúp điều chế, sản xuất hóa chất&nbsp;sodium metabisulfite được sử dụng phổ biến hiện nay:</p>
+// <ul>
+// <li>Hóa chất Na<sub>2</sub>S<sub>2</sub>O<sub>4</sub>&nbsp;dưới nhiệt độ lớn hơn&nbsp;52 độ C sẽ bị phân hủy thành Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub></li>
+// </ul>
+// <p>2Na<sub>2</sub>S<sub>2</sub>O<sub>4</sub>&nbsp;⟶&nbsp;Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub>&nbsp;+&nbsp;Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub></p>
+// <ul>
+// <li>Na<sub>2</sub>SO<sub>3</sub>&nbsp;tham gia phản ứng với O2 khi có chất xúc tác là các&nbsp;dung môi&nbsp;(ethanol và hidro) để tạo ra Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub>:</li>
+// </ul>
+// <p>Na<sub>2</sub>SO<sub>3</sub>&nbsp;+&nbsp;SO<sub>2&nbsp;</sub>⟶ Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub></p>
+// <ul>
+// <li>Hoặc cũng có thể điều chế natri metabisunfit bằng cách:</li>
+// </ul>
+// <p>Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub>.7H<sub>2</sub>O&nbsp;⟶&nbsp;7H<sub>2</sub>O&nbsp;+ Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub></p>
+// <h2 id="mcetoc_1f4vvm8pl4">4. Những ứng dụng của hóa chất sodium metabisulfite</h2>
+// <h3 id="mcetoc_1f9vebs3b0">4.1. Ứng dụng trong ngành chế biến và bảo quản thực phẩm</h3>
+// <p>Sodium metabisulfite được sử dụng như một chất phụ gia có công dụng giữ màu, ngăn biến đổi màu sắc của thực phẩm như bún, miến, bánh kẹo, đồ ăn nhanh, trái cây…</p>
+// <p>&nbsp;</p>
+// <p>Là chất oxy hóa tốt nên SBS có tác dụng ngăn ngừa vi khuẩn, nấm phát triển trên thực phẩm điều này giúp thời gian bảo quản thực phẩm được tăng lên, nâng cao chất lượng cho thực phẩm.</p>
+// <p>Chúng còn được người ta dùng làm thành phần bảo quản trong rượu, bia và các đồ uống có cồn nhằm ngăn chặn quá trình oxy hóa và giữ nguyên hương vị ban đầu cho sản phẩm.</p>
+// <h3 id="mcetoc_1f9vec3341">4.2. Ứng dụng trong các ngành công nghiệp</h3>
+// <p>Hóa chất sodium metabisulfite là chất không thể thiếu trong quá trình xử lý nước thải công nghiệp để loại bỏ cloramin dư thừa.</p>
+// <p>Sodium metabisulfite là dẫn xuất quan trọng để sản xuất các hóa chất và hợp chất khác, phân tách aldehyde và ketone.</p>
+// <h3 id="mcetoc_1f9vec9b82">4.3. Ứng dụng trong lĩnh vực y tế</h3>
+// <ul>
+// <li>Sodium metabisulfite là một thành phần trong việc tinh chế các tá dược của một số thuốc như paracetamol.</li>
+// <li>SBS là một chất có thể được cho vào một mẫu máu trong một phép thử cho hội chứng tế bào hình liềm.</li>
+// </ul>
+// <h3 id="mcetoc_1f9veeatq0">4.4. Các ứng dụng khác của&nbsp;<span data-sheets-value="{" data-sheets-userformat="{">Natri metabisunfit</span></h3>
+// <p>Chất tẩy rửa và sát trùng vệ sinh: thường dùng trong việc ủ bia tại gia và nấu rượu để sát trùng các thiết bị và dụng cụ. Nó còn làm chất chùi rửa cho màng thẩm thấu ngược trong sản xuất nước sạch trong hệ thống tách muối khỏi nước biển.</p>
+// <p>Chất chống lên men trong thức ăn gia súc, ngăn ngừa vi khuẩn trong chế biến đường và tinh bột, được dùng làm chất tẩy trắng trong ngành giấy, cotton, len, kaolin,…</p>
+// <h2 id="mcetoc_1f9qo0gv11">5. Lưu ý để bảo quản, sử dụng hóa chất Sodium Metabisulfite an toàn</h2>
+// <ul>
+// <li>Sodium Metabisulfite cần được bảo quản những nơi khô ráo, thoáng mát, tránh ánh nắng mặt trời.</li>
+// <li>Không nên được để gần những nơi có nước, có độ ẩm cao hoặc những nơi có tính acid, tính oxi hóa, chất độc hại.</li>
+// <li>Tránh tiếp xúc trực tiếp với hóa chất này để đảm bảo an toàn cho người sử dụng.</li>
+// </ul>
+// <h2 id="mcetoc_1g3i981ia1">6. Sodium metabisulfite giá bao nhiêu? Mua ở đâu uy tín?</h2>
+// <p>Trên thị trường hóa chất hiên nay có rất nhiều cơ sở sản xuất, kinh doanh các loại hóa chất công nghiệp,&nbsp;hóa chất cơ bản&nbsp;với đa dạng về sản phẩm, chủng loại, kích cỡ…Tuy nhiên không phải bất kỳ cơ sở nào cũng đảm bảo an toàn, uy tín, giá cả cạnh tranh như&nbsp;<strong>TRỌNG TUẤN CHEMICAL&nbsp;</strong>. Chúng tôi có các dịch vụ tốt nhất hiện nay như:</p>
+// <ul>
+// <li>Hóa chất Natri metabisunfit có số lượng lớn tại&nbsp;<strong>TRỌNG TUẤN CHEMICAL&nbsp;</strong>, được kiểm định chất lượng nghiêm ngặt thông qua phòng quản lý chất lượng.</li>
+// <li>Hệ thống xe vận tải lên đến gần 30 xe đầu kéo cùng với xe tải, xe téc chứa hóa chất chuyên dụng đảm bảo giao hàng nhanh chóng, đúng thời hạn.</li>
+// <li>Đội ngũ nhân viên hỗ trợ 24/7, giải đáp mọi thắc mắc của quý khách hàng.</li>
+// <li>Sản phẩm nguồn gốc xuất xứ rõ ràng, cung cấp MSDS của từng hóa chất cho khách hàng.</li>
+// <li>Kho bãi lên đến 20.000 m<sup>2</sup>, đáp ứng đầy đủ an toàn hóa chất từ khâu bảo quản cho đến khâu pha chế.</li>
+// </ul>
+// <p>&nbsp;</p>
+// <p id="mcetoc_1fma5tssn0" style="text-align: center;"><em>Sodium metabisulfite(SBS) 99% Na2S2O5, Ý, 25kg/bao</em></p>
+// <div class="vote detail-rating" style="text-align: center;">Quý khách hàng đang thắc mắc&nbsp;<strong>Natri metabisunfit&nbsp;</strong>giá bao nhiêu, hãy liên hệ với&nbsp;<strong>TRỌNG TUẤN CHEMICAL&nbsp;</strong>qua số Hotline&nbsp;<strong>0932323391</strong>&nbsp;hoặc truy cập trực tiếp website&nbsp;TRỌNG TUẤN CHEMICAL.com.vn&nbsp;để được tư vấn và hỗ trợ trực tiếp từ hệ thống các chuyên viên.</div>
+// </div>`,
+//   },
+//   {
+//     key: 68,
+//     type: "Hóa Chất Cơ Bản",
+//     title: "Sodium Metabisulfite(SBS) 99% Na2S2O5, Ý, 25kg/bao",
+//     price: 0,
+//     img: Img68,
+//     data_info: `
+// <p>Sodium metabisulfite hay Sodium metabisunfit, Natri metabisunfit là một hợp chất vô cơ có CTHH: Na2S2O5, CAS: 7681-57-4, hàm lượng: 99%, quy cách: 25kg/bao. Xuất xứ: Thái Lan. SBS tồn tại dưới dạng bột pha lê màu trắng hoặc màu vàng nhạt khi hòa vào nước nó có khả năng giải phóng chất lưu huỳnh gây ra mùi khó chịu. Ứng dụng rộng rãi trong thực phẩm, y tế, xử lý nước, dệt nhuộm…</p>
+//     `,
+//     data_info_bottom: `
+// <span class="posted_in">Danh mục: Hóa Chất Cơ Bản, Hóa chất ngành da giầy, Hóa chất ngành dệt nhuộm, Hóa chất ngành dược – mỹ phẩm, Hóa chất ngành điện tử, Hóa chất ngành giấy, Hóa chất ngành khai khoáng, Hóa chất ngành sơn, Hóa chất ngành tẩy rửa, Hóa chất ngành thức ăn chăn nuôi, Hóa chất ngành thực phẩm, Hóa chất ngành xi mạ, Hóa chất nhiệt điện, Hóa Chất Xử Lý Nước, Sản phẩm khác, Sản phẩm nổi bật</span>
+//     `,
+//     data_advanced: `<div class="tab-panels">
+// 							<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
 										
 
-<div class="title">
-<div class="content-title">Mô tả sản phẩm</div>
-</div>
-<div class="specifications css-content clear">
-<table style="width: 28.7944%; height: 191px;">
-<tbody>
-<tr style="height: 21px;">
-<td style="height: 21px;"><strong>Tên sản phẩm:</strong></td>
-<td style="height: 21px;">Sodium metabisulfite(SBS)</td>
-</tr>
-<tr style="height: 43px;">
-<td style="height: 43px;"><strong>Tên gọi khác:</strong></td>
-<td style="height: 43px;">Sodium metabisunfit, Natri metabisunfit</td>
-</tr>
-<tr style="height: 43px;">
-<td style="height: 43px;"><strong>Công thức hóa học:</strong></td>
-<td style="height: 43px;">Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub></td>
-</tr>
-<tr style="height: 21px;">
-<td style="height: 21px;"><strong>CAS:</strong></td>
-<td style="height: 21px;">7681-57-4</td>
-</tr>
-<tr style="height: 21px;">
-<td style="height: 21px;"><strong>Hàm lượng:</strong></td>
-<td style="height: 21px;">99%</td>
-</tr>
-<tr style="height: 21px;">
-<td style="height: 21px;"><strong>Xuất xứ:</strong></td>
-<td style="height: 21px;">Ý</td>
-</tr>
-<tr style="height: 21px;">
-<td style="height: 21px;"><strong>Quy cách đóng gói:</strong></td>
-<td style="height: 21px;">25kg/bao</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-</div>
-<div class="css-content content-description">
-<p><strong><em>Hóa chất</em></strong> <strong><em>Sodium&nbsp;</em></strong><strong><em>metabisulfite</em></strong>&nbsp;(Natri metabisunfit) dạng bột màu trắng hiện đang được sử dụng phổ biến trong ngành y tế, thực phẩm, xử lý nước, ngành dệt nhuộm,… Sản phẩm được <strong>TRỌNG TUẤN CHEMICAL </strong>phân phối số lượng lớn, chính sách giá tốt nhất trên thị trường. Thông tin sản phẩm được cập nhật trong bài viết dưới đây.</p>
-<h2 id="mcetoc_1f4vvl96e0">1. Sodium metabisulfite là gì?</h2>
-<p>Sodium metabisulfite hay còn gọi là&nbsp;<strong>Natri metabisunfit</strong>&nbsp;hoặc Natri pyrosunfite, là một hợp chất vô cơ có công thức hóa học là Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub>. Chúng có ngoại quan tinh thể bột màu trắng, tan trong nước, kích ứng hệ hô hấp, có mùi hắc nhẹ của lưu huỳnh.</p>
-<p><em>Natri metabisunfit&nbsp;có ngoại quan dạng bột màu trắng</em></p>
-<h2 id="mcetoc_1g3i98u0r2">2. Tính chất của sodium metabisulfite</h2>
-<h3 id="mcetoc_1g3i990f23">2.1. Tính chất vật lý</h3>
-<ul>
-<li>Ngoại quan: Tinh thể rắn hoặc bột màu trắng, mùi hắc khó chịu như lưu huỳnh</li>
-<li>Khối lượng mol 190.107 g/mol</li>
-<li>Khối lượng riêng 1.48 g/cm<sup>3</sup></li>
-<li>Điểm nóng chảy&nbsp; &gt;170 °C</li>
-<li>Độ hòa tan trong nước 54 g/100 ml</li>
-</ul>
-<h3 id="mcetoc_1g3i99qki4">2.2. Tính chất hóa học</h3>
-<ul>
-<li>Natri metabisunfit là hợp chất vô cơ, tác dụng với dung dịch axit tạo ra muối và giải phóng khí</li>
-</ul>
-<p>Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub>&nbsp;+ 2HCl → 2NaCl + H<sub>2</sub>O + 2SO<sub>2</sub></p>
-<ul>
-<li>Natri metabisunfit phản ứng nhiệt phân tạo thành khí lưu huỳnh đioxít</li>
-</ul>
-<p>Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub>&nbsp;→ Na<sub>2</sub>O + 2SO<sub>2</sub></p>
-<ul>
-<li>Natri metabisunfit phản ứng trao đổi với nước tạo ra dung dịch bazơ giải phỏng khí SO<sub>2</sub></li>
-</ul>
-<p>Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub>&nbsp;+ H<sub>2</sub>O → 2SO<sub>2</sub>&nbsp;+ 2NaOH</p>
-<p></p>
-<p><em>Công thức phân tử của hóa chất&nbsp;Hóa chất Sodium metabisulfite&nbsp;</em></p>
-<h2 id="mcetoc_1f9qnv3000">3. Điều chế, sản xuất hóa chất&nbsp;sodium metabisulfite như nào?</h2>
-<p>Sau đây là những cách giúp điều chế, sản xuất hóa chất&nbsp;sodium metabisulfite được sử dụng phổ biến hiện nay:</p>
-<ul>
-<li>Hóa chất Na<sub>2</sub>S<sub>2</sub>O<sub>4</sub>&nbsp;dưới nhiệt độ lớn hơn&nbsp;52 độ C sẽ bị phân hủy thành Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub></li>
-</ul>
-<p>2Na<sub>2</sub>S<sub>2</sub>O<sub>4</sub>&nbsp;⟶&nbsp;Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub>&nbsp;+&nbsp;Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub></p>
-<ul>
-<li>Na<sub>2</sub>SO<sub>3</sub>&nbsp;tham gia phản ứng với O2 khi có chất xúc tác là các&nbsp;dung môi&nbsp;(ethanol và hidro) để tạo ra Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub>:</li>
-</ul>
-<p>Na<sub>2</sub>SO<sub>3</sub>&nbsp;+&nbsp;SO<sub>2&nbsp;</sub>⟶ Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub></p>
-<ul>
-<li>Hoặc cũng có thể điều chế natri metabisunfit bằng cách:</li>
-</ul>
-<p>Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub>.7H<sub>2</sub>O&nbsp;⟶&nbsp;7H<sub>2</sub>O&nbsp;+ Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub></p>
-<h2 id="mcetoc_1f4vvm8pl4">4. Những ứng dụng của hóa chất sodium metabisulfite</h2>
-<h3 id="mcetoc_1f9vebs3b0">4.1. Ứng dụng trong ngành chế biến và bảo quản thực phẩm</h3>
-<p>Sodium metabisulfite được sử dụng như một chất phụ gia có công dụng giữ màu, ngăn biến đổi màu sắc của thực phẩm như bún, miến, bánh kẹo, đồ ăn nhanh, trái cây…</p>
-<p></p>
-<p><em>Chất phụ gia trong bảo quản thực phẩm&nbsp;</em></p>
-<p>&nbsp;Hydrogen Peroxide – Oxi già – H2O2 50% – Thái Lan – Solvay giá rẻ</p>
-<p>Là chất oxy hóa tốt nên SBS có tác dụng ngăn ngừa vi khuẩn, nấm phát triển trên thực phẩm điều này giúp thời gian bảo quản thực phẩm được tăng lên, nâng cao chất lượng cho thực phẩm.</p>
-<p>Chúng còn được người ta dùng làm thành phần bảo quản trong rượu, bia và các đồ uống có cồn nhằm ngăn chặn quá trình oxy hóa và giữ nguyên hương vị ban đầu cho sản phẩm.</p>
-<h3 id="mcetoc_1f9vec3341">4.2. Ứng dụng trong các ngành công nghiệp</h3>
-<p>Hóa chất sodium metabisulfite là chất không thể thiếu trong quá trình xử lý nước thải công nghiệp để loại bỏ cloramin dư thừa.</p>
-<p></p>
-<p><em>SBS được sử dụng trong xử lý nước thải&nbsp;loại bỏ cloramin dư thừa</em></p>
-<p>Sodium metabisulfite là dẫn xuất quan trọng để sản xuất các hóa chất và hợp chất khác, phân tách aldehyde và ketone.</p>
-<h3 id="mcetoc_1f9vec9b82">4.3. Ứng dụng trong lĩnh vực y tế</h3>
-<ul>
-<li>Sodium metabisulfite là một thành phần trong việc tinh chế các tá dược của một số thuốc như paracetamol.</li>
-<li>SBS là một chất có thể được cho vào một mẫu máu trong một phép thử cho hội chứng tế bào hình liềm.</li>
-</ul>
-<h3 id="mcetoc_1f9veeatq0">4.4. Các ứng dụng khác của&nbsp;<span data-sheets-value="{" data-sheets-userformat="{">Natri metabisunfit</span></h3>
-<p>Chất tẩy rửa và sát trùng vệ sinh: thường dùng trong việc ủ bia tại gia và nấu rượu để sát trùng các thiết bị và dụng cụ. Nó còn làm chất chùi rửa cho màng thẩm thấu ngược trong sản xuất nước sạch trong hệ thống tách muối khỏi nước biển.</p>
-<p>Chất chống lên men trong thức ăn gia súc, ngăn ngừa vi khuẩn trong chế biến đường và tinh bột, được dùng làm chất tẩy trắng trong ngành giấy, cotton, len, kaolin,…</p>
-<h2 id="mcetoc_1f9qo0gv11">5. Lưu ý để bảo quản, sử dụng hóa chất Sodium Metabisulfite an toàn</h2>
-<ul>
-<li>Sodium Metabisulfite cần được bảo quản những nơi khô ráo, thoáng mát, tránh ánh nắng mặt trời.</li>
-<li>Không nên được để gần những nơi có nước, có độ ẩm cao hoặc những nơi có tính acid, tính oxi hóa, chất độc hại.</li>
-<li>Tránh tiếp xúc trực tiếp với hóa chất này để đảm bảo an toàn cho người sử dụng.</li>
-</ul>
-<p></p>
-<p><em>Bảo quản hóa chất đúng quy định an toàn hóa chất</em></p>
-<h2 id="mcetoc_1g3i981ia1">6. Sodium metabisulfite giá bao nhiêu? Mua ở đâu uy tín?</h2>
-<p>Trên thị trường hóa chất hiên nay có rất nhiều cơ sở sản xuất, kinh doanh các loại hóa chất công nghiệp,&nbsp;hóa chất cơ bản với đa dạng về sản phẩm, chủng loại, kích cỡ…Tuy nhiên không phải bất kỳ cơ sở nào cũng đảm bảo an toàn, uy tín, giá cả cạnh tranh như <strong>TRỌNG TUẤN CHEMICAL </strong>. Chúng tôi có các dịch vụ tốt nhất hiện nay như:</p>
-<ul>
-<li>Hóa chất Natri metabisunfit có số lượng lớn tại <strong>TRỌNG TUẤN CHEMICAL </strong>, được kiểm định chất lượng nghiêm ngặt thông qua phòng quản lý chất lượng.</li>
-<li>Hệ thống xe vận tải lên đến gần 30 xe đầu kéo cùng với xe tải, xe téc chứa hóa chất chuyên dụng đảm bảo giao hàng nhanh chóng, đúng thời hạn.</li>
-<li>Đội ngũ nhân viên hỗ trợ 24/7, giải đáp mọi thắc mắc của quý khách hàng.</li>
-<li>Sản phẩm nguồn gốc xuất xứ rõ ràng, cung cấp MSDS của từng hóa chất cho khách hàng.</li>
-<li>Kho bãi lên đến 20.000 m<sup>2</sup>, đáp ứng đầy đủ an toàn hóa chất từ khâu bảo quản cho đến khâu pha chế.</li>
-</ul>
-<p>&nbsp;</p>
-<p id="mcetoc_1fma5tssn0"><em>Sodium metabisulfite(SBS) 99% Na2S2O5, Ý, 25kg/bao</em></p>
-<div class="vote detail-rating">Quý khách hàng đang thắc mắc&nbsp;<strong>Natri metabisunfit&nbsp;</strong>giá bao nhiêu, hãy liên hệ với <strong>TRỌNG TUẤN CHEMICAL </strong>qua số Hotline&nbsp;<strong>0932323391</strong> hoặc truy cập trực tiếp website TRỌNG TUẤN CHEMICAL.com.vn để được tư vấn và hỗ trợ trực tiếp từ hệ thống các chuyên viên.</div>
-</div>`,
-  },
+// <div class="title">
+// <div class="content-title">Mô tả sản phẩm</div>
+// </div>
+// <div class="specifications css-content clear">
+// <table style="width: 28.7944%; height: 191px;">
+// <tbody>
+// <tr style="height: 21px;">
+// <td style="height: 21px;"><strong>Tên sản phẩm:</strong></td>
+// <td style="height: 21px;">Sodium metabisulfite(SBS)</td>
+// </tr>
+// <tr style="height: 43px;">
+// <td style="height: 43px;"><strong>Tên gọi khác:</strong></td>
+// <td style="height: 43px;">Sodium metabisunfit, Natri metabisunfit</td>
+// </tr>
+// <tr style="height: 43px;">
+// <td style="height: 43px;"><strong>Công thức hóa học:</strong></td>
+// <td style="height: 43px;">Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub></td>
+// </tr>
+// <tr style="height: 21px;">
+// <td style="height: 21px;"><strong>CAS:</strong></td>
+// <td style="height: 21px;">7681-57-4</td>
+// </tr>
+// <tr style="height: 21px;">
+// <td style="height: 21px;"><strong>Hàm lượng:</strong></td>
+// <td style="height: 21px;">99%</td>
+// </tr>
+// <tr style="height: 21px;">
+// <td style="height: 21px;"><strong>Xuất xứ:</strong></td>
+// <td style="height: 21px;">Ý</td>
+// </tr>
+// <tr style="height: 21px;">
+// <td style="height: 21px;"><strong>Quy cách đóng gói:</strong></td>
+// <td style="height: 21px;">25kg/bao</td>
+// </tr>
+// </tbody>
+// </table>
+// <p>&nbsp;</p>
+// </div>
+// <div class="css-content content-description">
+// <p><strong><em>Hóa chất</em></strong> <strong><em>Sodium&nbsp;</em></strong><strong><em>metabisulfite</em></strong>&nbsp;(Natri metabisunfit) dạng bột màu trắng hiện đang được sử dụng phổ biến trong ngành y tế, thực phẩm, xử lý nước, ngành dệt nhuộm,… Sản phẩm được <strong>TRỌNG TUẤN CHEMICAL </strong>phân phối số lượng lớn, chính sách giá tốt nhất trên thị trường. Thông tin sản phẩm được cập nhật trong bài viết dưới đây.</p>
+// <h2 id="mcetoc_1f4vvl96e0">1. Sodium metabisulfite là gì?</h2>
+// <p>Sodium metabisulfite hay còn gọi là&nbsp;<strong>Natri metabisunfit</strong>&nbsp;hoặc Natri pyrosunfite, là một hợp chất vô cơ có công thức hóa học là Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub>. Chúng có ngoại quan tinh thể bột màu trắng, tan trong nước, kích ứng hệ hô hấp, có mùi hắc nhẹ của lưu huỳnh.</p>
+// <p><em>Natri metabisunfit&nbsp;có ngoại quan dạng bột màu trắng</em></p>
+// <h2 id="mcetoc_1g3i98u0r2">2. Tính chất của sodium metabisulfite</h2>
+// <h3 id="mcetoc_1g3i990f23">2.1. Tính chất vật lý</h3>
+// <ul>
+// <li>Ngoại quan: Tinh thể rắn hoặc bột màu trắng, mùi hắc khó chịu như lưu huỳnh</li>
+// <li>Khối lượng mol 190.107 g/mol</li>
+// <li>Khối lượng riêng 1.48 g/cm<sup>3</sup></li>
+// <li>Điểm nóng chảy&nbsp; &gt;170 °C</li>
+// <li>Độ hòa tan trong nước 54 g/100 ml</li>
+// </ul>
+// <h3 id="mcetoc_1g3i99qki4">2.2. Tính chất hóa học</h3>
+// <ul>
+// <li>Natri metabisunfit là hợp chất vô cơ, tác dụng với dung dịch axit tạo ra muối và giải phóng khí</li>
+// </ul>
+// <p>Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub>&nbsp;+ 2HCl → 2NaCl + H<sub>2</sub>O + 2SO<sub>2</sub></p>
+// <ul>
+// <li>Natri metabisunfit phản ứng nhiệt phân tạo thành khí lưu huỳnh đioxít</li>
+// </ul>
+// <p>Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub>&nbsp;→ Na<sub>2</sub>O + 2SO<sub>2</sub></p>
+// <ul>
+// <li>Natri metabisunfit phản ứng trao đổi với nước tạo ra dung dịch bazơ giải phỏng khí SO<sub>2</sub></li>
+// </ul>
+// <p>Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub>&nbsp;+ H<sub>2</sub>O → 2SO<sub>2</sub>&nbsp;+ 2NaOH</p>
+// <p></p>
+// <p><em>Công thức phân tử của hóa chất&nbsp;Hóa chất Sodium metabisulfite&nbsp;</em></p>
+// <h2 id="mcetoc_1f9qnv3000">3. Điều chế, sản xuất hóa chất&nbsp;sodium metabisulfite như nào?</h2>
+// <p>Sau đây là những cách giúp điều chế, sản xuất hóa chất&nbsp;sodium metabisulfite được sử dụng phổ biến hiện nay:</p>
+// <ul>
+// <li>Hóa chất Na<sub>2</sub>S<sub>2</sub>O<sub>4</sub>&nbsp;dưới nhiệt độ lớn hơn&nbsp;52 độ C sẽ bị phân hủy thành Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub></li>
+// </ul>
+// <p>2Na<sub>2</sub>S<sub>2</sub>O<sub>4</sub>&nbsp;⟶&nbsp;Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub>&nbsp;+&nbsp;Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub></p>
+// <ul>
+// <li>Na<sub>2</sub>SO<sub>3</sub>&nbsp;tham gia phản ứng với O2 khi có chất xúc tác là các&nbsp;dung môi&nbsp;(ethanol và hidro) để tạo ra Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub>:</li>
+// </ul>
+// <p>Na<sub>2</sub>SO<sub>3</sub>&nbsp;+&nbsp;SO<sub>2&nbsp;</sub>⟶ Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub></p>
+// <ul>
+// <li>Hoặc cũng có thể điều chế natri metabisunfit bằng cách:</li>
+// </ul>
+// <p>Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub>.7H<sub>2</sub>O&nbsp;⟶&nbsp;7H<sub>2</sub>O&nbsp;+ Na<sub>2</sub>S<sub>2</sub>O<sub>5</sub></p>
+// <h2 id="mcetoc_1f4vvm8pl4">4. Những ứng dụng của hóa chất sodium metabisulfite</h2>
+// <h3 id="mcetoc_1f9vebs3b0">4.1. Ứng dụng trong ngành chế biến và bảo quản thực phẩm</h3>
+// <p>Sodium metabisulfite được sử dụng như một chất phụ gia có công dụng giữ màu, ngăn biến đổi màu sắc của thực phẩm như bún, miến, bánh kẹo, đồ ăn nhanh, trái cây…</p>
+// <p></p>
+// <p><em>Chất phụ gia trong bảo quản thực phẩm&nbsp;</em></p>
+// <p>&nbsp;Hydrogen Peroxide – Oxi già – H2O2 50% – Thái Lan – Solvay giá rẻ</p>
+// <p>Là chất oxy hóa tốt nên SBS có tác dụng ngăn ngừa vi khuẩn, nấm phát triển trên thực phẩm điều này giúp thời gian bảo quản thực phẩm được tăng lên, nâng cao chất lượng cho thực phẩm.</p>
+// <p>Chúng còn được người ta dùng làm thành phần bảo quản trong rượu, bia và các đồ uống có cồn nhằm ngăn chặn quá trình oxy hóa và giữ nguyên hương vị ban đầu cho sản phẩm.</p>
+// <h3 id="mcetoc_1f9vec3341">4.2. Ứng dụng trong các ngành công nghiệp</h3>
+// <p>Hóa chất sodium metabisulfite là chất không thể thiếu trong quá trình xử lý nước thải công nghiệp để loại bỏ cloramin dư thừa.</p>
+// <p></p>
+// <p><em>SBS được sử dụng trong xử lý nước thải&nbsp;loại bỏ cloramin dư thừa</em></p>
+// <p>Sodium metabisulfite là dẫn xuất quan trọng để sản xuất các hóa chất và hợp chất khác, phân tách aldehyde và ketone.</p>
+// <h3 id="mcetoc_1f9vec9b82">4.3. Ứng dụng trong lĩnh vực y tế</h3>
+// <ul>
+// <li>Sodium metabisulfite là một thành phần trong việc tinh chế các tá dược của một số thuốc như paracetamol.</li>
+// <li>SBS là một chất có thể được cho vào một mẫu máu trong một phép thử cho hội chứng tế bào hình liềm.</li>
+// </ul>
+// <h3 id="mcetoc_1f9veeatq0">4.4. Các ứng dụng khác của&nbsp;<span data-sheets-value="{" data-sheets-userformat="{">Natri metabisunfit</span></h3>
+// <p>Chất tẩy rửa và sát trùng vệ sinh: thường dùng trong việc ủ bia tại gia và nấu rượu để sát trùng các thiết bị và dụng cụ. Nó còn làm chất chùi rửa cho màng thẩm thấu ngược trong sản xuất nước sạch trong hệ thống tách muối khỏi nước biển.</p>
+// <p>Chất chống lên men trong thức ăn gia súc, ngăn ngừa vi khuẩn trong chế biến đường và tinh bột, được dùng làm chất tẩy trắng trong ngành giấy, cotton, len, kaolin,…</p>
+// <h2 id="mcetoc_1f9qo0gv11">5. Lưu ý để bảo quản, sử dụng hóa chất Sodium Metabisulfite an toàn</h2>
+// <ul>
+// <li>Sodium Metabisulfite cần được bảo quản những nơi khô ráo, thoáng mát, tránh ánh nắng mặt trời.</li>
+// <li>Không nên được để gần những nơi có nước, có độ ẩm cao hoặc những nơi có tính acid, tính oxi hóa, chất độc hại.</li>
+// <li>Tránh tiếp xúc trực tiếp với hóa chất này để đảm bảo an toàn cho người sử dụng.</li>
+// </ul>
+// <p></p>
+// <p><em>Bảo quản hóa chất đúng quy định an toàn hóa chất</em></p>
+// <h2 id="mcetoc_1g3i981ia1">6. Sodium metabisulfite giá bao nhiêu? Mua ở đâu uy tín?</h2>
+// <p>Trên thị trường hóa chất hiên nay có rất nhiều cơ sở sản xuất, kinh doanh các loại hóa chất công nghiệp,&nbsp;hóa chất cơ bản với đa dạng về sản phẩm, chủng loại, kích cỡ…Tuy nhiên không phải bất kỳ cơ sở nào cũng đảm bảo an toàn, uy tín, giá cả cạnh tranh như <strong>TRỌNG TUẤN CHEMICAL </strong>. Chúng tôi có các dịch vụ tốt nhất hiện nay như:</p>
+// <ul>
+// <li>Hóa chất Natri metabisunfit có số lượng lớn tại <strong>TRỌNG TUẤN CHEMICAL </strong>, được kiểm định chất lượng nghiêm ngặt thông qua phòng quản lý chất lượng.</li>
+// <li>Hệ thống xe vận tải lên đến gần 30 xe đầu kéo cùng với xe tải, xe téc chứa hóa chất chuyên dụng đảm bảo giao hàng nhanh chóng, đúng thời hạn.</li>
+// <li>Đội ngũ nhân viên hỗ trợ 24/7, giải đáp mọi thắc mắc của quý khách hàng.</li>
+// <li>Sản phẩm nguồn gốc xuất xứ rõ ràng, cung cấp MSDS của từng hóa chất cho khách hàng.</li>
+// <li>Kho bãi lên đến 20.000 m<sup>2</sup>, đáp ứng đầy đủ an toàn hóa chất từ khâu bảo quản cho đến khâu pha chế.</li>
+// </ul>
+// <p>&nbsp;</p>
+// <p id="mcetoc_1fma5tssn0"><em>Sodium metabisulfite(SBS) 99% Na2S2O5, Ý, 25kg/bao</em></p>
+// <div class="vote detail-rating">Quý khách hàng đang thắc mắc&nbsp;<strong>Natri metabisunfit&nbsp;</strong>giá bao nhiêu, hãy liên hệ với <strong>TRỌNG TUẤN CHEMICAL </strong>qua số Hotline&nbsp;<strong>0932323391</strong> hoặc truy cập trực tiếp website TRỌNG TUẤN CHEMICAL.com.vn để được tư vấn và hỗ trợ trực tiếp từ hệ thống các chuyên viên.</div>
+// </div>`,
+//   },
   {
     key: 69,
     type: "Hóa Chất Cơ Bản",
@@ -8564,219 +8563,219 @@ Nhà kho trữ hóa chất phải nằm ở xa khu dân cư, tránh nguồn nư�
 <p>Quý khách hàng đang có nhu cầu mua&nbsp;<strong>Natri sunfat</strong> của <strong>TRỌNG TUẤN CHEMICAL</strong> hãy liên hệ ngay số Hotline 0826 010 010 hoặc truy cập trực tiếp website TRỌNG TUẤN CHEMICAL.com.vn để được tư vấn và hỗ trợ trực tiếp từ hệ thống các chuyên viên.</p>
 </div>`,
   },
-  {
-    key: 73,
-    type: "Hóa Chất Cơ Bản",
-    title: "Sodium sulfite (SS) Na2SO399%, Thái Lan, 25kg/bao",
-    price: 0,
-    img: Img73,
-    data_info: `
-<p>Sodium sulphite hay còn gọi là Natri sulphite là muối natri tan của sulphurous acid. Natri sulphite bị phân hủy thậm chí bởi một axit yếu, giải phóng khí lưu huỳnh đioxit. Dạng bột màu trắng, không mùi, CTHH: Na<sub>2</sub>SO<sub>3</sub>, xuất xứ: Thái Lan, quy cách: 25kg/bao. Dùng trong công nghiệp sản xuất giấy, tẩy trắng, rửa ảnh, thực phẩm…</p>
-    `,
-    data_info_bottom: `
-<span class="posted_in">Danh mục: Hóa Chất Cơ Bản, Hóa chất ngành dệt nhuộm, Hóa chất ngành dược – mỹ phẩm, Hóa chất ngành giấy, Hóa chất ngành tẩy rửa, Hóa chất ngành thức ăn chăn nuôi, Hóa chất ngành thực phẩm, Hóa chất ngành xi mạ, Hóa Chất Thí Nghiệm, Hóa Chất Xử Lý Nước</span>
-    `,
-    data_advanced: `<div class="tab-panels">
-							<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
+//   {
+//     key: 73,
+//     type: "Hóa Chất Cơ Bản",
+//     title: "Sodium sulfite (SS) Na2SO399%, Thái Lan, 25kg/bao",
+//     price: 0,
+//     img: Img73,
+//     data_info: `
+// <p>Sodium sulphite hay còn gọi là Natri sulphite là muối natri tan của sulphurous acid. Natri sulphite bị phân hủy thậm chí bởi một axit yếu, giải phóng khí lưu huỳnh đioxit. Dạng bột màu trắng, không mùi, CTHH: Na<sub>2</sub>SO<sub>3</sub>, xuất xứ: Thái Lan, quy cách: 25kg/bao. Dùng trong công nghiệp sản xuất giấy, tẩy trắng, rửa ảnh, thực phẩm…</p>
+//     `,
+//     data_info_bottom: `
+// <span class="posted_in">Danh mục: Hóa Chất Cơ Bản, Hóa chất ngành dệt nhuộm, Hóa chất ngành dược – mỹ phẩm, Hóa chất ngành giấy, Hóa chất ngành tẩy rửa, Hóa chất ngành thức ăn chăn nuôi, Hóa chất ngành thực phẩm, Hóa chất ngành xi mạ, Hóa Chất Thí Nghiệm, Hóa Chất Xử Lý Nước</span>
+//     `,
+//     data_advanced: `<div class="tab-panels">
+// 							<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
 										
 
-<div class="title">
-<div class="content-title"></div>
-</div>
-<div class="specifications css-content clear">
-<table>
-<tbody>
-<tr>
-<td><strong>Tên sản phẩm</strong></td>
-<td>Sodium sulphite (SS)</td>
-</tr>
-<tr>
-<td><strong>Tên gọi khác</strong></td>
-<td>Natri sulphite</td>
-</tr>
-<tr>
-<td><strong>Công thức hóa học</strong></td>
-<td>Na<sub>2</sub>SO<sub>3</sub></td>
-</tr>
-<tr>
-<td><strong>Hàm lượng</strong></td>
-<td>99%</td>
-</tr>
-<tr>
-<td><strong>Xuât xứ</strong></td>
-<td>Thái Lan</td>
-</tr>
-<tr>
-<td><strong>Tính chất</strong></td>
-<td>Dạng bột mịn màu trắng, không mùi</td>
-</tr>
-<tr>
-<td><strong>Quy cách</strong></td>
-<td>25 kg/bao</td>
-</tr>
-</tbody>
-</table>
-</div>
-<div class="css-content content-description">
-<p>Sodium sulfite hay còn được gọi là Natri sunfit, là hóa chất có dạng bột màu trắng, không mùi, tan trong nước. Ngày nay, Natri sunfit được sử dụng rộng rãi trong nhiều ngành sản xuất như sản xuất giấy, tẩy trắng, dệt nhuộm, thực phẩm, xử lí nước thải… Vậy Sodium sulfite là chất gì? Hãy cùng TRỌNG TUẤN CHEMICAL tìm hiểu về hóa chất này qua bài viết dưới đây nhé.</p>
-<h2 id="mcetoc_1gf0jhdts0"><strong>1. Sodium sulfite là gì?</strong></h2>
-<p>Sodium sulfite hay còn được gọi là Natri sunfit có công thức hóa học là Na<sub>2</sub>SO<sub>3</sub>&nbsp;là hóa chất có ngoại quan dạng bột màu trắng, không mùi, tan trong nước, dễ bị phân hủy tạo thành khí lưu huỳnh. Ngày nay, Natri sunfit được người ta sử dụng rộng rãi trong nhiều ngành sản xuất như sản xuất giấy, tẩy trắng, dệt nhuộm, thực phẩm, xử lí nước thải…</p>
-<h2 id="mcetoc_1gf0jhl551"><strong>2. Những tính chất quan trọng của Sodium sulfite</strong></h2>
-<h3 id="mcetoc_1gf0jhoqt2"><strong>2.1 Tính chất vật lí</strong></h3>
-<p>– Na<sub>2</sub>SO<sub>3&nbsp;</sub>là một chất rắn màu trắng và dễ bị phân hủy</p>
-<p>– Có khối lượng : 126.043 g/mol</p>
-<p>– Nhiệt độ nóng chảy: 33.4 °C</p>
-<p>– Độ hòa tan trong nước: 678 g/L</p>
-<p>– Natri sunfit có thể được điều chế trong phòng thí nghiệm bằng cách khử natri cacbonat với axít sunfurơ.</p>
-<h3 id="mcetoc_1gf0jhtq33"><strong>2.2 Tính chất hóa học</strong></h3>
-<p>– Phản ứng với dung dịch axít tạo thành khí SO<sub>2</sub>&nbsp;và muối:</p>
-<p>2HCl + Na<sub>2</sub>SO<sub>3</sub>&nbsp;→ 2NaCl + SO<sub>2</sub>&nbsp;+ H<sub>2</sub>O</p>
-<p>– Phản ứng với oxi sẽ tạo thành muối Natri sunfat:</p>
-<p>2Na<sub>2</sub>SO<sub>3</sub>&nbsp;+ O<sub>2</sub>&nbsp;→ 2Na<sub>2</sub>SO<sub>4</sub></p>
-<p>– Phản ứng với dung dịch muối Bari corua tạo kết tủa trắng:</p>
-<p>BaCl<sub>2</sub>&nbsp;+ Na<sub>2</sub>SO<sub>3</sub>&nbsp;→ 2NaCl + BaSO<sub>3</sub>↓</p>
-<h2 id="mcetoc_1gf0ji7354"><strong>3. Sodium sulfite có ứng dụng gì trong cuộc sống?</strong></h2>
-<p>– Ứng dụng trong sản xuất giấy và bột giấy: Là hóa chất không thể thiếu cho ngành công nghiệp sản xuất giấy, chúng có khả năng tẩy trắng giấy an toàn, hiệu quả mà ít làm ảnh hưởng đến chất lượng của giấy sau khi hoàn thành.</p>
-<p>– Xử lí nước: Trong công nghiệp xử lý nước hóa chất Natri sunfit được dùng như là chất để khử những chất thải có oxi, tham gia vào quá trình lọc nước, ngoài ra chúng còn được thêm vào xử lí hồ bơi để giảm khí clo.</p>
-<p>– Bảo quản thực phẩm: Là một trong những loại phụ gia thực phẩm phổ biến dùng để tẩy trắng, bên cạnh đó còn dùng làm chất bảo quản thực phẩm như thịt, cá…với lượng nhỏ theo quy định an toàn vệ sinh thực phẩm của Nhà nước quy định.</p>
-<h2 id="mcetoc_1gf0jighs5"><strong>4. Nơi cung cấp hóa chất Sodium sulfite uy tín, chất lượng</strong></h2>
-<p><strong>TRỌNG TUẤN CHEMICAL </strong>hiện đang là nhà cung cấp và phân phối Hóa chất Natri sunfit – Na<sub>2</sub>SO<sub>3</sub> trên toàn quốc, sản phẩm hóa chất&nbsp;do chúng tôi phân phối đảm bảo hàng hóa chất lượng và nguồn hàng ổn định, giá cả rất cạnh tranh, phù hợp với nhu cầu sử dụng thực tế của mỗi khách hàng. Tất cả các mặt hàng của chúng tôi cũng cấp đều có chứng chỉ CO-CQ.</p>
-<p>Ngoài ra.&nbsp;<strong>TRỌNG TUẤN CHEMICAL</strong>còn cung cấp cho quý khách hàng của mình những loại hóa chất công nghiệp tốt và hóa chất thí nghiệm đa dạng. Đặc biệt các sản phẩm hóa chất công nghiệp của chúng tôi, đều có nguồn gốc nhập khẩu từ các thương hiệu lớn và đảm bảo chất lượng cũng như uy tín hàng đầu. Mọi thông tin mua hàng vui lòng quý khách liên hệ theo địa chỉ Website&nbsp;TRỌNG TUẤN CHEMICAL.com.vn&nbsp;hoặc Hotline:&nbsp;0932323391</p>
-<p>Trên đây là những thông tin mà&nbsp;<strong>TRỌNG TUẤN CHEMICAL</strong> muốn cung cấp cho bạn liên quan đến hóa chất Sodium Metabisulfite – Na<sub>2</sub>SO<sub>3</sub> là gì và những điều xoay quanh về hóa chất này như Cấu tạo phân tử của Natri sunfit như thế nào? Những tính chất lý hóa nào đặc trưng cho hóa chất Natri sunfit này? Công dụng của hóa chất Natri sunfit này trong các lĩnh vực ra sao? Cách nào để điều chế loại hóa chất&nbsp; Natri sunfit cũng như giá cả của Natri sunfit ra sao? Tính nguy hiểm của Na<sub>2</sub>SO<sub>3</sub> – Natri sunfit như thế nào? Hy vọng có thể giúp bạn có thêm thông tin về loại hóa chất này.</p>
-</div>`,
-  },
-  {
-    key: 74,
-    type: "Hóa Chất Cơ Bản",
-    title: "Sodium Sulphide – Đá thối – Na2S.3H2O 60%, Trung Quốc, 25kg/bao",
-    price: 0,
-    img: Img74,
-    data_info: `
-<p>Sodium sulphide hay Sodium sulfur, Natri sunfua, đá thối…Là hợp chất vô cơ của Natri có ngoại quan dạng vảy màu đỏ cam hoặc vàng, có mùi trứng thối, tan trong nước. CTHH: Na2S.3H2O, CAS: 1313-82-2, hàm lượng: 60%, xuất xứ: Trung Quốc, quy cách: 25kg/bao. Đá thối chủ yếu được sử dụng trong ngành công nghiệp giấy và bột giấy, xử lý nước, ngành công nghiệp nhiếp ảnh, ngành công nghiệp dệt may, thuốc nhuộm, chất bảo quản thực phẩm, sản xuất thuốc …</p>
-    `,
-    data_info_bottom: `
-<span class="posted_in">Danh mục: Hóa Chất Cơ Bản, Hóa chất ngành da giầy, Hóa chất ngành dệt nhuộm, Hóa chất ngành dược – mỹ phẩm, Hóa chất ngành điện tử, Hóa chất ngành giấy, Hóa chất ngành khai khoáng, Hóa chất ngành sơn, Hóa chất ngành tẩy rửa, Hóa chất ngành thức ăn chăn nuôi, Hóa chất ngành thực phẩm, Hóa chất ngành xi mạ, Hóa chất nhiệt điện, Hóa Chất Xử Lý Nước, Sản phẩm khác, Sản phẩm nổi bật</span>
-    `,
-    data_advanced: `<div class="tab-panels">
-<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
-<div class="title">
-<div class="content-title"><strong>Mô tả sản phẩm</strong></div>
-<div></div>
-</div>
-<div class="specifications css-content clear">
-<table>
-<tbody>
-<tr>
-<td><strong>Tên sản phẩm:</strong></td>
-<td>Sodium sulphide</td>
-</tr>
-<tr>
-<td><strong>Tên gọi khác:</strong></td>
-<td>Sodium sulfur, Natri sunfua, đá thối</td>
-</tr>
-<tr>
-<td><strong>Công thức hóa học:</strong></td>
-<td>Na<sub>2</sub>S.3H<sub>2</sub>O</td>
-</tr>
-<tr>
-<td><strong>CAS:</strong></td>
-<td>1313-82-2</td>
-</tr>
-<tr>
-<td><strong>Hàm lượng:</strong></td>
-<td>60%</td>
-</tr>
-<tr>
-<td><strong>Xuất xứ:</strong></td>
-<td>Trung Quốc</td>
-</tr>
-<tr>
-<td><strong>Đóng gói:</strong></td>
-<td>25kg/bao</td>
-</tr>
-</tbody>
-</table>
-</div>
-<div class="css-content content-description">
-<p><strong>Natri sunfua</strong> hay còn gọi là đá thối là một hóa chất được sử dụng rộng rãi trong sản xuất công nghiệp như ngành dệt may, nhiếp ảnh, thuốc nhuộm, giấy và bột giấy, chất bảo quản thực phẩm. Sản phẩm hóa chất&nbsp;này hiện đang được <b>TRỌNG TUẤN CHEMICAL </b>phân phối trên toàn quốc với nhiều mức giá tốt nhất thị trường. Bài viết dưới đây sẽ cung cấp cho bạn thông tin chi tiết về sản phẩm này, hãy cùng theo dõi nhé!</p>
-<p></p>
-<p>Đá thối dạng vảy màu cam, tan trong nước có mùi trứng thối</p>
-<h2 id="mcetoc_1f5ksei210">1. Tìm hiểu natri sunfua&nbsp;Na2S là gì?</h2>
-<p>Natri sunfua Na2S có nhiều tên gọi khác nhau như: Sodium sulphide,&nbsp;Sodium sulfur, Natri sunfua, đá thối…</p>
-<p>Nó là một chất hóa học có dạng vẩy màu nâu đất hoặc vàng, là một loại muối hòa tan trong nước, có mùi trứng thối chính vì thế mà còn được biết đến với tên quen thuộc như đá thối.</p>
-<h2 id="mcetoc_1f5ktbc7t7">2. Natri sunfua&nbsp;Na2S gồm những loại nào?</h2>
-<p>Natri sunfua&nbsp;có nhiều loại tùy vào hàm lượng Na2S, hiện nay chủ yếu nó gồm có hai loại như sau:</p>
-<ul>
-<li>Loại thông thường chứa khoảng 60% khối lượng Na2S.</li>
-<li>Loại dùng trong kỹ thuật: Bề ngoài màu vàng khi ở thể rắn, còn ở dạng dung dịch, nó lại chuyển thành không màu.</li>
-</ul>
-<h2 id="mcetoc_1f9vb4ms55">3. Những tính chất lí hóa nổi bật của&nbsp;Natri sunfua&nbsp;Na2S</h2>
-<ul>
-<li>Natri sunfua tồn tại ở hai dạng, đó là dạng khan và dạng ngậm nước nhưng chủ yếu nhất là dạng ngậm 9 nước Na2S9.H20.</li>
-<li>Màu sắc: Không màu.</li>
-<li>Độ tan: Nó tan trong nước sẽ tạo dung dịch có tính bazơ.</li>
-<li>Khi gặp không khí ẩm, Na2S và các muối hiđrat của nó đều giải phóng&nbsp;hiđrô sunfua và có mùi trứng thối hay&nbsp;trung tiện.</li>
-</ul>
-<p>Những tính chất lí hóa nổi bật của&nbsp;Natri sunfua&nbsp;Na2S</p>
-<p><em><strong></strong></em>&nbsp;Dung dịch amoniac NH4OH 25% – Việt Nam – Can/phuy/tank/xe bồn</strong></p>
-<h2 id="mcetoc_1f5ktbjie8">4. Điều chế, sản xuất hóa chất&nbsp;Natri sunfua&nbsp;Na2S như thế nào?</h2>
-<p>Tùy vào mục đích sử dụng khác nhau mà hóa chất Natri Sunfua Na2S được điều chế theo những phương pháp khác nhau. Cụ thể như sau:</p>
-<h3 id="trong-phong-thi-nghiem">4.1. Điều chế Na2S trong phòng thí nghiệm</h3>
-<p>Trong phòng thí nghiệm, Natri sunfua được điều chế khi khử lưu huỳnh với natri trong khí amoniac khô. Hoặc lưu huỳnh có thể bị natri khử trong THF khô với xúc tác naphtalen:</p>
-<p>2 Na + S → Na2S</p>
-<h3 id="trong-cong-nghiep">4.2. Sản xuất Natri sunfua trong công nghiệp ra sao?</h3>
-<p>Natri Sunfua được sản xuất trong công nghiệp bằng cách khử natri sunfua với&nbsp;cacbon ở dạng than đá:</p>
-<dl>
-<dt>Na2SO4&nbsp;+ 4 C → Na2S + 4 CO</dt>
-</dl>
-<h2 id="mcetoc_1d73siatb0">5. Những ứng dụng quan trọng của natri sunfua trong đời sống, sản xuất</h2>
-<ul>
-<li>Sodium sulphide là hóa chất chủ yếu được dùng trong ngành công nghiệp giấy và bột giấy, công nghiệp nhiếp ảnh.</li>
-<li>Ngoài ra nó còn được sử dụng trong ngành công nghiệp da thuộc, cao su, dệt may, chất tẩy rửa, thu hồi dầu nhuộm, chất bảo quản thực phẩm.</li>
-<li>Hóa chất Na2S còn được sử dụng rộng rãi trong công nghiệp xử lý nước để loại bỏ các tạp chất oxy hóa.</li>
-<li>Hợp chất Na2S còn được sử dụng trong khai khoáng tuyến nổi cho ngàng mạ điện, dược phẩm,… Chúng được dùng cả trong sản xuất thuốc nhuộm sunfua, hóa chất cao su và các hợp chất hóa học khác,…</li>
-</ul>
-<p>Những ứng dụng quan trọng của natri sunfua trong đời sống, sản xuất</p>
-<h2 id="mcetoc_1f5kt9bn16">6. Hóa chất Natri sunfua Na2S có nguy hiểm hay không?</h2>
-<ul>
-<li>Natri sunfua – Na2S là một bazơ mạnh, có thể gây bỏng. Vậy nên cần để natri sunfua tránh xa các chất xung khắc như chất oxy hóa, axit, và đảm bảo kho luôn được khô thoáng.</li>
-<li>Vì các axit phản ứng với Na2S sẽ sinh ra H2S nên không để chất này tiếp xúc với cơ thể (mắt, da,…) để tránh nhiễm độc.</li>
-<li>Đá thối Na2S là chất có độc tính cao nên khi hít phải nó sẽ dễ gây đau đầu, buồn nôn, chóng mặt, tổn thương hệ hô hấp.</li>
-<li>Khi tiếp xúc với hóa chất này cần sử dụng đồ bảo hộ theo đúng quy định. Nếu có bất kì biểu hiện xấu nào khi tiếp xúc với chúng, bạn cần đến ngay cơ sở y tế để kiểm tra và được theo dõi kịp thời nhất.</li>
-</ul>
-<h2 id="mcetoc_1f54tmclp0">7. Sử dụng an toàn và cách bảo quản hóa chất&nbsp;natri sunfua Na2S</h2>
-<h3 id="mcetoc_1d743qja41">7.1. Lưu ý để an toàn hóa chất natri sunfua</h3>
-<ul>
-<li>Các axit phản ứng với Na2S sẽ sinh ra khí độc và có mùi hôi giống với mùi trứng thối nên cần đeo khẩu trang để tránh khí độc và giảm mùi hiệu quả. Nếu cảm thấy không khỏe cần tìm kiếm sự chăm sóc y tế và mang theo nhãn mác.</li>
-<li>Hóa chất này cũng giống như natri hidrosunfua là một bazo mạnh và có thể gây bỏng da vì vậy khi sử dụng nên dùng với găng tay và dụng cụ bảo hộ khác để không bị dính vào da.</li>
-<li>Nên tránh để hóa chất tiếp xúc với da và mắt.</li>
-</ul>
-<h3 id="mcetoc_1d743r9gr2">7.2. Cách bảo quản hóa chất natri sunfua hiệu quả</h3>
-<p>Nên giữ kho chứa đá thối luôn khô thoáng, tránh các tia lửa và sức nóng.</p>
-<p>Tránh không hít phải bụi, không được thêm nước khi sử dụng hóa chất Na2S.</p>
-<h2 id="mcetoc_1ga8nhqc50">8. Báo giá hóa chất Natri sunfua mới nhất</h2>
-<p>Trên thị trường hiện nay có rất nhiều thương hiệu cung cấp hóa chất&nbsp;Natri sunfua -Na<sub>2</sub>S&nbsp;với quy cách đóng gói rất đa dạng. Tùy vào chất lượng sản phẩm mà chúng lại có những mức giá khác nhau. Để có thể mua được hóa chất công nghiệp chất lượng tốt mà giá cả hợp lý thì khách hàng cần sáng suốt lựa chọn những nhà phân phối uy tín.</p>
-<p>Hiện nay, tại <b>TRỌNG TUẤN CHEMICAL </b>– công ty chuyên phân phối hóa chất công nghiệp hàng đầu Việt Nam – đang bán sản phẩm <strong>Sodium sulphide</strong>&nbsp;60% Na2S.3H2O, xuất xứ Trung Quốc, đóng gói 25kg/bao&nbsp;với mức giá vô cùng hấp dẫn. Hãy liên hệ ngay với <b>TRỌNG TUẤN CHEMICAL </b>để được báo giá tốt nhất!</p>
-<h2 id="mcetoc_1f54tmn3g1">9. Mua hóa chất Natri sunfua Na2S ở đâu đảm bảo chất lượng?</h2>
-<p>&nbsp;</p>
-<p>Địa chỉ mua hóa chất&nbsp;Na2S chất lượng tại Việt Nam</p>
-<p>Với thị trường mở rộng có rất nhiều địa chỉ cung cấp các loại hóa chất, tuy nhiên điều đó khiến cho người dùng khó khăn cho việc lựa chọn sản phẩm và không biết được giá cả đã phải chăng hay chưa? Vậy thì hãy lựa chọn ngay các hóa chất xử lý nước trong đó có Na2S.3H2O 60% Trung Quốc tại <b>TRỌNG TUẤN CHEMICAL </b>– Một trong những địa chỉ tin cậy chuyên cung ứng và phân phối hóa chất công nghiệp,&nbsp;<strong>hóa chất cơ bản</strong>&nbsp;hàng đầu hiện nay.</p>
-<p>Hóa chất&nbsp;Na2S.3H2O 60% tại đây có xuất xứ từ Trung Quốc đạt tiêu chuẩn quốc tế ISO với quy cách đóng gói 25/gói luôn đảm bảo chất lượng với giá cả hợp lý nhất trên thị trường.</p>
-<p>Quý khách hàng quan tâm đến hóa chất Natri sunfua Trung Quốc hoặc các sản phẩm hóa chất công nghiệm, dụng cụ thí nghiệm khác hãy gọi ngay cho chúng tôi tại HOTLINE <strong>0932323391</strong> hoặc truy cập vào website <strong>TRỌNG TUẤN CHEMICAL.com.vn </strong>để được tư vấn và báo giá tốt nhất.</p>
-</div>`,
-  },
-  {
-    key: 75,
-    type: "Hóa Chất Xử Lý Nước",
-    title: "Sodium sulphide 60% Na2S.3H2O",
-    price: 0,
-    img: Img75,
-    data_info: ``,
-    data_info_bottom: `
-<span class="posted_in">Danh mục: Hóa Chất Xử Lý Nước</span>
-    `,
-    data_advanced: ``,
-  },
+// <div class="title">
+// <div class="content-title"></div>
+// </div>
+// <div class="specifications css-content clear">
+// <table>
+// <tbody>
+// <tr>
+// <td><strong>Tên sản phẩm</strong></td>
+// <td>Sodium sulphite (SS)</td>
+// </tr>
+// <tr>
+// <td><strong>Tên gọi khác</strong></td>
+// <td>Natri sulphite</td>
+// </tr>
+// <tr>
+// <td><strong>Công thức hóa học</strong></td>
+// <td>Na<sub>2</sub>SO<sub>3</sub></td>
+// </tr>
+// <tr>
+// <td><strong>Hàm lượng</strong></td>
+// <td>99%</td>
+// </tr>
+// <tr>
+// <td><strong>Xuât xứ</strong></td>
+// <td>Thái Lan</td>
+// </tr>
+// <tr>
+// <td><strong>Tính chất</strong></td>
+// <td>Dạng bột mịn màu trắng, không mùi</td>
+// </tr>
+// <tr>
+// <td><strong>Quy cách</strong></td>
+// <td>25 kg/bao</td>
+// </tr>
+// </tbody>
+// </table>
+// </div>
+// <div class="css-content content-description">
+// <p>Sodium sulfite hay còn được gọi là Natri sunfit, là hóa chất có dạng bột màu trắng, không mùi, tan trong nước. Ngày nay, Natri sunfit được sử dụng rộng rãi trong nhiều ngành sản xuất như sản xuất giấy, tẩy trắng, dệt nhuộm, thực phẩm, xử lí nước thải… Vậy Sodium sulfite là chất gì? Hãy cùng TRỌNG TUẤN CHEMICAL tìm hiểu về hóa chất này qua bài viết dưới đây nhé.</p>
+// <h2 id="mcetoc_1gf0jhdts0"><strong>1. Sodium sulfite là gì?</strong></h2>
+// <p>Sodium sulfite hay còn được gọi là Natri sunfit có công thức hóa học là Na<sub>2</sub>SO<sub>3</sub>&nbsp;là hóa chất có ngoại quan dạng bột màu trắng, không mùi, tan trong nước, dễ bị phân hủy tạo thành khí lưu huỳnh. Ngày nay, Natri sunfit được người ta sử dụng rộng rãi trong nhiều ngành sản xuất như sản xuất giấy, tẩy trắng, dệt nhuộm, thực phẩm, xử lí nước thải…</p>
+// <h2 id="mcetoc_1gf0jhl551"><strong>2. Những tính chất quan trọng của Sodium sulfite</strong></h2>
+// <h3 id="mcetoc_1gf0jhoqt2"><strong>2.1 Tính chất vật lí</strong></h3>
+// <p>– Na<sub>2</sub>SO<sub>3&nbsp;</sub>là một chất rắn màu trắng và dễ bị phân hủy</p>
+// <p>– Có khối lượng : 126.043 g/mol</p>
+// <p>– Nhiệt độ nóng chảy: 33.4 °C</p>
+// <p>– Độ hòa tan trong nước: 678 g/L</p>
+// <p>– Natri sunfit có thể được điều chế trong phòng thí nghiệm bằng cách khử natri cacbonat với axít sunfurơ.</p>
+// <h3 id="mcetoc_1gf0jhtq33"><strong>2.2 Tính chất hóa học</strong></h3>
+// <p>– Phản ứng với dung dịch axít tạo thành khí SO<sub>2</sub>&nbsp;và muối:</p>
+// <p>2HCl + Na<sub>2</sub>SO<sub>3</sub>&nbsp;→ 2NaCl + SO<sub>2</sub>&nbsp;+ H<sub>2</sub>O</p>
+// <p>– Phản ứng với oxi sẽ tạo thành muối Natri sunfat:</p>
+// <p>2Na<sub>2</sub>SO<sub>3</sub>&nbsp;+ O<sub>2</sub>&nbsp;→ 2Na<sub>2</sub>SO<sub>4</sub></p>
+// <p>– Phản ứng với dung dịch muối Bari corua tạo kết tủa trắng:</p>
+// <p>BaCl<sub>2</sub>&nbsp;+ Na<sub>2</sub>SO<sub>3</sub>&nbsp;→ 2NaCl + BaSO<sub>3</sub>↓</p>
+// <h2 id="mcetoc_1gf0ji7354"><strong>3. Sodium sulfite có ứng dụng gì trong cuộc sống?</strong></h2>
+// <p>– Ứng dụng trong sản xuất giấy và bột giấy: Là hóa chất không thể thiếu cho ngành công nghiệp sản xuất giấy, chúng có khả năng tẩy trắng giấy an toàn, hiệu quả mà ít làm ảnh hưởng đến chất lượng của giấy sau khi hoàn thành.</p>
+// <p>– Xử lí nước: Trong công nghiệp xử lý nước hóa chất Natri sunfit được dùng như là chất để khử những chất thải có oxi, tham gia vào quá trình lọc nước, ngoài ra chúng còn được thêm vào xử lí hồ bơi để giảm khí clo.</p>
+// <p>– Bảo quản thực phẩm: Là một trong những loại phụ gia thực phẩm phổ biến dùng để tẩy trắng, bên cạnh đó còn dùng làm chất bảo quản thực phẩm như thịt, cá…với lượng nhỏ theo quy định an toàn vệ sinh thực phẩm của Nhà nước quy định.</p>
+// <h2 id="mcetoc_1gf0jighs5"><strong>4. Nơi cung cấp hóa chất Sodium sulfite uy tín, chất lượng</strong></h2>
+// <p><strong>TRỌNG TUẤN CHEMICAL </strong>hiện đang là nhà cung cấp và phân phối Hóa chất Natri sunfit – Na<sub>2</sub>SO<sub>3</sub> trên toàn quốc, sản phẩm hóa chất&nbsp;do chúng tôi phân phối đảm bảo hàng hóa chất lượng và nguồn hàng ổn định, giá cả rất cạnh tranh, phù hợp với nhu cầu sử dụng thực tế của mỗi khách hàng. Tất cả các mặt hàng của chúng tôi cũng cấp đều có chứng chỉ CO-CQ.</p>
+// <p>Ngoài ra.&nbsp;<strong>TRỌNG TUẤN CHEMICAL</strong>còn cung cấp cho quý khách hàng của mình những loại hóa chất công nghiệp tốt và hóa chất thí nghiệm đa dạng. Đặc biệt các sản phẩm hóa chất công nghiệp của chúng tôi, đều có nguồn gốc nhập khẩu từ các thương hiệu lớn và đảm bảo chất lượng cũng như uy tín hàng đầu. Mọi thông tin mua hàng vui lòng quý khách liên hệ theo địa chỉ Website&nbsp;TRỌNG TUẤN CHEMICAL.com.vn&nbsp;hoặc Hotline:&nbsp;0932323391</p>
+// <p>Trên đây là những thông tin mà&nbsp;<strong>TRỌNG TUẤN CHEMICAL</strong> muốn cung cấp cho bạn liên quan đến hóa chất Sodium Metabisulfite – Na<sub>2</sub>SO<sub>3</sub> là gì và những điều xoay quanh về hóa chất này như Cấu tạo phân tử của Natri sunfit như thế nào? Những tính chất lý hóa nào đặc trưng cho hóa chất Natri sunfit này? Công dụng của hóa chất Natri sunfit này trong các lĩnh vực ra sao? Cách nào để điều chế loại hóa chất&nbsp; Natri sunfit cũng như giá cả của Natri sunfit ra sao? Tính nguy hiểm của Na<sub>2</sub>SO<sub>3</sub> – Natri sunfit như thế nào? Hy vọng có thể giúp bạn có thêm thông tin về loại hóa chất này.</p>
+// </div>`,
+//   },
+//   {
+//     key: 74,
+//     type: "Hóa Chất Cơ Bản",
+//     title: "Sodium Sulphide – Đá thối – Na2S.3H2O 60%, Trung Quốc, 25kg/bao",
+//     price: 0,
+//     img: Img74,
+//     data_info: `
+// <p>Sodium sulphide hay Sodium sulfur, Natri sunfua, đá thối…Là hợp chất vô cơ của Natri có ngoại quan dạng vảy màu đỏ cam hoặc vàng, có mùi trứng thối, tan trong nước. CTHH: Na2S.3H2O, CAS: 1313-82-2, hàm lượng: 60%, xuất xứ: Trung Quốc, quy cách: 25kg/bao. Đá thối chủ yếu được sử dụng trong ngành công nghiệp giấy và bột giấy, xử lý nước, ngành công nghiệp nhiếp ảnh, ngành công nghiệp dệt may, thuốc nhuộm, chất bảo quản thực phẩm, sản xuất thuốc …</p>
+//     `,
+//     data_info_bottom: `
+// <span class="posted_in">Danh mục: Hóa Chất Cơ Bản, Hóa chất ngành da giầy, Hóa chất ngành dệt nhuộm, Hóa chất ngành dược – mỹ phẩm, Hóa chất ngành điện tử, Hóa chất ngành giấy, Hóa chất ngành khai khoáng, Hóa chất ngành sơn, Hóa chất ngành tẩy rửa, Hóa chất ngành thức ăn chăn nuôi, Hóa chất ngành thực phẩm, Hóa chất ngành xi mạ, Hóa chất nhiệt điện, Hóa Chất Xử Lý Nước, Sản phẩm khác, Sản phẩm nổi bật</span>
+//     `,
+//     data_advanced: `<div class="tab-panels">
+// <div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
+// <div class="title">
+// <div class="content-title"><strong>Mô tả sản phẩm</strong></div>
+// <div></div>
+// </div>
+// <div class="specifications css-content clear">
+// <table>
+// <tbody>
+// <tr>
+// <td><strong>Tên sản phẩm:</strong></td>
+// <td>Sodium sulphide</td>
+// </tr>
+// <tr>
+// <td><strong>Tên gọi khác:</strong></td>
+// <td>Sodium sulfur, Natri sunfua, đá thối</td>
+// </tr>
+// <tr>
+// <td><strong>Công thức hóa học:</strong></td>
+// <td>Na<sub>2</sub>S.3H<sub>2</sub>O</td>
+// </tr>
+// <tr>
+// <td><strong>CAS:</strong></td>
+// <td>1313-82-2</td>
+// </tr>
+// <tr>
+// <td><strong>Hàm lượng:</strong></td>
+// <td>60%</td>
+// </tr>
+// <tr>
+// <td><strong>Xuất xứ:</strong></td>
+// <td>Trung Quốc</td>
+// </tr>
+// <tr>
+// <td><strong>Đóng gói:</strong></td>
+// <td>25kg/bao</td>
+// </tr>
+// </tbody>
+// </table>
+// </div>
+// <div class="css-content content-description">
+// <p><strong>Natri sunfua</strong> hay còn gọi là đá thối là một hóa chất được sử dụng rộng rãi trong sản xuất công nghiệp như ngành dệt may, nhiếp ảnh, thuốc nhuộm, giấy và bột giấy, chất bảo quản thực phẩm. Sản phẩm hóa chất&nbsp;này hiện đang được <b>TRỌNG TUẤN CHEMICAL </b>phân phối trên toàn quốc với nhiều mức giá tốt nhất thị trường. Bài viết dưới đây sẽ cung cấp cho bạn thông tin chi tiết về sản phẩm này, hãy cùng theo dõi nhé!</p>
+// <p></p>
+// <p>Đá thối dạng vảy màu cam, tan trong nước có mùi trứng thối</p>
+// <h2 id="mcetoc_1f5ksei210">1. Tìm hiểu natri sunfua&nbsp;Na2S là gì?</h2>
+// <p>Natri sunfua Na2S có nhiều tên gọi khác nhau như: Sodium sulphide,&nbsp;Sodium sulfur, Natri sunfua, đá thối…</p>
+// <p>Nó là một chất hóa học có dạng vẩy màu nâu đất hoặc vàng, là một loại muối hòa tan trong nước, có mùi trứng thối chính vì thế mà còn được biết đến với tên quen thuộc như đá thối.</p>
+// <h2 id="mcetoc_1f5ktbc7t7">2. Natri sunfua&nbsp;Na2S gồm những loại nào?</h2>
+// <p>Natri sunfua&nbsp;có nhiều loại tùy vào hàm lượng Na2S, hiện nay chủ yếu nó gồm có hai loại như sau:</p>
+// <ul>
+// <li>Loại thông thường chứa khoảng 60% khối lượng Na2S.</li>
+// <li>Loại dùng trong kỹ thuật: Bề ngoài màu vàng khi ở thể rắn, còn ở dạng dung dịch, nó lại chuyển thành không màu.</li>
+// </ul>
+// <h2 id="mcetoc_1f9vb4ms55">3. Những tính chất lí hóa nổi bật của&nbsp;Natri sunfua&nbsp;Na2S</h2>
+// <ul>
+// <li>Natri sunfua tồn tại ở hai dạng, đó là dạng khan và dạng ngậm nước nhưng chủ yếu nhất là dạng ngậm 9 nước Na2S9.H20.</li>
+// <li>Màu sắc: Không màu.</li>
+// <li>Độ tan: Nó tan trong nước sẽ tạo dung dịch có tính bazơ.</li>
+// <li>Khi gặp không khí ẩm, Na2S và các muối hiđrat của nó đều giải phóng&nbsp;hiđrô sunfua và có mùi trứng thối hay&nbsp;trung tiện.</li>
+// </ul>
+// <p>Những tính chất lí hóa nổi bật của&nbsp;Natri sunfua&nbsp;Na2S</p>
+// <p><em><strong></strong></em>&nbsp;Dung dịch amoniac NH4OH 25% – Việt Nam – Can/phuy/tank/xe bồn</strong></p>
+// <h2 id="mcetoc_1f5ktbjie8">4. Điều chế, sản xuất hóa chất&nbsp;Natri sunfua&nbsp;Na2S như thế nào?</h2>
+// <p>Tùy vào mục đích sử dụng khác nhau mà hóa chất Natri Sunfua Na2S được điều chế theo những phương pháp khác nhau. Cụ thể như sau:</p>
+// <h3 id="trong-phong-thi-nghiem">4.1. Điều chế Na2S trong phòng thí nghiệm</h3>
+// <p>Trong phòng thí nghiệm, Natri sunfua được điều chế khi khử lưu huỳnh với natri trong khí amoniac khô. Hoặc lưu huỳnh có thể bị natri khử trong THF khô với xúc tác naphtalen:</p>
+// <p>2 Na + S → Na2S</p>
+// <h3 id="trong-cong-nghiep">4.2. Sản xuất Natri sunfua trong công nghiệp ra sao?</h3>
+// <p>Natri Sunfua được sản xuất trong công nghiệp bằng cách khử natri sunfua với&nbsp;cacbon ở dạng than đá:</p>
+// <dl>
+// <dt>Na2SO4&nbsp;+ 4 C → Na2S + 4 CO</dt>
+// </dl>
+// <h2 id="mcetoc_1d73siatb0">5. Những ứng dụng quan trọng của natri sunfua trong đời sống, sản xuất</h2>
+// <ul>
+// <li>Sodium sulphide là hóa chất chủ yếu được dùng trong ngành công nghiệp giấy và bột giấy, công nghiệp nhiếp ảnh.</li>
+// <li>Ngoài ra nó còn được sử dụng trong ngành công nghiệp da thuộc, cao su, dệt may, chất tẩy rửa, thu hồi dầu nhuộm, chất bảo quản thực phẩm.</li>
+// <li>Hóa chất Na2S còn được sử dụng rộng rãi trong công nghiệp xử lý nước để loại bỏ các tạp chất oxy hóa.</li>
+// <li>Hợp chất Na2S còn được sử dụng trong khai khoáng tuyến nổi cho ngàng mạ điện, dược phẩm,… Chúng được dùng cả trong sản xuất thuốc nhuộm sunfua, hóa chất cao su và các hợp chất hóa học khác,…</li>
+// </ul>
+// <p>Những ứng dụng quan trọng của natri sunfua trong đời sống, sản xuất</p>
+// <h2 id="mcetoc_1f5kt9bn16">6. Hóa chất Natri sunfua Na2S có nguy hiểm hay không?</h2>
+// <ul>
+// <li>Natri sunfua – Na2S là một bazơ mạnh, có thể gây bỏng. Vậy nên cần để natri sunfua tránh xa các chất xung khắc như chất oxy hóa, axit, và đảm bảo kho luôn được khô thoáng.</li>
+// <li>Vì các axit phản ứng với Na2S sẽ sinh ra H2S nên không để chất này tiếp xúc với cơ thể (mắt, da,…) để tránh nhiễm độc.</li>
+// <li>Đá thối Na2S là chất có độc tính cao nên khi hít phải nó sẽ dễ gây đau đầu, buồn nôn, chóng mặt, tổn thương hệ hô hấp.</li>
+// <li>Khi tiếp xúc với hóa chất này cần sử dụng đồ bảo hộ theo đúng quy định. Nếu có bất kì biểu hiện xấu nào khi tiếp xúc với chúng, bạn cần đến ngay cơ sở y tế để kiểm tra và được theo dõi kịp thời nhất.</li>
+// </ul>
+// <h2 id="mcetoc_1f54tmclp0">7. Sử dụng an toàn và cách bảo quản hóa chất&nbsp;natri sunfua Na2S</h2>
+// <h3 id="mcetoc_1d743qja41">7.1. Lưu ý để an toàn hóa chất natri sunfua</h3>
+// <ul>
+// <li>Các axit phản ứng với Na2S sẽ sinh ra khí độc và có mùi hôi giống với mùi trứng thối nên cần đeo khẩu trang để tránh khí độc và giảm mùi hiệu quả. Nếu cảm thấy không khỏe cần tìm kiếm sự chăm sóc y tế và mang theo nhãn mác.</li>
+// <li>Hóa chất này cũng giống như natri hidrosunfua là một bazo mạnh và có thể gây bỏng da vì vậy khi sử dụng nên dùng với găng tay và dụng cụ bảo hộ khác để không bị dính vào da.</li>
+// <li>Nên tránh để hóa chất tiếp xúc với da và mắt.</li>
+// </ul>
+// <h3 id="mcetoc_1d743r9gr2">7.2. Cách bảo quản hóa chất natri sunfua hiệu quả</h3>
+// <p>Nên giữ kho chứa đá thối luôn khô thoáng, tránh các tia lửa và sức nóng.</p>
+// <p>Tránh không hít phải bụi, không được thêm nước khi sử dụng hóa chất Na2S.</p>
+// <h2 id="mcetoc_1ga8nhqc50">8. Báo giá hóa chất Natri sunfua mới nhất</h2>
+// <p>Trên thị trường hiện nay có rất nhiều thương hiệu cung cấp hóa chất&nbsp;Natri sunfua -Na<sub>2</sub>S&nbsp;với quy cách đóng gói rất đa dạng. Tùy vào chất lượng sản phẩm mà chúng lại có những mức giá khác nhau. Để có thể mua được hóa chất công nghiệp chất lượng tốt mà giá cả hợp lý thì khách hàng cần sáng suốt lựa chọn những nhà phân phối uy tín.</p>
+// <p>Hiện nay, tại <b>TRỌNG TUẤN CHEMICAL </b>– công ty chuyên phân phối hóa chất công nghiệp hàng đầu Việt Nam – đang bán sản phẩm <strong>Sodium sulphide</strong>&nbsp;60% Na2S.3H2O, xuất xứ Trung Quốc, đóng gói 25kg/bao&nbsp;với mức giá vô cùng hấp dẫn. Hãy liên hệ ngay với <b>TRỌNG TUẤN CHEMICAL </b>để được báo giá tốt nhất!</p>
+// <h2 id="mcetoc_1f54tmn3g1">9. Mua hóa chất Natri sunfua Na2S ở đâu đảm bảo chất lượng?</h2>
+// <p>&nbsp;</p>
+// <p>Địa chỉ mua hóa chất&nbsp;Na2S chất lượng tại Việt Nam</p>
+// <p>Với thị trường mở rộng có rất nhiều địa chỉ cung cấp các loại hóa chất, tuy nhiên điều đó khiến cho người dùng khó khăn cho việc lựa chọn sản phẩm và không biết được giá cả đã phải chăng hay chưa? Vậy thì hãy lựa chọn ngay các hóa chất xử lý nước trong đó có Na2S.3H2O 60% Trung Quốc tại <b>TRỌNG TUẤN CHEMICAL </b>– Một trong những địa chỉ tin cậy chuyên cung ứng và phân phối hóa chất công nghiệp,&nbsp;<strong>hóa chất cơ bản</strong>&nbsp;hàng đầu hiện nay.</p>
+// <p>Hóa chất&nbsp;Na2S.3H2O 60% tại đây có xuất xứ từ Trung Quốc đạt tiêu chuẩn quốc tế ISO với quy cách đóng gói 25/gói luôn đảm bảo chất lượng với giá cả hợp lý nhất trên thị trường.</p>
+// <p>Quý khách hàng quan tâm đến hóa chất Natri sunfua Trung Quốc hoặc các sản phẩm hóa chất công nghiệm, dụng cụ thí nghiệm khác hãy gọi ngay cho chúng tôi tại HOTLINE <strong>0932323391</strong> hoặc truy cập vào website <strong>TRỌNG TUẤN CHEMICAL.com.vn </strong>để được tư vấn và báo giá tốt nhất.</p>
+// </div>`,
+//   },
+//   {
+//     key: 75,
+//     type: "Hóa Chất Xử Lý Nước",
+//     title: "Sodium sulphide 60% Na2S.3H2O",
+//     price: 0,
+//     img: Img75,
+//     data_info: ``,
+//     data_info_bottom: `
+// <span class="posted_in">Danh mục: Hóa Chất Xử Lý Nước</span>
+//     `,
+//     data_advanced: ``,
+//   },
   {
     key: 76,
     type: "Hóa Chất Cơ Bản",
@@ -8927,53 +8926,53 @@ Nhà kho trữ hóa chất phải nằm ở xa khu dân cư, tránh nguồn nư�
     `,
     data_advanced: ``,
   },
-  {
-    key: 78,
-    type: "Dung Môi Công Nghiệp",
-    title: "THỦY TINH LỎNG, VIỆT NAM, 300 KG/PHUY",
-    price: 0,
-    img: Img78,
-    data_info: `
-<div class="product-short-description">
-	<p>Thủy tinh lỏng (nước thủy tinh) là Sodium Silicate, Natri Silicat hay nước thủy tinh chống thấm Silicat. Đây là một hợp chất hóa học gồm có silicon mang anion.</p>
-<p>Công thức hóa học là mNa2O.nSiO hoặc Na2SiO3 và khối lượng phân tử bằng 284,22g.</p>
-<p>Thủy tinh chống thấm Silicat là chất lỏng không màu hoặc có màu trắng khi ở dạng lỏng. Tuy nhiên, hóa chất Natri Silicat có màu xanh dương hoặc màu xanh lục ở dạng thương mại vì có lẫn tạp chất sắt.</p>
-<p>Sản phẩm mang nhiều công dụng trong đời sống của con người, cho nên được sử dụng khá rộng rãi trong các ngành công nghiệp khác nhau. Thủy tinh lỏng đặc biệt sử dụng nhiều trong công nghiệp sản xuất gạch men, gốm sứ, bột giặt, chế biến quặng…</p>
-<p>Ngoài ra, Thủy tinh lỏng còn được dùng để sản xuất chất giấy, khuôn đúc, silicagel, keo dán, chất độn, cực điện dương kim loại nhẹ…làm nên những vật dụng thân thuộc và gắn bó với đời sống thường ngày của chúng ta</p>
-</div>
-    `,
-    data_info_bottom: `
-<span class="posted_in">Danh mục: Dung Môi Công Nghiệp, Hóa Chất Cơ Bản, Hóa chất ngành dược – mỹ phẩm, Hóa chất ngành gỗ, Hóa chất ngành tẩy rửa, Hóa chất nhiệt điện, Hóa Chất Xử Lý Nước</span>
-    `,
-    data_advanced: `<div class="tab-panels">
-<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
-<h2 id="mcetoc_1hg79sqai0"><strong>1. Thủy tinh lỏng là gì?</strong></h2>
-<p>Thủy tinh lỏng (nước thủy tinh) là Sodium Silicate, Natri Silicat hay nước thủy tinh chống thấm Silicat. Đây là một hợp chất hóa học gồm có silicon mang anion.</p>
-<p>Công thức hóa học là mNa2O.nSiO hoặc Na2SiO3 và khối lượng phân tử bằng 284,22g.</p>
-<p>Thủy tinh chống thấm Silicat là chất lỏng không màu hoặc có màu trắng khi ở dạng lỏng. Tuy nhiên, hóa chất Natri Silicat có màu xanh dương hoặc màu xanh lục ở dạng thương mại vì có lẫn tạp chất sắt.</p>
-<p>Nguyên liệu được điều chế Natri Silicat là NaOH và SiO2 thông qua các phản ứng trong pha rắn hoặc pha lỏng và có nhiệt độ tham gia.</p>
-<p style="text-align: center;"><em>Hình 1: Thủy tinh lỏng là gì?</em></p>
-<h2 id="mcetoc_1hg79t2211"><strong>2. Đặc tính của thủy tinh lỏng</strong></h2>
-<p>Tìm hiểu về thủy tinh lỏng là gì, bạn sẽ thấy chúng cũng có những đặc tính tương tự như các chất khác như:</p>
-<p>Thủy tinh lỏng có khối lượng riêng là 2.61 g/cm3 và tỷ trọng từ 1,40 đến 1,42g/cm3.</p>
-<p>Nhiệt độ nóng chảy ở mức 1.088 °C (1.361 K; 1.990 °F).</p>
-<p>Độ hòa tan là 22.2 g/100 ml trong điều kiện nhiệt độ phòng 25 độ C và 160.6 g/100 ml ở mức 80 độ C.</p>
-<p>Trong alcohol, thủy tinh lỏng không tan nhưng tan trong nước.</p>
-<p>Các axit sẽ làm thủy tinh lỏng phân hủy dễ dàng bao gồm cả axit cacbonic và axit silicsic sẽ tách kết tủa keo đông tụ.</p>
-<p style="text-align: center;"><em>Hình 2: Đặc tính của thủy tinh lỏng</em></p>
-<h2 id="mcetoc_1hg79t9kg2"><strong>3. Ứng dụng</strong></h2>
-<p>Con người thường sử dụng thủy tinh lỏng để sản xuất lòng chai thủy tinh đựng sữa, xử lý bình đựng nước thủy tinh trong hóa học, sinh hoạt, làm chất độn, xử lý nước thải trong sản xuất, cực điện dương kim loại nhẹ,… Thủy tinh lỏng cũng là thành phần chính của các loại gốm sứ, bình sữa của bé, giấy, xi măng,…</p>
-<p>Trong ngành xây dựng, thủy tinh lỏng được ứng dụng dùng để chế tạo vật liệu chịu nhiệt, các chất không thấm khí, chất cách điện, chất độn hoặc dùng ở dạng tấm để làm vật liệu chống ăn mòn.</p>
-<p>Trong y tế, thủy tinh lỏng thường dùng để phun lên các thiết bị cấy ghép, vết khâu, ống thông,…</p>
-<p>Trong ngành nông nghiệp trồng trọt, những người nông dân sẽ phủ thêm một lớp sodium để bảo quản cây giống tránh nấm mốc. Vì nó có thể giúp tăng đề kháng cho thấy, hạn chế sự phá hoại của mối và nấm mốc.</p>
-<p>Trong lĩnh vực chế tạo sản phẩm và ngành công nghiệp khác, Sodium Silicate được ứng dụng chủ yếu nhằm phục vụ cho nhu cầu sản xuất, tiêu dùng cho cả trong nước và xuất khẩu. Nguồn lợi nhuận thu về từ lĩnh vực này vô cùng lớn.</p>
-<p>Sản xuất chất tẩy rửa, chất kết dính que hàn, kem bột, chất chống cháy, dùng trong bê tông, xử lý gỗ…</p>
-<p>Dùng để thay thế hóa chất bảo quản thực phẩm bởi khả năng chịu được môi trường nhiệt độ của thủy tinh dao động từ&nbsp; 40 – 45 độ C và còn ngăn chặn sự tấn công của tia cực tím.</p>
-<h2>4. Mua thủy tinh lỏng Việt Nam ở đâu uy tín ?</h2>
-<p>Nếu quý khách hàng nào quan tâm đến các loại hóa chất THỦY TINH LỎNG , hay các loại hoá chất khác hãy liên hệ ngay cho các chuyên viên của&nbsp;<em><strong>TRỌNG TUẤN CHEMICAL</strong>&nbsp;</em>để được báo giá và giao hàng sớm nhất có thể.</p>
-<p>Quý khách có nhu cầu mua nước Javen hãy liên hệ ngay cho chúng tôi theo số HOTLINE&nbsp;<strong>0932323391&nbsp;</strong>&nbsp;để được tư vấn và báo giá tốt nhất.</p>
-</div>`,
-  },
+//   {
+//     key: 78,
+//     type: "Dung Môi Công Nghiệp",
+//     title: "THỦY TINH LỎNG, VIỆT NAM, 300 KG/PHUY",
+//     price: 0,
+//     img: Img78,
+//     data_info: `
+// <div class="product-short-description">
+// 	<p>Thủy tinh lỏng (nước thủy tinh) là Sodium Silicate, Natri Silicat hay nước thủy tinh chống thấm Silicat. Đây là một hợp chất hóa học gồm có silicon mang anion.</p>
+// <p>Công thức hóa học là mNa2O.nSiO hoặc Na2SiO3 và khối lượng phân tử bằng 284,22g.</p>
+// <p>Thủy tinh chống thấm Silicat là chất lỏng không màu hoặc có màu trắng khi ở dạng lỏng. Tuy nhiên, hóa chất Natri Silicat có màu xanh dương hoặc màu xanh lục ở dạng thương mại vì có lẫn tạp chất sắt.</p>
+// <p>Sản phẩm mang nhiều công dụng trong đời sống của con người, cho nên được sử dụng khá rộng rãi trong các ngành công nghiệp khác nhau. Thủy tinh lỏng đặc biệt sử dụng nhiều trong công nghiệp sản xuất gạch men, gốm sứ, bột giặt, chế biến quặng…</p>
+// <p>Ngoài ra, Thủy tinh lỏng còn được dùng để sản xuất chất giấy, khuôn đúc, silicagel, keo dán, chất độn, cực điện dương kim loại nhẹ…làm nên những vật dụng thân thuộc và gắn bó với đời sống thường ngày của chúng ta</p>
+// </div>
+//     `,
+//     data_info_bottom: `
+// <span class="posted_in">Danh mục: Dung Môi Công Nghiệp, Hóa Chất Cơ Bản, Hóa chất ngành dược – mỹ phẩm, Hóa chất ngành gỗ, Hóa chất ngành tẩy rửa, Hóa chất nhiệt điện, Hóa Chất Xử Lý Nước</span>
+//     `,
+//     data_advanced: `<div class="tab-panels">
+// <div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
+// <h2 id="mcetoc_1hg79sqai0"><strong>1. Thủy tinh lỏng là gì?</strong></h2>
+// <p>Thủy tinh lỏng (nước thủy tinh) là Sodium Silicate, Natri Silicat hay nước thủy tinh chống thấm Silicat. Đây là một hợp chất hóa học gồm có silicon mang anion.</p>
+// <p>Công thức hóa học là mNa2O.nSiO hoặc Na2SiO3 và khối lượng phân tử bằng 284,22g.</p>
+// <p>Thủy tinh chống thấm Silicat là chất lỏng không màu hoặc có màu trắng khi ở dạng lỏng. Tuy nhiên, hóa chất Natri Silicat có màu xanh dương hoặc màu xanh lục ở dạng thương mại vì có lẫn tạp chất sắt.</p>
+// <p>Nguyên liệu được điều chế Natri Silicat là NaOH và SiO2 thông qua các phản ứng trong pha rắn hoặc pha lỏng và có nhiệt độ tham gia.</p>
+// <p style="text-align: center;"><em>Hình 1: Thủy tinh lỏng là gì?</em></p>
+// <h2 id="mcetoc_1hg79t2211"><strong>2. Đặc tính của thủy tinh lỏng</strong></h2>
+// <p>Tìm hiểu về thủy tinh lỏng là gì, bạn sẽ thấy chúng cũng có những đặc tính tương tự như các chất khác như:</p>
+// <p>Thủy tinh lỏng có khối lượng riêng là 2.61 g/cm3 và tỷ trọng từ 1,40 đến 1,42g/cm3.</p>
+// <p>Nhiệt độ nóng chảy ở mức 1.088 °C (1.361 K; 1.990 °F).</p>
+// <p>Độ hòa tan là 22.2 g/100 ml trong điều kiện nhiệt độ phòng 25 độ C và 160.6 g/100 ml ở mức 80 độ C.</p>
+// <p>Trong alcohol, thủy tinh lỏng không tan nhưng tan trong nước.</p>
+// <p>Các axit sẽ làm thủy tinh lỏng phân hủy dễ dàng bao gồm cả axit cacbonic và axit silicsic sẽ tách kết tủa keo đông tụ.</p>
+// <p style="text-align: center;"><em>Hình 2: Đặc tính của thủy tinh lỏng</em></p>
+// <h2 id="mcetoc_1hg79t9kg2"><strong>3. Ứng dụng</strong></h2>
+// <p>Con người thường sử dụng thủy tinh lỏng để sản xuất lòng chai thủy tinh đựng sữa, xử lý bình đựng nước thủy tinh trong hóa học, sinh hoạt, làm chất độn, xử lý nước thải trong sản xuất, cực điện dương kim loại nhẹ,… Thủy tinh lỏng cũng là thành phần chính của các loại gốm sứ, bình sữa của bé, giấy, xi măng,…</p>
+// <p>Trong ngành xây dựng, thủy tinh lỏng được ứng dụng dùng để chế tạo vật liệu chịu nhiệt, các chất không thấm khí, chất cách điện, chất độn hoặc dùng ở dạng tấm để làm vật liệu chống ăn mòn.</p>
+// <p>Trong y tế, thủy tinh lỏng thường dùng để phun lên các thiết bị cấy ghép, vết khâu, ống thông,…</p>
+// <p>Trong ngành nông nghiệp trồng trọt, những người nông dân sẽ phủ thêm một lớp sodium để bảo quản cây giống tránh nấm mốc. Vì nó có thể giúp tăng đề kháng cho thấy, hạn chế sự phá hoại của mối và nấm mốc.</p>
+// <p>Trong lĩnh vực chế tạo sản phẩm và ngành công nghiệp khác, Sodium Silicate được ứng dụng chủ yếu nhằm phục vụ cho nhu cầu sản xuất, tiêu dùng cho cả trong nước và xuất khẩu. Nguồn lợi nhuận thu về từ lĩnh vực này vô cùng lớn.</p>
+// <p>Sản xuất chất tẩy rửa, chất kết dính que hàn, kem bột, chất chống cháy, dùng trong bê tông, xử lý gỗ…</p>
+// <p>Dùng để thay thế hóa chất bảo quản thực phẩm bởi khả năng chịu được môi trường nhiệt độ của thủy tinh dao động từ&nbsp; 40 – 45 độ C và còn ngăn chặn sự tấn công của tia cực tím.</p>
+// <h2>4. Mua thủy tinh lỏng Việt Nam ở đâu uy tín ?</h2>
+// <p>Nếu quý khách hàng nào quan tâm đến các loại hóa chất THỦY TINH LỎNG , hay các loại hoá chất khác hãy liên hệ ngay cho các chuyên viên của&nbsp;<em><strong>TRỌNG TUẤN CHEMICAL</strong>&nbsp;</em>để được báo giá và giao hàng sớm nhất có thể.</p>
+// <p>Quý khách có nhu cầu mua nước Javen hãy liên hệ ngay cho chúng tôi theo số HOTLINE&nbsp;<strong>0932323391&nbsp;</strong>&nbsp;để được tư vấn và báo giá tốt nhất.</p>
+// </div>`,
+//   },
   {
     key: 79,
     type: "Hóa Chất Xử Lý Nước",
@@ -9617,237 +9616,237 @@ Nhà kho trữ hóa chất phải nằm ở xa khu dân cư, tránh nguồn nư�
 <p>&nbsp;</p>
 </div>`,
   },
-  {
-    key: 83,
-    type: "Hóa Chất Cơ Bản",
-    title: "Zinc Chloride ZnCl2 98%, Đài Loan, 25kg/thùng",
-    price: 0,
-    img: Img83,
-    data_info: `
-<p class="intro">Zinc chloride hay Kẽm clorua, Zinc dichloride. Là chất rắn tinh thể màu trắng, không mùi, hút ẩm mạnh và tan nhiều trong nước. CTHH: ZnCl2, CAS: 7646-85-7, hàm lượng: 98%, xuất xứ: Đài Loan, quy cách: 25kg/thùng. Kẽm clorua dùng trong công nghiệp xi mạ luyện kim, sản xuất giấy, sát trùng, dệt may, bảo quản gỗ…</p>
-    `,
-    data_info_bottom: `
-<span class="posted_in">Danh mục: Hóa Chất Cơ Bản, Hóa chất ngành da giầy, Hóa chất ngành dệt nhuộm, Hóa chất ngành dược – mỹ phẩm, Hóa chất ngành điện tử, Hóa chất ngành giấy, Hóa chất ngành khai khoáng, Hóa chất ngành sơn, Hóa chất ngành tẩy rửa, Hóa chất ngành thức ăn chăn nuôi, Hóa chất ngành thực phẩm, Hóa chất ngành xi mạ, Hóa chất nhiệt điện, Hóa Chất Xử Lý Nước, Sản phẩm khác, Sản phẩm nổi bật</span>
-    `,
-    data_advanced: `<div class="tab-panels">
-							<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
+//   {
+//     key: 83,
+//     type: "Hóa Chất Cơ Bản",
+//     title: "Zinc Chloride ZnCl2 98%, Đài Loan, 25kg/thùng",
+//     price: 0,
+//     img: Img83,
+//     data_info: `
+// <p class="intro">Zinc chloride hay Kẽm clorua, Zinc dichloride. Là chất rắn tinh thể màu trắng, không mùi, hút ẩm mạnh và tan nhiều trong nước. CTHH: ZnCl2, CAS: 7646-85-7, hàm lượng: 98%, xuất xứ: Đài Loan, quy cách: 25kg/thùng. Kẽm clorua dùng trong công nghiệp xi mạ luyện kim, sản xuất giấy, sát trùng, dệt may, bảo quản gỗ…</p>
+//     `,
+//     data_info_bottom: `
+// <span class="posted_in">Danh mục: Hóa Chất Cơ Bản, Hóa chất ngành da giầy, Hóa chất ngành dệt nhuộm, Hóa chất ngành dược – mỹ phẩm, Hóa chất ngành điện tử, Hóa chất ngành giấy, Hóa chất ngành khai khoáng, Hóa chất ngành sơn, Hóa chất ngành tẩy rửa, Hóa chất ngành thức ăn chăn nuôi, Hóa chất ngành thực phẩm, Hóa chất ngành xi mạ, Hóa chất nhiệt điện, Hóa Chất Xử Lý Nước, Sản phẩm khác, Sản phẩm nổi bật</span>
+//     `,
+//     data_advanced: `<div class="tab-panels">
+// 							<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
 										
 
-<div class="title">
-<div class="content-title"><strong>Mô tả sản phẩm</strong></div>
-<div></div>
-</div>
-<div class="specifications css-content clear">
-<table>
-<tbody>
-<tr>
-<td><strong>Tên sản phẩm</strong></td>
-<td>Zinc chloride</td>
-</tr>
-<tr>
-<td><strong>Tên khác</strong></td>
-<td>Kẽm clorua</td>
-</tr>
-<tr>
-<td><strong>Công thức hóa học</strong></td>
-<td>ZnCl2</td>
-</tr>
-<tr>
-<td><strong>Hàm lượng</strong></td>
-<td>98%</td>
-</tr>
-<tr>
-<td><strong>CAS</strong></td>
-<td>7646-85-7</td>
-</tr>
-<tr>
-<td><strong>Xuất xứ</strong></td>
-<td>Đài Loan</td>
-</tr>
-<tr>
-<td><strong>Tính chất</strong></td>
-<td>– Ngoại quan: Là chất rắn dạng tinh thể, không màu, không mùi. Tan tốt trong nước<p></p>
-<p>– ZnCl<sub>2</sub>&nbsp;hút ẩm mạnh và thậm chí bị chảy nước. Do đó cần được bảo vệ nơi khô ráo.</p>
-<p>– Có độ dẫn điện thấp</p>
-<p>– Độ nhớt cao</p>
-<p>– Hòa tan trong ethanol và glyceron và axeton</p>
-<p>– Độ hòa tan trong rượu: 430,0 g/100ml</p></td>
-</tr>
-<tr>
-<td><strong>Quy cách</strong></td>
-<td>25 kg/thùng</td>
-</tr>
-</tbody>
-</table>
-</div>
-<div class="css-content content-description">
-<p><strong>1. Kẽm clorua là gì?</strong></p>
-<p>Kẽm clorua hay còn gọi là Zinc chloride có công thức hóa học là ZnCl2, nó là hợp chất vô cơ có ngoại quan màu trắng, không mùi, hút ẩm và tan mạnh trong nước. Ngày nay người ta sử dụng kẽm clorua trong xi mạ, nhuộm vải, sản xuất sơn, cao su, sản xuất giấy, bảo quản gỗ…</p>
-<p><em>Kẽm clorua có những tính chất gì nổi bật?</em></p>
-<p><strong>2. Tính chất của Kẽm clorua là gì?</strong></p>
-<p>– Có ngoại quan quan màu trắng, không mùi, hút ẩm và tan mạnh trong nước và tan trong các dung môi khác như ethanol, glycerol và acetone</p>
-<p>– Khối lượng mol: 136.315 g/mol</p>
-<p>– Khối lượng riêng: 2.907 g/cm<sup>3</sup></p>
-<p>– Nhiệt độ nóng chảy: 290 °C (563 K,554 °F)</p>
-<p>– Độ hòa tan trong nước: 432.0 g/100g (25 °C)</p>
-<p><strong>3. Những ứng dụng quan trọng của kẽm clorua trong sản xuất</strong></p>
-<p>– Dùng trong xử lý vải: Kẽm clorua là hóa chất được dùng phổ biến trong xử lý vải, chúng vừa là chất tẩy vải đồng thời cũng là thành phần làm tăng độ bám màu khi nhuộm vải.</p>
-<p>– Kẽm clorua được ứng dụng rộng rãi trong ngành công nghiệp xi mạ và luyện kim. Đặc biệt dùng nhiều trong quá trình mạ kẽm lên sắt, được bôi vào khuôn trước khi đúc, đánh bóng thép, đồng thời ZnCl<sub>2</sub>&nbsp;cũng được làm chất tẩy sạch bề mặt kim loại trước khi hàn.</p>
-<p><em>Kẽm clorua được dùng phổ biến trong xi mạ, luyện kim</em></p>
-<p>– Dùng trong sản xuất sơn: Chúng được dùng làm chất tạo màu trắng trong sơn, ngoài ra còn có khả năng làm chất xúc tác trong công nghiệp chế biến mủ cao su, giúp phân tán nhiệt cho cao su và phản ứng để bảo vệ các polyme của cao su trước các tia tử ngoại.</p>
-<p>– Dùng trong sản xuất giấy và bảo quản gỗ, làm thuốc thử trong phòng thí nghiệm, làm thuốc sát trùng và dùng trong tổng hợp hữu cơ, chất chống tĩnh điện, chất ổn định cho hợp chất Diazonium…</p>
-<p><strong>4. Gợi ý địa chỉ mua hóa chất Kẽm clorua giá tốt – uy tín – chất lượng tại Hà Nội – TP. HCM – TRỌNG TUẤN CHEMICAL </strong></p>
-<p><em><strong>TRỌNG TUẤN CHEMICAL </strong>&nbsp;luôn cung cấp đầy đủ các loại hóa chất cơ bản hiện nay</em></p>
-<p>Trên thị trường có rất nhiều đại chỉ bán các loại hóa chất, tuy nhiên không thể đảm bảo đó là sản phẩm chất lượng và có giá cả phù hợp hay chưa? Vậy thì hãy lựa chọn ngay sản phẩm tại <strong>TRỌNG TUẤN CHEMICAL </strong>– địa chỉ được rất nhiều đơn vị, khách hàng tin dùng bởi chuyên cung cấp các loại hóa chất công nghiệp, hóa chất thí nghiệm … đạt chuẩn quốc tế ISO.</p>
-<p>Các sản phẩm về hóa chất đều có nguồn gốc xuất xứ từ các hãng nổi tiếng tại Nhật Bản, Trung Quốc, Việt Nam… đáp ứng mọi yêu cầu sử dụng của khách hàng với các loại hóa chất ứng dụng nổi bật như:</p>
-<p>Hóa chất xử lý nước</p>
-<p>Dung môi công nghiệp</p>
-<p>Hóa chất sản xuất điện tử</p>
-<p>Hóa chất khai khoáng</p>
-<p>Hóa chất nhiệt điện</p>
-<p>Hóa chất trong công nghiệp thực phẩm</p>
-<p>Hóa chất ngành xi mạ</p>
-<p>Hóa chất ngành dệt nhuộm</p>
-<p>Hóa chất bảo trì</p>
-<p>Không những phân phối sản phẩm chất lượng, <strong>TRỌNG TUẤN CHEMICAL </strong>còn được khách hàng tin dùng bởi dịch vụ tư vấn, vận chuyển hàng hóa nhanh chóng và dịch vụ hậu mãi hoàn hảo.</p>
-<p>Quý khách hàng quan tâm đến hóa chất công nghiệp,&nbsp;<strong>hóa chất xử lý nước</strong>, hóa chất cơ bản Kẽm clorua – ZnCl2 hãy truy cập ngay website <strong>www.TRỌNG TUẤN CHEMICAL.com.vn</strong>&nbsp;hoặc gọi ngay đến HOTLINE&nbsp;<strong>0932323391</strong>&nbsp;để được tư vấn và báo giá tốt nhất.</p>
-</div>
-</div>`,
-  },
-  {
-    key: 84,
-    type: "Hóa Chất Cơ Bản",
-    title: "Zinc oxide ZnO 99%, Đài Loan, 25kg/bao",
-    price: 0,
-    img: Img84,
-    data_info: `
-<p>Zinc oxide hay Kẽm oxit. Dạng bột màu trắng, không mùi, không phân hủy ở nhiệt độ thường, dễ tan kiềm, axit. CTHH: ZnO, CAS: 1314-13-2, hàm lượng: 99%, xuất xứ: Đài Loan, quy cách: 25kg/bao. Kẽm oxit dùng trong công nghiệp sản xuất cao su, bê tông, điện tử, thực phẩm, y tế, thức ăn chăn nuôi…</p>
-    `,
-    data_info_bottom: `
-<span class="posted_in">Danh mục: Hóa Chất Cơ Bản, Hóa chất ngành dược – mỹ phẩm, Hóa chất ngành sơn, Hóa Chất Thí Nghiệm, Hóa Chất Xử Lý Nước, Sản phẩm khác, Sản phẩm nổi bật, Vật Tư Và Thiết Bị Công Nghiệp</span>
-    `,
-    data_advanced: `<div class="tab-panels">
-							<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
+// <div class="title">
+// <div class="content-title"><strong>Mô tả sản phẩm</strong></div>
+// <div></div>
+// </div>
+// <div class="specifications css-content clear">
+// <table>
+// <tbody>
+// <tr>
+// <td><strong>Tên sản phẩm</strong></td>
+// <td>Zinc chloride</td>
+// </tr>
+// <tr>
+// <td><strong>Tên khác</strong></td>
+// <td>Kẽm clorua</td>
+// </tr>
+// <tr>
+// <td><strong>Công thức hóa học</strong></td>
+// <td>ZnCl2</td>
+// </tr>
+// <tr>
+// <td><strong>Hàm lượng</strong></td>
+// <td>98%</td>
+// </tr>
+// <tr>
+// <td><strong>CAS</strong></td>
+// <td>7646-85-7</td>
+// </tr>
+// <tr>
+// <td><strong>Xuất xứ</strong></td>
+// <td>Đài Loan</td>
+// </tr>
+// <tr>
+// <td><strong>Tính chất</strong></td>
+// <td>– Ngoại quan: Là chất rắn dạng tinh thể, không màu, không mùi. Tan tốt trong nước<p></p>
+// <p>– ZnCl<sub>2</sub>&nbsp;hút ẩm mạnh và thậm chí bị chảy nước. Do đó cần được bảo vệ nơi khô ráo.</p>
+// <p>– Có độ dẫn điện thấp</p>
+// <p>– Độ nhớt cao</p>
+// <p>– Hòa tan trong ethanol và glyceron và axeton</p>
+// <p>– Độ hòa tan trong rượu: 430,0 g/100ml</p></td>
+// </tr>
+// <tr>
+// <td><strong>Quy cách</strong></td>
+// <td>25 kg/thùng</td>
+// </tr>
+// </tbody>
+// </table>
+// </div>
+// <div class="css-content content-description">
+// <p><strong>1. Kẽm clorua là gì?</strong></p>
+// <p>Kẽm clorua hay còn gọi là Zinc chloride có công thức hóa học là ZnCl2, nó là hợp chất vô cơ có ngoại quan màu trắng, không mùi, hút ẩm và tan mạnh trong nước. Ngày nay người ta sử dụng kẽm clorua trong xi mạ, nhuộm vải, sản xuất sơn, cao su, sản xuất giấy, bảo quản gỗ…</p>
+// <p><em>Kẽm clorua có những tính chất gì nổi bật?</em></p>
+// <p><strong>2. Tính chất của Kẽm clorua là gì?</strong></p>
+// <p>– Có ngoại quan quan màu trắng, không mùi, hút ẩm và tan mạnh trong nước và tan trong các dung môi khác như ethanol, glycerol và acetone</p>
+// <p>– Khối lượng mol: 136.315 g/mol</p>
+// <p>– Khối lượng riêng: 2.907 g/cm<sup>3</sup></p>
+// <p>– Nhiệt độ nóng chảy: 290 °C (563 K,554 °F)</p>
+// <p>– Độ hòa tan trong nước: 432.0 g/100g (25 °C)</p>
+// <p><strong>3. Những ứng dụng quan trọng của kẽm clorua trong sản xuất</strong></p>
+// <p>– Dùng trong xử lý vải: Kẽm clorua là hóa chất được dùng phổ biến trong xử lý vải, chúng vừa là chất tẩy vải đồng thời cũng là thành phần làm tăng độ bám màu khi nhuộm vải.</p>
+// <p>– Kẽm clorua được ứng dụng rộng rãi trong ngành công nghiệp xi mạ và luyện kim. Đặc biệt dùng nhiều trong quá trình mạ kẽm lên sắt, được bôi vào khuôn trước khi đúc, đánh bóng thép, đồng thời ZnCl<sub>2</sub>&nbsp;cũng được làm chất tẩy sạch bề mặt kim loại trước khi hàn.</p>
+// <p><em>Kẽm clorua được dùng phổ biến trong xi mạ, luyện kim</em></p>
+// <p>– Dùng trong sản xuất sơn: Chúng được dùng làm chất tạo màu trắng trong sơn, ngoài ra còn có khả năng làm chất xúc tác trong công nghiệp chế biến mủ cao su, giúp phân tán nhiệt cho cao su và phản ứng để bảo vệ các polyme của cao su trước các tia tử ngoại.</p>
+// <p>– Dùng trong sản xuất giấy và bảo quản gỗ, làm thuốc thử trong phòng thí nghiệm, làm thuốc sát trùng và dùng trong tổng hợp hữu cơ, chất chống tĩnh điện, chất ổn định cho hợp chất Diazonium…</p>
+// <p><strong>4. Gợi ý địa chỉ mua hóa chất Kẽm clorua giá tốt – uy tín – chất lượng tại Hà Nội – TP. HCM – TRỌNG TUẤN CHEMICAL </strong></p>
+// <p><em><strong>TRỌNG TUẤN CHEMICAL </strong>&nbsp;luôn cung cấp đầy đủ các loại hóa chất cơ bản hiện nay</em></p>
+// <p>Trên thị trường có rất nhiều đại chỉ bán các loại hóa chất, tuy nhiên không thể đảm bảo đó là sản phẩm chất lượng và có giá cả phù hợp hay chưa? Vậy thì hãy lựa chọn ngay sản phẩm tại <strong>TRỌNG TUẤN CHEMICAL </strong>– địa chỉ được rất nhiều đơn vị, khách hàng tin dùng bởi chuyên cung cấp các loại hóa chất công nghiệp, hóa chất thí nghiệm … đạt chuẩn quốc tế ISO.</p>
+// <p>Các sản phẩm về hóa chất đều có nguồn gốc xuất xứ từ các hãng nổi tiếng tại Nhật Bản, Trung Quốc, Việt Nam… đáp ứng mọi yêu cầu sử dụng của khách hàng với các loại hóa chất ứng dụng nổi bật như:</p>
+// <p>Hóa chất xử lý nước</p>
+// <p>Dung môi công nghiệp</p>
+// <p>Hóa chất sản xuất điện tử</p>
+// <p>Hóa chất khai khoáng</p>
+// <p>Hóa chất nhiệt điện</p>
+// <p>Hóa chất trong công nghiệp thực phẩm</p>
+// <p>Hóa chất ngành xi mạ</p>
+// <p>Hóa chất ngành dệt nhuộm</p>
+// <p>Hóa chất bảo trì</p>
+// <p>Không những phân phối sản phẩm chất lượng, <strong>TRỌNG TUẤN CHEMICAL </strong>còn được khách hàng tin dùng bởi dịch vụ tư vấn, vận chuyển hàng hóa nhanh chóng và dịch vụ hậu mãi hoàn hảo.</p>
+// <p>Quý khách hàng quan tâm đến hóa chất công nghiệp,&nbsp;<strong>hóa chất xử lý nước</strong>, hóa chất cơ bản Kẽm clorua – ZnCl2 hãy truy cập ngay website <strong>www.TRỌNG TUẤN CHEMICAL.com.vn</strong>&nbsp;hoặc gọi ngay đến HOTLINE&nbsp;<strong>0932323391</strong>&nbsp;để được tư vấn và báo giá tốt nhất.</p>
+// </div>
+// </div>`,
+//   },
+//   {
+//     key: 84,
+//     type: "Hóa Chất Cơ Bản",
+//     title: "Zinc oxide ZnO 99%, Đài Loan, 25kg/bao",
+//     price: 0,
+//     img: Img84,
+//     data_info: `
+// <p>Zinc oxide hay Kẽm oxit. Dạng bột màu trắng, không mùi, không phân hủy ở nhiệt độ thường, dễ tan kiềm, axit. CTHH: ZnO, CAS: 1314-13-2, hàm lượng: 99%, xuất xứ: Đài Loan, quy cách: 25kg/bao. Kẽm oxit dùng trong công nghiệp sản xuất cao su, bê tông, điện tử, thực phẩm, y tế, thức ăn chăn nuôi…</p>
+//     `,
+//     data_info_bottom: `
+// <span class="posted_in">Danh mục: Hóa Chất Cơ Bản, Hóa chất ngành dược – mỹ phẩm, Hóa chất ngành sơn, Hóa Chất Thí Nghiệm, Hóa Chất Xử Lý Nước, Sản phẩm khác, Sản phẩm nổi bật, Vật Tư Và Thiết Bị Công Nghiệp</span>
+//     `,
+//     data_advanced: `<div class="tab-panels">
+// 							<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content active" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
 										
 
-<table style="width: 78.9146%; height: 222px;">
-<tbody>
-<tr>
-<td><strong>Tên sản phẩm:</strong></td>
-<td>Zinc oxide</td>
-</tr>
-<tr>
-<td><strong>Tên gọi khác:</strong></td>
-<td>Kẽm oxit, Znc white</td>
-</tr>
-<tr>
-<td><strong>Công thức hóa học:&nbsp;</strong></td>
-<td>ZnO</td>
-</tr>
-<tr>
-<td><strong>CAS:&nbsp;</strong></td>
-<td>1314-13-2</td>
-</tr>
-<tr>
-<td><strong>Hàm lượng:&nbsp;</strong></td>
-<td>99%</td>
-</tr>
-<tr>
-<td><strong>Xuất xứ:</strong></td>
-<td>Đài Loan, Malaysia</td>
-</tr>
-<tr>
-<td><strong>Quy cách:</strong></td>
-<td>25 kg/bao</td>
-</tr>
-</tbody>
-</table>
-<p><strong><em>Hóa chất Zinc oxide</em></strong> (kẽm oxit) hiện đang được TRỌNG TUẤN CHEMICAL phân phối số lượng lớn trên toàn quốc với quy cách &nbsp;25kg/bao, hàm lượng 99%. Sản phẩm hiện đang được ứng dụng trong ngành công nghiệp sản xuất cao su, y tế, thức ăn chăn nuôi, điện tử,… Xem chi tiết những tính chất và ứng dụng của sản phẩm trong bài viết dưới đây.</p>
-<h2 id="mcetoc_1fca7dhn70">1. Khái niệm k<span data-sheets-value="{" data-sheets-userformat="{">ẽm oxit</span>&nbsp;là gì?</h2>
-<p><span data-sheets-value="{" data-sheets-userformat="{">Kẽm oxit</span>&nbsp;còn có một số tên gọi khác như&nbsp;Kẽm oxit, Znc white, Calamine, philosopher’s wool, Chinese white, flowers of zinc. Đây là&nbsp;một hợp chất hóa học có các ion liên kết giữa nguyên tử kẽm và nguyên tử oxy đơn với công thức hóa học là ZnO.</p>
-<p>Sản phẩm này là một khoáng chất đóng vai trò vô cùng quan trọng đối với sức khỏe của con người cũng như ứng dụng nhiều trong ngành công nghiệp.</p>
-<h2 id="mcetoc_1fca7dp0s1">2. Cấu tạo phân tử của kẽm oxit</h2>
-<p id="mcetoc_1gr26h14g0">Kẽm oxit là 1&nbsp;oxit bazo, tạo nên từ 1 nguyên tử kẽm và 1 nguyên tử oxi, nối với nhau qua liên kết ion.</p>
-<h2 id="mcetoc_1fca7du1j2">3. Tính chất lý hóa đặc trưng của&nbsp;kẽm oxit</h2>
-<h3 id="mcetoc_1fca7e74rb">3.1. Tính chất vật lý</h3>
-<ul>
-<li>Oxit Kẽm là một chất dạng bột, màu trắng, không màu không mùi.</li>
-<li>Nó không bị biến màu tuy nhiên sẽ chuyển sang màu vàng khi bị đun nóng.</li>
-<li>Khối lượng mol: 81.408 g/mol</li>
-<li>Khối lượng riêng: 5.606 g/cm3</li>
-<li>Điểm nóng chảy: 1975 °C</li>
-<li>Điểm sôi: 2360 °C</li>
-<li>Độ hòa tan trong nước: 0.16 mg/100 mL (30 °C).</li>
-</ul>
-<h3 id="mcetoc_1fca7eeokc">3.2. Tính chất hóa học</h3>
-<ul>
-<li>Kẽm oxit là một oxit lưỡng tính, gần như không hòa tan trong nước và rượu, nhưng lại hòa tan trong hầu hết các axit như axit hydrochloric:</li>
-</ul>
-<p style="text-align: center;">ZnO + 2HCl → ZnCl<sub>2</sub>&nbsp;+ H<sub>2</sub>O</p>
-<ul>
-<li>Tác dụng với bazơ:</li>
-</ul>
-<p style="text-align: center;">ZnO + 2NaOH + H<sub>2</sub>O → Na<sub>2</sub>(Zn(OH<sub>4</sub>))</p>
-<ul>
-<li>Phản ứng chậm với các axit béo&nbsp;trong dầu để giúp sản xuất các cacboxylat tương ứng.</li>
-<li>Kẽm oxit phân hủy&nbsp;thành hơi kẽm và oxy:</li>
-</ul>
-<p style="text-align: center;">ZnO + C → Zn + CO</p>
-<ul>
-<li>Tham gia phản ứng với hydrogen sulfide&nbsp;để cung cấp cho kẽm sulfua:</li>
-</ul>
-<p style="text-align: center;">ZnO + H<sub>2</sub>S → ZnS + H<sub>2</sub>O</p>
-<h2 id="mcetoc_1fca7em5se">4. Sản xuất, điều chế&nbsp;kẽm oxit ra sao?</h2>
-<p>Trong phòng thí nghiệm, oxit kẽm được tổng hợp bằng phương pháp điện phân anốt của dung dịch natri bicarbonate bằng cách sử dụng que kẽm, sản phẩm cuối cùng tạo ra hydroxit kẽm và hydro. Sau đó, kẽm hydroxit được phân hủy thành kẽm oxit bằng cách nung nóng:</p>
-<p style="text-align: center;">Zn + 2H<sub>2</sub>O → Zn(OH)<sub>2</sub>&nbsp;+ H<sub>2</sub></p>
-<p style="text-align: center;">Zn (OH)<sub>2</sub>&nbsp;→ ZnO + H<sub>2</sub>O</p>
-<h2 id="mcetoc_1fca7esgsf">5. Những ứng dụng quan trọng của kẽm oxit hiện nay</h2>
-<h3 id="mcetoc_1fca7f4irg">5.1. Ứng dụng của kẽm oxit trong sản xuất cao su</h3>
-<p>Khoảng 50% của ZnO sử dụng là trong ngành công nghiệp cao su. Kẽm oxit với axit stearic được sử dụng trong lưu hóa cao su và ngoài ra, kẽm oxit cũng bảo vệ cao su khỏi nấm và ánh sáng UV.</p>
-<h3 id="mcetoc_1fca7lpf20">5.2. Kẽm oxit trong ngành xây dựng</h3>
-<p>Oxit kẽm được sử dụng cho sản xuất bê tông. Bổ sung ZnO cải thiện thời gian xử lý và sức đề kháng của bê tông so với nước.</p>
-<h3 id="mcetoc_1fca7m2fj4">5.3. Ứng dụng trong ngành công nghiệp mỹ phẩm của kẽm oxit</h3>
-<ul>
-<li>Oxit kẽm có thể được sử dụng trong thuốc mỡ và kem chống nắng để bảo vệ da khỏi bị cháy nắng và tổn thương da gây ra bởi ánh sáng của tia cực tím.</li>
-<li>Được dùng để tạo ra dầu gội trị gàu và nấm da đầu hoặc các loại phấn rôm cho em bé để tránh tình trạng bé bị rôm sẩy.</li>
-</ul>
-<p style="text-align: center;"></p>
-<h3 id="mcetoc_1fca7m88b5">5.4. Vai trò của kẽm oxit trong ngành Y tế</h3>
-<p>Kẽm oxit&nbsp;khi được dùng chung với eugenol sẽ tạo thành eugenol kẽm oxit được ứng dụng trong nha khoa.</p>
-<h3 id="mcetoc_1fca7mdh36">5.5. Ứng dụng của kẽm oxit trong ngành công nghiệp khác</h3>
-<ul>
-<li>Kẽm oxit&nbsp;có thể khử mùi và kháng khuẩn nên được thêm vào các vật liệu khác nhau bao gồm vải bông, cao su, bao bì thực phẩm.</li>
-<li>Là một thành phần của bộ lọc thuốc lá để loại bỏ các thành phần được lựa chọn từ khói thuốc lá.phụ gia thực phẩm.</li>
-<li>Là chất phụ gia thực phẩm, được thêm vào nhiều sản phẩm thực phẩm, bao gồm ngũ cốc ăn sáng , như là một nguồn chất dinh dưỡng cần thiết.</li>
-</ul>
-<h3 id="mcetoc_1fca7mj137">5.6. Ngành công nghiệp sơn</h3>
-<ul>
-<li>Được sử dụng như một chất màu trong sơn đặc biệt sử dụng trong sơn cho giấy.</li>
-<li>Sử dụng làm lớp phủ chống ăn mòn kim loại đặc biệt hiệu quả đối với sắt mạ kẽm.</li>
-</ul>
-<h3 id="mcetoc_1fca7moh38">5.7. Kẽm oxit giúp phòng chống ăn mòn các lò phản ứng hạt nhân</h3>
-<p>Kẽm oxit&nbsp; được sử dụng trong công tác phòng chống ăn mòn trong các lò phản ứng hạt nhân nước áp lực.</p>
-<h2 id="mcetoc_1fca7mu5k9">6. Lưu ý khi sử dụng, bảo quản kẽm oxit an toàn</h2>
-<h3 id="mcetoc_1fca7n38ja">6.1. Lưu ý khi bảo quản lưu trữ kẽm oxit</h3>
-<ul>
-<li>Kẽm Oxit đặt tại nơi làm việc cần phải lưu trữ cẩn thận, tránh gây ô nhiễm môi trường cũng như làm ảnh hưởng đến mọi người xung quanh.</li>
-<li>Hãy đặt Kẽm Oxit những nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp.</li>
-<li>Kho hóa chất cần phải tách riêng biệt để tránh trường hợp rò rỉ hoặc tràn đổ hóa chất gây ô nhiễm.</li>
-<li>Nhà kho trữ hóa chất phải nằm ở xa khu dân cư, tránh nguồn nước, nơi chứa nước sinh hoạt cho dân sinh hay trồng trọt vì sẽ làm ảnh hưởng nghiêm trọng đến sức khỏe.</li>
-</ul>
-<h3 id="mcetoc_1fca7n86rb">6.2. Sử dụng&nbsp;kẽm oxit cần lưu ý những điều gì?</h3>
-<p>Khi tiếp xúc với hóa chất kẽm oxit nói riêng, các loại&nbsp;hóa chất cơ bản&nbsp;khác nói chung cần phải trang bị cho mình các công cụ sử dụng thích hợp, trang thiết bị bảo hộ đầy đủ.</p>
-<p></p>
-<h2 id="mcetoc_1g427neg01">7. Kẽm oxit ZnO giá bao nhiêu?</h2>
-<p>Giá kẽm oxit khác nhau tùy thuộc vào đơn vị cung cấp. Nếu quý khách hàng muốn mua kẽm oxit hãy đến với TRỌNG TUẤN CHEMICAL để có thể mua kẽm oxit với chất lượng đảm bảo và giá ưu đãi nhất. Quý khách hàng có nhu cầu báo giá kẽm oxit có thể thực hiện theo cách sau:</p>
-<p>– Liên hệ số hotline <strong>093.2323.391</strong></p>
-<p>– Để lại thông tin liên hệ trên website TRỌNG TUẤN CHEMICAL</p>
-<p>– Đến trực tiếp công ty chúng tôi tại địa chỉ:</p>
-<ul>
-<li>Địa chỉ khu vực Hà Nội: Số 46, Biệt thự 1 X2, Khu đô thị Bắc Linh Đàm, Hoàng Mai, Hà Nội</li>
-</ul>
-<p>Qua bài viết trên đây hy vọng mọi người đã hiểu hơn về kẽm oxit là chất gì, tính chất cũng như ứng dụng của kẽm oxit trong cuộc sống. Nếu quý khách hàng có nhu cầu mua kẽm oxit chất lượng với giá thành ưu đãi nhất hãy đến ngay vơi chúng tôi để được tư vấn và báo giá nhanh nhất.</p>
-</div>
-</div>`,
-  },
+// <table style="width: 78.9146%; height: 222px;">
+// <tbody>
+// <tr>
+// <td><strong>Tên sản phẩm:</strong></td>
+// <td>Zinc oxide</td>
+// </tr>
+// <tr>
+// <td><strong>Tên gọi khác:</strong></td>
+// <td>Kẽm oxit, Znc white</td>
+// </tr>
+// <tr>
+// <td><strong>Công thức hóa học:&nbsp;</strong></td>
+// <td>ZnO</td>
+// </tr>
+// <tr>
+// <td><strong>CAS:&nbsp;</strong></td>
+// <td>1314-13-2</td>
+// </tr>
+// <tr>
+// <td><strong>Hàm lượng:&nbsp;</strong></td>
+// <td>99%</td>
+// </tr>
+// <tr>
+// <td><strong>Xuất xứ:</strong></td>
+// <td>Đài Loan, Malaysia</td>
+// </tr>
+// <tr>
+// <td><strong>Quy cách:</strong></td>
+// <td>25 kg/bao</td>
+// </tr>
+// </tbody>
+// </table>
+// <p><strong><em>Hóa chất Zinc oxide</em></strong> (kẽm oxit) hiện đang được TRỌNG TUẤN CHEMICAL phân phối số lượng lớn trên toàn quốc với quy cách &nbsp;25kg/bao, hàm lượng 99%. Sản phẩm hiện đang được ứng dụng trong ngành công nghiệp sản xuất cao su, y tế, thức ăn chăn nuôi, điện tử,… Xem chi tiết những tính chất và ứng dụng của sản phẩm trong bài viết dưới đây.</p>
+// <h2 id="mcetoc_1fca7dhn70">1. Khái niệm k<span data-sheets-value="{" data-sheets-userformat="{">ẽm oxit</span>&nbsp;là gì?</h2>
+// <p><span data-sheets-value="{" data-sheets-userformat="{">Kẽm oxit</span>&nbsp;còn có một số tên gọi khác như&nbsp;Kẽm oxit, Znc white, Calamine, philosopher’s wool, Chinese white, flowers of zinc. Đây là&nbsp;một hợp chất hóa học có các ion liên kết giữa nguyên tử kẽm và nguyên tử oxy đơn với công thức hóa học là ZnO.</p>
+// <p>Sản phẩm này là một khoáng chất đóng vai trò vô cùng quan trọng đối với sức khỏe của con người cũng như ứng dụng nhiều trong ngành công nghiệp.</p>
+// <h2 id="mcetoc_1fca7dp0s1">2. Cấu tạo phân tử của kẽm oxit</h2>
+// <p id="mcetoc_1gr26h14g0">Kẽm oxit là 1&nbsp;oxit bazo, tạo nên từ 1 nguyên tử kẽm và 1 nguyên tử oxi, nối với nhau qua liên kết ion.</p>
+// <h2 id="mcetoc_1fca7du1j2">3. Tính chất lý hóa đặc trưng của&nbsp;kẽm oxit</h2>
+// <h3 id="mcetoc_1fca7e74rb">3.1. Tính chất vật lý</h3>
+// <ul>
+// <li>Oxit Kẽm là một chất dạng bột, màu trắng, không màu không mùi.</li>
+// <li>Nó không bị biến màu tuy nhiên sẽ chuyển sang màu vàng khi bị đun nóng.</li>
+// <li>Khối lượng mol: 81.408 g/mol</li>
+// <li>Khối lượng riêng: 5.606 g/cm3</li>
+// <li>Điểm nóng chảy: 1975 °C</li>
+// <li>Điểm sôi: 2360 °C</li>
+// <li>Độ hòa tan trong nước: 0.16 mg/100 mL (30 °C).</li>
+// </ul>
+// <h3 id="mcetoc_1fca7eeokc">3.2. Tính chất hóa học</h3>
+// <ul>
+// <li>Kẽm oxit là một oxit lưỡng tính, gần như không hòa tan trong nước và rượu, nhưng lại hòa tan trong hầu hết các axit như axit hydrochloric:</li>
+// </ul>
+// <p style="text-align: center;">ZnO + 2HCl → ZnCl<sub>2</sub>&nbsp;+ H<sub>2</sub>O</p>
+// <ul>
+// <li>Tác dụng với bazơ:</li>
+// </ul>
+// <p style="text-align: center;">ZnO + 2NaOH + H<sub>2</sub>O → Na<sub>2</sub>(Zn(OH<sub>4</sub>))</p>
+// <ul>
+// <li>Phản ứng chậm với các axit béo&nbsp;trong dầu để giúp sản xuất các cacboxylat tương ứng.</li>
+// <li>Kẽm oxit phân hủy&nbsp;thành hơi kẽm và oxy:</li>
+// </ul>
+// <p style="text-align: center;">ZnO + C → Zn + CO</p>
+// <ul>
+// <li>Tham gia phản ứng với hydrogen sulfide&nbsp;để cung cấp cho kẽm sulfua:</li>
+// </ul>
+// <p style="text-align: center;">ZnO + H<sub>2</sub>S → ZnS + H<sub>2</sub>O</p>
+// <h2 id="mcetoc_1fca7em5se">4. Sản xuất, điều chế&nbsp;kẽm oxit ra sao?</h2>
+// <p>Trong phòng thí nghiệm, oxit kẽm được tổng hợp bằng phương pháp điện phân anốt của dung dịch natri bicarbonate bằng cách sử dụng que kẽm, sản phẩm cuối cùng tạo ra hydroxit kẽm và hydro. Sau đó, kẽm hydroxit được phân hủy thành kẽm oxit bằng cách nung nóng:</p>
+// <p style="text-align: center;">Zn + 2H<sub>2</sub>O → Zn(OH)<sub>2</sub>&nbsp;+ H<sub>2</sub></p>
+// <p style="text-align: center;">Zn (OH)<sub>2</sub>&nbsp;→ ZnO + H<sub>2</sub>O</p>
+// <h2 id="mcetoc_1fca7esgsf">5. Những ứng dụng quan trọng của kẽm oxit hiện nay</h2>
+// <h3 id="mcetoc_1fca7f4irg">5.1. Ứng dụng của kẽm oxit trong sản xuất cao su</h3>
+// <p>Khoảng 50% của ZnO sử dụng là trong ngành công nghiệp cao su. Kẽm oxit với axit stearic được sử dụng trong lưu hóa cao su và ngoài ra, kẽm oxit cũng bảo vệ cao su khỏi nấm và ánh sáng UV.</p>
+// <h3 id="mcetoc_1fca7lpf20">5.2. Kẽm oxit trong ngành xây dựng</h3>
+// <p>Oxit kẽm được sử dụng cho sản xuất bê tông. Bổ sung ZnO cải thiện thời gian xử lý và sức đề kháng của bê tông so với nước.</p>
+// <h3 id="mcetoc_1fca7m2fj4">5.3. Ứng dụng trong ngành công nghiệp mỹ phẩm của kẽm oxit</h3>
+// <ul>
+// <li>Oxit kẽm có thể được sử dụng trong thuốc mỡ và kem chống nắng để bảo vệ da khỏi bị cháy nắng và tổn thương da gây ra bởi ánh sáng của tia cực tím.</li>
+// <li>Được dùng để tạo ra dầu gội trị gàu và nấm da đầu hoặc các loại phấn rôm cho em bé để tránh tình trạng bé bị rôm sẩy.</li>
+// </ul>
+// <p style="text-align: center;"></p>
+// <h3 id="mcetoc_1fca7m88b5">5.4. Vai trò của kẽm oxit trong ngành Y tế</h3>
+// <p>Kẽm oxit&nbsp;khi được dùng chung với eugenol sẽ tạo thành eugenol kẽm oxit được ứng dụng trong nha khoa.</p>
+// <h3 id="mcetoc_1fca7mdh36">5.5. Ứng dụng của kẽm oxit trong ngành công nghiệp khác</h3>
+// <ul>
+// <li>Kẽm oxit&nbsp;có thể khử mùi và kháng khuẩn nên được thêm vào các vật liệu khác nhau bao gồm vải bông, cao su, bao bì thực phẩm.</li>
+// <li>Là một thành phần của bộ lọc thuốc lá để loại bỏ các thành phần được lựa chọn từ khói thuốc lá.phụ gia thực phẩm.</li>
+// <li>Là chất phụ gia thực phẩm, được thêm vào nhiều sản phẩm thực phẩm, bao gồm ngũ cốc ăn sáng , như là một nguồn chất dinh dưỡng cần thiết.</li>
+// </ul>
+// <h3 id="mcetoc_1fca7mj137">5.6. Ngành công nghiệp sơn</h3>
+// <ul>
+// <li>Được sử dụng như một chất màu trong sơn đặc biệt sử dụng trong sơn cho giấy.</li>
+// <li>Sử dụng làm lớp phủ chống ăn mòn kim loại đặc biệt hiệu quả đối với sắt mạ kẽm.</li>
+// </ul>
+// <h3 id="mcetoc_1fca7moh38">5.7. Kẽm oxit giúp phòng chống ăn mòn các lò phản ứng hạt nhân</h3>
+// <p>Kẽm oxit&nbsp; được sử dụng trong công tác phòng chống ăn mòn trong các lò phản ứng hạt nhân nước áp lực.</p>
+// <h2 id="mcetoc_1fca7mu5k9">6. Lưu ý khi sử dụng, bảo quản kẽm oxit an toàn</h2>
+// <h3 id="mcetoc_1fca7n38ja">6.1. Lưu ý khi bảo quản lưu trữ kẽm oxit</h3>
+// <ul>
+// <li>Kẽm Oxit đặt tại nơi làm việc cần phải lưu trữ cẩn thận, tránh gây ô nhiễm môi trường cũng như làm ảnh hưởng đến mọi người xung quanh.</li>
+// <li>Hãy đặt Kẽm Oxit những nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp.</li>
+// <li>Kho hóa chất cần phải tách riêng biệt để tránh trường hợp rò rỉ hoặc tràn đổ hóa chất gây ô nhiễm.</li>
+// <li>Nhà kho trữ hóa chất phải nằm ở xa khu dân cư, tránh nguồn nước, nơi chứa nước sinh hoạt cho dân sinh hay trồng trọt vì sẽ làm ảnh hưởng nghiêm trọng đến sức khỏe.</li>
+// </ul>
+// <h3 id="mcetoc_1fca7n86rb">6.2. Sử dụng&nbsp;kẽm oxit cần lưu ý những điều gì?</h3>
+// <p>Khi tiếp xúc với hóa chất kẽm oxit nói riêng, các loại&nbsp;hóa chất cơ bản&nbsp;khác nói chung cần phải trang bị cho mình các công cụ sử dụng thích hợp, trang thiết bị bảo hộ đầy đủ.</p>
+// <p></p>
+// <h2 id="mcetoc_1g427neg01">7. Kẽm oxit ZnO giá bao nhiêu?</h2>
+// <p>Giá kẽm oxit khác nhau tùy thuộc vào đơn vị cung cấp. Nếu quý khách hàng muốn mua kẽm oxit hãy đến với TRỌNG TUẤN CHEMICAL để có thể mua kẽm oxit với chất lượng đảm bảo và giá ưu đãi nhất. Quý khách hàng có nhu cầu báo giá kẽm oxit có thể thực hiện theo cách sau:</p>
+// <p>– Liên hệ số hotline <strong>093.2323.391</strong></p>
+// <p>– Để lại thông tin liên hệ trên website TRỌNG TUẤN CHEMICAL</p>
+// <p>– Đến trực tiếp công ty chúng tôi tại địa chỉ:</p>
+// <ul>
+// <li>Địa chỉ khu vực Hà Nội: Số 46, Biệt thự 1 X2, Khu đô thị Bắc Linh Đàm, Hoàng Mai, Hà Nội</li>
+// </ul>
+// <p>Qua bài viết trên đây hy vọng mọi người đã hiểu hơn về kẽm oxit là chất gì, tính chất cũng như ứng dụng của kẽm oxit trong cuộc sống. Nếu quý khách hàng có nhu cầu mua kẽm oxit chất lượng với giá thành ưu đãi nhất hãy đến ngay vơi chúng tôi để được tư vấn và báo giá nhanh nhất.</p>
+// </div>
+// </div>`,
+//   },
 ];

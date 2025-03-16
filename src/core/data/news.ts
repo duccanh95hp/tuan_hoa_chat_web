@@ -10,7 +10,6 @@ import Img9 from "../../shared/assets/img-news/anh9.jpg";
 import Img10 from "../../shared/assets/img-news/anh10.jpg";
 import Img11 from "../../shared/assets/img-news/anh11.png";
 import Img12 from "../../shared/assets/img-news/anh12.jpg";
-import Img13 from "../../shared/assets/img-news/anh13.jpg";
 import Img14 from "../../shared/assets/img-news/anh14.png";
 import Img15 from "../../shared/assets/img-news/anh15.jpg";
 import Img16 from "../../shared/assets/img-news/anh16.jpg";
@@ -47,7 +46,6 @@ import Picture9 from "../../shared/assets/img-news/detail/anh9.jpg";
 import Picture10 from "../../shared/assets/img-news/detail/anh10.jpg";
 import Picture11 from "../../shared/assets/img-news/detail/anh11.jpg";
 import Picture12 from "../../shared/assets/img-news/detail/anh12.jpg";
-import Picture13 from "../../shared/assets/img-news/detail/anh13.jpg";
 import Picture14 from "../../shared/assets/img-news/detail/anh14.jpg";
 import Picture15 from "../../shared/assets/img-news/detail/anh15.jpg";
 import Picture16 from "../../shared/assets/img-news/detail/anh16.jpg";
@@ -507,12 +505,7 @@ Polyamide có thể dễ dàng được đúc ép, ép đùn hoặc gia công b�
 <p>Nhiệt độ tăng: Khi phản ứng xảy ra, nhiệt được giải phóng làm tăng nhiệt độ của môi trường xung quanh.</p>
 <p>Hiệu quả năng lượng cao: Năng lượng giải phóng thường được sử dụng trực tiếp, chẳng hạn như trong việc nấu ăn hoặc sưởi ấm.</p>
 <p>Ứng dụng đa dạng: Xuất hiện trong các lĩnh vực như công nghiệp sản xuất, sinh học, và y học.</p>
-<h2 id="mcetoc_1ifc9f2hn8"><strong>4. Ứng dụng của phản ứng tỏa nhiệt</strong></h2>
-<p>Phản ứng tỏa nhiệt có vai trò không thể thiếu trong đời sống và sản xuất công nghiệp. Từ việc cung cấp năng lượng cho con người đến tối ưu hóa quy trình công nghiệp, loại phản ứng này mang lại nhiều lợi ích thiết thực.</p>
-<h4><strong>Trong đời sống hằng ngày</strong></h4>
-<p>Sưởi ấm: Sử dụng bếp lò hoặc lò sưởi sử dụng than đá, gỗ. Nhiệt sinh ra giúp giữ ấm vào mùa đông.</p>
-<p>Nấu ăn: Phản ứng đốt cháy gas hoặc củi trong nấu ăn là ứng dụng phổ biến.</p>
-<img src="${Picture13}" />
+
 <p style="text-align: center;><em>Ứng dụng phản ứng tỏa nhiệt trong nấu ăn</em></p>
 <p>Túi sưởi nhiệt: Các túi sưởi chứa hóa chất như natri acetate, khi kích hoạt sẽ tỏa nhiệt để giữ ấm cơ thể.</p>
 <h4><strong>Trong công nghiệp</strong></h4>
@@ -1238,184 +1231,184 @@ CH2=C(CH3)COOH+Br2→CH2Br−CBr(CH3)COOH<br>
 <p>Điện phân nước đã và đang chứng minh tiềm năng to lớn trong việc cung cấp hydro sạch cho thế giới. Từ việc giảm thiểu khí thải nhà kính, lưu trữ năng lượng tái tạo đến phát triển giao thông bền vững, công nghệ này mang lại nhiều lợi ích vượt trội. Tuy nhiên, để đạt được quy mô áp dụng toàn cầu, chúng ta cần vượt qua các thách thức về chi phí, hiệu suất và sự phụ thuộc vào nguồn năng lượng tái tạo. Với những tiến bộ không ngừng trong nghiên cứu và đổi mới, điện phân nước hứa hẹn trở thành động lực chính thúc đẩy sự chuyển đổi sang một tương lai xanh, bền vững.</p>
 `,
   },
-  {
-    key: 13,
-    icon: Img13,
-    title:
-      "Anhydride axetic (Anhydrit axetic) là gì? Đặc điểm tính chất và ứng dụng quan trọng",
-    content:
-      "Anhydride axetic hay anhidrit axetic, là một hợp chất hóa học không thể thiếu trong nhiều ngành công nghiệp hiện đại, từ sản xuất nhựa acetate đến dược phẩm như aspirin. Với tính chất đặc biệt, khả năng phản ứng cao, [...]",
-    data: `<div class="entry-content single-page">
+//   {
+//     key: 13,
+//     icon: Img13,
+//     title:
+//       "Anhydride axetic (Anhydrit axetic) là gì? Đặc điểm tính chất và ứng dụng quan trọng",
+//     content:
+//       "Anhydride axetic hay anhidrit axetic, là một hợp chất hóa học không thể thiếu trong nhiều ngành công nghiệp hiện đại, từ sản xuất nhựa acetate đến dược phẩm như aspirin. Với tính chất đặc biệt, khả năng phản ứng cao, [...]",
+//     data: `<div class="entry-content single-page">
 
-	<p>Anhydride axetic&nbsp;hay anhidrit axetic, là một hợp chất hóa học không thể thiếu trong nhiều ngành công nghiệp hiện đại, từ sản xuất nhựa acetate đến dược phẩm như aspirin. Với tính chất đặc biệt, khả năng phản ứng cao, và vai trò quan trọng trong tổng hợp hóa học, anhydride axetic đã trở thành nguyên liệu chủ chốt. Tuy nhiên, để khai thác hiệu quả hợp chất này, cần hiểu rõ tính chất, ứng dụng, cũng như các biện pháp bảo vệ môi trường và sức khỏe. Cùng khám phá chi tiết về hợp chất đa năng này trong bài viết dưới đây.</p>
-<h2 id="mcetoc_1iefhdb4b0"><strong>1. Tổng quan về Anhydride Axetic</strong></h2>
-<p>Anhydride axetic, hay còn gọi là anhidrit axetic, là một hợp chất hữu cơ có công thức hóa học là (CH<sub>3</sub>CO)<sub>2</sub>O. Đây là một loại anhydride axit phổ biến nhất và được sử dụng rộng rãi trong nhiều lĩnh vực công nghiệp và hóa học.</p>
-<img src="${Picture36}" alt="acetic-anhydride">
-<p><em>Cấu trúc hóa học của anhydrit acetic</em></p>
-<p><strong>Tính chất vật lý:</strong></p>
-<ul>
-<li aria-level="1">Trạng thái: Chất lỏng không màu, dễ bay hơi.</li>
-<li aria-level="1">Mùi: Mùi hắc, đặc trưng, dễ gây kích ứng.</li>
-<li aria-level="1">Khối lượng phân tử: 102.09 g/mol.</li>
-<li aria-level="1">Nhiệt độ sôi: Khoảng 140°C.</li>
-<li aria-level="1">Độ tan: Hòa tan một phần trong nước và có khả năng tạo phản ứng thủy phân mạnh.</li>
-</ul>
-<p><strong>Tính chất hóa học:</strong></p>
-<ul>
-<li aria-level="1">Tác dụng với nước: Tạo thành axit axetic. (CH<sub>3</sub>CO)<sub>2</sub>O+H<sub>2</sub>O→2CH<sub>3</sub>COOH</li>
-<li aria-level="1">Tính axit: Là một chất phản ứng mạnh với các hợp chất có chứa nhóm hydroxyl (-OH) và amin (-NH2).</li>
-<li aria-level="1">Tính oxi hóa:&nbsp;Không tự nhiên oxy hóa, nhưng dễ dàng tham gia các phản ứng este hóa và acyl hóa.</li>
-</ul>
-<h2 id="mcetoc_1iefhdl3q1"><strong>2. Phương pháp sản xuất Anhydrit Axetic</strong></h2>
-<p>Có nhiều phương pháp sản xuất anhydride axetic, trong đó các phương pháp công nghiệp phổ biến nhất bao gồm:</p>
-<p><strong>Phương pháp từ axit axetic:</strong></p>
-<ul>
-<li aria-level="1">Sử dụng axit axetic trong môi trường xúc tác như trifluoroacetic acid:</li>
-</ul>
-<p>2CH<sub>3</sub>COOH→P<sub>2</sub>O<sub>5</sub>+(CH<sub>3</sub>CO)<sub>2</sub>O+H<sub>2</sub>O.</p>
-<p>Phương pháp này đòi hỏi điều kiện nhiệt độ cao và chất xúc tác đặc biệt.</p>
-<p><strong>Phương pháp từ metanol và carbon monoxide:</strong></p>
-<ul>
-<li aria-level="1">Sử dụng phản ứng hóa học giữa metanol, carbon monoxide và axit axetic với sự tham gia của chất xúc tác Rhodium:</li>
-</ul>
-<p>CH<sub>3</sub>OH+CO+CH<sub>3</sub>COOH→(CH<sub>3</sub>CO)<sub>2</sub>O+H2O</p>
-<p>Đây là một trong các phương pháp sản xuất anhydride axetic quy mô lớn trên thế giới.</p>
-<p><strong>Từ axetilen:</strong></p>
-<ul>
-<li aria-level="1">Một cách sản xuất khác liên quan đến việc oxy hóa axetilen và sau đó chuyển hóa thành anhydride axetic.</li>
-</ul>
-<h2 id="mcetoc_1iefhdquo2"><strong>3. Ứng dụng của Anhydride Axetic</strong></h2>
-<p><strong>Trong công nghiệp hóa chất:</strong></p>
-<p>Sản xuất acetate cellulose:&nbsp;Đây là nguyên liệu quan trọng trong ngành sản xuất sợi tổng hợp, phim nhựa, và các sản phẩm nhựa khác.</p>
-<p>Sản xuất aspirin (axit acetylsalicylic):&nbsp;Anhydrit axetic được dùng trong phản ứng este hóa với axit salicylic:</p>
-<p>C<sub>7</sub>H<sub>6</sub>O<sub>3</sub>+(CH<sub>3</sub>CO)<sub>2</sub>O→C<sub>9</sub>H<sub>8</sub>O<sub>4</sub>+CH<sub>3</sub>COOH</p>
-<p>Phản ứng này tạo ra aspirin, một loại thuốc giảm đau phổ biến.</p>
-<p><strong>Trong dược phẩm:</strong></p>
-<p>Đóng vai trò quan trọng trong việc sản xuất kháng sinh, thuốc an thần, và các sản phẩm dược phẩm khác.</p>
-<p><strong>Trong công nghiệp sơn và mực in:</strong></p>
-<p>Sử dụng làm chất phụ gia để điều chỉnh tính chất của sơn và mực in, tăng độ bóng và khả năng bám dính.</p>
-<img src="${Picture37}" alt="acetic-anhydride-muc-in">
-<p><em>Ứng dụng trong sản xuất mực in</em></p>
-<p><strong>Trong nghiên cứu hóa học:</strong></p>
-<p>Là một chất phản ứng quan trọng trong việc tổng hợp các hợp chất phức tạp.</p>
-<p><strong>Trong công nghiệp thực phẩm:</strong></p>
-<p>Sử dụng gián tiếp thông qua các chất phụ gia và chất bảo quản có gốc acetate.</p>
-<img src="${Picture38}" alt="acetic-anhydride-chat-bao-quan-thuc-pham">
-<p><em>Ứng dụng trong bảo quản thực phẩm</em></p>
-<h2 id="mcetoc_1iefheqqr3"><strong>4. Tác động đến môi trường và sức khỏe</strong></h2>
-<p><strong>Ảnh hưởng sức khỏe:</strong></p>
-<ul>
-<li aria-level="1">Gây kích ứng mạnh khi tiếp xúc với da và mắt.</li>
-<li aria-level="1">Hít phải hơi anhydride axetic trong thời gian dài có thể gây ảnh hưởng đến đường hô hấp.</li>
-<li aria-level="1">Tiếp xúc liều cao có thể dẫn đến các vấn đề nghiêm trọng hơn như ho, đau đầu, hoặc kích ứng niêm mạc.</li>
-</ul>
-<p><strong>Ảnh hưởng môi trường:</strong></p>
-<ul>
-<li aria-level="1">Trong trường hợp rò rỉ, anhydrit acetic phản ứng nhanh với nước tạo axit axetic, có thể làm giảm độ pH của nguồn nước, gây hại cho hệ sinh thái.</li>
-</ul>
-<p><strong>Biện pháp an toàn:</strong></p>
-<ul>
-<li aria-level="1">Sử dụng các thiết bị bảo hộ như găng tay, kính bảo hộ và mặt nạ.</li>
-<li aria-level="1">Làm việc trong không gian thoáng khí hoặc có hệ thống thông gió tốt.</li>
-<li aria-level="1">Xử lý chất thải đúng cách để tránh ô nhiễm.</li>
-</ul>
-<h2 id="mcetoc_1iefhffjd4"><strong>5. So sánh với một số hóa chất khác</strong></h2>
-<table>
-<tbody>
-<tr>
-<td><strong>Đặc điểm</strong></td>
-<td><strong>Anhydride Axetic</strong></td>
-<td><strong>Axit Axetic</strong></td>
-<td><strong>Anhydride Maleic</strong></td>
-<td><strong>Axit Propionic</strong></td>
-<td><strong>Dimethyl Sulfoxide (DMSO)</strong></td>
-</tr>
-<tr>
-<td><strong>Công thức hóa học</strong></td>
-<td>(CH3CO)2</td>
-<td>CH3COOH</td>
-<td>C4H2O3​</td>
-<td>CH3CH2COOH</td>
-<td>C2H6OS</td>
-</tr>
-<tr>
-<td><strong>Trạng thái vật lý</strong></td>
-<td>Chất lỏng không màu, dễ bay hơi</td>
-<td>Chất lỏng không màu, mùi chua</td>
-<td>Chất rắn, màu trắng hoặc không màu</td>
-<td>Chất lỏng không màu, ít bay hơi</td>
-<td>Chất lỏng không màu, nhớt</td>
-</tr>
-<tr>
-<td><strong>Mùi</strong></td>
-<td>Mùi hắc, kích ứng</td>
-<td>Mùi chua đặc trưng</td>
-<td>Mùi nhẹ, hơi chua</td>
-<td>Mùi nhẹ, hơi ngọt</td>
-<td>Mùi tỏi nhẹ</td>
-</tr>
-<tr>
-<td><strong>Khả năng tan trong nước</strong></td>
-<td>Hòa tan một phần, phản ứng mạnh</td>
-<td>Tan hoàn toàn</td>
-<td>Tan tốt</td>
-<td>Tan tốt</td>
-<td>Tan hoàn toàn</td>
-</tr>
-<tr>
-<td><strong>Nhiệt độ sôi</strong></td>
-<td>~140°C</td>
-<td>118°C</td>
-<td>202°C</td>
-<td>141°C</td>
-<td>189°C</td>
-</tr>
-<tr>
-<td><strong>Tính chất hóa học</strong></td>
-<td>Phản ứng mạnh với nước, tạo axit axetic</td>
-<td>Axit yếu, phản ứng với bazơ và rượu</td>
-<td>Phản ứng tạo axit maleic</td>
-<td>Axit yếu, phản ứng với bazơ</td>
-<td>Là dung môi, trơ về mặt hóa học</td>
-</tr>
-<tr>
-<td><strong>Ứng dụng chính</strong></td>
-<td>Sản xuất acetate cellulose, aspirin</td>
-<td>Sản xuất giấm ăn, dung môi</td>
-<td>Sản xuất polymer, chất tẩy rửa</td>
-<td>Bảo quản thực phẩm</td>
-<td>Dung môi trong nghiên cứu hóa học</td>
-</tr>
-<tr>
-<td><strong>Tính phản ứng</strong></td>
-<td>Acyl hóa mạnh, este hóa</td>
-<td>Este hóa yếu hơn</td>
-<td>Phản ứng tạo ester và axit maleic</td>
-<td>Ít phản ứng, chủ yếu tạo muối</td>
-<td>Không tham gia phản ứng hóa học trực tiếp</td>
-</tr>
-<tr>
-<td><strong>Tác động sức khỏe</strong></td>
-<td>Gây kích ứng mạnh, độc khi hít phải</td>
-<td>Ít độc hơn, kích ứng nhẹ</td>
-<td>Gây kích ứng nhẹ</td>
-<td>Không độc ở mức độ thấp</td>
-<td>Tương đối an toàn, có thể gây kích ứng nhẹ</td>
-</tr>
-<tr>
-<td><strong>Tác động môi trường</strong></td>
-<td>Gây hại khi rò rỉ vào nước</td>
-<td>Ảnh hưởng pH của nước</td>
-<td>Gây nguy
- cơ ô nhiễm nguồn nước</td>
-<td>An toàn hơn</td>
-<td>Không gây ô nhiễm lớn</td>
-</tr>
-</tbody>
-</table>
-<p>Anhydride axetic là một hợp chất quan trọng, không thể thiếu trong nhiều ngành công nghiệp hiện đại. Tuy nhiên, việc sử dụng và sản xuất cần đi đôi với biện pháp an toàn và quản lý chặt chẽ để bảo vệ sức khỏe con người và môi trường. Nắm rõ tính chất, phương pháp sản xuất, và ứng dụng của anhydride axetic sẽ giúp các nhà khoa học và doanh nghiệp khai thác tối đa tiềm năng của hợp chất này.</p>
-`,
-  },
+// 	<p>Anhydride axetic&nbsp;hay anhidrit axetic, là một hợp chất hóa học không thể thiếu trong nhiều ngành công nghiệp hiện đại, từ sản xuất nhựa acetate đến dược phẩm như aspirin. Với tính chất đặc biệt, khả năng phản ứng cao, và vai trò quan trọng trong tổng hợp hóa học, anhydride axetic đã trở thành nguyên liệu chủ chốt. Tuy nhiên, để khai thác hiệu quả hợp chất này, cần hiểu rõ tính chất, ứng dụng, cũng như các biện pháp bảo vệ môi trường và sức khỏe. Cùng khám phá chi tiết về hợp chất đa năng này trong bài viết dưới đây.</p>
+// <h2 id="mcetoc_1iefhdb4b0"><strong>1. Tổng quan về Anhydride Axetic</strong></h2>
+// <p>Anhydride axetic, hay còn gọi là anhidrit axetic, là một hợp chất hữu cơ có công thức hóa học là (CH<sub>3</sub>CO)<sub>2</sub>O. Đây là một loại anhydride axit phổ biến nhất và được sử dụng rộng rãi trong nhiều lĩnh vực công nghiệp và hóa học.</p>
+// <img src="${Picture36}" alt="acetic-anhydride">
+// <p><em>Cấu trúc hóa học của anhydrit acetic</em></p>
+// <p><strong>Tính chất vật lý:</strong></p>
+// <ul>
+// <li aria-level="1">Trạng thái: Chất lỏng không màu, dễ bay hơi.</li>
+// <li aria-level="1">Mùi: Mùi hắc, đặc trưng, dễ gây kích ứng.</li>
+// <li aria-level="1">Khối lượng phân tử: 102.09 g/mol.</li>
+// <li aria-level="1">Nhiệt độ sôi: Khoảng 140°C.</li>
+// <li aria-level="1">Độ tan: Hòa tan một phần trong nước và có khả năng tạo phản ứng thủy phân mạnh.</li>
+// </ul>
+// <p><strong>Tính chất hóa học:</strong></p>
+// <ul>
+// <li aria-level="1">Tác dụng với nước: Tạo thành axit axetic. (CH<sub>3</sub>CO)<sub>2</sub>O+H<sub>2</sub>O→2CH<sub>3</sub>COOH</li>
+// <li aria-level="1">Tính axit: Là một chất phản ứng mạnh với các hợp chất có chứa nhóm hydroxyl (-OH) và amin (-NH2).</li>
+// <li aria-level="1">Tính oxi hóa:&nbsp;Không tự nhiên oxy hóa, nhưng dễ dàng tham gia các phản ứng este hóa và acyl hóa.</li>
+// </ul>
+// <h2 id="mcetoc_1iefhdl3q1"><strong>2. Phương pháp sản xuất Anhydrit Axetic</strong></h2>
+// <p>Có nhiều phương pháp sản xuất anhydride axetic, trong đó các phương pháp công nghiệp phổ biến nhất bao gồm:</p>
+// <p><strong>Phương pháp từ axit axetic:</strong></p>
+// <ul>
+// <li aria-level="1">Sử dụng axit axetic trong môi trường xúc tác như trifluoroacetic acid:</li>
+// </ul>
+// <p>2CH<sub>3</sub>COOH→P<sub>2</sub>O<sub>5</sub>+(CH<sub>3</sub>CO)<sub>2</sub>O+H<sub>2</sub>O.</p>
+// <p>Phương pháp này đòi hỏi điều kiện nhiệt độ cao và chất xúc tác đặc biệt.</p>
+// <p><strong>Phương pháp từ metanol và carbon monoxide:</strong></p>
+// <ul>
+// <li aria-level="1">Sử dụng phản ứng hóa học giữa metanol, carbon monoxide và axit axetic với sự tham gia của chất xúc tác Rhodium:</li>
+// </ul>
+// <p>CH<sub>3</sub>OH+CO+CH<sub>3</sub>COOH→(CH<sub>3</sub>CO)<sub>2</sub>O+H2O</p>
+// <p>Đây là một trong các phương pháp sản xuất anhydride axetic quy mô lớn trên thế giới.</p>
+// <p><strong>Từ axetilen:</strong></p>
+// <ul>
+// <li aria-level="1">Một cách sản xuất khác liên quan đến việc oxy hóa axetilen và sau đó chuyển hóa thành anhydride axetic.</li>
+// </ul>
+// <h2 id="mcetoc_1iefhdquo2"><strong>3. Ứng dụng của Anhydride Axetic</strong></h2>
+// <p><strong>Trong công nghiệp hóa chất:</strong></p>
+// <p>Sản xuất acetate cellulose:&nbsp;Đây là nguyên liệu quan trọng trong ngành sản xuất sợi tổng hợp, phim nhựa, và các sản phẩm nhựa khác.</p>
+// <p>Sản xuất aspirin (axit acetylsalicylic):&nbsp;Anhydrit axetic được dùng trong phản ứng este hóa với axit salicylic:</p>
+// <p>C<sub>7</sub>H<sub>6</sub>O<sub>3</sub>+(CH<sub>3</sub>CO)<sub>2</sub>O→C<sub>9</sub>H<sub>8</sub>O<sub>4</sub>+CH<sub>3</sub>COOH</p>
+// <p>Phản ứng này tạo ra aspirin, một loại thuốc giảm đau phổ biến.</p>
+// <p><strong>Trong dược phẩm:</strong></p>
+// <p>Đóng vai trò quan trọng trong việc sản xuất kháng sinh, thuốc an thần, và các sản phẩm dược phẩm khác.</p>
+// <p><strong>Trong công nghiệp sơn và mực in:</strong></p>
+// <p>Sử dụng làm chất phụ gia để điều chỉnh tính chất của sơn và mực in, tăng độ bóng và khả năng bám dính.</p>
+// <img src="${Picture37}" alt="acetic-anhydride-muc-in">
+// <p><em>Ứng dụng trong sản xuất mực in</em></p>
+// <p><strong>Trong nghiên cứu hóa học:</strong></p>
+// <p>Là một chất phản ứng quan trọng trong việc tổng hợp các hợp chất phức tạp.</p>
+// <p><strong>Trong công nghiệp thực phẩm:</strong></p>
+// <p>Sử dụng gián tiếp thông qua các chất phụ gia và chất bảo quản có gốc acetate.</p>
+// <img src="${Picture38}" alt="acetic-anhydride-chat-bao-quan-thuc-pham">
+// <p><em>Ứng dụng trong bảo quản thực phẩm</em></p>
+// <h2 id="mcetoc_1iefheqqr3"><strong>4. Tác động đến môi trường và sức khỏe</strong></h2>
+// <p><strong>Ảnh hưởng sức khỏe:</strong></p>
+// <ul>
+// <li aria-level="1">Gây kích ứng mạnh khi tiếp xúc với da và mắt.</li>
+// <li aria-level="1">Hít phải hơi anhydride axetic trong thời gian dài có thể gây ảnh hưởng đến đường hô hấp.</li>
+// <li aria-level="1">Tiếp xúc liều cao có thể dẫn đến các vấn đề nghiêm trọng hơn như ho, đau đầu, hoặc kích ứng niêm mạc.</li>
+// </ul>
+// <p><strong>Ảnh hưởng môi trường:</strong></p>
+// <ul>
+// <li aria-level="1">Trong trường hợp rò rỉ, anhydrit acetic phản ứng nhanh với nước tạo axit axetic, có thể làm giảm độ pH của nguồn nước, gây hại cho hệ sinh thái.</li>
+// </ul>
+// <p><strong>Biện pháp an toàn:</strong></p>
+// <ul>
+// <li aria-level="1">Sử dụng các thiết bị bảo hộ như găng tay, kính bảo hộ và mặt nạ.</li>
+// <li aria-level="1">Làm việc trong không gian thoáng khí hoặc có hệ thống thông gió tốt.</li>
+// <li aria-level="1">Xử lý chất thải đúng cách để tránh ô nhiễm.</li>
+// </ul>
+// <h2 id="mcetoc_1iefhffjd4"><strong>5. So sánh với một số hóa chất khác</strong></h2>
+// <table>
+// <tbody>
+// <tr>
+// <td><strong>Đặc điểm</strong></td>
+// <td><strong>Anhydride Axetic</strong></td>
+// <td><strong>Axit Axetic</strong></td>
+// <td><strong>Anhydride Maleic</strong></td>
+// <td><strong>Axit Propionic</strong></td>
+// <td><strong>Dimethyl Sulfoxide (DMSO)</strong></td>
+// </tr>
+// <tr>
+// <td><strong>Công thức hóa học</strong></td>
+// <td>(CH3CO)2</td>
+// <td>CH3COOH</td>
+// <td>C4H2O3​</td>
+// <td>CH3CH2COOH</td>
+// <td>C2H6OS</td>
+// </tr>
+// <tr>
+// <td><strong>Trạng thái vật lý</strong></td>
+// <td>Chất lỏng không màu, dễ bay hơi</td>
+// <td>Chất lỏng không màu, mùi chua</td>
+// <td>Chất rắn, màu trắng hoặc không màu</td>
+// <td>Chất lỏng không màu, ít bay hơi</td>
+// <td>Chất lỏng không màu, nhớt</td>
+// </tr>
+// <tr>
+// <td><strong>Mùi</strong></td>
+// <td>Mùi hắc, kích ứng</td>
+// <td>Mùi chua đặc trưng</td>
+// <td>Mùi nhẹ, hơi chua</td>
+// <td>Mùi nhẹ, hơi ngọt</td>
+// <td>Mùi tỏi nhẹ</td>
+// </tr>
+// <tr>
+// <td><strong>Khả năng tan trong nước</strong></td>
+// <td>Hòa tan một phần, phản ứng mạnh</td>
+// <td>Tan hoàn toàn</td>
+// <td>Tan tốt</td>
+// <td>Tan tốt</td>
+// <td>Tan hoàn toàn</td>
+// </tr>
+// <tr>
+// <td><strong>Nhiệt độ sôi</strong></td>
+// <td>~140°C</td>
+// <td>118°C</td>
+// <td>202°C</td>
+// <td>141°C</td>
+// <td>189°C</td>
+// </tr>
+// <tr>
+// <td><strong>Tính chất hóa học</strong></td>
+// <td>Phản ứng mạnh với nước, tạo axit axetic</td>
+// <td>Axit yếu, phản ứng với bazơ và rượu</td>
+// <td>Phản ứng tạo axit maleic</td>
+// <td>Axit yếu, phản ứng với bazơ</td>
+// <td>Là dung môi, trơ về mặt hóa học</td>
+// </tr>
+// <tr>
+// <td><strong>Ứng dụng chính</strong></td>
+// <td>Sản xuất acetate cellulose, aspirin</td>
+// <td>Sản xuất giấm ăn, dung môi</td>
+// <td>Sản xuất polymer, chất tẩy rửa</td>
+// <td>Bảo quản thực phẩm</td>
+// <td>Dung môi trong nghiên cứu hóa học</td>
+// </tr>
+// <tr>
+// <td><strong>Tính phản ứng</strong></td>
+// <td>Acyl hóa mạnh, este hóa</td>
+// <td>Este hóa yếu hơn</td>
+// <td>Phản ứng tạo ester và axit maleic</td>
+// <td>Ít phản ứng, chủ yếu tạo muối</td>
+// <td>Không tham gia phản ứng hóa học trực tiếp</td>
+// </tr>
+// <tr>
+// <td><strong>Tác động sức khỏe</strong></td>
+// <td>Gây kích ứng mạnh, độc khi hít phải</td>
+// <td>Ít độc hơn, kích ứng nhẹ</td>
+// <td>Gây kích ứng nhẹ</td>
+// <td>Không độc ở mức độ thấp</td>
+// <td>Tương đối an toàn, có thể gây kích ứng nhẹ</td>
+// </tr>
+// <tr>
+// <td><strong>Tác động môi trường</strong></td>
+// <td>Gây hại khi rò rỉ vào nước</td>
+// <td>Ảnh hưởng pH của nước</td>
+// <td>Gây nguy
+//  cơ ô nhiễm nguồn nước</td>
+// <td>An toàn hơn</td>
+// <td>Không gây ô nhiễm lớn</td>
+// </tr>
+// </tbody>
+// </table>
+// <p>Anhydride axetic là một hợp chất quan trọng, không thể thiếu trong nhiều ngành công nghiệp hiện đại. Tuy nhiên, việc sử dụng và sản xuất cần đi đôi với biện pháp an toàn và quản lý chặt chẽ để bảo vệ sức khỏe con người và môi trường. Nắm rõ tính chất, phương pháp sản xuất, và ứng dụng của anhydride axetic sẽ giúp các nhà khoa học và doanh nghiệp khai thác tối đa tiềm năng của hợp chất này.</p>
+// `,
+//   },
   {
     key: 14,
     icon: Img14,

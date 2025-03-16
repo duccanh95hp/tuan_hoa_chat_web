@@ -27,6 +27,8 @@ const textAnimation = css({
   fontSize: "30px",
   fontWeight: 700,
   fontFamily: "sans-serif",
+  width: "700px",
+  marginLeft: "10px"
 });
 
 const spanStyle = css({

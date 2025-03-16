@@ -79,8 +79,7 @@ const Recruiment = () => {
                   <li>
                     Địa điểm làm việc:{" "}
                     <strong>
-                      Số 46 Biệt thự 1 X2 – Khu đô thị Bắc Linh Đàm – Hoàng Mai
-                      – Hà Nội
+                      Thị trấn Tiên Lãng, Huyện Tiên Lãng , thành phố Hải Phòng
                     </strong>
                   </li>
                 </ol>
@@ -262,7 +261,7 @@ const Recruiment = () => {
                       <u>Nộp hồ sơ trực tiếp</u>
                     </em>
                   </strong>
-                  <em>: </em>Văn phòng Công ty
+                  <em>: </em>Thị trấn Tiên Lãng, Huyện Tiên Lãng , thành phố Hải Phòng
                 </p>
                 <p>
                   Ø&nbsp;&nbsp;
@@ -272,8 +271,8 @@ const Recruiment = () => {
                     </em>
                   </strong>
                   :{" "}
-                  <a href="sale@Trọng Tuấn Chemical.com.vn">
-                    <strong>sale@Trọng Tuấn Chemical.com.vn </strong>
+                  <a href="hoachattrongtuan@gmail.com">
+                    <strong>hoachattrongtuan@gmail.com</strong>
                   </a>
                   (khuyến khích nộp hồ sơ qua email).
                 </p>
@@ -294,10 +293,10 @@ const Recruiment = () => {
                     </em>
                   </strong>
                   Ứng viên quan tâm có thể liên lạc số điện thoại&nbsp;
-                  <a href="tel: 0932323391">
-                    <strong>0932323391</strong>{" "}
+                  <a href="tel: 0941795869">
+                    <strong>0941795869</strong>{" "}
                   </a>
-                  – Gặp Mr. Khánh
+                  – Gặp Mr. Tuấn
                 </p>
                 <p>
                   <strong>
