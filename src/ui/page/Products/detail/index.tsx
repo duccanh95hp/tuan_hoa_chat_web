@@ -304,7 +304,7 @@ const ProductDetail = () => {
               </StyledIframeInfor>
               <StyledSupported>
                 <div className="title">Hỗ Trợ Trực Tuyến</div>
-                <div className="phone">093.2323.391</div>
+                <div className="phone">094.1795.869</div>
                 <div className="content">(Mở cả thứ bảy và chủ nhật)</div>
                 <StyledBtn>
                   MUA NGAY
@@ -376,7 +376,7 @@ const ProductDetail = () => {
           </div>
           <div className="delivery">
             Sản phẩm đang sẵn có tại Công Ty TNHH Trọng Tuấn Liên hệ ngay để
-            được tư vấn mua hàng Hotline: 093.2323.391
+            được tư vấn mua hàng Hotline: 094.1795.869
           </div>
           <StyledCollapse style={{ width: "unset" }}>
             SẢN PHẨM MỚI

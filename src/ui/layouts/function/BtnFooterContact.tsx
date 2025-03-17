@@ -217,15 +217,15 @@ const PhoneRing: React.FC<PhoneRingProps> = ({ type }) => {
   const goToCircle = () => {
     switch (type) {
       case "mess":
-        return window.open("https://www.facebook.com/canh.uc.808320", "_black");
+        return window.open("https://www.facebook.com/profile.php?id=100093705414731&mibextid=wwXIfr&rdid=TtYCpXk7szcEmn69&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F18G71XZgE2%2F%3Fmibextid%3DwwXIfr#", "_black");
       case "zalo":
         return window.open(
-          "https://id.zalo.me/account?continue=http%3A%2F%2Fzalo%2Eme%2F093%2E2323%2E391",
+          "https://zalo.me/094.1795.869",
           "_black"
         );
       case "hotline":
         return window.open(
-          "https://id.zalo.me/account?continue=http%3A%2F%2Fzalo%2Eme%2F093%2E2323%2E391",
+          "https://zalo.me/094.1795.869",
           "_black"
         );
     }

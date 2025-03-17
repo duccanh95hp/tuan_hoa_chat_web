@@ -1856,7 +1856,7 @@ export const PRODUCT_TYPE_1 = [
 <h2 id="mcetoc_1g78i0olg1">7. Báo giá bột đá vôi Calcium carbonate</h2>
 <p>TRỌNG TUẤN CHEMICAL là một trong những đơn vị cung cấp bột đá vôi Canxi cacbonat hàng đầu tại Việt Nam, chúng tôi mang đến cho thị trường những sản phẩm chất lượng với giá thành hợp lý. Bột đá vôi được TRỌNG TUẤN CHEMICAL cung cấp với quy cách 25kg/bao, xuất xứ Việt Nam và Trung Quốc ứng dụng được trong nhiều ngành sản xuất công nghiệp.</p>
 <p>Ngoài ra, chúng tôi còn cung cấp đa dạng các loại hóa chất xử lý nước, dung môi công nghiệp, hóa chất cơ bản,… đảm bảo được các nhu cầu sử dụng trong các ngành công nghiệp tại Việt Nam.</p>
-<p>Quý khách cần biết thêm thông tin về bột đá vôi Calcium carbonate hãy liên hệ ngay cho chúng tôi theo số tổng đài : <strong>093.2323.391 </strong>hoặc có thể truy cập website TRỌNG TUẤN CHEMICAL</p>
+<p>Quý khách cần biết thêm thông tin về bột đá vôi Calcium carbonate hãy liên hệ ngay cho chúng tôi theo số tổng đài : <strong>094.1795.869 </strong>hoặc có thể truy cập website TRỌNG TUẤN CHEMICAL</p>
 				</div>
 											<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--reviews panel entry-content " id="tab-reviews" role="tabpanel" aria-labelledby="tab-title-reviews">
 										<div id="reviews" class="woocommerce-Reviews row">`,

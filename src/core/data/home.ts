@@ -2,7 +2,7 @@ import ImgWaterTreatmentChemicals from "../../shared/assets/img-home/hoachatxuly
 import ImgBasicChemicals from "../../shared/assets/img-home/hoachatcoban.png";
 import ImgIndustrialChemicals from "../../shared/assets/img-home/dungmoicongnghiep.png";
 import ImgChemicalTest from "../../shared/assets/img-home/hoachatthinghiem.jpg";
-import ImgIndustrialSuppliesEquipment from "../../shared/assets/img-home/vattuthietbicongnghiep.png";
+// import ImgIndustrialSuppliesEquipment from "../../shared/assets/img-home/vattuthietbicongnghiep.png";
 import ImgLaboratoryEquipment from "../../shared/assets/img-home/thietbiphongthinghiem.png";
 import Ic1 from "../../shared/assets/icons/ic1.png";
 import Ic2 from "../../shared/assets/icons/ic2.png";
@@ -18,6 +18,16 @@ import ImgNew7 from "../../shared/assets/img-home/polystyrene-3.jpg";
 import ImgNew8 from "../../shared/assets/img-home/nhua-trong-suot.jpg";
 import ImgNew9 from "../../shared/assets/img-home/cong-nghiep-san-xuat-giay-1.jpg";
 import ImgNew10 from "../../shared/assets/img-home/hydro-peroxyt-oxi-gia-h2o2-30kg-han-quoc-4.png";
+import Partner1 from "../../shared/assets/img-home/87123912.png";
+import Partner2 from "../../shared/assets/img-home/91283123.png";
+import Partner3 from "../../shared/assets/img-home/812639102.png";
+import Partner4 from "../../shared/assets/img-home/8172631923.png";
+import Partner5 from "../../shared/assets/img-home/8712673912.png";
+import Partner6 from "../../shared/assets/img-home/17283671923.png";
+import Partner7 from "../../shared/assets/img-home/17823698123.png";
+import Partner8 from "../../shared/assets/img-home/21983719023.png";
+import Partner9 from "../../shared/assets/img-home/81273971203.png";
+
 
 export const HOME_SERVICE = [
   {
@@ -44,12 +54,12 @@ export const HOME_SERVICE = [
       "Cung cấp Vật tư & Hóa chất cho phòng thí nghiệm uy tín nhất Việt Nam",
     img: ImgChemicalTest,
   },
-  {
-    title: "Vật Tư & Thiết Bị Công Nghiệp",
-    content:
-      "Cung cấp Vật tư & thiết bị, phụ kiện công nghiệp giá tốt, đáp ứng nhu cầu thay thế cho nhà máy, …",
-    img: ImgIndustrialSuppliesEquipment,
-  },
+  // {
+  //   title: "Vật Tư & Thiết Bị Công Nghiệp",
+  //   content:
+  //     "Cung cấp Vật tư & thiết bị, phụ kiện công nghiệp giá tốt, đáp ứng nhu cầu thay thế cho nhà máy, …",
+  //   img: ImgIndustrialSuppliesEquipment,
+  // },
   {
     title: "Thiết Bị Phòng Thí Nghiệm",
     content:
@@ -148,6 +158,36 @@ export const NEWS = [
     content:
       "1. Phản ứng phân hủy là gì? Là quá trình một hợp chất hóa học bị phân tách thành hai hoặc nhiều chất đơn giản hơn. Loại phản ứng này thường yêu cầu năng lượng cung cấp từ bên ngoài, chẳng hạn như nhiệt độ, ánh sáng, hoặc dòng điện. [...]",
   },
+];
+
+export const Partner = [
+  {
+    icon: Partner1,
+  },
+  {
+    icon: Partner2,
+  },
+  {
+    icon: Partner3,
+  },
+  {
+    icon: Partner4,
+  },
+  {
+    icon: Partner5,
+  },
+  {
+    icon: Partner6,
+  },
+  {
+    icon: Partner7,
+  },
+  {
+    icon: Partner8,
+  },
+  {
+    icon: Partner9,
+  }
 ];
 
 export const DATA_DETAIL = `<div class="entry-content single-page" style="overflow: hidden">

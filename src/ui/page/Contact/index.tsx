@@ -1,6 +1,6 @@
 import { styled } from "../../../shared/styles";
 import { StyledCollapse, StyledPageWapper } from "../../layouts/styles";
-import ContactImg from "../../../shared/assets/img-contact/contactImg.png";
+// import ContactImg from "../../../shared/assets/img-contact/contactImg.png";
 import { Button, Form, Input } from "antd";
 import { useForm } from "antd/es/form/Form";
 import TextArea from "antd/es/input/TextArea";
@@ -8,8 +8,9 @@ import { useEmailService } from "../../../core/hooks/useEmailService";
 
 const StyledContactWapper = styled("div", {
   display: "flex",
-  gap: "24px",
-  flexWrap: "wrap",
+  justifyContent: "center", // Căn giữa theo chiều ngang
+  alignItems: "center", // Căn giữa theo chiều dọc
+  height: "100vh", // Để căn giữa toàn bộ màn hình
   "@media (max-width: 765px)": {
     width: "100%",
   },
@@ -21,9 +22,9 @@ const StyledContactItem = styled("div", {
     width: "100%",
   },
 });
-const StyledContactImg = styled("img", {
-  width: "100%",
-});
+// const StyledContactImg = styled("img", {
+//   width: "100%",
+// });
 
 const StyledFormWapper = styled(Form, {
   paddingTop: "24px",
@@ -75,7 +76,7 @@ const Contact = () => {
                 },
               ]}
             >
-              <Input style={{ width: "50%" }} />
+              <Input style={{  }} />
             </Form.Item>
             <Form.Item
               name={"email"}
@@ -109,9 +110,9 @@ const Contact = () => {
             <StyledBtn onClick={onSubmit}>Gửi</StyledBtn>
           </StyledFormWapper>
         </StyledContactItem>
-        <StyledContactItem>
+        {/* <StyledContactItem>
           <StyledContactImg src={ContactImg} />
-        </StyledContactItem>
+        </StyledContactItem> */}
       </StyledContactWapper>
     </StyledPageWapper>
   );

@@ -62,6 +62,8 @@ const StyledFooterBranch = styled("div", {
     flexDirection: "column",
     alignItems: "flex-start", // Căn tất cả nội dung về lề trái
     gap: "8px",
+    marginLeft: "100px",
+    fontWeight: 600,
   },
 });
 
@@ -128,7 +130,7 @@ export const Footer = () => {
           <div className="info-container">
             <div className="div">
                 <AddressIcon /> <span className="heading_tilte"> VPGD: </span>
-                Thị trấn Tiên Lãng, Huyện Tiên Lãng , thành phố Hải Phòng
+                Thị trấn Tiên Lãng, Huyện Tiên Lãng , Thành Phố Hải Phòng
                 </div>
             <div className="text-line">
                 <PhoneIcon /> <span className="heading_tilte">Hotline:</span>{" "}

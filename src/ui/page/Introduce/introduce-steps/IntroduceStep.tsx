@@ -122,9 +122,9 @@ export const IntroduceStep = () => {
             <span className="text-bold">Trọng Tuấn Chemical</span>.
           </p>
         </div>
-        <StyledRightImg>
+        {/* <StyledRightImg>
           <SliderImg imgs={INTRODUCE_IMG} />
-        </StyledRightImg>
+        </StyledRightImg> */}
       </StyledIntroduceContent>
       <StyledTitle>Sứ mệnh</StyledTitle>
       <div className="content">

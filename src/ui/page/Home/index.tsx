@@ -2,7 +2,7 @@ import { styled } from "../../../shared/styles";
 import { ProductSmailItem } from "../../layouts/function/ProductSmailItem";
 import Background from "../../../shared/assets/img-home/bannerhoachat1.png";
 import { StyledCollapse, StyledPageWapper } from "../../layouts/styles";
-import { HOME_SERVICE, NEWS, STATISTICAL } from "../../../core/data/home";
+import { HOME_SERVICE, NEWS, STATISTICAL, Partner } from "../../../core/data/home";
 import ImgIntroview from "../../../shared/assets/img-home/back_switcher-1.jpg";
 import CountUp from "../../../shared/utils/CountNumberUp";
 import SliderComponents from "../../../shared/components/Slider";
@@ -12,10 +12,14 @@ import { useEffect, useLayoutEffect } from "react";
 const StyledBackground = styled("div", {
   color: "black",
   width: "100vw",
+  overflow: "hidden", // Ngăn ảnh tràn ra ngoài
   img: {
     objectFit: "cover",
-    width: "100%",
+    maxƯidth: "100%", // Giữ ảnh không vượt quá kích thước của div
+    height: "auto", // Giữ tỷ lệ ảnh
+    display: "block", // Ngăn khoảng trắng thừa dưới ảnh
   },
+  marginLeft: "60px"
 });
 
 const StyledProductsSmall = styled("div", {
@@ -111,6 +115,28 @@ const StyledWapper = styled("div", {
     padding: "24px",
   },
 });
+const StyledWapperPartner = styled("div", {
+  display: "flex",
+  justifyContent: "space-between",
+  padding: "24px 15%",
+  gap: "12px",
+  flexWrap: "wrap",
+  background: "white",
+  "@media (max-width: 1050px)": {
+    padding: "24px",
+  },
+});
+const StyledSliderItem = styled("div", {
+  display: "flex",
+  justifyContent: "center",
+  gap: "20px", // Khoảng cách giữa các ảnh
+  padding: "10px 0", // Khoảng cách trên dưới
+  img: {
+    width: "80px", // Giảm kích thước ảnh
+    height: "80px",
+    objectFit: "contain",
+  },
+});
 
 const Home = () => {
   useEffect(() => {
@@ -204,13 +230,15 @@ const Home = () => {
         </StyledCollapse>
         <SliderComponents sliders={NEWS} />
       </StyledWapper>
-      <StyledWapper>
+      <StyledWapperPartner>
         <StyledCollapse>
           <div>ĐỐI TÁC CỦA CHÚNG TÔI</div>
           <div>Xem thêm</div>
         </StyledCollapse>
-        <SliderComponents sliders={NEWS} />
-      </StyledWapper>
+        <StyledSliderItem>
+          <SliderComponents sliders={Partner} />
+        </StyledSliderItem>
+      </StyledWapperPartner>
     </>
   );
 };
