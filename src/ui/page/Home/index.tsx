@@ -167,6 +167,7 @@ const Home = () => {
               img={res.img}
               content={res.content}
               smallImg={res.smallImg}
+              url={res.url}
             />
           ))}
         </StyledProductsSmall>

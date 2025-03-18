@@ -134,7 +134,7 @@ export const Footer = () => {
                 </div>
             <div className="text-line">
                 <PhoneIcon /> <span className="heading_tilte">Hotline:</span>{" "}
-                0941795869
+                094.1795.869
               </div>
               <div className="text-line">
                 <EmailIcon /> <span className="heading_tilte"> Email:</span>{" "}

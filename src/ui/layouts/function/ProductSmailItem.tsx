@@ -1,4 +1,5 @@
 import { styled } from "../../../shared/styles";
+import { useNavigate } from "react-router-dom";
 
 type TProductSmailItem = {
   index: number;
@@ -6,6 +7,7 @@ type TProductSmailItem = {
   img: string;
   smallImg: string;
   content: string;
+  url: string;
 };
 
 const StyledProductItem = styled("div", {
@@ -95,14 +97,19 @@ export const ProductSmailItem = ({
   img,
   content,
   smallImg,
+  url,
 }: TProductSmailItem) => {
-  const onGoToDetail = () => {};
+  const navigate = useNavigate();
+
+  const onGoToDetail = () => {
+    navigate(url);
+  };
   return (
     <StyledProductItem>
       <div style={{ padding: "7px" }}>
         <StyledImg src={img} alt={title} />
         <StyledImgTitle>{}</StyledImgTitle>
-        <div className="product_name">
+        <div onClick={onGoToDetail} className="product_name">
           <img src="" alt="" />
           {title}
           <div className="arrow-right" />

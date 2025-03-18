@@ -244,7 +244,7 @@ const PhoneRing: React.FC<PhoneRingProps> = ({ type }) => {
       </BaseRing>
       {type === "hotline" && (
         <HotlineBar>
-          <a href="tel:123456789">Call Now</a>
+          <a href="tel:094.1795.869">Call Now</a>
         </HotlineBar>
       )}
     </RingWrap>

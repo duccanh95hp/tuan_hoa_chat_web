@@ -15,6 +15,8 @@ import { INTRODUCE_LEFT_PRODUCT } from "../../../../core/data/introduce";
 import { ProductItemSmall } from "../../../../shared/components/ProductItem";
 import { PRODUCT_TYPE_4 } from "../../../../core/data/product-type4";
 import { TEXTILE_DYEING } from "../../../../core/data/product-type2";
+import { useNavigate } from "react-router-dom";
+import { PATH } from "../../../../router/path";
 
 const StyledProductDetail = styled("div", {
   display: "flex",
@@ -268,6 +270,11 @@ const ProductDetail = () => {
   const onChange = (key: string) => {
     console.log(key);
   };
+  const navigate = useNavigate();
+    const onGoToDetailProduct = (title: string) => {
+      console.log(title)
+      navigate(`${PATH.product_detail}?${encodeURIComponent(title)}`);
+    };
 
   return (
     <StyledPageWapper>
@@ -280,7 +287,7 @@ const ProductDetail = () => {
             title: "SẢN PHẨM",
           },
           {
-            title: dataDetail.title,
+            title: dataDetail.title || "",
           },
         ]}
       />
@@ -387,6 +394,7 @@ const ProductDetail = () => {
               img={product.img}
               title={product.title}
               pirce={product.pirce}
+              onClick={() => onGoToDetailProduct(product.title)}
             />
           ))}
         </StyledProductSupport>

@@ -12,6 +12,7 @@ const { styled } = createStitches({
 });
 
 const StyledProductItemSmall = styled("div", {
+  cursor: "pointer",
   display: "flex",
   borderTop: "1px dotted #979797",
   gap: "10px",
@@ -41,13 +42,14 @@ type TProductItemSmall = {
   img: string;
   title: string;
   pirce: number;
+  onClick?: () => void;
 };
 
-export const ProductItemSmall = ({ img, title, pirce }: TProductItemSmall) => {
+export const ProductItemSmall = ({ img, title, pirce, onClick }: TProductItemSmall) => {
   return (
     <StyledProductItemSmall>
       <img src={img} alt={title} />
-      <div className="content">
+      <div className="content" onClick={onClick}>
         <div>{title}</div>
         {pirce ? "" : <div className="default_pirce">Giá: Liên hệ</div>}
       </div>

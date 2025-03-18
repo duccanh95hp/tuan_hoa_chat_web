@@ -15,6 +15,8 @@ import { NEWS_DATA_PAGE } from "../../../core/data/news";
 import { useState } from "react";
 import { useRouter } from "../../../shared/hooks/useRouter";
 import { NewsDetail } from "./detail";
+import { useNavigate } from "react-router-dom";
+import { PATH } from "../../../router/path";
 
 const StyledNewsWapper = styled("div", {
   display: "flex",
@@ -76,14 +78,21 @@ const News = () => {
     (currentPage - 1) * 12,
     currentPage * 12
   );
+  const navigate = useNavigate();
 
+  const onGoToDetail = (e: any) => {
+    navigate(e.key);
+  };
+  const onGoToDetailProduct = (title: string) => {
+    console.log(title)
+    navigate(`${PATH.product_detail}?${encodeURIComponent(title)}`);
+  };
   const { search } = useRouter();
   const isDetail = decodeURIComponent(search);
   const titleDetail = isDetail.replace("?detail=", "");
   const data_src = NEWS_DATA_PAGE.find(
     (news) => news.title === titleDetail
   )?.data;
-
   return (
     <StyledPageWapper>
       <StyledNewsWapper>
@@ -97,6 +106,7 @@ const News = () => {
               defaultOpenKeys={["sub1"]}
               mode="inline"
               items={menuLeftNews?.children as ItemType<MenuItemType>[]}
+              onClick={onGoToDetail}
             />
           </StyledMenuAntdLeft>
 
@@ -108,6 +118,8 @@ const News = () => {
                 img={product.img}
                 title={product.title}
                 pirce={product.pirce}
+                onClick={() => onGoToDetailProduct(product.title)}
+                
               />
             ))}
           </div>

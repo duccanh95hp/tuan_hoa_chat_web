@@ -35,24 +35,28 @@ export const HOME_SERVICE = [
     content:
       "Cung cấp Vật tư & Hóa chất xử lý nước cấp, nước thải,… cho các đơn vị tại Việt Nam",
     img: ImgWaterTreatmentChemicals,
+    url: "/san-pham?hoa-chat-xu-ly-nuoc"
   },
   {
     title: "Hóa Chất Cơ Bản",
     content:
       "Cung cấp hóa chất cơ bản sử dụng trong tất cả các ngành nghề đời sống xã hội",
     img: ImgBasicChemicals,
+    url: "/san-pham?hoa-chat-co-ban"
   },
   {
     title: "Dung Môi Công Nghiệp",
     content:
       "Dung môi công nghiệp thiết yếu: Ethanol 96% C2H5OH, IPA 99%, Solvent 100 (C9) Hàn Quốc",
     img: ImgIndustrialChemicals,
+    url: "/san-pham?dung-moi-cong-nghiep"
   },
   {
     title: "Hóa Chất Thí Nghiệm",
     content:
       "Cung cấp Vật tư & Hóa chất cho phòng thí nghiệm uy tín nhất Việt Nam",
     img: ImgChemicalTest,
+    url: "/san-pham?hoa-chat-thi-nghiem"
   },
   // {
   //   title: "Vật Tư & Thiết Bị Công Nghiệp",
@@ -65,6 +69,7 @@ export const HOME_SERVICE = [
     content:
       "Thiết bị phòng thí nghiệm đa dạng chủng loại: kính hiển vi, nồi hấp tiệt trùng, máy quang phổ,…",
     img: ImgLaboratoryEquipment,
+    url: "/san-pham?thiet-bi-phong-thi-nghiem"
   },
 ];
 

@@ -32,7 +32,7 @@ import Img28 from "../../shared/assets/img-library/anh28.png";
 import Img29 from "../../shared/assets/img-library/anh29.jpg";
 import Img30 from "../../shared/assets/img-library/anh30.png";
 import Img31 from "../../shared/assets/img-library/anh31.jpg";
-import Img32 from "../../shared/assets/img-library/anh32.jpg";
+// import Img32 from "../../shared/assets/img-library/anh32.jpg";
 import Img33 from "../../shared/assets/img-library/anh33.jpg";
 import Img34 from "../../shared/assets/img-library/anh34.jpg";
 import Img35 from "../../shared/assets/img-library/anh35.jpg";
@@ -94,7 +94,7 @@ export const LIBRARY_SILD_IMG = [
   { key: 29, icon: Img29 },
   { key: 30, icon: Img30 },
   { key: 31, icon: Img31 },
-  { key: 32, icon: Img32 },
+  // { key: 32, icon: Img32 },
   { key: 33, icon: Img33 },
   { key: 34, icon: Img34 },
   { key: 35, icon: Img35 },
