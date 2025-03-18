@@ -1,5 +1,6 @@
 import React, { useEffect, useRef } from "react";
 import { createStitches } from "@stitches/react";
+import { useRouter } from "../../../shared/hooks/useRouter";
 
 interface SliderComponentsProps {
   sliders: { title?: string; icon: any; content?: string }[];
@@ -47,6 +48,7 @@ export const StyledSliderWrapper = styled("div", {
   "&::-webkit-scrollbar": {
     display: "none",
   },
+  cursor: "pointer"
 });
 
 export const StyledWapperItem = styled("div", {
@@ -190,6 +192,7 @@ const SliderComponents: React.FC<SliderComponentsProps> = ({
       return () => clearInterval(interval);
     }
   }, [isAuto]);
+  const { navigate } = useRouter();
 
   return (
     <StyledSliderContainer>
@@ -201,6 +204,12 @@ const SliderComponents: React.FC<SliderComponentsProps> = ({
             key={index}
             className={className}
             fiveItem={fiveItem}
+            onClick={() => {
+              navigate({
+                pathname: `/tin-tuc`,
+                search: `detail=${res.title}`,
+              });
+            }}
           >
             <img src={res.icon} alt={res.title} />
             {res.title && <p className="title">{res.title}</p>}

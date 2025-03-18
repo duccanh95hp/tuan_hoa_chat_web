@@ -96,9 +96,10 @@ export const StyledProductItem = styled("div", {
   },
 });
 
-export const ProductItem = ({ img, title, pirce }: TProductItemSmall) => {
+export const ProductItem = ({ img, title, pirce, onClick }: TProductItemSmall) => {
   return (
-    <StyledProductItem>
+    <StyledProductItem onClick={onClick} style={{ cursor: "pointer"
+    }}>
       <img src={img} alt={title} />
       <div className="content">
         <div className="title">{title}</div>

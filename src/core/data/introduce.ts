@@ -1,15 +1,17 @@
-import ImgKaliChlorua from "../../shared/assets/img-introduce/kali.jpg";
 import ImgTriChlor from "../../shared/assets/img-introduce/trichlor.jpg";
-import ImgNickelSulfate from "../../shared/assets/img-introduce/nickel_sulfate.png";
-import ImgKaolin from "../../shared/assets/img-introduce/caolanh.jpg";
 import ImgPolymeferric from "../../shared/assets/img-introduce/polyme.jpg";
 import Anh5 from "../../shared/assets/img-introduce/anh5.jpg";
-import Anh6 from "../../shared/assets/img-introduce/anh6.jpg";
 import Anh7 from "../../shared/assets/img-introduce/anh7.jpg";
 
 import Img1 from "../../shared/assets/img-product/type1/anh1.jpg";
 import Img3 from "../../shared/assets/img-product/type1/anh2.jpg";
 import Img4 from "../../shared/assets/img-product/type1/anh4.jpg";
+
+import Img33 from "../../shared/assets/img-product/type1/anh33.jpg";
+import Img34 from "../../shared/assets/img-product/type1/anh34.png";
+
+import Img41 from "../../shared/assets/img-product/type1/anh41.jpg";
+import Img25 from "../../shared/assets/img-product/type1/anh25.jpeg";
 
 
 import ImgBusinessRegistration from "../../shared/assets/img-introduce/dangkykinhdoanh.jpg";
@@ -78,10 +80,10 @@ export const INTRODUCE_IMG = [
 export const INTRODUCE_PRODUCT = [
   {
     key: 1,
-    title: "Kali Chlorua KCl – Kali Israel",
+    title: "NaOH 99%, xút vảy, Xút vảy 99%",
     path: "",
     pirce: 0,
-    img: ImgKaliChlorua,
+    img: Img41,
   },
   {
     key: 2,
@@ -93,17 +95,17 @@ export const INTRODUCE_PRODUCT = [
   },
   {
     key: 3,
-    title: "Nickel sulfate hexahydrate NiSO4.6H2O 98%, Đài Loan, 25kg/bao",
+    title: "HÓA CHẤT DIỆT VI SINH KHÔNG OXY HÓA HMV 250",
     path: "huong-dan-dat-hang",
     pirce: 0,
-    img: ImgNickelSulfate,
+    img: Img33,
   },
   {
     key: 4,
-    title: "Cao lanh (Kaolin)",
+    title: "Hydrofluoric Acid HF 55%, Trung Quốc, 25kg/can",
     path: "hinh-sach-bao-hanh",
     pirce: 0,
-    img: ImgKaolin,
+    img: Img34,
   },
   {
     key: 5,
@@ -114,10 +116,10 @@ export const INTRODUCE_PRODUCT = [
   },
   {
     key: 6,
-    title: "XANTHAN GUM (CHẤT LÀM ĐẶC)",
+    title: "Cồn công nghiệp – Methanol CH3OH, Malaysia, 163kg/phuy",
     path: "huong-dan-su-dung",
     pirce: 0,
-    img: Anh6,
+    img: Img25,
   },
   {
     key: 7,

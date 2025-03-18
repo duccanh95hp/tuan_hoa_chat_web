@@ -52,7 +52,7 @@ export const HeaderData = () => {
         >
           <StyledBtnHover
             onClick={() =>
-              window.open("https://www.facebook.com/canh.uc.808320", "_black")
+              window.open("https://www.facebook.com/profile.php?id=100093705414731&mibextid=wwXIfr&rdid=TtYCpXk7szcEmn69&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F18G71XZgE2%2F%3Fmibextid%3DwwXIfr#", "_black")
             }
           >
             <IconFaceBook />

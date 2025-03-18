@@ -8,6 +8,7 @@ import CountUp from "../../../shared/utils/CountNumberUp";
 import SliderComponents from "../../../shared/components/Slider";
 import { HeadingPage } from "../../layouts/function/HeadingPage";
 import { useEffect, useLayoutEffect } from "react";
+import { useNavigate } from "react-router-dom";
 
 const StyledBackground = styled("div", {
   color: "black",
@@ -151,6 +152,10 @@ const Home = () => {
       window.removeEventListener('scroll', handleScroll);
     };
   }, []);
+  const navigate = useNavigate();
+  const onGoToNew = () => {
+    navigate("/tin-tuc");
+  };
   return (
     <>
       <StyledBackground>
@@ -227,14 +232,15 @@ const Home = () => {
       <StyledWapper>
         <StyledCollapse>
           <div>TIN TỨC</div>
-          <div>Xem thêm</div>
+         <div style={{cursor: "pointer"}}
+         onClick={onGoToNew}>  Xem thêm</div>
         </StyledCollapse>
         <SliderComponents sliders={NEWS} />
       </StyledWapper>
       <StyledWapperPartner>
         <StyledCollapse>
           <div>ĐỐI TÁC CỦA CHÚNG TÔI</div>
-          <div>Xem thêm</div>
+          <div >Xem thêm</div>
         </StyledCollapse>
         <StyledSliderItem>
           <SliderComponents sliders={Partner} />

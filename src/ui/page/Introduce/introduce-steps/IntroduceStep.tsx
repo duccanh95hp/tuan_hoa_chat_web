@@ -1,7 +1,7 @@
 import { styled } from "../../../../shared/styles";
-import { SliderImg } from "../function/SliderImg";
+// import { SliderImg } from "../function/SliderImg";
 import {
-  INTRODUCE_IMG,
+  // INTRODUCE_IMG,
   INTRODUCE_PRODUCT,
 } from "../../../../core/data/introduce";
 import {
@@ -11,11 +11,15 @@ import {
 } from "../../../layouts/styles";
 import { ProductItem } from "../../../../shared/components/ProductItem";
 
+import { useNavigate } from "react-router-dom";
+import { PATH } from "../../../../router/path";
+
 const StyledIntroduce = styled("div", {
   ".title": {
     color: "#0A0A0A",
     fontWeight: "700",
     fontSize: "1.25em",
+    textAlign: "center"
   },
   ".text-bold": {
     fontWeight: "bold",
@@ -43,7 +47,7 @@ const StyledIntroduceContent = styled("div", {
   },
   ".content": {
     lineHeight: "24px",
-    width: "48%",
+    width: "100%",
     "@media (max-width: 1050px)": {
       width: "100%",
     },
@@ -54,16 +58,16 @@ const StyledIntroduceContent = styled("div", {
   },
 });
 
-const StyledRightImg = styled("div", {
-  width: "50%",
-  marginTop: "12px",
-  img: {
-    height: "unset !important",
-  },
-  "@media (max-width: 1050px)": {
-    width: "100%",
-  },
-});
+// const StyledRightImg = styled("div", {
+//   width: "50%",
+//   marginTop: "12px",
+//   img: {
+//     height: "unset !important",
+//   },
+//   "@media (max-width: 1050px)": {
+//     width: "100%",
+//   },
+// });
 const StyledTitle = styled("div", {
   color: "#003366",
   fontSize: "1.6em",
@@ -71,6 +75,10 @@ const StyledTitle = styled("div", {
 });
 
 export const IntroduceStep = () => {
+  const navigate = useNavigate();
+  const onGoToDetailProduct = (title: string) => {
+      navigate(`${PATH.product_detail}?${encodeURIComponent(title)}`);
+    };
   return (
     <StyledIntroduce>
       <div className="title">GIỚI THIỆU</div>
@@ -172,6 +180,7 @@ export const IntroduceStep = () => {
             img={product.img}
             title={product.title}
             pirce={product.pirce}
+            onClick={() => onGoToDetailProduct(product.title)}
           />
         ))}
       </StyledIntroduceProd>

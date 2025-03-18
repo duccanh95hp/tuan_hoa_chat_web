@@ -84,7 +84,6 @@ const News = () => {
     navigate(e.key);
   };
   const onGoToDetailProduct = (title: string) => {
-    console.log(title)
     navigate(`${PATH.product_detail}?${encodeURIComponent(title)}`);
   };
   const { search } = useRouter();
