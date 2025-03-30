@@ -20,7 +20,7 @@ const MenuStyle = styled("div", {
   gap: "10px",
   display: "flex",
   height: "70px",
-  padding: "0 15%",
+  padding: "0 10%",
   alignItems: "center",
   background: "white",
   justifyContent: "space-between",
@@ -77,7 +77,7 @@ const StyledHeaderBox = styled("div", {
 const LayoutHeader = styled("div", {
   background: "white !important",
   color: "White",
-  padding: "6px 15%",
+  padding: "6px 10%",
   display: "flex",
   justifyContent: "space-between",
   "@media (max-width: 1400px)": {

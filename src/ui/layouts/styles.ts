@@ -104,7 +104,7 @@ export const StyledBtn = styled(Button, {
 });
 
 export const MenuSidebar = styled("div", {
-  padding: "0 15%",
+  padding: "0 10%",
   display: "flex",
   justifyContent: "space-between",
   alignItems: "center",

@@ -67,7 +67,9 @@ const Introduce = () => {
     const isActive = search.replace("?", "");
     setActive(isActive);
   }, [search]);
-
+  const onGoToDetailProduct = (title: string) => {
+      navigate(`${PATH.product_detail}?${encodeURIComponent(title)}`);
+    };
   return (
     <StyledPageWapper>
       <StyledIntroduceWapper>
@@ -94,6 +96,7 @@ const Introduce = () => {
                 img={product.img}
                 title={product.title}
                 pirce={product.pirce}
+                onClick={() => onGoToDetailProduct(product.title)}
               />
             ))}
           </div>
