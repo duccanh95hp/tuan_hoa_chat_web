@@ -130,11 +130,11 @@ const StyledWapperPartner = styled("div", {
 const StyledSliderItem = styled("div", {
   display: "flex",
   justifyContent: "center",
-  gap: "20px", // Khoảng cách giữa các ảnh
+  gap: "40px", // Khoảng cách giữa các ảnh
   padding: "10px 0", // Khoảng cách trên dưới
   img: {
-    width: "80px", // Giảm kích thước ảnh
-    height: "80px",
+    width: "40px", // Giảm kích thước ảnh
+    height: "40px",
     objectFit: "contain",
   },
 });
