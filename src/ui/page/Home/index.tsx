@@ -132,11 +132,17 @@ const StyledSliderItem = styled("div", {
   justifyContent: "center",
   gap: "20px", // Khoảng cách giữa các ảnh
   padding: "10px 0", // Khoảng cách trên dưới
-  img: {
-    width: "80px", // Giảm kích thước ảnh
-    height: "80px",
+  // img: {
+  //   width: "80px", // Giảm kích thước ảnh
+  //   height: "80px",
+  //   objectFit: "contain",
+  // },
+  width: "100%",
+  "& img": {
+    maxWidth: "100% ", // Phải bọc selector bằng "& img"
+    height: "80px !important",
     objectFit: "contain",
-  },
+  }
 });
 
 const Home = () => {
