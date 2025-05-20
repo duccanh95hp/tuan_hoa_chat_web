@@ -42,7 +42,8 @@ export const HOME_SERVICE = [
     content:
       "Cung cấp hóa chất cơ bản sử dụng trong tất cả các ngành nghề đời sống xã hội",
     img: ImgBasicChemicals,
-    url: "/san-pham?hoa-chat-co-ban"
+    url: "/san-pham?hoa-chat-det-nhom"
+    // hoa-chat-co-ban
   },
   {
     title: "Dung Môi Công Nghiệp",
@@ -56,7 +57,8 @@ export const HOME_SERVICE = [
     content:
       "Cung cấp Vật tư & Hóa chất cho phòng thí nghiệm uy tín nhất Việt Nam",
     img: ImgChemicalTest,
-    url: "/san-pham?hoa-chat-thi-nghiem"
+    url: "/san-pham?chi-thi"
+    // hoa-chat-thi-nghiem
   },
   // {
   //   title: "Vật Tư & Thiết Bị Công Nghiệp",
