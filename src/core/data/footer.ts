@@ -1,5 +1,5 @@
 export const FOOTER = {
-  city: "CÔNG TY TNHH VN TRỌNG TUẤN CHEMICALS",
+  city: "CÔNG TY TNHH TRỌNG TUẤN CHEMICALS",
   city_name: "TRỌNG TUẤN CHEMICALS",
   city_business_registration_number: "0313351704",
   city_business_registration_place_of_issue: "Sở KH & ĐT TP Hồ Chí Minh",
@@ -47,5 +47,5 @@ export const FOOTER = {
       email: "manhhung@Trọng Tuấn Chemical.com.vn",
     },
   ],
-  copy_right: "Bản quyền thuộc về CÔNG TY TNHH VN TRỌNG TUẤN CHEMICALS - TRỌNG TUẤN CHEMICALS",
+  copy_right: "Bản quyền thuộc về CÔNG TY TNHH TRỌNG TUẤN CHEMICALS - TRỌNG TUẤN CHEMICALS",
 };

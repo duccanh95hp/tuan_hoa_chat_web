@@ -8,6 +8,7 @@ interface SliderComponentsProps {
   className?: any;
   fiveItem?: boolean;
   isAuto?: boolean;
+  disableClick? : boolean
 }
 
 const { styled } = createStitches({
@@ -143,6 +144,7 @@ const SliderComponents: React.FC<SliderComponentsProps> = ({
   className,
   fiveItem,
   isAuto,
+  disableClick
 }) => {
   const sliderRef = useRef<HTMLDivElement | null>(null);
 
@@ -205,6 +207,7 @@ const SliderComponents: React.FC<SliderComponentsProps> = ({
             className={className}
             fiveItem={fiveItem}
             onClick={() => {
+              if (disableClick) return;
               navigate({
                 pathname: `/tin-tuc`,
                 search: `detail=${res.title}`,

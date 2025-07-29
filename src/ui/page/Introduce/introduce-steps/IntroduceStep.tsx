@@ -79,6 +79,9 @@ export const IntroduceStep = () => {
   const onGoToDetailProduct = (title: string) => {
       navigate(`${PATH.product_detail}?${encodeURIComponent(title)}`);
     };
+    const onGoToProduct = () => {
+      navigate(`${PATH.product}`);
+    };
   return (
     <StyledIntroduce>
       <div className="title">GIỚI THIỆU</div>
@@ -87,7 +90,7 @@ export const IntroduceStep = () => {
           <p>
             &nbsp;&nbsp;
             <span className="text-bold">
-              Công ty TNHH VN – Trọng Tuấn Chemical
+              Công ty TNHH – Trọng Tuấn Chemical
             </span>{" "}
             tự hào là doanh nghiệp chuyên phân phối Hóa chất – Thiết bị từ các
             hãng nổi tiếng trên thế giới đáp ứng được nhu cầu đa dạng của khách
@@ -185,7 +188,7 @@ export const IntroduceStep = () => {
         ))}
       </StyledIntroduceProd>
       <div className="introduce_footer">
-        <StyledBtn>Xem tất cả</StyledBtn>
+        <StyledBtn onClick={() => onGoToProduct()}>Xem tất cả</StyledBtn>
       </div>
     </StyledIntroduce>
   );

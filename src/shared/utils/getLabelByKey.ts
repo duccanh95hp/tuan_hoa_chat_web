@@ -45,7 +45,13 @@ export const getProductKeyArray = (label: string): string[] => {
     // [TProductValueList.PAINT]: PAINT,
     // [TProductValueList.ELECTRONICS]: ELECTRONICS,
     // [TProductValueList.CLEANING]: CLEANING,
+    
   };
+  if (!label || !productMap[label]) {
+    return Object.values(productMap).flat(); // gộp tất cả các mảng con lại thành 1 mảng
+  }
+
+  
 
   if (productMap[label]) {
     return Array.isArray(productMap[label])

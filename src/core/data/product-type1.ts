@@ -1973,7 +1973,7 @@ export const PRODUCT_TYPE_1 = [
 <p>Hiện nay, tại TRỌNG TUẤN CHEMICAL – công ty chuyên phân phối hóa chất công nghiệp hàng đầu Việt Nam – đang bán sản phẩm <strong>Calcium nitrate – Ca(NO<sub>3</sub>)<sub>2</sub></strong><strong>&nbsp;99%</strong>, xuất xứ Trung Quốc, quy cách đóng gói 25kg/bao với mức giá vô cùng hấp dẫn. Hãy liên hệ ngay với <strong>TRỌNG TUẤN CHEMICAL&nbsp;</strong>để được báo giá tốt nhất!</p>
 <p style="text-align: center;"><em>Calcium nitrate – Ca(NO<sub>3</sub>)<sub>2</sub>&nbsp;99%, Trung Quốc, quy cách 25kg/bao</em></p>
 <h2 id="mcetoc_1d71lb4cq3"><strong>7. Gợi ý địa chỉ mua Canxi nitrat&nbsp;uy tín chất lượng tốt nhất hiện nay</strong></h2>
-<p>Công ty TNHH VN Haco (TRỌNG TUẤN CHEMICAL) chính là đáp án của câu hỏi này. Theo ý kiến rất nhiều khách hàng đã và đang sử dụng các loại sản phẩm tại đây đánh giá TRỌNG TUẤN CHEMICAL là địa chỉ tin cậy cung ứng và phân phối các loại hóa chất tinh khiết, hóa chất công nghiệp, <strong>hóa chất cơ bản</strong>&nbsp;được sản xuất tại các hãng nổi tiếng trên thế giới với chất lượng tốt nhất đảm bảo phục vụ quá trình nghiên cứu, sản xuất hiệu quả.</p>
+<p>Công ty TNHH (TRỌNG TUẤN CHEMICAL) chính là đáp án của câu hỏi này. Theo ý kiến rất nhiều khách hàng đã và đang sử dụng các loại sản phẩm tại đây đánh giá TRỌNG TUẤN CHEMICAL là địa chỉ tin cậy cung ứng và phân phối các loại hóa chất tinh khiết, hóa chất công nghiệp, <strong>hóa chất cơ bản</strong>&nbsp;được sản xuất tại các hãng nổi tiếng trên thế giới với chất lượng tốt nhất đảm bảo phục vụ quá trình nghiên cứu, sản xuất hiệu quả.</p>
 <p>TRỌNG TUẤN CHEMICAL có bán canxi nitrat với xuất xứ từ Trung Quốc, là các tinh thể màu trắng, có thể hòa tan trong amoniac và hầu như không tan trong axit nitric. Hóa chất này được đóng gói với quy cách bao 25kg dễ dàng cho quá trình sử dụng, vận chuyển và lưu kho.</p>
 <p>Đặc biệt, khi mua hàng tại TRỌNG TUẤN CHEMICAL quý khách hàng còn được ưu đãi với thủ tục mua hàng rất đơn giản, chỉ cần thực hiện các bước sau:</p>
 <ul>
@@ -5715,7 +5715,7 @@ nấm mốc,v.v trong hệ thống dầu phun nước hoặc trong các hệ th�
 </ul>
 <p>Hóa chất dạng lỏng tại VIETCHEM được lưu trữ trong phuy chứa chuyên dụng, bảo quản nơi an toàn, khô ráo</p>
 <h2 id="mcetoc_1g6a9rk38p">7. <strong>TRỌNG TUẤN CHEMICAL</strong> – Địa chỉ mua hóa chất PAC uy tín, chất lượng, giá cả hợp lý</h2>
-<p><strong>Công ty TNHH VN Haco</strong><em>&nbsp;</em>(<strong>TRỌNG TUẤN CHEMICAL</strong>)<em>&nbsp;</em>tự hào là một trong những đơn vị hàng đầu chuyên phân phối các loại hóa chất xử lý nước PAC, trong đó có&nbsp;<strong>PAC 10%</strong>. Chúng tôi tin tưởng rằng các sản phẩm của VIETCHEM sẽ làm hài lòng quý khách hàng.</p>
+<p><strong>Công ty TNHH </strong><em>&nbsp;</em>(<strong>TRỌNG TUẤN CHEMICAL</strong>)<em>&nbsp;</em>tự hào là một trong những đơn vị hàng đầu chuyên phân phối các loại hóa chất xử lý nước PAC, trong đó có&nbsp;<strong>PAC 10%</strong>. Chúng tôi tin tưởng rằng các sản phẩm của VIETCHEM sẽ làm hài lòng quý khách hàng.</p>
 <p><strong><em>Lý do nên chọn TRỌNG TUẤN CHEMICAL là đơn vị cung cấp hóa chất PAC:</em></strong></p>
 <ul>
 <li>Đa dạng các loại&nbsp;<strong>hóa chất xử lý nước</strong>&nbsp;PAC với đầy đủ chứng nhận, chứng từ, cam kết về chất lượng và nguồn gốc xuất xứ rõ ràng.</li>
@@ -5832,7 +5832,7 @@ nấm mốc,v.v trong hệ thống dầu phun nước hoặc trong các hệ th�
 <li>Khu vực bảo quản hóa chất cần tránh xa tầm tay trẻ em.</li>
 </ul>
 <figure class="sudo-media-item" data-id="6984"><em>Sử dụng các trang phục bảo hộ lao động khi làm việc với PFS</em><p></p>
-<p><strong>Công ty TNHH VN HACO – TRỌNG TUẤN CHEMICAL</strong>&nbsp;là đơn vị hàng đầu trong lĩnh vực cung ứng các loại hóa chất, thiết bị trên cả nước. Tại đây, chúng tôi luôn sẵn sàng hỗ trợ những yêu cầu của khách hàng. Nếu bạn đang có nhu cầu mua hóa chất tại Hà Nội, TP Hồ Chí Minh, hay các khu vực khác trên toàn quốc đảm bảo chất lượng, giá thành cạnh tranh hãy liên hệ với chúng tôi.</p>
+<p><strong>Công ty TNHH – TRỌNG TUẤN CHEMICAL</strong>&nbsp;là đơn vị hàng đầu trong lĩnh vực cung ứng các loại hóa chất, thiết bị trên cả nước. Tại đây, chúng tôi luôn sẵn sàng hỗ trợ những yêu cầu của khách hàng. Nếu bạn đang có nhu cầu mua hóa chất tại Hà Nội, TP Hồ Chí Minh, hay các khu vực khác trên toàn quốc đảm bảo chất lượng, giá thành cạnh tranh hãy liên hệ với chúng tôi.</p>
 </div>`,
   },
   {
@@ -6059,7 +6059,7 @@ nấm mốc,v.v trong hệ thống dầu phun nước hoặc trong các hệ th�
 </ul>
 <p><em><strong>TRỌNG TUẤN CHEMICAL</strong> bảo quản hóa chất an toàn tại kho chứa có diện tích hơn 20.000 m<sup>2</sup></em></p>
 <h2 id="mcetoc_1g6hm2rn96">6. <strong>TRỌNG TUẤN CHEMICAL</strong>– Địa chỉ mua Polymer Cation C-1492 uy tín</h2>
-<p>Là đơn vị đi đầu trong lĩnh vực phân phối các loại hóa chất,<strong> Công ty TNHH VN Haco</strong> tự hào là đối tác tin cậy của nhiều doanh nghiệp, tập đoàn lớn trong việc cung ứng hóa chất xử ý nước thải<strong>&nbsp;</strong>Polymer Cation, trong đó có hóa chất C1492.</p>
+<p>Là đơn vị đi đầu trong lĩnh vực phân phối các loại hóa chất,<strong> Công ty TNHH </strong> tự hào là đối tác tin cậy của nhiều doanh nghiệp, tập đoàn lớn trong việc cung ứng hóa chất xử ý nước thải<strong>&nbsp;</strong>Polymer Cation, trong đó có hóa chất C1492.</p>
 <p><strong><em>Khi mua hàng tại TRỌNG TUẤN CHEMICAL, quý khách sẽ nhận thấy những sự khác biệt như:</em></strong></p>
 <ul>
 <li>Chất lượng sản phẩm luôn được đảm bảo và giá thành tốt nhất trên thị trường hiện tại</li>
